@@ -1,0 +1,34 @@
+name: Daily GitHub Trending Fetcher
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 北京时间早上 8 点运行 (UTC时间 0 点)
+  workflow_dispatch: # 允许在 Actions 页面手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        
+    - name: Install dependencies
+      run: pip install requests
+      
+    - name: Fetch and Save Trending Data
+      env:
+        PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+      run: python fetch_trending.py
+      
+    - name: Commit and Push JSON back to repo
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add trending.json
+        git commit -m "chore: auto-update daily trending data" || exit 0
+        git push
