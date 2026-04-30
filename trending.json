@@ -1,82 +1,46 @@
 [
   {
-    "id": 1219042200,
-    "name": "guizang-ppt-skill",
-    "full_name": "op7418/guizang-ppt-skill",
-    "description": "A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.",
-    "stars": 3871,
-    "language": "HTML",
-    "html_url": "https://github.com/op7418/guizang-ppt-skill"
+    "id": 1223170290,
+    "name": "open-design",
+    "full_name": "nexu-io/open-design",
+    "description": "🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.",
+    "stars": 4645,
+    "language": "TypeScript",
+    "html_url": "https://github.com/nexu-io/open-design"
   },
   {
     "id": 1220744720,
     "name": "awesome-gpt-image-2",
     "full_name": "freestylefly/awesome-gpt-image-2",
     "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板，且不断更新中。",
-    "stars": 1745,
+    "stars": 2172,
     "language": null,
     "html_url": "https://github.com/freestylefly/awesome-gpt-image-2"
   },
   {
-    "id": 1223170290,
-    "name": "open-design",
-    "full_name": "nexu-io/open-design",
-    "description": "🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.",
-    "stars": 1542,
+    "id": 1222301562,
+    "name": "cookbook",
+    "full_name": "cursor/cookbook",
+    "description": null,
+    "stars": 1643,
     "language": "TypeScript",
-    "html_url": "https://github.com/nexu-io/open-design"
+    "html_url": "https://github.com/cursor/cookbook"
   },
   {
     "id": 1219712617,
     "name": "deepseek_v4_rolepaly_instruct",
     "full_name": "victorchen96/deepseek_v4_rolepaly_instruct",
     "description": "对于DeepSeek-V4角色扮演的特殊控制指令的说明",
-    "stars": 1463,
+    "stars": 1523,
     "language": null,
     "html_url": "https://github.com/victorchen96/deepseek_v4_rolepaly_instruct"
-  },
-  {
-    "id": 1219446293,
-    "name": "clawsweeper",
-    "full_name": "openclaw/clawsweeper",
-    "description": "ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.",
-    "stars": 1279,
-    "language": "JavaScript",
-    "html_url": "https://github.com/openclaw/clawsweeper"
-  },
-  {
-    "id": 1219400421,
-    "name": "agent-sprite-forge",
-    "full_name": "0x0funky/agent-sprite-forge",
-    "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
-    "stars": 1053,
-    "language": "Python",
-    "html_url": "https://github.com/0x0funky/agent-sprite-forge"
-  },
-  {
-    "id": 1218682596,
-    "name": "harmonist",
-    "full_name": "GammaLabTechnologies/harmonist",
-    "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
-    "stars": 841,
-    "language": "Python",
-    "html_url": "https://github.com/GammaLabTechnologies/harmonist"
-  },
-  {
-    "id": 1219087723,
-    "name": "future-agi",
-    "full_name": "future-agi/future-agi",
-    "description": "Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
-    "stars": 710,
-    "language": "Python",
-    "html_url": "https://github.com/future-agi/future-agi"
   },
   {
     "id": 1220000506,
     "name": "im-not-ai",
     "full_name": "epoko77-ai/im-not-ai",
     "description": "AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬",
-    "stars": 596,
+    "stars": 648,
     "language": "Python",
     "html_url": "https://github.com/epoko77-ai/im-not-ai"
   },
@@ -85,70 +49,79 @@
     "name": "stash",
     "full_name": "alash3al/stash",
     "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
-    "stars": 519,
+    "stars": 562,
     "language": "Go",
     "html_url": "https://github.com/alash3al/stash"
   },
   {
-    "id": 1219378569,
-    "name": "gpt_image_playground",
-    "full_name": "CookSleep/gpt_image_playground",
-    "description": "基于 OpenAI gpt-image-2 接口的图片生成与编辑工具",
-    "stars": 461,
+    "id": 1220026502,
+    "name": "ps5-linux-loader",
+    "full_name": "ps5-linux/ps5-linux-loader",
+    "description": "Linux payload implementing the HV exploit and a custom bootloader",
+    "stars": 542,
+    "language": "C",
+    "html_url": "https://github.com/ps5-linux/ps5-linux-loader"
+  },
+  {
+    "id": 1224571990,
+    "name": "copy-fail-CVE-2026-31431",
+    "full_name": "theori-io/copy-fail-CVE-2026-31431",
+    "description": null,
+    "stars": 464,
+    "language": "Python",
+    "html_url": "https://github.com/theori-io/copy-fail-CVE-2026-31431"
+  },
+  {
+    "id": 1223476197,
+    "name": "chromex",
+    "full_name": "GENEXIS-AI/chromex",
+    "description": "A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.",
+    "stars": 441,
     "language": "TypeScript",
-    "html_url": "https://github.com/CookSleep/gpt_image_playground"
-  },
-  {
-    "id": 1219430101,
-    "name": "FlowDriver",
-    "full_name": "NullLatency/FlowDriver",
-    "description": "Bypass restrictive networks by tunneling SOCKS5 traffic through legitimate Google Drive API requests.",
-    "stars": 430,
-    "language": "Go",
-    "html_url": "https://github.com/NullLatency/FlowDriver"
-  },
-  {
-    "id": 1218978057,
-    "name": "superlevels",
-    "full_name": "levelsio/superlevels",
-    "description": "A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!",
-    "stars": 427,
-    "language": "JavaScript",
-    "html_url": "https://github.com/levelsio/superlevels"
+    "html_url": "https://github.com/GENEXIS-AI/chromex"
   },
   {
     "id": 1221334781,
     "name": "ppt-image-first",
     "full_name": "NyxTides/ppt-image-first",
     "description": "PPT image-first skill for Codex/Claude Code/Opencode CLI",
-    "stars": 382,
+    "stars": 438,
     "language": "Python",
     "html_url": "https://github.com/NyxTides/ppt-image-first"
   },
   {
-    "id": 1219220428,
-    "name": "privacy-parser",
-    "full_name": "chiefautism/privacy-parser",
-    "description": "Reverse of OpenAI Privacy Filter: same 1.5B model, returns PII as structured spans instead of masking.",
-    "stars": 374,
-    "language": "Python",
-    "html_url": "https://github.com/chiefautism/privacy-parser"
+    "id": 1224062065,
+    "name": "monthly-bonus-stake",
+    "full_name": "bonused/monthly-bonus-stake",
+    "description": "Stake Monthly Bonus is one of the most anticipated and valuable rewards available to loyal players on Stake casino. Designed to reward consistent activity, long-term loyalty, and VIP progression, the monthly bonus acts as a powerful cashback-style reward that can significantly increase your overall returns from gameplay.",
+    "stars": 413,
+    "language": null,
+    "html_url": "https://github.com/bonused/monthly-bonus-stake"
   },
   {
-    "id": 1219493841,
-    "name": "mckinsey-pptx",
-    "full_name": "seulee26/mckinsey-pptx",
-    "description": "McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필).",
-    "stars": 337,
+    "id": 1222110548,
+    "name": "Gpt-Agreement-Payment",
+    "full_name": "DanOps-1/Gpt-Agreement-Payment",
+    "description": "ChatGPT Team 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Team subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
+    "stars": 389,
     "language": "Python",
-    "html_url": "https://github.com/seulee26/mckinsey-pptx"
+    "html_url": "https://github.com/DanOps-1/Gpt-Agreement-Payment"
+  },
+  {
+    "id": 1221364817,
+    "name": "GooseRelayVPN",
+    "full_name": "Kianmhz/GooseRelayVPN",
+    "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
+    "stars": 387,
+    "language": "Go",
+    "html_url": "https://github.com/Kianmhz/GooseRelayVPN"
   },
   {
     "id": 1222014970,
     "name": "evanflow",
     "full_name": "evanklem/evanflow",
     "description": "A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout.",
-    "stars": 337,
+    "stars": 354,
     "language": "Shell",
     "html_url": "https://github.com/evanklem/evanflow"
   },
@@ -157,26 +130,53 @@
     "name": "Unit-3",
     "full_name": "samyns/Unit-3",
     "description": "Hyprland + Quickshell + Waybar rice for Arch Linux, NieR:Automata themed",
-    "stars": 318,
+    "stars": 340,
     "language": "QML",
     "html_url": "https://github.com/samyns/Unit-3"
-  },
-  {
-    "id": 1221364817,
-    "name": "GooseRelayVPN",
-    "full_name": "Kianmhz/GooseRelayVPN",
-    "description": "Socks5 VPN that tunnels raw TCP through Google Apps Script to your VPS exit server (AES‑256‑GCM, domain‑fronted).",
-    "stars": 289,
-    "language": "Go",
-    "html_url": "https://github.com/Kianmhz/GooseRelayVPN"
   },
   {
     "id": 1221203566,
     "name": "tech-debt-skill",
     "full_name": "ksimback/tech-debt-skill",
     "description": "Claude Code skill that produces a thorough, file-cited tech debt audit of an entire codebase",
-    "stars": 283,
+    "stars": 297,
     "language": null,
     "html_url": "https://github.com/ksimback/tech-debt-skill"
+  },
+  {
+    "id": 1222975902,
+    "name": "mhr-cfw",
+    "full_name": "denuitt1/mhr-cfw",
+    "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+    "stars": 295,
+    "language": "Python",
+    "html_url": "https://github.com/denuitt1/mhr-cfw"
+  },
+  {
+    "id": 1219841349,
+    "name": "FlashQLA",
+    "full_name": "QwenLM/FlashQLA",
+    "description": "high-performance linear attention kernel library built on TileLang",
+    "stars": 295,
+    "language": "Python",
+    "html_url": "https://github.com/QwenLM/FlashQLA"
+  },
+  {
+    "id": 1221580378,
+    "name": "illustrated-explainer-spec",
+    "full_name": "vthinkxie/illustrated-explainer-spec",
+    "description": "Spec for an infinite drill-down illustrated explainer — type a topic, click anywhere on the image to generate the next page.",
+    "stars": 265,
+    "language": null,
+    "html_url": "https://github.com/vthinkxie/illustrated-explainer-spec"
+  },
+  {
+    "id": 1221914096,
+    "name": "bux",
+    "full_name": "browser-use/bux",
+    "description": "A 24/7 Claude Code agent with Browser Harness, on any box you own.",
+    "stars": 265,
+    "language": "Python",
+    "html_url": "https://github.com/browser-use/bux"
   }
 ]
