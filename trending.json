@@ -1,109 +1,118 @@
 [
   {
-    "id": 1226286910,
-    "name": "whatcable",
-    "full_name": "darrylmorley/whatcable",
-    "description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
-    "stars": 2056,
-    "language": "Swift",
-    "html_url": "https://github.com/darrylmorley/whatcable"
-  },
-  {
     "id": 1228306162,
     "name": "deepclaude",
     "full_name": "aattaran/deepclaude",
     "description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
-    "stars": 1499,
+    "stars": 1600,
     "language": "JavaScript",
     "html_url": "https://github.com/aattaran/deepclaude"
   },
   {
-    "id": 1226379024,
-    "name": "dictionary-of-ai-coding",
-    "full_name": "mattpocock/dictionary-of-ai-coding",
-    "description": "AI coding jargon, explained in plain English.",
-    "stars": 1157,
-    "language": "TypeScript",
-    "html_url": "https://github.com/mattpocock/dictionary-of-ai-coding"
-  },
-  {
-    "id": 1227136277,
-    "name": "keep-codex-fast",
-    "full_name": "vibeforge1111/keep-codex-fast",
-    "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
-    "stars": 816,
+    "id": 1230925393,
+    "name": "yao-open-prompts",
+    "full_name": "yaojingang/yao-open-prompts",
+    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+    "stars": 1164,
     "language": "Python",
-    "html_url": "https://github.com/vibeforge1111/keep-codex-fast"
+    "html_url": "https://github.com/yaojingang/yao-open-prompts"
   },
   {
     "id": 1229729956,
     "name": "cheat-on-content",
     "full_name": "XBuilderLAB/cheat-on-content",
     "description": "Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.",
-    "stars": 789,
+    "stars": 1045,
     "language": "Python",
     "html_url": "https://github.com/XBuilderLAB/cheat-on-content"
+  },
+  {
+    "id": 1231135337,
+    "name": "mirage",
+    "full_name": "strukto-ai/mirage",
+    "description": "A Unified Virtual Filesystem For AI Agents",
+    "stars": 1042,
+    "language": "TypeScript",
+    "html_url": "https://github.com/strukto-ai/mirage"
   },
   {
     "id": 1227102698,
     "name": "petdex",
     "full_name": "crafter-station/petdex",
     "description": "Public gallery of animated Codex pets",
-    "stars": 753,
+    "stars": 974,
     "language": "TypeScript",
     "html_url": "https://github.com/crafter-station/petdex"
   },
   {
-    "id": 1226387273,
-    "name": "automotive-skills-suite",
-    "full_name": "jherrodthomas/automotive-skills-suite",
-    "description": "100+ installable Claude skills covering Engineering areas such as, ISO 26262 functional safety, ISO/SAE 21434 cybersecurity, ISO 21448 SOTIF, AIAG-VDA quality (APQP/PPAP/FMEA), Automotive SPICE, and continuous improvement tools — every builder paired with a confirmation reviewer.",
-    "stars": 736,
-    "language": null,
-    "html_url": "https://github.com/jherrodthomas/automotive-skills-suite"
+    "id": 1232237440,
+    "name": "dirtyfrag",
+    "full_name": "V4bel/dirtyfrag",
+    "description": null,
+    "stars": 895,
+    "language": "C",
+    "html_url": "https://github.com/V4bel/dirtyfrag"
   },
   {
-    "id": 1226304875,
-    "name": "baguette",
-    "full_name": "tddworks/baguette",
-    "description": "Headless iOS Simulator manager/farm + host-side input injection for iOS 26 — taps, swipes, multi-finger gestures, and 60 fps streaming",
-    "stars": 693,
-    "language": "Swift",
-    "html_url": "https://github.com/tddworks/baguette"
-  },
-  {
-    "id": 1228312499,
-    "name": "how-to-train-your-gpt",
-    "full_name": "raiyanyahya/how-to-train-your-gpt",
-    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
-    "stars": 587,
-    "language": "Jupyter Notebook",
-    "html_url": "https://github.com/raiyanyahya/how-to-train-your-gpt"
+    "id": 1227136277,
+    "name": "keep-codex-fast",
+    "full_name": "vibeforge1111/keep-codex-fast",
+    "description": "A backup-first Codex skill for keeping local Codex state fast, clean, and recoverable.",
+    "stars": 877,
+    "language": "Python",
+    "html_url": "https://github.com/vibeforge1111/keep-codex-fast"
   },
   {
     "id": 1227833365,
     "name": "codex-startup-pressure-test-skill",
     "full_name": "Kappaemme-git/codex-startup-pressure-test-skill",
     "description": null,
-    "stars": 583,
+    "stars": 707,
     "language": "JavaScript",
     "html_url": "https://github.com/Kappaemme-git/codex-startup-pressure-test-skill"
   },
   {
-    "id": 1226278857,
-    "name": "RunbookHermes",
-    "full_name": "Tommy-yw/RunbookHermes",
-    "description": "Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.",
-    "stars": 530,
+    "id": 1228312499,
+    "name": "how-to-train-your-gpt",
+    "full_name": "raiyanyahya/how-to-train-your-gpt",
+    "description": "Build a modern LLM from scratch. Every line commented. Explained like we are five.",
+    "stars": 697,
+    "language": "Jupyter Notebook",
+    "html_url": "https://github.com/raiyanyahya/how-to-train-your-gpt"
+  },
+  {
+    "id": 1231148626,
+    "name": "ds4",
+    "full_name": "antirez/ds4",
+    "description": "DeepSeek 4 Flash local inference engine for Metal",
+    "stars": 691,
+    "language": "C",
+    "html_url": "https://github.com/antirez/ds4"
+  },
+  {
+    "id": 1230933500,
+    "name": "tokenspeed",
+    "full_name": "lightseekorg/tokenspeed",
+    "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+    "stars": 670,
     "language": "Python",
-    "html_url": "https://github.com/Tommy-yw/RunbookHermes"
+    "html_url": "https://github.com/lightseekorg/tokenspeed"
+  },
+  {
+    "id": 1228122765,
+    "name": "rkn-block-checker",
+    "full_name": "MayersScott/rkn-block-checker",
+    "description": "Diagnose RKN/TSPU internet blocks layer by layer (DNS, TCP, TLS, HTTP)",
+    "stars": 525,
+    "language": "Python",
+    "html_url": "https://github.com/MayersScott/rkn-block-checker"
   },
   {
     "id": 1228013205,
     "name": "robotics-skills-suite",
     "full_name": "jherrodthomas/robotics-skills-suite",
     "description": "76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.",
-    "stars": 514,
+    "stars": 512,
     "language": null,
     "html_url": "https://github.com/jherrodthomas/robotics-skills-suite"
   },
@@ -112,25 +121,16 @@
     "name": "Voidstrap",
     "full_name": "NamKhoa-07/Voidstrap",
     "description": "Voidstrap is a simple yet advanced fork of Bloxstrap, advanced customization and improvements.",
-    "stars": 483,
+    "stars": 484,
     "language": "C#",
     "html_url": "https://github.com/NamKhoa-07/Voidstrap"
-  },
-  {
-    "id": 1230925393,
-    "name": "yao-open-prompts",
-    "full_name": "yaojingang/yao-open-prompts",
-    "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-    "stars": 478,
-    "language": "Python",
-    "html_url": "https://github.com/yaojingang/yao-open-prompts"
   },
   {
     "id": 1228395065,
     "name": "FL-STUDIO-PATCHER",
     "full_name": "WeritoP/FL-STUDIO-PATCHER",
     "description": "Fl Stduio patch for lifetime works",
-    "stars": 463,
+    "stars": 466,
     "language": null,
     "html_url": "https://github.com/WeritoP/FL-STUDIO-PATCHER"
   },
@@ -139,7 +139,7 @@
     "name": "BetterNitroDiscord",
     "full_name": "WeritoP/BetterNitroDiscord",
     "description": "BetterDiscord Plugin for Nitro features. Unlock screensharing modes, use cross-server and gif emotes and much more!",
-    "stars": 463,
+    "stars": 464,
     "language": null,
     "html_url": "https://github.com/WeritoP/BetterNitroDiscord"
   },
@@ -153,20 +153,11 @@
     "html_url": "https://github.com/WeritoP/LInjector-FORKED-"
   },
   {
-    "id": 1226123343,
-    "name": "book-to-skill",
-    "full_name": "virgiliojr94/book-to-skill",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "stars": 424,
-    "language": "Python",
-    "html_url": "https://github.com/virgiliojr94/book-to-skill"
-  },
-  {
     "id": 1227764627,
     "name": "LGBT-Prompt",
     "full_name": "JustLikeCheese/LGBT-Prompt",
     "description": "利用 AI 对 LGBT 弱势群体的 \"同情偏向\" 让他执行原先会被拒绝的请求",
-    "stars": 416,
+    "stars": 424,
     "language": "HTML",
     "html_url": "https://github.com/JustLikeCheese/LGBT-Prompt"
   },
@@ -175,8 +166,17 @@
     "name": "Sprite-Pipeline",
     "full_name": "LayrKits/Sprite-Pipeline",
     "description": "2D Sprite Sheet Creation Pipeline",
-    "stars": 414,
+    "stars": 423,
     "language": "Python",
     "html_url": "https://github.com/LayrKits/Sprite-Pipeline"
+  },
+  {
+    "id": 1226966899,
+    "name": "syswatch",
+    "full_name": "matthart1983/syswatch",
+    "description": "Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.",
+    "stars": 385,
+    "language": "Rust",
+    "html_url": "https://github.com/matthart1983/syswatch"
   }
 ]
