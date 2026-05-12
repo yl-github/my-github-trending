@@ -4,7 +4,7 @@
     "name": "ds4",
     "full_name": "antirez/ds4",
     "description": "DeepSeek 4 Flash local inference engine for Metal",
-    "stars": 6415,
+    "stars": 7466,
     "language": "C",
     "html_url": "https://github.com/antirez/ds4"
   },
@@ -13,7 +13,7 @@
     "name": "dirtyfrag",
     "full_name": "V4bel/dirtyfrag",
     "description": null,
-    "stars": 4039,
+    "stars": 4208,
     "language": "C",
     "html_url": "https://github.com/V4bel/dirtyfrag"
   },
@@ -22,7 +22,7 @@
     "name": "zero-native",
     "full_name": "vercel-labs/zero-native",
     "description": "Build desktop + mobile apps with Zig and web UI",
-    "stars": 2347,
+    "stars": 2680,
     "language": "Zig",
     "html_url": "https://github.com/vercel-labs/zero-native"
   },
@@ -31,7 +31,7 @@
     "name": "mirage",
     "full_name": "strukto-ai/mirage",
     "description": "A Unified Virtual Filesystem For AI Agents",
-    "stars": 1803,
+    "stars": 1949,
     "language": "TypeScript",
     "html_url": "https://github.com/strukto-ai/mirage"
   },
@@ -40,34 +40,16 @@
     "name": "yao-open-prompts",
     "full_name": "yaojingang/yao-open-prompts",
     "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
-    "stars": 1579,
+    "stars": 1633,
     "language": "Python",
     "html_url": "https://github.com/yaojingang/yao-open-prompts"
-  },
-  {
-    "id": 1229729956,
-    "name": "cheat-on-content",
-    "full_name": "XBuilderLAB/cheat-on-content",
-    "description": "You're reading this. The skill predicted it. A workflow that turns every post into a calibrated experiment—score, blind-predict, retro, evolve. The future doesn't reward effort, it rewards those who see the pattern first. 1M followers in a month — not luck, system.",
-    "stars": 1576,
-    "language": "Shell",
-    "html_url": "https://github.com/XBuilderLAB/cheat-on-content"
-  },
-  {
-    "id": 1230933500,
-    "name": "tokenspeed",
-    "full_name": "lightseekorg/tokenspeed",
-    "description": "TokenSpeed is a speed-of-light LLM inference engine.",
-    "stars": 920,
-    "language": "Python",
-    "html_url": "https://github.com/lightseekorg/tokenspeed"
   },
   {
     "id": 1234550622,
     "name": "3DCellForge",
     "full_name": "huangserva/3DCellForge",
     "description": "AI-powered interactive 3D cell generation and exploration studio.",
-    "stars": 855,
+    "stars": 1453,
     "language": "JavaScript",
     "html_url": "https://github.com/huangserva/3DCellForge"
   },
@@ -76,25 +58,25 @@
     "name": "CodexPlusPlus",
     "full_name": "BigPizzaV3/CodexPlusPlus",
     "description": "一个CodexApp的增强工具",
-    "stars": 754,
+    "stars": 1082,
     "language": "Python",
     "html_url": "https://github.com/BigPizzaV3/CodexPlusPlus"
   },
   {
-    "id": 1229531271,
-    "name": "beautiful-html-templates",
-    "full_name": "zarazhangrui/beautiful-html-templates",
-    "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
-    "stars": 754,
-    "language": "HTML",
-    "html_url": "https://github.com/zarazhangrui/beautiful-html-templates"
+    "id": 1230933500,
+    "name": "tokenspeed",
+    "full_name": "lightseekorg/tokenspeed",
+    "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+    "stars": 945,
+    "language": "Python",
+    "html_url": "https://github.com/lightseekorg/tokenspeed"
   },
   {
     "id": 1234585846,
     "name": "DarkGPT",
     "full_name": "thakur-works/DarkGPT",
     "description": "Darkgpt mod free #chatgpt",
-    "stars": 531,
+    "stars": 532,
     "language": null,
     "html_url": "https://github.com/thakur-works/DarkGPT"
   },
@@ -108,13 +90,22 @@
     "html_url": "https://github.com/thakur-works/Velocity-Executor"
   },
   {
-    "id": 1229916708,
-    "name": "Sing-Flare-Auto",
-    "full_name": "zzzhhh1/Sing-Flare-Auto",
-    "description": "本项目提供了一个基于 Docker 容器的轻量级、高隐匿性科学上网节点部署方案。通过集成 sing-box 和 cloudflared，你可以轻松地在各类云平台（如 Koyeb、Render 等）或个人 VPS 上一键构建安全隧道。下方是详细的视频教程链接：",
-    "stars": 505,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/zzzhhh1/Sing-Flare-Auto"
+    "id": 1231273245,
+    "name": "media-downloader",
+    "full_name": "pixel-point/media-downloader",
+    "description": "Beautiful native macOS video downloader. Download and trim in one app.",
+    "stars": 517,
+    "language": "Swift",
+    "html_url": "https://github.com/pixel-point/media-downloader"
+  },
+  {
+    "id": 1235909052,
+    "name": "cs2-overlay-utility",
+    "full_name": "RadianceToadAmend/cs2-overlay-utility",
+    "description": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes.",
+    "stars": 498,
+    "language": "C++",
+    "html_url": "https://github.com/RadianceToadAmend/cs2-overlay-utility"
   },
   {
     "id": 1230393704,
@@ -126,57 +117,66 @@
     "html_url": "https://github.com/WeritoP/BetterNitroDiscord"
   },
   {
-    "id": 1230057134,
-    "name": "natural_language_autoencoders",
-    "full_name": "kitft/natural_language_autoencoders",
-    "description": null,
-    "stars": 457,
-    "language": "Python",
-    "html_url": "https://github.com/kitft/natural_language_autoencoders"
+    "id": 1233976060,
+    "name": "huashu-md-html",
+    "full_name": "alchaincyf/huashu-md-html",
+    "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+    "stars": 443,
+    "language": "CSS",
+    "html_url": "https://github.com/alchaincyf/huashu-md-html"
   },
   {
-    "id": 1229921686,
-    "name": "Mirrai",
-    "full_name": "Ch1rpy2613/Mirrai",
-    "description": null,
-    "stars": 441,
+    "id": 1230541272,
+    "name": "agent-skills-eval",
+    "full_name": "darkrishabh/agent-skills-eval",
+    "description": "A test runner for agentskills.io-style AI agent skills",
+    "stars": 430,
     "language": "TypeScript",
-    "html_url": "https://github.com/Ch1rpy2613/Mirrai"
-  },
-  {
-    "id": 1231009237,
-    "name": "CodexSaver",
-    "full_name": "fendouai/CodexSaver",
-    "description": "Make Codex cheaper without making it dumber with DeepSeek.",
-    "stars": 403,
-    "language": "Python",
-    "html_url": "https://github.com/fendouai/CodexSaver"
+    "html_url": "https://github.com/darkrishabh/agent-skills-eval"
   },
   {
     "id": 1231342524,
     "name": "LUKSbox",
     "full_name": "PentHertz/LUKSbox",
     "description": "Store sensitive files in the cloud, or on shared media without trusting the host. LUKSbox is a Rust-based encrypted-container tool with passphrase, FIDO2 (YubiKey, Titan, Nitrokey, Windows Hello), TPM 2.0, and hybrid post-quantum (ML-KEM-768 / 1024) keyslots. Mounts as a real drive on Linux, macOS, and Windows.",
-    "stars": 403,
+    "stars": 427,
     "language": "Rust",
     "html_url": "https://github.com/PentHertz/LUKSbox"
+  },
+  {
+    "id": 1231009237,
+    "name": "CodexSaver",
+    "full_name": "fendouai/CodexSaver",
+    "description": "Make Codex cheaper without making it dumber with DeepSeek.",
+    "stars": 421,
+    "language": "Python",
+    "html_url": "https://github.com/fendouai/CodexSaver"
   },
   {
     "id": 1231330338,
     "name": "notelet",
     "full_name": "mykolaharmash/notelet",
     "description": "SwiftUI component for displaying rich release notes inside an app",
-    "stars": 401,
+    "stars": 419,
     "language": "Swift",
     "html_url": "https://github.com/mykolaharmash/notelet"
   },
   {
-    "id": 1231273245,
-    "name": "media-downloader",
-    "full_name": "pixel-point/media-downloader",
-    "description": "Beautiful native macOS video downloader. Download and trim in one app.",
-    "stars": 377,
-    "language": "Swift",
-    "html_url": "https://github.com/pixel-point/media-downloader"
+    "id": 1234044955,
+    "name": "g2ray",
+    "full_name": "amircloner/g2ray",
+    "description": "Self-hosted proxy setup running inside GitHub Codespaces — for educational purposes only",
+    "stars": 392,
+    "language": "Dockerfile",
+    "html_url": "https://github.com/amircloner/g2ray"
+  },
+  {
+    "id": 1232712502,
+    "name": "files-sdk",
+    "full_name": "haydenbleasel/files-sdk",
+    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
+    "stars": 374,
+    "language": "TypeScript",
+    "html_url": "https://github.com/haydenbleasel/files-sdk"
   }
 ]
