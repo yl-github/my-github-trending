@@ -1,66 +1,93 @@
 [
   {
-    "id": 1232237440,
-    "name": "dirtyfrag",
-    "full_name": "V4bel/dirtyfrag",
-    "description": null,
-    "stars": 4337,
-    "language": "C",
-    "html_url": "https://github.com/V4bel/dirtyfrag"
-  },
-  {
     "id": 1233290067,
     "name": "zero-native",
     "full_name": "vercel-labs/zero-native",
     "description": "Build desktop + mobile apps with Zig and web UI",
-    "stars": 2984,
+    "stars": 3309,
     "language": "Zig",
     "html_url": "https://github.com/vercel-labs/zero-native"
-  },
-  {
-    "id": 1234550622,
-    "name": "3DCellForge",
-    "full_name": "huangserva/3DCellForge",
-    "description": "AI-powered interactive 3D cell generation and exploration studio.",
-    "stars": 1720,
-    "language": "JavaScript",
-    "html_url": "https://github.com/huangserva/3DCellForge"
   },
   {
     "id": 1235834494,
     "name": "OrcaSlicer-bambulab",
     "full_name": "FULU-Foundation/OrcaSlicer-bambulab",
     "description": null,
-    "stars": 1336,
+    "stars": 3000,
     "language": "C++",
     "html_url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab"
   },
   {
-    "id": 1232712502,
-    "name": "files-sdk",
-    "full_name": "haydenbleasel/files-sdk",
-    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
-    "stars": 571,
-    "language": "TypeScript",
-    "html_url": "https://github.com/haydenbleasel/files-sdk"
+    "id": 1234550622,
+    "name": "3DCellForge",
+    "full_name": "huangserva/3DCellForge",
+    "description": "AI-powered interactive 3D cell generation and exploration studio.",
+    "stars": 1824,
+    "language": "JavaScript",
+    "html_url": "https://github.com/huangserva/3DCellForge"
+  },
+  {
+    "id": 1236824669,
+    "name": "YellowKey",
+    "full_name": "Nightmare-Eclipse/YellowKey",
+    "description": "YellowKey Bitlocker Bypass Vulnerability",
+    "stars": 1037,
+    "language": null,
+    "html_url": "https://github.com/Nightmare-Eclipse/YellowKey"
   },
   {
     "id": 1236577034,
     "name": "Gopay_plus_automatic",
     "full_name": "ywnd1144/Gopay_plus_automatic",
     "description": null,
-    "stars": 564,
+    "stars": 730,
     "language": "Python",
     "html_url": "https://github.com/ywnd1144/Gopay_plus_automatic"
+  },
+  {
+    "id": 1235122687,
+    "name": "Clawdmeter",
+    "full_name": "HermannBjorgvin/Clawdmeter",
+    "description": "ESP32 desk dashboard that shows Claude Code usage",
+    "stars": 694,
+    "language": "C",
+    "html_url": "https://github.com/HermannBjorgvin/Clawdmeter"
+  },
+  {
+    "id": 1232712502,
+    "name": "files-sdk",
+    "full_name": "haydenbleasel/files-sdk",
+    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
+    "stars": 646,
+    "language": "TypeScript",
+    "html_url": "https://github.com/haydenbleasel/files-sdk"
+  },
+  {
+    "id": 1234746825,
+    "name": "Pixal3D",
+    "full_name": "TencentARC/Pixal3D",
+    "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
+    "stars": 538,
+    "language": "Python",
+    "html_url": "https://github.com/TencentARC/Pixal3D"
   },
   {
     "id": 1234585846,
     "name": "DarkGPT",
     "full_name": "thakur-works/DarkGPT",
     "description": "Darkgpt mod free #chatgpt",
-    "stars": 533,
+    "stars": 534,
     "language": null,
     "html_url": "https://github.com/thakur-works/DarkGPT"
+  },
+  {
+    "id": 1236674722,
+    "name": "cs2-external-overlay",
+    "full_name": "patchfighterway90/cs2-external-overlay",
+    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
+    "stars": 533,
+    "language": "Python",
+    "html_url": "https://github.com/patchfighterway90/cs2-external-overlay"
   },
   {
     "id": 1234572130,
@@ -72,111 +99,84 @@
     "html_url": "https://github.com/thakur-works/Velocity-Executor"
   },
   {
-    "id": 1236971840,
-    "name": "Fortnite-Cheats-2026",
-    "full_name": "RadianceToadAmend/Fortnite-Cheats-2026",
-    "description": "⭐️ Fortnite Cheats 2026 | Aimbot ESP WH | Triggerbot NoRecoil Glow | Skin Changer | AntiAFK Auto Farm Heal | Mod Menu Loader Injector | Full Version Latest Build Pro | PC Epic Windows 10/11 ⭐️",
-    "stars": 521,
-    "language": null,
-    "html_url": "https://github.com/RadianceToadAmend/Fortnite-Cheats-2026"
-  },
-  {
-    "id": 1236621048,
-    "name": "ARC-Raiders-External-Tool",
-    "full_name": "RadianceToadAmend/ARC-Raiders-External-Tool",
-    "description": "External overlay tool for ARC Raiders. UE5 memory reader, entity , radar, performance monitor. D3D11 render, no injection. For offline training purposes only.",
-    "stars": 521,
-    "language": "C++",
-    "html_url": "https://github.com/RadianceToadAmend/ARC-Raiders-External-Tool"
-  },
-  {
-    "id": 1236674722,
-    "name": "cs2-external-overlay",
-    "full_name": "patchfighterway90/cs2-external-overlay",
-    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
-    "stars": 519,
-    "language": "Python",
-    "html_url": "https://github.com/patchfighterway90/cs2-external-overlay"
-  },
-  {
-    "id": 1235909052,
-    "name": "cs2-overlay-utility",
-    "full_name": "RadianceToadAmend/cs2-overlay-utility",
-    "description": "CS2 external overlay tool — memory reader, entity ESP, and visual aids. D3D11 render, no injection. For educational purposes.",
-    "stars": 499,
-    "language": "C++",
-    "html_url": "https://github.com/RadianceToadAmend/cs2-overlay-utility"
-  },
-  {
     "id": 1233976060,
     "name": "huashu-md-html",
     "full_name": "alchaincyf/huashu-md-html",
     "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
-    "stars": 487,
+    "stars": 517,
     "language": "CSS",
     "html_url": "https://github.com/alchaincyf/huashu-md-html"
-  },
-  {
-    "id": 1234044955,
-    "name": "g2ray",
-    "full_name": "amircloner/g2ray",
-    "description": "Self-hosted proxy setup running inside GitHub Codespaces — for educational purposes only",
-    "stars": 460,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/amircloner/g2ray"
   },
   {
     "id": 1234545421,
     "name": "cell-architecture-studio",
     "full_name": "cclank/cell-architecture-studio",
     "description": "Interactive 3D cell architecture gallery built with React and Three.js",
-    "stars": 441,
+    "stars": 511,
     "language": "TypeScript",
     "html_url": "https://github.com/cclank/cell-architecture-studio"
   },
   {
-    "id": 1232897321,
-    "name": "stackprism",
-    "full_name": "setube/stackprism",
-    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。",
-    "stars": 421,
-    "language": "TypeScript",
-    "html_url": "https://github.com/setube/stackprism"
+    "id": 1234044955,
+    "name": "g2ray",
+    "full_name": "amircloner/g2ray",
+    "description": "Self-hosted proxy setup running inside GitHub Codespaces — for educational purposes only",
+    "stars": 505,
+    "language": "Dockerfile",
+    "html_url": "https://github.com/amircloner/g2ray"
+  },
+  {
+    "id": 1235056479,
+    "name": "a-stock-data",
+    "full_name": "simonlin1212/a-stock-data",
+    "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
+    "stars": 496,
+    "language": null,
+    "html_url": "https://github.com/simonlin1212/a-stock-data"
   },
   {
     "id": 1233301160,
     "name": "delta-exec",
     "full_name": "AvenueSleuth/delta-exec",
     "description": "Delta Exec scripting utility",
-    "stars": 406,
+    "stars": 480,
     "language": "Python",
     "html_url": "https://github.com/AvenueSleuth/delta-exec"
   },
   {
-    "id": 1233543984,
-    "name": "hermes-desktop-os1",
-    "full_name": "nickvasilescu/hermes-desktop-os1",
-    "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
-    "stars": 392,
-    "language": "Swift",
-    "html_url": "https://github.com/nickvasilescu/hermes-desktop-os1"
+    "id": 1232897321,
+    "name": "stackprism",
+    "full_name": "setube/stackprism",
+    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。",
+    "stars": 462,
+    "language": "TypeScript",
+    "html_url": "https://github.com/setube/stackprism"
+  },
+  {
+    "id": 1236375183,
+    "name": "skills",
+    "full_name": "chrisbanes/skills",
+    "description": "Skills for Kotlin, Jetpack Compose, and Android development",
+    "stars": 449,
+    "language": null,
+    "html_url": "https://github.com/chrisbanes/skills"
   },
   {
     "id": 1234266468,
     "name": "printer-offline-fix",
     "full_name": "Rhythmplocutter/printer-offline-fix",
     "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows",
-    "stars": 365,
+    "stars": 437,
     "language": "PowerShell",
     "html_url": "https://github.com/Rhythmplocutter/printer-offline-fix"
   },
   {
-    "id": 1234380117,
-    "name": "WhiteDNS",
-    "full_name": "iampedii/WhiteDNS",
-    "description": "Source-available Android DNS tunneling client with VPN and proxy modes, backed by MasterDNS & StormDNS.",
-    "stars": 362,
-    "language": "Kotlin",
-    "html_url": "https://github.com/iampedii/WhiteDNS"
+    "id": 1233537154,
+    "name": "Goblin-Agent",
+    "full_name": "ChristianJR19/Goblin-Agent",
+    "description": null,
+    "stars": 428,
+    "language": "Python",
+    "html_url": "https://github.com/ChristianJR19/Goblin-Agent"
   }
 ]
