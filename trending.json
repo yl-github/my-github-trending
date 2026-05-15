@@ -1,19 +1,10 @@
 [
   {
-    "id": 1233290067,
-    "name": "zero-native",
-    "full_name": "vercel-labs/zero-native",
-    "description": "Build desktop + mobile apps with Zig and web UI",
-    "stars": 3309,
-    "language": "Zig",
-    "html_url": "https://github.com/vercel-labs/zero-native"
-  },
-  {
     "id": 1235834494,
     "name": "OrcaSlicer-bambulab",
     "full_name": "FULU-Foundation/OrcaSlicer-bambulab",
     "description": null,
-    "stars": 3000,
+    "stars": 4120,
     "language": "C++",
     "html_url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab"
   },
@@ -21,8 +12,8 @@
     "id": 1234550622,
     "name": "3DCellForge",
     "full_name": "huangserva/3DCellForge",
-    "description": "AI-powered interactive 3D cell generation and exploration studio.",
-    "stars": 1824,
+    "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
+    "stars": 2019,
     "language": "JavaScript",
     "html_url": "https://github.com/huangserva/3DCellForge"
   },
@@ -31,52 +22,79 @@
     "name": "YellowKey",
     "full_name": "Nightmare-Eclipse/YellowKey",
     "description": "YellowKey Bitlocker Bypass Vulnerability",
-    "stars": 1037,
+    "stars": 1782,
     "language": null,
     "html_url": "https://github.com/Nightmare-Eclipse/YellowKey"
   },
   {
-    "id": 1236577034,
-    "name": "Gopay_plus_automatic",
-    "full_name": "ywnd1144/Gopay_plus_automatic",
-    "description": null,
-    "stars": 730,
-    "language": "Python",
-    "html_url": "https://github.com/ywnd1144/Gopay_plus_automatic"
+    "id": 1235403234,
+    "name": "html-anything",
+    "full_name": "nexu-io/html-anything",
+    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
+    "stars": 1162,
+    "language": "HTML",
+    "html_url": "https://github.com/nexu-io/html-anything"
   },
   {
     "id": 1235122687,
     "name": "Clawdmeter",
     "full_name": "HermannBjorgvin/Clawdmeter",
     "description": "ESP32 desk dashboard that shows Claude Code usage",
-    "stars": 694,
+    "stars": 893,
     "language": "C",
     "html_url": "https://github.com/HermannBjorgvin/Clawdmeter"
   },
   {
-    "id": 1232712502,
-    "name": "files-sdk",
-    "full_name": "haydenbleasel/files-sdk",
-    "description": "A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.",
-    "stars": 646,
-    "language": "TypeScript",
-    "html_url": "https://github.com/haydenbleasel/files-sdk"
+    "id": 1236577034,
+    "name": "Gopay_plus_automatic",
+    "full_name": "ywnd1144/Gopay_plus_automatic",
+    "description": null,
+    "stars": 796,
+    "language": "Python",
+    "html_url": "https://github.com/ywnd1144/Gopay_plus_automatic"
+  },
+  {
+    "id": 1235056479,
+    "name": "a-stock-data",
+    "full_name": "simonlin1212/a-stock-data",
+    "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
+    "stars": 730,
+    "language": null,
+    "html_url": "https://github.com/simonlin1212/a-stock-data"
   },
   {
     "id": 1234746825,
     "name": "Pixal3D",
     "full_name": "TencentARC/Pixal3D",
     "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-    "stars": 538,
+    "stars": 647,
     "language": "Python",
     "html_url": "https://github.com/TencentARC/Pixal3D"
+  },
+  {
+    "id": 1234545421,
+    "name": "cell-architecture-studio",
+    "full_name": "cclank/cell-architecture-studio",
+    "description": "Interactive 3D cell architecture gallery built with React and Three.js",
+    "stars": 571,
+    "language": "TypeScript",
+    "html_url": "https://github.com/cclank/cell-architecture-studio"
+  },
+  {
+    "id": 1239119721,
+    "name": "native-feel-skill",
+    "full_name": "yetone/native-feel-skill",
+    "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
+    "stars": 536,
+    "language": null,
+    "html_url": "https://github.com/yetone/native-feel-skill"
   },
   {
     "id": 1234585846,
     "name": "DarkGPT",
     "full_name": "thakur-works/DarkGPT",
     "description": "Darkgpt mod free #chatgpt",
-    "stars": 534,
+    "stars": 535,
     "language": null,
     "html_url": "https://github.com/thakur-works/DarkGPT"
   },
@@ -85,98 +103,80 @@
     "name": "cs2-external-overlay",
     "full_name": "patchfighterway90/cs2-external-overlay",
     "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
-    "stars": 533,
+    "stars": 535,
     "language": "Python",
     "html_url": "https://github.com/patchfighterway90/cs2-external-overlay"
-  },
-  {
-    "id": 1234572130,
-    "name": "Velocity-Executor",
-    "full_name": "thakur-works/Velocity-Executor",
-    "description": "This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification.",
-    "stars": 528,
-    "language": null,
-    "html_url": "https://github.com/thakur-works/Velocity-Executor"
-  },
-  {
-    "id": 1233976060,
-    "name": "huashu-md-html",
-    "full_name": "alchaincyf/huashu-md-html",
-    "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
-    "stars": 517,
-    "language": "CSS",
-    "html_url": "https://github.com/alchaincyf/huashu-md-html"
-  },
-  {
-    "id": 1234545421,
-    "name": "cell-architecture-studio",
-    "full_name": "cclank/cell-architecture-studio",
-    "description": "Interactive 3D cell architecture gallery built with React and Three.js",
-    "stars": 511,
-    "language": "TypeScript",
-    "html_url": "https://github.com/cclank/cell-architecture-studio"
   },
   {
     "id": 1234044955,
     "name": "g2ray",
     "full_name": "amircloner/g2ray",
     "description": "Self-hosted proxy setup running inside GitHub Codespaces — for educational purposes only",
-    "stars": 505,
+    "stars": 534,
     "language": "Dockerfile",
     "html_url": "https://github.com/amircloner/g2ray"
   },
   {
-    "id": 1235056479,
-    "name": "a-stock-data",
-    "full_name": "simonlin1212/a-stock-data",
-    "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
-    "stars": 496,
+    "id": 1233976060,
+    "name": "huashu-md-html",
+    "full_name": "alchaincyf/huashu-md-html",
+    "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+    "stars": 534,
+    "language": "CSS",
+    "html_url": "https://github.com/alchaincyf/huashu-md-html"
+  },
+  {
+    "id": 1234572130,
+    "name": "Velocity-Executor",
+    "full_name": "thakur-works/Velocity-Executor",
+    "description": "This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification.",
+    "stars": 529,
     "language": null,
-    "html_url": "https://github.com/simonlin1212/a-stock-data"
-  },
-  {
-    "id": 1233301160,
-    "name": "delta-exec",
-    "full_name": "AvenueSleuth/delta-exec",
-    "description": "Delta Exec scripting utility",
-    "stars": 480,
-    "language": "Python",
-    "html_url": "https://github.com/AvenueSleuth/delta-exec"
-  },
-  {
-    "id": 1232897321,
-    "name": "stackprism",
-    "full_name": "setube/stackprism",
-    "description": "StackPrism是一款用于检测网页技术栈的浏览器插件。",
-    "stars": 462,
-    "language": "TypeScript",
-    "html_url": "https://github.com/setube/stackprism"
+    "html_url": "https://github.com/thakur-works/Velocity-Executor"
   },
   {
     "id": 1236375183,
     "name": "skills",
     "full_name": "chrisbanes/skills",
     "description": "Skills for Kotlin, Jetpack Compose, and Android development",
-    "stars": 449,
+    "stars": 524,
     "language": null,
     "html_url": "https://github.com/chrisbanes/skills"
   },
   {
-    "id": 1234266468,
-    "name": "printer-offline-fix",
-    "full_name": "Rhythmplocutter/printer-offline-fix",
-    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows",
-    "stars": 437,
-    "language": "PowerShell",
-    "html_url": "https://github.com/Rhythmplocutter/printer-offline-fix"
+    "id": 1239210415,
+    "name": "Roblox-Hub-2026",
+    "full_name": "trong776/Roblox-Hub-2026",
+    "description": "Developer utilities for Roblox game testing — Lua tools for exploring game mechanics and performance. MIT License.",
+    "stars": 520,
+    "language": null,
+    "html_url": "https://github.com/trong776/Roblox-Hub-2026"
   },
   {
-    "id": 1233537154,
-    "name": "Goblin-Agent",
-    "full_name": "ChristianJR19/Goblin-Agent",
+    "id": 1235672138,
+    "name": "ELF",
+    "full_name": "lillian039/ELF",
     "description": null,
-    "stars": 428,
+    "stars": 519,
     "language": "Python",
-    "html_url": "https://github.com/ChristianJR19/Goblin-Agent"
+    "html_url": "https://github.com/lillian039/ELF"
+  },
+  {
+    "id": 1238829177,
+    "name": "gta-5-mod-menu",
+    "full_name": "S4rdenz/gta-5-mod-menu",
+    "description": "🚀 Dominate GTA V servers with this free, reliable FiveM mod menu featuring ESP, aimbot, and more, designed for Steam and Epic Games versions.",
+    "stars": 516,
+    "language": null,
+    "html_url": "https://github.com/S4rdenz/gta-5-mod-menu"
+  },
+  {
+    "id": 1234968036,
+    "name": "tiny-world-builder",
+    "full_name": "jasonkneen/tiny-world-builder",
+    "description": "tiny-world-builder",
+    "stars": 489,
+    "language": "HTML",
+    "html_url": "https://github.com/jasonkneen/tiny-world-builder"
   }
 ]
