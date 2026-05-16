@@ -4,70 +4,79 @@
     "name": "OrcaSlicer-bambulab",
     "full_name": "FULU-Foundation/OrcaSlicer-bambulab",
     "description": null,
-    "stars": 4120,
+    "stars": 4683,
     "language": "C++",
     "html_url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab"
-  },
-  {
-    "id": 1234550622,
-    "name": "3DCellForge",
-    "full_name": "huangserva/3DCellForge",
-    "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
-    "stars": 2019,
-    "language": "JavaScript",
-    "html_url": "https://github.com/huangserva/3DCellForge"
   },
   {
     "id": 1236824669,
     "name": "YellowKey",
     "full_name": "Nightmare-Eclipse/YellowKey",
     "description": "YellowKey Bitlocker Bypass Vulnerability",
-    "stars": 1782,
+    "stars": 2467,
     "language": null,
     "html_url": "https://github.com/Nightmare-Eclipse/YellowKey"
+  },
+  {
+    "id": 1234550622,
+    "name": "3DCellForge",
+    "full_name": "huangserva/3DCellForge",
+    "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
+    "stars": 2061,
+    "language": "JavaScript",
+    "html_url": "https://github.com/huangserva/3DCellForge"
   },
   {
     "id": 1235403234,
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-    "stars": 1162,
+    "stars": 2027,
     "language": "HTML",
     "html_url": "https://github.com/nexu-io/html-anything"
+  },
+  {
+    "id": 1239119721,
+    "name": "native-feel-skill",
+    "full_name": "yetone/native-feel-skill",
+    "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
+    "stars": 1080,
+    "language": null,
+    "html_url": "https://github.com/yetone/native-feel-skill"
   },
   {
     "id": 1235122687,
     "name": "Clawdmeter",
     "full_name": "HermannBjorgvin/Clawdmeter",
     "description": "ESP32 desk dashboard that shows Claude Code usage",
-    "stars": 893,
+    "stars": 1011,
     "language": "C",
     "html_url": "https://github.com/HermannBjorgvin/Clawdmeter"
-  },
-  {
-    "id": 1236577034,
-    "name": "Gopay_plus_automatic",
-    "full_name": "ywnd1144/Gopay_plus_automatic",
-    "description": null,
-    "stars": 796,
-    "language": "Python",
-    "html_url": "https://github.com/ywnd1144/Gopay_plus_automatic"
   },
   {
     "id": 1235056479,
     "name": "a-stock-data",
     "full_name": "simonlin1212/a-stock-data",
     "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
-    "stars": 730,
+    "stars": 891,
     "language": null,
     "html_url": "https://github.com/simonlin1212/a-stock-data"
+  },
+  {
+    "id": 1236577034,
+    "name": "Gopay_plus_automatic",
+    "full_name": "ywnd1144/Gopay_plus_automatic",
+    "description": null,
+    "stars": 876,
+    "language": "Python",
+    "html_url": "https://github.com/ywnd1144/Gopay_plus_automatic"
   },
   {
     "id": 1234746825,
     "name": "Pixal3D",
     "full_name": "TencentARC/Pixal3D",
     "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-    "stars": 647,
+    "stars": 736,
     "language": "Python",
     "html_url": "https://github.com/TencentARC/Pixal3D"
   },
@@ -76,18 +85,45 @@
     "name": "cell-architecture-studio",
     "full_name": "cclank/cell-architecture-studio",
     "description": "Interactive 3D cell architecture gallery built with React and Three.js",
-    "stars": 571,
+    "stars": 611,
     "language": "TypeScript",
     "html_url": "https://github.com/cclank/cell-architecture-studio"
   },
   {
-    "id": 1239119721,
-    "name": "native-feel-skill",
-    "full_name": "yetone/native-feel-skill",
-    "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
-    "stars": 536,
+    "id": 1237138183,
+    "name": "Nginx-Rift",
+    "full_name": "DepthFirstDisclosures/Nginx-Rift",
+    "description": "exploit for CVE-2026-42945",
+    "stars": 610,
+    "language": "Python",
+    "html_url": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
+  },
+  {
+    "id": 1235672138,
+    "name": "ELF",
+    "full_name": "lillian039/ELF",
+    "description": null,
+    "stars": 558,
+    "language": "Python",
+    "html_url": "https://github.com/lillian039/ELF"
+  },
+  {
+    "id": 1236375183,
+    "name": "skills",
+    "full_name": "chrisbanes/skills",
+    "description": "Skills for Kotlin, Jetpack Compose, and Android development",
+    "stars": 552,
     "language": null,
-    "html_url": "https://github.com/yetone/native-feel-skill"
+    "html_url": "https://github.com/chrisbanes/skills"
+  },
+  {
+    "id": 1234968036,
+    "name": "tiny-world-builder",
+    "full_name": "jasonkneen/tiny-world-builder",
+    "description": "tiny-world-builder",
+    "stars": 541,
+    "language": "HTML",
+    "html_url": "https://github.com/jasonkneen/tiny-world-builder"
   },
   {
     "id": 1234585846,
@@ -108,24 +144,6 @@
     "html_url": "https://github.com/patchfighterway90/cs2-external-overlay"
   },
   {
-    "id": 1234044955,
-    "name": "g2ray",
-    "full_name": "amircloner/g2ray",
-    "description": "Self-hosted proxy setup running inside GitHub Codespaces — for educational purposes only",
-    "stars": 534,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/amircloner/g2ray"
-  },
-  {
-    "id": 1233976060,
-    "name": "huashu-md-html",
-    "full_name": "alchaincyf/huashu-md-html",
-    "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
-    "stars": 534,
-    "language": "CSS",
-    "html_url": "https://github.com/alchaincyf/huashu-md-html"
-  },
-  {
     "id": 1234572130,
     "name": "Velocity-Executor",
     "full_name": "thakur-works/Velocity-Executor",
@@ -135,48 +153,30 @@
     "html_url": "https://github.com/thakur-works/Velocity-Executor"
   },
   {
-    "id": 1236375183,
-    "name": "skills",
-    "full_name": "chrisbanes/skills",
-    "description": "Skills for Kotlin, Jetpack Compose, and Android development",
-    "stars": 524,
-    "language": null,
-    "html_url": "https://github.com/chrisbanes/skills"
-  },
-  {
     "id": 1239210415,
     "name": "Roblox-Hub-2026",
     "full_name": "trong776/Roblox-Hub-2026",
     "description": "Developer utilities for Roblox game testing — Lua tools for exploring game mechanics and performance. MIT License.",
-    "stars": 520,
+    "stars": 523,
     "language": null,
     "html_url": "https://github.com/trong776/Roblox-Hub-2026"
-  },
-  {
-    "id": 1235672138,
-    "name": "ELF",
-    "full_name": "lillian039/ELF",
-    "description": null,
-    "stars": 519,
-    "language": "Python",
-    "html_url": "https://github.com/lillian039/ELF"
   },
   {
     "id": 1238829177,
     "name": "gta-5-mod-menu",
     "full_name": "S4rdenz/gta-5-mod-menu",
     "description": "🚀 Dominate GTA V servers with this free, reliable FiveM mod menu featuring ESP, aimbot, and more, designed for Steam and Epic Games versions.",
-    "stars": 516,
+    "stars": 517,
     "language": null,
     "html_url": "https://github.com/S4rdenz/gta-5-mod-menu"
   },
   {
-    "id": 1234968036,
-    "name": "tiny-world-builder",
-    "full_name": "jasonkneen/tiny-world-builder",
-    "description": "tiny-world-builder",
-    "stars": 489,
-    "language": "HTML",
-    "html_url": "https://github.com/jasonkneen/tiny-world-builder"
+    "id": 1234266468,
+    "name": "printer-offline-fix",
+    "full_name": "Rhythmplocutter/printer-offline-fix",
+    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows",
+    "stars": 512,
+    "language": "PowerShell",
+    "html_url": "https://github.com/Rhythmplocutter/printer-offline-fix"
   }
 ]
