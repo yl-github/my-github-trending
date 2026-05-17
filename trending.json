@@ -4,7 +4,7 @@
     "name": "OrcaSlicer-bambulab",
     "full_name": "FULU-Foundation/OrcaSlicer-bambulab",
     "description": null,
-    "stars": 4683,
+    "stars": 5389,
     "language": "C++",
     "html_url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab"
   },
@@ -13,25 +13,16 @@
     "name": "YellowKey",
     "full_name": "Nightmare-Eclipse/YellowKey",
     "description": "YellowKey Bitlocker Bypass Vulnerability",
-    "stars": 2467,
+    "stars": 2882,
     "language": null,
     "html_url": "https://github.com/Nightmare-Eclipse/YellowKey"
-  },
-  {
-    "id": 1234550622,
-    "name": "3DCellForge",
-    "full_name": "huangserva/3DCellForge",
-    "description": "AI-powered interactive 3D model generation, inspection, and presentation studio.",
-    "stars": 2061,
-    "language": "JavaScript",
-    "html_url": "https://github.com/huangserva/3DCellForge"
   },
   {
     "id": 1235403234,
     "name": "html-anything",
     "full_name": "nexu-io/html-anything",
     "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-    "stars": 2027,
+    "stars": 2495,
     "language": "HTML",
     "html_url": "https://github.com/nexu-io/html-anything"
   },
@@ -40,16 +31,25 @@
     "name": "native-feel-skill",
     "full_name": "yetone/native-feel-skill",
     "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
-    "stars": 1080,
+    "stars": 1236,
     "language": null,
     "html_url": "https://github.com/yetone/native-feel-skill"
+  },
+  {
+    "id": 1239996076,
+    "name": "zero",
+    "full_name": "vercel-labs/zero",
+    "description": "The programming language for agents",
+    "stars": 1088,
+    "language": "C",
+    "html_url": "https://github.com/vercel-labs/zero"
   },
   {
     "id": 1235122687,
     "name": "Clawdmeter",
     "full_name": "HermannBjorgvin/Clawdmeter",
     "description": "ESP32 desk dashboard that shows Claude Code usage",
-    "stars": 1011,
+    "stars": 1087,
     "language": "C",
     "html_url": "https://github.com/HermannBjorgvin/Clawdmeter"
   },
@@ -58,7 +58,7 @@
     "name": "a-stock-data",
     "full_name": "simonlin1212/a-stock-data",
     "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
-    "stars": 891,
+    "stars": 1005,
     "language": null,
     "html_url": "https://github.com/simonlin1212/a-stock-data"
   },
@@ -67,43 +67,34 @@
     "name": "Gopay_plus_automatic",
     "full_name": "ywnd1144/Gopay_plus_automatic",
     "description": null,
-    "stars": 876,
+    "stars": 903,
     "language": "Python",
     "html_url": "https://github.com/ywnd1144/Gopay_plus_automatic"
-  },
-  {
-    "id": 1234746825,
-    "name": "Pixal3D",
-    "full_name": "TencentARC/Pixal3D",
-    "description": "[SIGGRAPH 2026] Pixal3D: Pixel-Aligned 3D Generation from Images",
-    "stars": 736,
-    "language": "Python",
-    "html_url": "https://github.com/TencentARC/Pixal3D"
-  },
-  {
-    "id": 1234545421,
-    "name": "cell-architecture-studio",
-    "full_name": "cclank/cell-architecture-studio",
-    "description": "Interactive 3D cell architecture gallery built with React and Three.js",
-    "stars": 611,
-    "language": "TypeScript",
-    "html_url": "https://github.com/cclank/cell-architecture-studio"
   },
   {
     "id": 1237138183,
     "name": "Nginx-Rift",
     "full_name": "DepthFirstDisclosures/Nginx-Rift",
     "description": "exploit for CVE-2026-42945",
-    "stars": 610,
+    "stars": 647,
     "language": "Python",
     "html_url": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
+  },
+  {
+    "id": 1240191065,
+    "name": "agents-best-practices",
+    "full_name": "DenisSergeevitch/agents-best-practices",
+    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
+    "stars": 585,
+    "language": null,
+    "html_url": "https://github.com/DenisSergeevitch/agents-best-practices"
   },
   {
     "id": 1235672138,
     "name": "ELF",
     "full_name": "lillian039/ELF",
     "description": null,
-    "stars": 558,
+    "stars": 576,
     "language": "Python",
     "html_url": "https://github.com/lillian039/ELF"
   },
@@ -112,52 +103,34 @@
     "name": "skills",
     "full_name": "chrisbanes/skills",
     "description": "Skills for Kotlin, Jetpack Compose, and Android development",
-    "stars": 552,
+    "stars": 575,
     "language": null,
     "html_url": "https://github.com/chrisbanes/skills"
   },
   {
-    "id": 1234968036,
-    "name": "tiny-world-builder",
-    "full_name": "jasonkneen/tiny-world-builder",
-    "description": "tiny-world-builder",
-    "stars": 541,
-    "language": "HTML",
-    "html_url": "https://github.com/jasonkneen/tiny-world-builder"
-  },
-  {
-    "id": 1234585846,
-    "name": "DarkGPT",
-    "full_name": "thakur-works/DarkGPT",
-    "description": "Darkgpt mod free #chatgpt",
-    "stars": 535,
-    "language": null,
-    "html_url": "https://github.com/thakur-works/DarkGPT"
+    "id": 1236825833,
+    "name": "GreenPlasma",
+    "full_name": "Nightmare-Eclipse/GreenPlasma",
+    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability",
+    "stars": 536,
+    "language": "C++",
+    "html_url": "https://github.com/Nightmare-Eclipse/GreenPlasma"
   },
   {
     "id": 1236674722,
     "name": "cs2-external-overlay",
     "full_name": "patchfighterway90/cs2-external-overlay",
     "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
-    "stars": 535,
+    "stars": 534,
     "language": "Python",
     "html_url": "https://github.com/patchfighterway90/cs2-external-overlay"
-  },
-  {
-    "id": 1234572130,
-    "name": "Velocity-Executor",
-    "full_name": "thakur-works/Velocity-Executor",
-    "description": "This repository contains Velocity Executor — a free Roblox script executor for PC built for fast injection, stable performance, and easy access. Includes Level 8 execution in 2026 with no ads, no key checkpoints, and no extra verification.",
-    "stars": 529,
-    "language": null,
-    "html_url": "https://github.com/thakur-works/Velocity-Executor"
   },
   {
     "id": 1239210415,
     "name": "Roblox-Hub-2026",
     "full_name": "trong776/Roblox-Hub-2026",
     "description": "Developer utilities for Roblox game testing — Lua tools for exploring game mechanics and performance. MIT License.",
-    "stars": 523,
+    "stars": 522,
     "language": null,
     "html_url": "https://github.com/trong776/Roblox-Hub-2026"
   },
@@ -166,17 +139,44 @@
     "name": "gta-5-mod-menu",
     "full_name": "S4rdenz/gta-5-mod-menu",
     "description": "🚀 Dominate GTA V servers with this free, reliable FiveM mod menu featuring ESP, aimbot, and more, designed for Steam and Epic Games versions.",
-    "stars": 517,
+    "stars": 516,
     "language": null,
     "html_url": "https://github.com/S4rdenz/gta-5-mod-menu"
   },
   {
-    "id": 1234266468,
-    "name": "printer-offline-fix",
-    "full_name": "Rhythmplocutter/printer-offline-fix",
-    "description": "printer offline fix || printer offline || printer offline driver || printer offline fix windows",
-    "stars": 512,
-    "language": "PowerShell",
-    "html_url": "https://github.com/Rhythmplocutter/printer-offline-fix"
+    "id": 1236640013,
+    "name": "KMSAutoTool",
+    "full_name": "ltyzen/KMSAutoTool",
+    "description": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool.",
+    "stars": 509,
+    "language": "C++",
+    "html_url": "https://github.com/ltyzen/KMSAutoTool"
+  },
+  {
+    "id": 1235175101,
+    "name": "gpt-promo-scanner",
+    "full_name": "JUk1-GH/gpt-promo-scanner",
+    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
+    "stars": 503,
+    "language": "Python",
+    "html_url": "https://github.com/JUk1-GH/gpt-promo-scanner"
+  },
+  {
+    "id": 1239965927,
+    "name": "gta-5-mod-menu",
+    "full_name": "trong776/gta-5-mod-menu",
+    "description": "External game enhancement for GTA V single-player. ImGui overlay, no injection, minimal FPS impact. Windows x64, C++17.",
+    "stars": 497,
+    "language": null,
+    "html_url": "https://github.com/trong776/gta-5-mod-menu"
+  },
+  {
+    "id": 1236773505,
+    "name": "DeepSeek-V4-Pro-App",
+    "full_name": "yaassin12/DeepSeek-V4-Pro-App",
+    "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
+    "stars": 496,
+    "language": "C++",
+    "html_url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App"
   }
 ]
