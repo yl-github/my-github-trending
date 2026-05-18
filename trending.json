@@ -1,182 +1,182 @@
 [
   {
-    "id": 1235834494,
-    "name": "OrcaSlicer-bambulab",
-    "full_name": "FULU-Foundation/OrcaSlicer-bambulab",
-    "description": null,
-    "stars": 5389,
-    "language": "C++",
-    "html_url": "https://github.com/FULU-Foundation/OrcaSlicer-bambulab"
-  },
-  {
     "id": 1236824669,
     "name": "YellowKey",
     "full_name": "Nightmare-Eclipse/YellowKey",
     "description": "YellowKey Bitlocker Bypass Vulnerability",
-    "stars": 2882,
+    "stars": 3180,
     "language": null,
     "html_url": "https://github.com/Nightmare-Eclipse/YellowKey"
-  },
-  {
-    "id": 1235403234,
-    "name": "html-anything",
-    "full_name": "nexu-io/html-anything",
-    "description": "✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.",
-    "stars": 2495,
-    "language": "HTML",
-    "html_url": "https://github.com/nexu-io/html-anything"
-  },
-  {
-    "id": 1239119721,
-    "name": "native-feel-skill",
-    "full_name": "yetone/native-feel-skill",
-    "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
-    "stars": 1236,
-    "language": null,
-    "html_url": "https://github.com/yetone/native-feel-skill"
   },
   {
     "id": 1239996076,
     "name": "zero",
     "full_name": "vercel-labs/zero",
     "description": "The programming language for agents",
-    "stars": 1088,
+    "stars": 1755,
     "language": "C",
     "html_url": "https://github.com/vercel-labs/zero"
   },
   {
-    "id": 1235122687,
-    "name": "Clawdmeter",
-    "full_name": "HermannBjorgvin/Clawdmeter",
-    "description": "ESP32 desk dashboard that shows Claude Code usage",
-    "stars": 1087,
-    "language": "C",
-    "html_url": "https://github.com/HermannBjorgvin/Clawdmeter"
-  },
-  {
-    "id": 1235056479,
-    "name": "a-stock-data",
-    "full_name": "simonlin1212/a-stock-data",
-    "description": "A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data",
-    "stars": 1005,
+    "id": 1239119721,
+    "name": "native-feel-skill",
+    "full_name": "yetone/native-feel-skill",
+    "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
+    "stars": 1283,
     "language": null,
-    "html_url": "https://github.com/simonlin1212/a-stock-data"
+    "html_url": "https://github.com/yetone/native-feel-skill"
   },
   {
     "id": 1236577034,
     "name": "Gopay_plus_automatic",
     "full_name": "ywnd1144/Gopay_plus_automatic",
     "description": null,
-    "stars": 903,
+    "stars": 922,
     "language": "Python",
     "html_url": "https://github.com/ywnd1144/Gopay_plus_automatic"
-  },
-  {
-    "id": 1237138183,
-    "name": "Nginx-Rift",
-    "full_name": "DepthFirstDisclosures/Nginx-Rift",
-    "description": "exploit for CVE-2026-42945",
-    "stars": 647,
-    "language": "Python",
-    "html_url": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
   },
   {
     "id": 1240191065,
     "name": "agents-best-practices",
     "full_name": "DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "stars": 585,
+    "stars": 726,
     "language": null,
     "html_url": "https://github.com/DenisSergeevitch/agents-best-practices"
   },
   {
-    "id": 1235672138,
-    "name": "ELF",
-    "full_name": "lillian039/ELF",
-    "description": null,
-    "stars": 576,
+    "id": 1238391754,
+    "name": "vggt-omega",
+    "full_name": "facebookresearch/vggt-omega",
+    "description": "[CVPR 2026 Oral] VGGT Omega",
+    "stars": 717,
     "language": "Python",
-    "html_url": "https://github.com/lillian039/ELF"
+    "html_url": "https://github.com/facebookresearch/vggt-omega"
   },
   {
-    "id": 1236375183,
-    "name": "skills",
-    "full_name": "chrisbanes/skills",
-    "description": "Skills for Kotlin, Jetpack Compose, and Android development",
-    "stars": 575,
-    "language": null,
-    "html_url": "https://github.com/chrisbanes/skills"
-  },
-  {
-    "id": 1236825833,
-    "name": "GreenPlasma",
-    "full_name": "Nightmare-Eclipse/GreenPlasma",
-    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability",
-    "stars": 536,
-    "language": "C++",
-    "html_url": "https://github.com/Nightmare-Eclipse/GreenPlasma"
-  },
-  {
-    "id": 1236674722,
-    "name": "cs2-external-overlay",
-    "full_name": "patchfighterway90/cs2-external-overlay",
-    "description": "The cs2 external helper tool is a software utility designed for gamers and developers. It provides a set of features to enhance the gaming experience, including a customizable overlay. The tool is particularly useful for users who want to access additional information during gameplay.",
-    "stars": 534,
+    "id": 1237138183,
+    "name": "Nginx-Rift",
+    "full_name": "DepthFirstDisclosures/Nginx-Rift",
+    "description": "exploit for CVE-2026-42945",
+    "stars": 680,
     "language": "Python",
-    "html_url": "https://github.com/patchfighterway90/cs2-external-overlay"
+    "html_url": "https://github.com/DepthFirstDisclosures/Nginx-Rift"
   },
   {
-    "id": 1239210415,
-    "name": "Roblox-Hub-2026",
-    "full_name": "trong776/Roblox-Hub-2026",
-    "description": "Developer utilities for Roblox game testing — Lua tools for exploring game mechanics and performance. MIT License.",
-    "stars": 522,
-    "language": null,
-    "html_url": "https://github.com/trong776/Roblox-Hub-2026"
-  },
-  {
-    "id": 1238829177,
-    "name": "gta-5-mod-menu",
-    "full_name": "S4rdenz/gta-5-mod-menu",
-    "description": "🚀 Dominate GTA V servers with this free, reliable FiveM mod menu featuring ESP, aimbot, and more, designed for Steam and Epic Games versions.",
-    "stars": 516,
-    "language": null,
-    "html_url": "https://github.com/S4rdenz/gta-5-mod-menu"
-  },
-  {
-    "id": 1236640013,
-    "name": "KMSAutoTool",
-    "full_name": "ltyzen/KMSAutoTool",
-    "description": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool.",
-    "stars": 509,
-    "language": "C++",
-    "html_url": "https://github.com/ltyzen/KMSAutoTool"
-  },
-  {
-    "id": 1235175101,
-    "name": "gpt-promo-scanner",
-    "full_name": "JUk1-GH/gpt-promo-scanner",
-    "description": "ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off",
-    "stars": 503,
+    "id": 1239825019,
+    "name": "codex-complexity-optimizer",
+    "full_name": "Kappaemme-git/codex-complexity-optimizer",
+    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
+    "stars": 649,
     "language": "Python",
-    "html_url": "https://github.com/JUk1-GH/gpt-promo-scanner"
-  },
-  {
-    "id": 1239965927,
-    "name": "gta-5-mod-menu",
-    "full_name": "trong776/gta-5-mod-menu",
-    "description": "External game enhancement for GTA V single-player. ImGui overlay, no injection, minimal FPS impact. Windows x64, C++17.",
-    "stars": 497,
-    "language": null,
-    "html_url": "https://github.com/trong776/gta-5-mod-menu"
+    "html_url": "https://github.com/Kappaemme-git/codex-complexity-optimizer"
   },
   {
     "id": 1236773505,
     "name": "DeepSeek-V4-Pro-App",
     "full_name": "yaassin12/DeepSeek-V4-Pro-App",
     "description": "DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.",
-    "stars": 496,
+    "stars": 611,
     "language": "C++",
     "html_url": "https://github.com/yaassin12/DeepSeek-V4-Pro-App"
+  },
+  {
+    "id": 1236375183,
+    "name": "skills",
+    "full_name": "chrisbanes/skills",
+    "description": "Skills for Kotlin, Jetpack Compose, and Android development",
+    "stars": 607,
+    "language": null,
+    "html_url": "https://github.com/chrisbanes/skills"
+  },
+  {
+    "id": 1236692074,
+    "name": "LSFG-Desktop",
+    "full_name": "sunyouzhi2003/LSFG-Desktop",
+    "description": "Lossless Scaling 2026: Universal Frame Generation LSFG 3. Multi-frame gen: X2, X3, X4 multiplier for extreme FPS. AI Upscaling: LS1, FSR 3.1, NIS. Smooth gaming on Steam Deck, handhelds, and Android (LSFG-VK). Fix stuttering, low latency mode, VRR support, 4K spatial scaling, G-Sync compatible.",
+    "stars": 607,
+    "language": "C++",
+    "html_url": "https://github.com/sunyouzhi2003/LSFG-Desktop"
+  },
+  {
+    "id": 1236755539,
+    "name": "Wallpaper-Engine-Live-wallpaper-engine",
+    "full_name": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+    "description": "Wallpaper Engine Steam: Live wallpaper engine. Features: 3D interactive scenes, audio visualizer, clock widgets. Android sync, mobile companion, playlist scheduler. Performance optimization, low CPU usage, LED hardware lighting, Razer Chroma, Corsair iCUE, Steam Workshop integration, SceneScript.",
+    "stars": 604,
+    "language": "C++",
+    "html_url": "https://github.com/PHjont/Wallpaper-Engine-Live-wallpaper-engine"
+  },
+  {
+    "id": 1236713346,
+    "name": "TomodachiPC",
+    "full_name": "mark9-droid/TomodachiPC",
+    "description": "Tomodachi Life Living The Dream PC: Ultimate Mii manager and life simulator. Virtual island community, custom apartment editor, food preferences database, gift system. Mii personality maker, character interaction logs, voice synthesizer, QR code gallery, daily events tracker, dream collection, island news.",
+    "stars": 601,
+    "language": "C++",
+    "html_url": "https://github.com/mark9-droid/TomodachiPC"
+  },
+  {
+    "id": 1238424658,
+    "name": "mykonos-island-voxels",
+    "full_name": "boona13/mykonos-island-voxels",
+    "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
+    "stars": 578,
+    "language": "JavaScript",
+    "html_url": "https://github.com/boona13/mykonos-island-voxels"
+  },
+  {
+    "id": 1236825833,
+    "name": "GreenPlasma",
+    "full_name": "Nightmare-Eclipse/GreenPlasma",
+    "description": "GreenPlasma Windows CTFMON Arbitrary Section Creation Elevation of Privileges Vulnerability",
+    "stars": 567,
+    "language": "C++",
+    "html_url": "https://github.com/Nightmare-Eclipse/GreenPlasma"
+  },
+  {
+    "id": 1237004640,
+    "name": "zerostack",
+    "full_name": "gi-dellav/zerostack",
+    "description": "Minimalistic coding agent written in Rust, optimized for memory footprint and performance",
+    "stars": 564,
+    "language": "Rust",
+    "html_url": "https://github.com/gi-dellav/zerostack"
+  },
+  {
+    "id": 1237942714,
+    "name": "Delta-exec",
+    "full_name": "snoozinjs/Delta-exec",
+    "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs.",
+    "stars": 563,
+    "language": "C++",
+    "html_url": "https://github.com/snoozinjs/Delta-exec"
+  },
+  {
+    "id": 1238904811,
+    "name": "Subnautica-2-Release",
+    "full_name": "Juwluuu/Subnautica-2-Release",
+    "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes",
+    "stars": 558,
+    "language": "C++",
+    "html_url": "https://github.com/Juwluuu/Subnautica-2-Release"
+  },
+  {
+    "id": 1238930970,
+    "name": "VoidStrap-For-Roblox",
+    "full_name": "DARKHOLEUM/VoidStrap-For-Roblox",
+    "description": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization.",
+    "stars": 554,
+    "language": "C#",
+    "html_url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox"
+  },
+  {
+    "id": 1236640013,
+    "name": "KMSAutoTool",
+    "full_name": "ltyzen/KMSAutoTool",
+    "description": "System license utility Windows product key manager Office license assistant Volume Licensing tool HWID management system deployment utility desktop OS setup enterprise license emulator digital license helper software repository installer package system verification tool.",
+    "stars": 550,
+    "language": "C++",
+    "html_url": "https://github.com/ltyzen/KMSAutoTool"
   }
 ]
