@@ -1,19 +1,19 @@
 [
   {
     "id": 1239996076,
-    "name": "zero",
-    "full_name": "vercel-labs/zero",
+    "name": "zerolang",
+    "full_name": "vercel-labs/zerolang",
     "description": "The programming language for agents",
-    "stars": 2334,
+    "stars": 3356,
     "language": "C",
-    "html_url": "https://github.com/vercel-labs/zero"
+    "html_url": "https://github.com/vercel-labs/zerolang"
   },
   {
     "id": 1239119721,
     "name": "native-feel-skill",
     "full_name": "yetone/native-feel-skill",
     "description": "An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.",
-    "stars": 1315,
+    "stars": 1336,
     "language": null,
     "html_url": "https://github.com/yetone/native-feel-skill"
   },
@@ -22,7 +22,7 @@
     "name": "vggt-omega",
     "full_name": "facebookresearch/vggt-omega",
     "description": "[CVPR 2026 Oral] VGGT Omega",
-    "stars": 1011,
+    "stars": 1234,
     "language": "Python",
     "html_url": "https://github.com/facebookresearch/vggt-omega"
   },
@@ -31,34 +31,52 @@
     "name": "agents-best-practices",
     "full_name": "DenisSergeevitch/agents-best-practices",
     "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "stars": 818,
+    "stars": 856,
     "language": null,
     "html_url": "https://github.com/DenisSergeevitch/agents-best-practices"
-  },
-  {
-    "id": 1242604332,
-    "name": "Lossless-Scaling-Desktop-2026",
-    "full_name": "DuskMosquito/Lossless-Scaling-Desktop-2026",
-    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️",
-    "stars": 776,
-    "language": "C",
-    "html_url": "https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026"
   },
   {
     "id": 1239825019,
     "name": "codex-complexity-optimizer",
     "full_name": "Kappaemme-git/codex-complexity-optimizer",
     "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
-    "stars": 754,
+    "stars": 788,
     "language": "Python",
     "html_url": "https://github.com/Kappaemme-git/codex-complexity-optimizer"
+  },
+  {
+    "id": 1242604332,
+    "name": "Lossless-Scaling-Desktop-2026",
+    "full_name": "DuskMosquito/Lossless-Scaling-Desktop-2026",
+    "description": "⭐️ Lossless Scaling Desktop 2026 | Setup Installer v1.0 | Patch Activator Keygen | License Key Pre-Activated | Full Version Latest Build Pro | Optimize Resolution Scaling | Enhance Performance Graphics | Get Desktop App Windows 10/11 PC | Direct Genuine Original x64 | Download Install Loader Mod ⭐️",
+    "stars": 778,
+    "language": "C",
+    "html_url": "https://github.com/DuskMosquito/Lossless-Scaling-Desktop-2026"
+  },
+  {
+    "id": 1242107382,
+    "name": "smallcode",
+    "full_name": "Doorman11991/smallcode",
+    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
+    "stars": 733,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Doorman11991/smallcode"
+  },
+  {
+    "id": 1240832044,
+    "name": "Jenny-Mod-All-Versions",
+    "full_name": "cdanielc293/Jenny-Mod-All-Versions",
+    "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable.",
+    "stars": 674,
+    "language": "C#",
+    "html_url": "https://github.com/cdanielc293/Jenny-Mod-All-Versions"
   },
   {
     "id": 1238424658,
     "name": "mykonos-island-voxels",
     "full_name": "boona13/mykonos-island-voxels",
     "description": "A browser-based isometric island builder with the soft, sun-bleached look of Mykonos. Vanilla ES modules, no bundler, mobile-friendly.",
-    "stars": 642,
+    "stars": 663,
     "language": "JavaScript",
     "html_url": "https://github.com/boona13/mykonos-island-voxels"
   },
@@ -67,7 +85,7 @@
     "name": "Subnautica-2-Release",
     "full_name": "Juwluuu/Subnautica-2-Release",
     "description": "Subnautica 2: Early Access release, Have Multiplayer 4-player co-op multiplayer, Planet Zazura exploration, DNA BioMod system, Tadpole modular submersible, new Leviathans list, CICADA crash site lore. Xbox Game Pass, Steam preload, base building blueprints, ocean currents, crafting recipes",
-    "stars": 621,
+    "stars": 644,
     "language": "C++",
     "html_url": "https://github.com/Juwluuu/Subnautica-2-Release"
   },
@@ -76,52 +94,43 @@
     "name": "VoidStrap-For-Roblox",
     "full_name": "DARKHOLEUM/VoidStrap-For-Roblox",
     "description": "VoidStrap: Roblox bootstrapper, launcher utility. FFlag Editor, FastFlags, FPS Unlocker, memory trimmer, CPU watcher. UI customization, Aero theme, AniWatch layout, Nvidia Profile Inspector, .NET 10. Font sharpening, skybox changer, Join-Game Notify, AppSettings JSON, client optimization.",
-    "stars": 614,
+    "stars": 639,
     "language": "C#",
     "html_url": "https://github.com/DARKHOLEUM/VoidStrap-For-Roblox"
-  },
-  {
-    "id": 1237942714,
-    "name": "Delta-exec",
-    "full_name": "snoozinjs/Delta-exec",
-    "description": "Delta exec Roblox PC mobile game assistant Autofarm, automatic questing, item collector, world teleports, chest tracker. Supported modes: Blox Fruits, Pet Simulator 99, Anime Defenders, MM2, Sol’s RNG. Speed simulator, high jump, flight mode, infinite resources, mobile optimization, cloud configs.",
-    "stars": 599,
-    "language": "C++",
-    "html_url": "https://github.com/snoozinjs/Delta-exec"
-  },
-  {
-    "id": 1240841977,
-    "name": "Umbrella-HWID-Tool",
-    "full_name": "zigabratun/Umbrella-HWID-Tool",
-    "description": "Umbrella Spoofer: HWID changer, hardware identifier modification, disk serial number spoofing, MAC address changer. Kernel-level driver, SMBIOS UUID update, registry cleanup, motherboard serials. Anti-cheat integrity, EAC validation, BattlEye status, hardware ban removal, permanent spoofing.",
-    "stars": 592,
-    "language": "TypeScript",
-    "html_url": "https://github.com/zigabratun/Umbrella-HWID-Tool"
-  },
-  {
-    "id": 1240832044,
-    "name": "Jenny-Mod-All-Versions",
-    "full_name": "cdanielc293/Jenny-Mod-All-Versions",
-    "description": "Jenny Mod: Minecraft 1.12.2 Java download, Bedrock addon, Pocket Edition PE mcpack, Android APK. SchnuriTV original, Ellie companion, Slime Girl. Forge loader setup, Fabric port, custom animations, interactive skins. Installation guide, dependency files, .jar download, crash fix, portable.",
-    "stars": 592,
-    "language": "C#",
-    "html_url": "https://github.com/cdanielc293/Jenny-Mod-All-Versions"
   },
   {
     "id": 1239240779,
     "name": "ssh-keysign-pwn",
     "full_name": "0xdeadbeefnetwork/ssh-keysign-pwn",
     "description": "Steal SSH host private keys and /etc/shadow via the ptrace_may_access mm-NULL bypass + pidfd_getfd. Pre-31e62c2ebbfd kernels.",
-    "stars": 591,
+    "stars": 623,
     "language": "C",
     "html_url": "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn"
+  },
+  {
+    "id": 1239163715,
+    "name": "MiniPlasma",
+    "full_name": "Nightmare-Eclipse/MiniPlasma",
+    "description": "CVE-2020-17103 was apparently not patched or the patch was reversed, regardless this the PoC for an LPE in cldflt.sys",
+    "stars": 586,
+    "language": "C#",
+    "html_url": "https://github.com/Nightmare-Eclipse/MiniPlasma"
+  },
+  {
+    "id": 1239751972,
+    "name": "LockDown-Browser-Bypass-Tool",
+    "full_name": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
+    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions.",
+    "stars": 582,
+    "language": "C#",
+    "html_url": "https://github.com/CometBisonCrack/LockDown-Browser-Bypass-Tool"
   },
   {
     "id": 1238952654,
     "name": "OPAutoClicker",
     "full_name": "jiaoyanming0-bot/OPAutoClicker",
     "description": "OP Auto Clicker: Fast click interval, milliseconds, seconds. Left, right, middle button. keyboard auto clicker Single, double, triple click. Repeat until stopped, fixed count. Current location, pick coordinates. Hotkey trigger, start stop shortcut. Record playback, macro, Roblox AFK, Minecraft, mouse emulator, portable. ",
-    "stars": 558,
+    "stars": 582,
     "language": "C#",
     "html_url": "https://github.com/jiaoyanming0-bot/OPAutoClicker"
   },
@@ -130,53 +139,44 @@
     "name": "clawpatch",
     "full_name": "openclaw/clawpatch",
     "description": "Review code. Patch bugs. Land PRs.",
-    "stars": 544,
+    "stars": 577,
     "language": "TypeScript",
     "html_url": "https://github.com/openclaw/clawpatch"
   },
   {
-    "id": 1242107382,
-    "name": "smallcode",
-    "full_name": "Doorman11991/smallcode",
-    "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-    "stars": 538,
+    "id": 1240867561,
+    "name": "ultraviewer",
+    "full_name": "tritano/ultraviewer",
+    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow.",
+    "stars": 556,
+    "language": "TypeScript",
+    "html_url": "https://github.com/tritano/ultraviewer"
+  },
+  {
+    "id": 1239781767,
+    "name": "auto-identity-remove",
+    "full_name": "stephenlthorn/auto-identity-remove",
+    "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
+    "stars": 551,
     "language": "JavaScript",
-    "html_url": "https://github.com/Doorman11991/smallcode"
+    "html_url": "https://github.com/stephenlthorn/auto-identity-remove"
   },
   {
-    "id": 1238220753,
-    "name": "Prodigy-Hacks",
-    "full_name": "EnsignKazekage/Prodigy-Hacks",
-    "description": "Prodigymathgamehacking || prodigy hacks || prodigymathgame",
-    "stars": 537,
-    "language": "Python",
-    "html_url": "https://github.com/EnsignKazekage/Prodigy-Hacks"
-  },
-  {
-    "id": 1238193136,
-    "name": "blooket-hacks",
-    "full_name": "PrimeKeeper58/blooket-hacks",
-    "description": "blooket menu || blooket || blooket hacks",
+    "id": 1241656776,
+    "name": "hydra-launcher",
+    "full_name": "arnabchoudhury404/hydra-launcher",
+    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error",
     "stars": 535,
-    "language": "JavaScript",
-    "html_url": "https://github.com/PrimeKeeper58/blooket-hacks"
+    "language": "TypeScript",
+    "html_url": "https://github.com/arnabchoudhury404/hydra-launcher"
   },
   {
-    "id": 1237484347,
-    "name": "pocs",
-    "full_name": "v12-security/pocs",
-    "description": "poc it like it's hot",
-    "stars": 533,
-    "language": "C",
-    "html_url": "https://github.com/v12-security/pocs"
-  },
-  {
-    "id": 1239751972,
-    "name": "LockDown-Browser-Bypass-Tool",
-    "full_name": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
-    "description": "Windows utility that restores standard keyboard shortcuts and window management capabilities during restricted browser sessions.",
-    "stars": 523,
-    "language": "C#",
-    "html_url": "https://github.com/CometBisonCrack/LockDown-Browser-Bypass-Tool"
+    "id": 1242450421,
+    "name": "wallpaper-engine-steam",
+    "full_name": "xw7872081123/wallpaper-engine-steam",
+    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, ",
+    "stars": 535,
+    "language": "TypeScript",
+    "html_url": "https://github.com/xw7872081123/wallpaper-engine-steam"
   }
 ]
