@@ -1,19 +1,10 @@
 [
   {
-    "id": 1239996076,
-    "name": "zerolang",
-    "full_name": "vercel-labs/zerolang",
-    "description": "The programming language for agents",
-    "stars": 4006,
-    "language": "C",
-    "html_url": "https://github.com/vercel-labs/zerolang"
-  },
-  {
     "id": 1243496690,
     "name": "GuJumpgate",
     "full_name": "FoundZiGu/GuJumpgate",
     "description": null,
-    "stars": 1029,
+    "stars": 1489,
     "language": "JavaScript",
     "html_url": "https://github.com/FoundZiGu/GuJumpgate"
   },
@@ -22,88 +13,79 @@
     "name": "9arm-skills",
     "full_name": "thananon/9arm-skills",
     "description": null,
-    "stars": 951,
+    "stars": 1175,
     "language": "Shell",
     "html_url": "https://github.com/thananon/9arm-skills"
-  },
-  {
-    "id": 1240191065,
-    "name": "agents-best-practices",
-    "full_name": "DenisSergeevitch/agents-best-practices",
-    "description": "Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.",
-    "stars": 907,
-    "language": null,
-    "html_url": "https://github.com/DenisSergeevitch/agents-best-practices"
   },
   {
     "id": 1242107382,
     "name": "smallcode",
     "full_name": "Doorman11991/smallcode",
     "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-    "stars": 848,
+    "stars": 1094,
     "language": "JavaScript",
     "html_url": "https://github.com/Doorman11991/smallcode"
   },
   {
-    "id": 1239825019,
-    "name": "codex-complexity-optimizer",
-    "full_name": "Kappaemme-git/codex-complexity-optimizer",
-    "description": "Codex skill for safe codebase complexity analysis and performance optimization reports",
-    "stars": 808,
+    "id": 1241257629,
+    "name": "Agent-Learning-Hub",
+    "full_name": "datawhalechina/Agent-Learning-Hub",
+    "description": "AI Agent 学习路线与资料库收集",
+    "stars": 749,
+    "language": null,
+    "html_url": "https://github.com/datawhalechina/Agent-Learning-Hub"
+  },
+  {
+    "id": 1241990700,
+    "name": "HRM-Text",
+    "full_name": "sapientinc/HRM-Text",
+    "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
+    "stars": 631,
     "language": "Python",
-    "html_url": "https://github.com/Kappaemme-git/codex-complexity-optimizer"
+    "html_url": "https://github.com/sapientinc/HRM-Text"
   },
   {
     "id": 1242450421,
     "name": "wallpaper-engine-steam",
     "full_name": "xw7872081123/wallpaper-engine-steam",
     "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, ",
-    "stars": 616,
+    "stars": 614,
     "language": "TypeScript",
     "html_url": "https://github.com/xw7872081123/wallpaper-engine-steam"
-  },
-  {
-    "id": 1239594204,
-    "name": "clawpatch",
-    "full_name": "openclaw/clawpatch",
-    "description": "Review code. Patch bugs. Land PRs.",
-    "stars": 606,
-    "language": "TypeScript",
-    "html_url": "https://github.com/openclaw/clawpatch"
-  },
-  {
-    "id": 1241671828,
-    "name": "ROM-MGBA-Pokemon-Emulator-PC",
-    "full_name": "Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
-    "description": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution",
-    "stars": 604,
-    "language": null,
-    "html_url": "https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC"
-  },
-  {
-    "id": 1241656776,
-    "name": "hydra-launcher",
-    "full_name": "arnabchoudhury404/hydra-launcher",
-    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error",
-    "stars": 602,
-    "language": "TypeScript",
-    "html_url": "https://github.com/arnabchoudhury404/hydra-launcher"
   },
   {
     "id": 1241642304,
     "name": "Stable-Diffusion-WebUI",
     "full_name": "BasZ4ll/Stable-Diffusion-WebUI",
     "description": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta",
-    "stars": 601,
+    "stars": 594,
     "language": "TypeScript",
     "html_url": "https://github.com/BasZ4ll/Stable-Diffusion-WebUI"
+  },
+  {
+    "id": 1241656776,
+    "name": "hydra-launcher",
+    "full_name": "arnabchoudhury404/hydra-launcher",
+    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error",
+    "stars": 593,
+    "language": "TypeScript",
+    "html_url": "https://github.com/arnabchoudhury404/hydra-launcher"
+  },
+  {
+    "id": 1241671828,
+    "name": "ROM-MGBA-Pokemon-Emulator-PC",
+    "full_name": "Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
+    "description": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution",
+    "stars": 591,
+    "language": null,
+    "html_url": "https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC"
   },
   {
     "id": 1241627469,
     "name": "rbxfpsunlocker-boost-More-240FPS",
     "full_name": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
     "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke",
-    "stars": 596,
+    "stars": 589,
     "language": "TypeScript",
     "html_url": "https://github.com/Sunislazi/rbxfpsunlocker-boost-More-240FPS"
   },
@@ -126,57 +108,75 @@
     "html_url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App"
   },
   {
-    "id": 1241990700,
-    "name": "HRM-Text",
-    "full_name": "sapientinc/HRM-Text",
-    "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
-    "stars": 575,
-    "language": "Python",
-    "html_url": "https://github.com/sapientinc/HRM-Text"
-  },
-  {
-    "id": 1239781767,
-    "name": "auto-identity-remove",
-    "full_name": "stephenlthorn/auto-identity-remove",
-    "description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
-    "stars": 571,
-    "language": "JavaScript",
-    "html_url": "https://github.com/stephenlthorn/auto-identity-remove"
-  },
-  {
     "id": 1242710715,
     "name": "Steam-Tools",
     "full_name": "haiddrrs/Steam-Tools",
     "description": "Lua Steam Tools: SteamTools download free PC latest version, lua manifest generator github, steamtools safe to use account ban risk, BeyondDimension SteamTools source code, unlock free steam games dlc unlocker, watt toolkit alternative, steamtools exe local ticket bypass, lua tools manifest downloader, st-setup virus total malware scan, steamtools",
-    "stars": 559,
+    "stars": 557,
     "language": "C#",
     "html_url": "https://github.com/haiddrrs/Steam-Tools"
+  },
+  {
+    "id": 1245114544,
+    "name": "phosphene",
+    "full_name": "kageroumado/phosphene",
+    "description": "A video wallpaper engine for macOS Tahoe",
+    "stars": 554,
+    "language": "Swift",
+    "html_url": "https://github.com/kageroumado/phosphene"
+  },
+  {
+    "id": 1243808884,
+    "name": "CloakBrowser",
+    "full_name": "SalhaNabil/CloakBrowser",
+    "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github ",
+    "stars": 490,
+    "language": "TypeScript",
+    "html_url": "https://github.com/SalhaNabil/CloakBrowser"
+  },
+  {
+    "id": 1243749168,
+    "name": "UE4SS-Subnautica-2",
+    "full_name": "littlefrogyq/UE4SS-Subnautica-2",
+    "description": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,",
+    "stars": 489,
+    "language": "C++",
+    "html_url": "https://github.com/littlefrogyq/UE4SS-Subnautica-2"
   },
   {
     "id": 1240867561,
     "name": "ultraviewer",
     "full_name": "tritano/ultraviewer",
     "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow.",
-    "stars": 556,
+    "stars": 485,
     "language": "TypeScript",
     "html_url": "https://github.com/tritano/ultraviewer"
   },
   {
-    "id": 1239459771,
-    "name": "Lance",
-    "full_name": "bytedance/Lance",
-    "description": "A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.",
-    "stars": 538,
-    "language": "Python",
-    "html_url": "https://github.com/bytedance/Lance"
+    "id": 1240535795,
+    "name": "gta-5-mod-menu",
+    "full_name": "SubamanojJ-2004/gta-5-mod-menu",
+    "description": "Ultimate Enhancement Toolkit for GTA V — powerful mod menu with ESP, vehicle spawner, recovery features, and clean UI",
+    "stars": 445,
+    "language": null,
+    "html_url": "https://github.com/SubamanojJ-2004/gta-5-mod-menu"
   },
   {
-    "id": 1243427974,
-    "name": "hyperliquid-whale-order-tracking",
-    "full_name": "Glazenovatag/hyperliquid-whale-order-tracking",
-    "description": "A real, working Hyperliquid whale tracker not a placeholder. The synthetic-message test passed and the WebSocket subscribe / reconnect logic was verified live.",
-    "stars": 497,
+    "id": 1244627488,
+    "name": "LSFG-Desktop",
+    "full_name": "uktrash/LSFG-Desktop",
+    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg",
+    "stars": 411,
+    "language": "C#",
+    "html_url": "https://github.com/uktrash/LSFG-Desktop"
+  },
+  {
+    "id": 1242867671,
+    "name": "audit",
+    "full_name": "evilsocket/audit",
+    "description": "An 8-stage vulnerability-discovery agent.",
+    "stars": 408,
     "language": "Python",
-    "html_url": "https://github.com/Glazenovatag/hyperliquid-whale-order-tracking"
+    "html_url": "https://github.com/evilsocket/audit"
   }
 ]
