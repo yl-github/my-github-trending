@@ -4,7 +4,7 @@
     "name": "GuJumpgate",
     "full_name": "FoundZiGu/GuJumpgate",
     "description": null,
-    "stars": 1489,
+    "stars": 1789,
     "language": "JavaScript",
     "html_url": "https://github.com/FoundZiGu/GuJumpgate"
   },
@@ -13,7 +13,7 @@
     "name": "9arm-skills",
     "full_name": "thananon/9arm-skills",
     "description": null,
-    "stars": 1175,
+    "stars": 1549,
     "language": "Shell",
     "html_url": "https://github.com/thananon/9arm-skills"
   },
@@ -22,7 +22,7 @@
     "name": "smallcode",
     "full_name": "Doorman11991/smallcode",
     "description": "AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.",
-    "stars": 1094,
+    "stars": 1233,
     "language": "JavaScript",
     "html_url": "https://github.com/Doorman11991/smallcode"
   },
@@ -31,8 +31,8 @@
     "name": "Agent-Learning-Hub",
     "full_name": "datawhalechina/Agent-Learning-Hub",
     "description": "AI Agent 学习路线与资料库收集",
-    "stars": 749,
-    "language": null,
+    "stars": 1100,
+    "language": "HTML",
     "html_url": "https://github.com/datawhalechina/Agent-Learning-Hub"
   },
   {
@@ -40,143 +40,143 @@
     "name": "HRM-Text",
     "full_name": "sapientinc/HRM-Text",
     "description": "HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.",
-    "stars": 631,
+    "stars": 651,
     "language": "Python",
     "html_url": "https://github.com/sapientinc/HRM-Text"
-  },
-  {
-    "id": 1242450421,
-    "name": "wallpaper-engine-steam",
-    "full_name": "xw7872081123/wallpaper-engine-steam",
-    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, ",
-    "stars": 614,
-    "language": "TypeScript",
-    "html_url": "https://github.com/xw7872081123/wallpaper-engine-steam"
-  },
-  {
-    "id": 1241642304,
-    "name": "Stable-Diffusion-WebUI",
-    "full_name": "BasZ4ll/Stable-Diffusion-WebUI",
-    "description": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta",
-    "stars": 594,
-    "language": "TypeScript",
-    "html_url": "https://github.com/BasZ4ll/Stable-Diffusion-WebUI"
-  },
-  {
-    "id": 1241656776,
-    "name": "hydra-launcher",
-    "full_name": "arnabchoudhury404/hydra-launcher",
-    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error",
-    "stars": 593,
-    "language": "TypeScript",
-    "html_url": "https://github.com/arnabchoudhury404/hydra-launcher"
-  },
-  {
-    "id": 1241671828,
-    "name": "ROM-MGBA-Pokemon-Emulator-PC",
-    "full_name": "Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
-    "description": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution",
-    "stars": 591,
-    "language": null,
-    "html_url": "https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC"
-  },
-  {
-    "id": 1241627469,
-    "name": "rbxfpsunlocker-boost-More-240FPS",
-    "full_name": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
-    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke",
-    "stars": 589,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Sunislazi/rbxfpsunlocker-boost-More-240FPS"
-  },
-  {
-    "id": 1242676844,
-    "name": "DualSenseX-DSX-Steam-Edition",
-    "full_name": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
-    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature",
-    "stars": 584,
-    "language": "C++",
-    "html_url": "https://github.com/ZoyaMalhotra/DualSenseX-DSX-Steam-Edition"
-  },
-  {
-    "id": 1242694525,
-    "name": "Claude-Mythos-AI-Anthropic-App",
-    "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
-    "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
-    "stars": 578,
-    "language": "C#",
-    "html_url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App"
-  },
-  {
-    "id": 1242710715,
-    "name": "Steam-Tools",
-    "full_name": "haiddrrs/Steam-Tools",
-    "description": "Lua Steam Tools: SteamTools download free PC latest version, lua manifest generator github, steamtools safe to use account ban risk, BeyondDimension SteamTools source code, unlock free steam games dlc unlocker, watt toolkit alternative, steamtools exe local ticket bypass, lua tools manifest downloader, st-setup virus total malware scan, steamtools",
-    "stars": 557,
-    "language": "C#",
-    "html_url": "https://github.com/haiddrrs/Steam-Tools"
   },
   {
     "id": 1245114544,
     "name": "phosphene",
     "full_name": "kageroumado/phosphene",
     "description": "A video wallpaper engine for macOS Tahoe",
-    "stars": 554,
+    "stars": 598,
     "language": "Swift",
     "html_url": "https://github.com/kageroumado/phosphene"
   },
   {
-    "id": 1243808884,
-    "name": "CloakBrowser",
-    "full_name": "SalhaNabil/CloakBrowser",
-    "description": "CloakBrowser Github: anti-detect browser download, source-level chromium patches, browser fingerprinting spoofing, multi-accounting tool, canvas webgl modification, proxy manager http socks5, cookie isolation, session import export, user-agent switcher, puppeteer playwright automation api, profile sharing, web scraping free, github ",
-    "stars": 490,
+    "id": 1242316635,
+    "name": "humanize-text",
+    "full_name": "lynote-ai/humanize-text",
+    "description": "Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool",
+    "stars": 460,
+    "language": "Python",
+    "html_url": "https://github.com/lynote-ai/humanize-text"
+  },
+  {
+    "id": 1242450421,
+    "name": "wallpaper-engine-steam",
+    "full_name": "xw7872081123/wallpaper-engine-steam",
+    "description": "Free Wallpaper Engine Steam: download PC windows 11, steam workshop downloader bypass, high CPU RAM usage fix, android apk mobile sync. 4k anime live wallpaper, black screen crash on startup, corsair icue razer chroma integration, ui32.exe error solution, scene web wallpaper, mobile connection pin, custom playlist screensaver, ",
+    "stars": 454,
     "language": "TypeScript",
-    "html_url": "https://github.com/SalhaNabil/CloakBrowser"
+    "html_url": "https://github.com/xw7872081123/wallpaper-engine-steam"
   },
   {
-    "id": 1243749168,
-    "name": "UE4SS-Subnautica-2",
-    "full_name": "littlefrogyq/UE4SS-Subnautica-2",
-    "description": "UE4SS Subnautica 2: UE4SS download github latest version, Subnautica 2 UE5 mod loader setup, xinput1_4.dll dwmapi.dll injector error. REUE4SS UE4SS-settings.ini config, console modding commands, Subnautica 2 crashes on launch fix, dump SDK C++ blueprints, Live Viewport object spacer, GuiConsole visible toggle. Unreal Engine 5.5 compatibility,",
-    "stars": 489,
-    "language": "C++",
-    "html_url": "https://github.com/littlefrogyq/UE4SS-Subnautica-2"
+    "id": 1241325722,
+    "name": "PaperSpine",
+    "full_name": "WUBING2023/PaperSpine",
+    "description": "PaperSpine is a motivation-driven Codex skill for learning from strong academic papers, building a paper’s central argument, and rewriting manuscripts through evidence-aware blueprints, revision matrices, and LaTeX-safe audits.",
+    "stars": 440,
+    "language": "Python",
+    "html_url": "https://github.com/WUBING2023/PaperSpine"
   },
   {
-    "id": 1240867561,
-    "name": "ultraviewer",
-    "full_name": "tritano/ultraviewer",
-    "description": "Teamviewer UltraViewer download free PC windows 11, portable zip, latest version 6.6, getting my ID stuck fix. Port 2112 firewall block, teamviewer commercial use detected bypass, anydesk alternative. Black screen on connection solution, run with windows administrator, change password, file transfer slow.",
-    "stars": 485,
-    "language": "TypeScript",
-    "html_url": "https://github.com/tritano/ultraviewer"
-  },
-  {
-    "id": 1240535795,
-    "name": "gta-5-mod-menu",
-    "full_name": "SubamanojJ-2004/gta-5-mod-menu",
-    "description": "Ultimate Enhancement Toolkit for GTA V — powerful mod menu with ESP, vehicle spawner, recovery features, and clean UI",
-    "stars": 445,
-    "language": null,
-    "html_url": "https://github.com/SubamanojJ-2004/gta-5-mod-menu"
-  },
-  {
-    "id": 1244627488,
-    "name": "LSFG-Desktop",
-    "full_name": "uktrash/LSFG-Desktop",
-    "description": "Lossless Scaling github steam reddit LSFG 3 frame generation  v3.22, uncap FPS low end PC, AMD FSR NIS scaling, cursor lag fix. Double FPS laptop guide, windowed to borderless fullscreen, ghosting artifact solution, capture API DXGI GDI, half refresh rate VSync. anime4k ,  version , latency reduction, lsfg",
-    "stars": 411,
-    "language": "C#",
-    "html_url": "https://github.com/uktrash/LSFG-Desktop"
+    "id": 1241425259,
+    "name": "shushu-internship-tool",
+    "full_name": "LiuMengxuan04/shushu-internship-tool",
+    "description": "把岗位描述变项目，把项目变简历，把简历变面试。",
+    "stars": 439,
+    "language": "Python",
+    "html_url": "https://github.com/LiuMengxuan04/shushu-internship-tool"
   },
   {
     "id": 1242867671,
     "name": "audit",
     "full_name": "evilsocket/audit",
     "description": "An 8-stage vulnerability-discovery agent.",
-    "stars": 408,
+    "stars": 435,
     "language": "Python",
     "html_url": "https://github.com/evilsocket/audit"
+  },
+  {
+    "id": 1246091920,
+    "name": "FL-Studio-2026-Producer-Edition-Unlock",
+    "full_name": "Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock",
+    "description": "Full feature activation for FL Studio 2026 Producer Edition. Enables all plugins, VST support, audio export without restrictions, and lifetime updates. Educational tool for studying DAW architecture.",
+    "stars": 426,
+    "language": null,
+    "html_url": "https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock"
+  },
+  {
+    "id": 1242694525,
+    "name": "Claude-Mythos-AI-Anthropic-App",
+    "full_name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+    "description": "Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy ",
+    "stars": 425,
+    "language": "C#",
+    "html_url": "https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App"
+  },
+  {
+    "id": 1242676844,
+    "name": "DualSenseX-DSX-Steam-Edition",
+    "full_name": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+    "description": "DualSenseX Steam: DSX free download github, adaptive triggers test mod PC, audio to haptics setup, Xbox 360 DualShock 4 emulation. ViGEmBus driver error fix, Bluetooth audio latency, Cyberpunk 2077 controller mod, non-steam games controller not working, DS4Windows alternative. Paliverse crack bypass, BSOD crash fix, Steam Xbox Extended Feature",
+    "stars": 421,
+    "language": "C++",
+    "html_url": "https://github.com/ZoyaMalhotra/DualSenseX-DSX-Steam-Edition"
+  },
+  {
+    "id": 1242967652,
+    "name": "infinite-canvas",
+    "full_name": "basketikun/infinite-canvas",
+    "description": "面向AI创作的开源无限画布工作台，集成 AI 生图、参考图编辑、画布编排、对话助手、提示词库和素材管理等功能。",
+    "stars": 415,
+    "language": "TypeScript",
+    "html_url": "https://github.com/basketikun/infinite-canvas"
+  },
+  {
+    "id": 1241642304,
+    "name": "Stable-Diffusion-WebUI",
+    "full_name": "BasZ4ll/Stable-Diffusion-WebUI",
+    "description": "Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta",
+    "stars": 399,
+    "language": "TypeScript",
+    "html_url": "https://github.com/BasZ4ll/Stable-Diffusion-WebUI"
+  },
+  {
+    "id": 1242710715,
+    "name": "Steam-Tools",
+    "full_name": "haiddrrs/Steam-Tools",
+    "description": "Lua Steam Tools: SteamTools download free PC latest version, lua manifest generator github, steamtools safe to use account ban risk, BeyondDimension SteamTools source code, unlock free steam games dlc unlocker, watt toolkit alternative, steamtools exe local ticket bypass, lua tools manifest downloader, st-setup virus total malware scan, steamtools",
+    "stars": 396,
+    "language": "C#",
+    "html_url": "https://github.com/haiddrrs/Steam-Tools"
+  },
+  {
+    "id": 1241671828,
+    "name": "ROM-MGBA-Pokemon-Emulator-PC",
+    "full_name": "Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
+    "description": "ROM Emulator Pokemon mGBA eden emulator eden emulator switch 2: download GBA NDS 3DS Switch games, android APK, MelonDS setup guide, Citra Pokemon X Y, Ryujinx Scarlet Violet ROM hack, Pokemon Emerald Randomizer download. Safe ROMs site, Action Replay cheat codes, GameShark codes FireRed, real time clock RTC error fix, trade evolution",
+    "stars": 395,
+    "language": null,
+    "html_url": "https://github.com/Flizorules05/ROM-MGBA-Pokemon-Emulator-PC"
+  },
+  {
+    "id": 1241656776,
+    "name": "hydra-launcher",
+    "full_name": "arnabchoudhury404/hydra-launcher",
+    "description": "hydralauncher: Hydra Launcher download free PC library  fontes links baixar , hydralauncher github,  trusted sources url list, steam verde download, hydralauncher github source code, no download available hydra launcher fix. Embedded bittorrent client setup, repack scraper json megathread, hydra cloud save files sync, python rpc server error",
+    "stars": 395,
+    "language": "TypeScript",
+    "html_url": "https://github.com/arnabchoudhury404/hydra-launcher"
+  },
+  {
+    "id": 1241627469,
+    "name": "rbxfpsunlocker-boost-More-240FPS",
+    "full_name": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
+    "description": "rbxfpsunlocker Roblox FPS BOOST: Roblox FPS unlocker download free More 240 FPS, uncap 60 FPS limit, axst GitHub source code, high refresh rate monitor, Roblox client lag fix, Byfron Hyperion anti-cheat compatibility, safe to use ban status, settings.ini configuration, rfu.exe not working error, ClientAppSettings json,bloxtstrap fps unlocke",
+    "stars": 391,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Sunislazi/rbxfpsunlocker-boost-More-240FPS"
   }
 ]
