@@ -1,19 +1,10 @@
 [
   {
-    "id": 1243496690,
-    "name": "GuJumpgate",
-    "full_name": "FoundZiGu/GuJumpgate",
-    "description": null,
-    "stars": 2370,
-    "language": "JavaScript",
-    "html_url": "https://github.com/FoundZiGu/GuJumpgate"
-  },
-  {
     "id": 1244911834,
     "name": "bumblebee",
     "full_name": "perplexityai/bumblebee",
     "description": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
-    "stars": 2213,
+    "stars": 2605,
     "language": "Go",
     "html_url": "https://github.com/perplexityai/bumblebee"
   },
@@ -22,25 +13,16 @@
     "name": "9arm-skills",
     "full_name": "thananon/9arm-skills",
     "description": null,
-    "stars": 2004,
+    "stars": 2218,
     "language": "Shell",
     "html_url": "https://github.com/thananon/9arm-skills"
-  },
-  {
-    "id": 1245114544,
-    "name": "phosphene",
-    "full_name": "kageroumado/phosphene",
-    "description": "A video wallpaper engine for macOS Tahoe",
-    "stars": 656,
-    "language": "Swift",
-    "html_url": "https://github.com/kageroumado/phosphene"
   },
   {
     "id": 1246625636,
     "name": "get-shit-done-redux",
     "full_name": "open-gsd/get-shit-done-redux",
     "description": "Getting Shit Done, the Aftermath",
-    "stars": 598,
+    "stars": 879,
     "language": "JavaScript",
     "html_url": "https://github.com/open-gsd/get-shit-done-redux"
   },
@@ -49,134 +31,152 @@
     "name": "smartNode",
     "full_name": "Tong89/smartNode",
     "description": null,
-    "stars": 531,
+    "stars": 741,
     "language": "Python",
     "html_url": "https://github.com/Tong89/smartNode"
+  },
+  {
+    "id": 1245114544,
+    "name": "phosphene",
+    "full_name": "kageroumado/phosphene",
+    "description": "A video wallpaper engine for macOS Tahoe",
+    "stars": 674,
+    "language": "Swift",
+    "html_url": "https://github.com/kageroumado/phosphene"
   },
   {
     "id": 1246440630,
     "name": "codex-shim",
     "full_name": "0xSero/codex-shim",
     "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
-    "stars": 486,
+    "stars": 599,
     "language": "Python",
     "html_url": "https://github.com/0xSero/codex-shim"
   },
   {
-    "id": 1246091920,
-    "name": "FL-Studio-2026-Producer-Edition-Unlock",
-    "full_name": "Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock",
-    "description": "Full feature activation for FL Studio 2026 Producer Edition. Enables all plugins, VST support, audio export without restrictions, and lifetime updates. Educational tool for studying DAW architecture.",
-    "stars": 429,
-    "language": null,
-    "html_url": "https://github.com/Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock"
+    "id": 1245361579,
+    "name": "wechatpay",
+    "full_name": "run-liyi/wechatpay",
+    "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
+    "stars": 553,
+    "language": "JavaScript",
+    "html_url": "https://github.com/run-liyi/wechatpay"
   },
   {
-    "id": 1246571349,
-    "name": "Tomodachi-Island-Life-Remastered",
-    "full_name": "jskblue/Tomodachi-Island-Life-Remastered",
-    "description": "New Tomodachi Life 2026 PC Edition 🏝️ Life Sim & Mii Creator for Windows 🎮",
-    "stars": 424,
-    "language": null,
-    "html_url": "https://github.com/jskblue/Tomodachi-Island-Life-Remastered"
+    "id": 1246459259,
+    "name": "kimi-code",
+    "full_name": "MoonshotAI/kimi-code",
+    "description": "The Starting Point for Next-Gen Agents",
+    "stars": 544,
+    "language": "TypeScript",
+    "html_url": "https://github.com/MoonshotAI/kimi-code"
   },
   {
-    "id": 1246571655,
-    "name": "Spoof-Matrix-Hardware",
-    "full_name": "NicoleK-M/Spoof-Matrix-Hardware",
-    "description": "Ultimate Hardware Spoofing Suite 2026 🔧 Bypass Detection, Mask Device ID, Change MAC",
-    "stars": 423,
-    "language": null,
-    "html_url": "https://github.com/NicoleK-M/Spoof-Matrix-Hardware"
+    "id": 1246386725,
+    "name": "pianke",
+    "full_name": "zhaoyue4810/pianke",
+    "description": null,
+    "stars": 404,
+    "language": "Python",
+    "html_url": "https://github.com/zhaoyue4810/pianke"
   },
   {
-    "id": 1246568610,
-    "name": "Claude-Design-Studio",
-    "full_name": "larajuniorlara/Claude-Design-Studio",
-    "description": "🚀 Claude Design AI 2026: Ultimate UI/UX Generator & Plugin Suite – Free Download",
-    "stars": 422,
-    "language": null,
-    "html_url": "https://github.com/larajuniorlara/Claude-Design-Studio"
+    "id": 1244665294,
+    "name": "poc-lab",
+    "full_name": "Unclecheng-li/poc-lab",
+    "description": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more.",
+    "stars": 366,
+    "language": "C",
+    "html_url": "https://github.com/Unclecheng-li/poc-lab"
   },
   {
-    "id": 1246596066,
-    "name": "forza-horizon-6-community-edition",
-    "full_name": "rafa450367/forza-horizon-6-community-edition",
-    "description": "Forza Horizon 6 Premium Free Download 2026 – Steam PC Open Source Game",
-    "stars": 422,
-    "language": null,
-    "html_url": "https://github.com/rafa450367/forza-horizon-6-community-edition"
+    "id": 1245086469,
+    "name": "Se7en-Pro",
+    "full_name": "KNG7-P/Se7en-Pro",
+    "description": null,
+    "stars": 354,
+    "language": "C#",
+    "html_url": "https://github.com/KNG7-P/Se7en-Pro"
   },
   {
-    "id": 1246570094,
-    "name": "Ping-Slayer-Network-Optimizer",
-    "full_name": "Lablez/Ping-Slayer-Network-Optimizer",
-    "description": "Ultimate Free Network Optimizer 2026 🚀 Boost FPS & Fix Ping Instantly",
-    "stars": 422,
+    "id": 1247572002,
+    "name": "casino-bonus",
+    "full_name": "bonus-2026/casino-bonus",
+    "description": "Casino Bonus guide featuring a $250 USD no deposit welcome reward for new users with promo code DROP. Explore crypto casino bonuses, cashback systems, welcome offers, and gaming platform features",
+    "stars": 347,
     "language": null,
-    "html_url": "https://github.com/Lablez/Ping-Slayer-Network-Optimizer"
+    "html_url": "https://github.com/bonus-2026/casino-bonus"
   },
   {
-    "id": 1246595784,
-    "name": "forza-horizon-6-ultimate-mod-pack",
-    "full_name": "pheejm/forza-horizon-6-ultimate-mod-pack",
-    "description": "Forza Horizon 6 Best New CarPack Mods 2026 🚗🔥 Free Download & More Mods",
-    "stars": 422,
-    "language": null,
-    "html_url": "https://github.com/pheejm/forza-horizon-6-ultimate-mod-pack"
+    "id": 1248046772,
+    "name": "wechat-radar",
+    "full_name": "joeseesun/wechat-radar",
+    "description": "微信聊天情报看板：聚合群聊信号、话题、链接和趋势",
+    "stars": 345,
+    "language": "TypeScript",
+    "html_url": "https://github.com/joeseesun/wechat-radar"
   },
   {
-    "id": 1246568904,
-    "name": "claude-zeroclaw-agentics",
-    "full_name": "muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics",
-    "description": "🚀 ZeroClaw Subagents 2026: AI Orchestration with Claude Code Router & MCP",
-    "stars": 421,
-    "language": null,
-    "html_url": "https://github.com/muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics"
+    "id": 1246103273,
+    "name": "arbitrage-trading-bot",
+    "full_name": "ShinyaTomitsuka/arbitrage-trading-bot",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot",
+    "stars": 302,
+    "language": "TypeScript",
+    "html_url": "https://github.com/ShinyaTomitsuka/arbitrage-trading-bot"
   },
   {
-    "id": 1246572250,
-    "name": "Yuzu-Switch-Emulation-Kit",
-    "full_name": "pierremichaeljensen/Yuzu-Switch-Emulation-Kit",
-    "description": "Yuzu Nintendo Switch Emulator 2026 ⚡ Best Free PC Download & Vulkan Setup Guide",
-    "stars": 421,
-    "language": null,
-    "html_url": "https://github.com/pierremichaeljensen/Yuzu-Switch-Emulation-Kit"
+    "id": 1246346594,
+    "name": "ccglass",
+    "full_name": "jianshuo/ccglass",
+    "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+    "stars": 294,
+    "language": "JavaScript",
+    "html_url": "https://github.com/jianshuo/ccglass"
   },
   {
-    "id": 1246596322,
-    "name": "office-2024-pro-integration-suite",
-    "full_name": "bollahouse/office-2024-pro-integration-suite",
-    "description": "Microsoft Office 2026 Premium Free Download – Full Suite Installer 🚀",
-    "stars": 421,
-    "language": null,
-    "html_url": "https://github.com/bollahouse/office-2024-pro-integration-suite"
+    "id": 1246721062,
+    "name": "FigMirror",
+    "full_name": "VILA-Lab/FigMirror",
+    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+    "stars": 283,
+    "language": "Python",
+    "html_url": "https://github.com/VILA-Lab/FigMirror"
   },
   {
-    "id": 1246595506,
-    "name": "Mythos-Claude-Skill-Forge",
-    "full_name": "rayhayqal/Mythos-Claude-Skill-Forge",
-    "description": "🚀 Claude Mythos AI 2026 – Build Autonomous Agent Skills & Plugins for Next-Gen Apps",
-    "stars": 421,
-    "language": null,
-    "html_url": "https://github.com/rayhayqal/Mythos-Claude-Skill-Forge"
+    "id": 1246326121,
+    "name": "polymarket-trading-bot",
+    "full_name": "mila89/polymarket-trading-bot",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot bot",
+    "stars": 282,
+    "language": "TypeScript",
+    "html_url": "https://github.com/mila89/polymarket-trading-bot"
   },
   {
-    "id": 1246569213,
-    "name": "Delta-Inject-Workstation",
-    "full_name": "sofian160616/Delta-Inject-Workstation",
-    "description": "Delta Executor 2026 ⚡ Ultimate Roblox PC Script Hub - Free Download New",
-    "stars": 421,
-    "language": null,
-    "html_url": "https://github.com/sofian160616/Delta-Inject-Workstation"
+    "id": 1247017762,
+    "name": "polymarket-trading-bot",
+    "full_name": "md0070/polymarket-trading-bot",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+    "stars": 276,
+    "language": "TypeScript",
+    "html_url": "https://github.com/md0070/polymarket-trading-bot"
   },
   {
-    "id": 1246571975,
-    "name": "Aegis-V4-Client-2026",
-    "full_name": "ochoaochoa330-design/Aegis-V4-Client-2026",
-    "description": "Minecraft Vape V4 Hack 2026 Client ☑️ Instant Download New KillAura ESP",
-    "stars": 421,
-    "language": null,
-    "html_url": "https://github.com/ochoaochoa330-design/Aegis-V4-Client-2026"
+    "id": 1247151578,
+    "name": "comimi",
+    "full_name": "yui540/comimi",
+    "description": "Open-source comic reader library for JS/TS",
+    "stars": 273,
+    "language": "TypeScript",
+    "html_url": "https://github.com/yui540/comimi"
+  },
+  {
+    "id": 1245949484,
+    "name": "trading-bot",
+    "full_name": "judithsulfan/trading-bot",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot",
+    "stars": 270,
+    "language": "TypeScript",
+    "html_url": "https://github.com/judithsulfan/trading-bot"
   }
 ]
