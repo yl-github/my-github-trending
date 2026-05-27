@@ -1,64 +1,28 @@
 [
   {
-    "id": 1244911834,
-    "name": "bumblebee",
-    "full_name": "perplexityai/bumblebee",
-    "description": "Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.",
-    "stars": 2605,
-    "language": "Go",
-    "html_url": "https://github.com/perplexityai/bumblebee"
-  },
-  {
-    "id": 1244095591,
-    "name": "9arm-skills",
-    "full_name": "thananon/9arm-skills",
+    "id": 1245402600,
+    "name": "smartNode",
+    "full_name": "Tong89/smartNode",
     "description": null,
-    "stars": 2218,
-    "language": "Shell",
-    "html_url": "https://github.com/thananon/9arm-skills"
+    "stars": 1173,
+    "language": "Python",
+    "html_url": "https://github.com/Tong89/smartNode"
   },
   {
     "id": 1246625636,
     "name": "get-shit-done-redux",
     "full_name": "open-gsd/get-shit-done-redux",
     "description": "Getting Shit Done, the Aftermath",
-    "stars": 879,
+    "stars": 1124,
     "language": "JavaScript",
     "html_url": "https://github.com/open-gsd/get-shit-done-redux"
-  },
-  {
-    "id": 1245402600,
-    "name": "smartNode",
-    "full_name": "Tong89/smartNode",
-    "description": null,
-    "stars": 741,
-    "language": "Python",
-    "html_url": "https://github.com/Tong89/smartNode"
-  },
-  {
-    "id": 1245114544,
-    "name": "phosphene",
-    "full_name": "kageroumado/phosphene",
-    "description": "A video wallpaper engine for macOS Tahoe",
-    "stars": 674,
-    "language": "Swift",
-    "html_url": "https://github.com/kageroumado/phosphene"
-  },
-  {
-    "id": 1246440630,
-    "name": "codex-shim",
-    "full_name": "0xSero/codex-shim",
-    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
-    "stars": 599,
-    "language": "Python",
-    "html_url": "https://github.com/0xSero/codex-shim"
   },
   {
     "id": 1245361579,
     "name": "wechatpay",
     "full_name": "run-liyi/wechatpay",
     "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
-    "stars": 553,
+    "stars": 833,
     "language": "JavaScript",
     "html_url": "https://github.com/run-liyi/wechatpay"
   },
@@ -67,116 +31,152 @@
     "name": "kimi-code",
     "full_name": "MoonshotAI/kimi-code",
     "description": "The Starting Point for Next-Gen Agents",
-    "stars": 544,
+    "stars": 748,
     "language": "TypeScript",
     "html_url": "https://github.com/MoonshotAI/kimi-code"
+  },
+  {
+    "id": 1246440630,
+    "name": "codex-shim",
+    "full_name": "0xSero/codex-shim",
+    "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
+    "stars": 637,
+    "language": "Python",
+    "html_url": "https://github.com/0xSero/codex-shim"
   },
   {
     "id": 1246386725,
     "name": "pianke",
     "full_name": "zhaoyue4810/pianke",
     "description": null,
-    "stars": 404,
+    "stars": 439,
     "language": "Python",
     "html_url": "https://github.com/zhaoyue4810/pianke"
-  },
-  {
-    "id": 1244665294,
-    "name": "poc-lab",
-    "full_name": "Unclecheng-li/poc-lab",
-    "description": "Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more.",
-    "stars": 366,
-    "language": "C",
-    "html_url": "https://github.com/Unclecheng-li/poc-lab"
-  },
-  {
-    "id": 1245086469,
-    "name": "Se7en-Pro",
-    "full_name": "KNG7-P/Se7en-Pro",
-    "description": null,
-    "stars": 354,
-    "language": "C#",
-    "html_url": "https://github.com/KNG7-P/Se7en-Pro"
-  },
-  {
-    "id": 1247572002,
-    "name": "casino-bonus",
-    "full_name": "bonus-2026/casino-bonus",
-    "description": "Casino Bonus guide featuring a $250 USD no deposit welcome reward for new users with promo code DROP. Explore crypto casino bonuses, cashback systems, welcome offers, and gaming platform features",
-    "stars": 347,
-    "language": null,
-    "html_url": "https://github.com/bonus-2026/casino-bonus"
-  },
-  {
-    "id": 1248046772,
-    "name": "wechat-radar",
-    "full_name": "joeseesun/wechat-radar",
-    "description": "微信聊天情报看板：聚合群聊信号、话题、链接和趋势",
-    "stars": 345,
-    "language": "TypeScript",
-    "html_url": "https://github.com/joeseesun/wechat-radar"
   },
   {
     "id": 1246103273,
     "name": "arbitrage-trading-bot",
     "full_name": "ShinyaTomitsuka/arbitrage-trading-bot",
     "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot",
-    "stars": 302,
+    "stars": 340,
     "language": "TypeScript",
     "html_url": "https://github.com/ShinyaTomitsuka/arbitrage-trading-bot"
   },
   {
-    "id": 1246346594,
-    "name": "ccglass",
-    "full_name": "jianshuo/ccglass",
-    "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
-    "stars": 294,
-    "language": "JavaScript",
-    "html_url": "https://github.com/jianshuo/ccglass"
+    "id": 1247201816,
+    "name": "awesome-architecture",
+    "full_name": "study8677/awesome-architecture",
+    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
+    "stars": 319,
+    "language": "Vue",
+    "html_url": "https://github.com/study8677/awesome-architecture"
   },
   {
-    "id": 1246721062,
-    "name": "FigMirror",
-    "full_name": "VILA-Lab/FigMirror",
-    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
-    "stars": 283,
-    "language": "Python",
-    "html_url": "https://github.com/VILA-Lab/FigMirror"
-  },
-  {
-    "id": 1246326121,
-    "name": "polymarket-trading-bot",
-    "full_name": "mila89/polymarket-trading-bot",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot bot",
-    "stars": 282,
+    "id": 1245699721,
+    "name": "DeepSeek-GUI",
+    "full_name": "XingYu-Zhong/DeepSeek-GUI",
+    "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
+    "stars": 317,
     "language": "TypeScript",
-    "html_url": "https://github.com/mila89/polymarket-trading-bot"
+    "html_url": "https://github.com/XingYu-Zhong/DeepSeek-GUI"
+  },
+  {
+    "id": 1245136531,
+    "name": "PiD",
+    "full_name": "nv-tlabs/PiD",
+    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
+    "stars": 317,
+    "language": "Python",
+    "html_url": "https://github.com/nv-tlabs/PiD"
   },
   {
     "id": 1247017762,
     "name": "polymarket-trading-bot",
     "full_name": "md0070/polymarket-trading-bot",
     "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
-    "stars": 276,
+    "stars": 316,
     "language": "TypeScript",
     "html_url": "https://github.com/md0070/polymarket-trading-bot"
+  },
+  {
+    "id": 1246721062,
+    "name": "FigMirror",
+    "full_name": "VILA-Lab/FigMirror",
+    "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
+    "stars": 312,
+    "language": "Python",
+    "html_url": "https://github.com/VILA-Lab/FigMirror"
+  },
+  {
+    "id": 1246346594,
+    "name": "ccglass",
+    "full_name": "jianshuo/ccglass",
+    "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
+    "stars": 307,
+    "language": "JavaScript",
+    "html_url": "https://github.com/jianshuo/ccglass"
   },
   {
     "id": 1247151578,
     "name": "comimi",
     "full_name": "yui540/comimi",
     "description": "Open-source comic reader library for JS/TS",
-    "stars": 273,
+    "stars": 301,
     "language": "TypeScript",
     "html_url": "https://github.com/yui540/comimi"
+  },
+  {
+    "id": 1247572002,
+    "name": "casino-bonus",
+    "full_name": "bonus-2026/casino-bonus",
+    "description": "Casino Bonus guide featuring a $250 USD no deposit welcome reward for new users with promo code DROP. Explore crypto casino bonuses, cashback systems, welcome offers, and gaming platform features",
+    "stars": 300,
+    "language": null,
+    "html_url": "https://github.com/bonus-2026/casino-bonus"
+  },
+  {
+    "id": 1246326121,
+    "name": "polymarket-trading-bot",
+    "full_name": "mila89/polymarket-trading-bot",
+    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot bot",
+    "stars": 290,
+    "language": "TypeScript",
+    "html_url": "https://github.com/mila89/polymarket-trading-bot"
+  },
+  {
+    "id": 1246148135,
+    "name": "ai-memory",
+    "full_name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "stars": 290,
+    "language": "Rust",
+    "html_url": "https://github.com/akitaonrails/ai-memory"
+  },
+  {
+    "id": 1246599779,
+    "name": "ShadowCat",
+    "full_name": "unprovable/ShadowCat",
+    "description": "Single file optical file transfer using a browser",
+    "stars": 285,
+    "language": "HTML",
+    "html_url": "https://github.com/unprovable/ShadowCat"
   },
   {
     "id": 1245949484,
     "name": "trading-bot",
     "full_name": "judithsulfan/trading-bot",
     "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot",
-    "stars": 270,
+    "stars": 281,
     "language": "TypeScript",
     "html_url": "https://github.com/judithsulfan/trading-bot"
+  },
+  {
+    "id": 1245898085,
+    "name": "chatgpt-plus-automation-toolkit",
+    "full_name": "hanyi0000/chatgpt-plus-automation-toolkit",
+    "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
+    "stars": 272,
+    "language": "Python",
+    "html_url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit"
   }
 ]
