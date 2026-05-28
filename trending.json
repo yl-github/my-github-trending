@@ -1,37 +1,19 @@
 [
   {
-    "id": 1245402600,
-    "name": "smartNode",
-    "full_name": "Tong89/smartNode",
-    "description": null,
-    "stars": 1173,
-    "language": "Python",
-    "html_url": "https://github.com/Tong89/smartNode"
-  },
-  {
     "id": 1246625636,
     "name": "get-shit-done-redux",
     "full_name": "open-gsd/get-shit-done-redux",
     "description": "Getting Shit Done, the Aftermath",
-    "stars": 1124,
+    "stars": 1364,
     "language": "JavaScript",
     "html_url": "https://github.com/open-gsd/get-shit-done-redux"
-  },
-  {
-    "id": 1245361579,
-    "name": "wechatpay",
-    "full_name": "run-liyi/wechatpay",
-    "description": "微信账单分析工具 - 基于Electron的可视化账单分析应用",
-    "stars": 833,
-    "language": "JavaScript",
-    "html_url": "https://github.com/run-liyi/wechatpay"
   },
   {
     "id": 1246459259,
     "name": "kimi-code",
     "full_name": "MoonshotAI/kimi-code",
     "description": "The Starting Point for Next-Gen Agents",
-    "stars": 748,
+    "stars": 897,
     "language": "TypeScript",
     "html_url": "https://github.com/MoonshotAI/kimi-code"
   },
@@ -40,70 +22,43 @@
     "name": "codex-shim",
     "full_name": "0xSero/codex-shim",
     "description": "Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.",
-    "stars": 637,
+    "stars": 661,
     "language": "Python",
     "html_url": "https://github.com/0xSero/codex-shim"
-  },
-  {
-    "id": 1246386725,
-    "name": "pianke",
-    "full_name": "zhaoyue4810/pianke",
-    "description": null,
-    "stars": 439,
-    "language": "Python",
-    "html_url": "https://github.com/zhaoyue4810/pianke"
-  },
-  {
-    "id": 1246103273,
-    "name": "arbitrage-trading-bot",
-    "full_name": "ShinyaTomitsuka/arbitrage-trading-bot",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot",
-    "stars": 340,
-    "language": "TypeScript",
-    "html_url": "https://github.com/ShinyaTomitsuka/arbitrage-trading-bot"
   },
   {
     "id": 1247201816,
     "name": "awesome-architecture",
     "full_name": "study8677/awesome-architecture",
     "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
-    "stars": 319,
+    "stars": 582,
     "language": "Vue",
     "html_url": "https://github.com/study8677/awesome-architecture"
   },
   {
-    "id": 1245699721,
-    "name": "DeepSeek-GUI",
-    "full_name": "XingYu-Zhong/DeepSeek-GUI",
-    "description": "AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.",
-    "stars": 317,
-    "language": "TypeScript",
-    "html_url": "https://github.com/XingYu-Zhong/DeepSeek-GUI"
-  },
-  {
-    "id": 1245136531,
-    "name": "PiD",
-    "full_name": "nv-tlabs/PiD",
-    "description": "PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion",
-    "stars": 317,
+    "id": 1246386725,
+    "name": "pianke",
+    "full_name": "zhaoyue4810/pianke",
+    "description": null,
+    "stars": 506,
     "language": "Python",
-    "html_url": "https://github.com/nv-tlabs/PiD"
+    "html_url": "https://github.com/zhaoyue4810/pianke"
   },
   {
-    "id": 1247017762,
-    "name": "polymarket-trading-bot",
-    "full_name": "md0070/polymarket-trading-bot",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
-    "stars": 316,
+    "id": 1249107749,
+    "name": "adhd",
+    "full_name": "UditAkhourii/adhd",
+    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
+    "stars": 369,
     "language": "TypeScript",
-    "html_url": "https://github.com/md0070/polymarket-trading-bot"
+    "html_url": "https://github.com/UditAkhourii/adhd"
   },
   {
     "id": 1246721062,
     "name": "FigMirror",
     "full_name": "VILA-Lab/FigMirror",
     "description": "An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.",
-    "stars": 312,
+    "stars": 335,
     "language": "Python",
     "html_url": "https://github.com/VILA-Lab/FigMirror"
   },
@@ -112,71 +67,116 @@
     "name": "ccglass",
     "full_name": "jianshuo/ccglass",
     "description": "See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard",
-    "stars": 307,
+    "stars": 315,
     "language": "JavaScript",
     "html_url": "https://github.com/jianshuo/ccglass"
+  },
+  {
+    "id": 1249421182,
+    "name": "aster-bot",
+    "full_name": "SigmaTradeLabs/aster-bot",
+    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
+    "stars": 314,
+    "language": "JavaScript",
+    "html_url": "https://github.com/SigmaTradeLabs/aster-bot"
+  },
+  {
+    "id": 1249432861,
+    "name": "hyperliquid-trading-bot",
+    "full_name": "Novaquant-labs/hyperliquid-trading-bot",
+    "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
+    "stars": 314,
+    "language": "Python",
+    "html_url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot"
   },
   {
     "id": 1247151578,
     "name": "comimi",
     "full_name": "yui540/comimi",
     "description": "Open-source comic reader library for JS/TS",
-    "stars": 301,
+    "stars": 313,
     "language": "TypeScript",
     "html_url": "https://github.com/yui540/comimi"
+  },
+  {
+    "id": 1246600517,
+    "name": "gsd-pi",
+    "full_name": "open-gsd/gsd-pi",
+    "description": "A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture",
+    "stars": 309,
+    "language": "TypeScript",
+    "html_url": "https://github.com/open-gsd/gsd-pi"
   },
   {
     "id": 1247572002,
     "name": "casino-bonus",
     "full_name": "bonus-2026/casino-bonus",
     "description": "Casino Bonus guide featuring a $250 USD no deposit welcome reward for new users with promo code DROP. Explore crypto casino bonuses, cashback systems, welcome offers, and gaming platform features",
-    "stars": 300,
+    "stars": 302,
     "language": null,
     "html_url": "https://github.com/bonus-2026/casino-bonus"
-  },
-  {
-    "id": 1246326121,
-    "name": "polymarket-trading-bot",
-    "full_name": "mila89/polymarket-trading-bot",
-    "description": "Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot Polymarket Trading Bot bot",
-    "stars": 290,
-    "language": "TypeScript",
-    "html_url": "https://github.com/mila89/polymarket-trading-bot"
-  },
-  {
-    "id": 1246148135,
-    "name": "ai-memory",
-    "full_name": "akitaonrails/ai-memory",
-    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-    "stars": 290,
-    "language": "Rust",
-    "html_url": "https://github.com/akitaonrails/ai-memory"
   },
   {
     "id": 1246599779,
     "name": "ShadowCat",
     "full_name": "unprovable/ShadowCat",
     "description": "Single file optical file transfer using a browser",
-    "stars": 285,
+    "stars": 298,
     "language": "HTML",
     "html_url": "https://github.com/unprovable/ShadowCat"
   },
   {
-    "id": 1245949484,
+    "id": 1248087471,
     "name": "trading-bot",
-    "full_name": "judithsulfan/trading-bot",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot bot",
-    "stars": 281,
+    "full_name": "Outcome-Signal-Forge/trading-bot",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+    "stars": 296,
     "language": "TypeScript",
-    "html_url": "https://github.com/judithsulfan/trading-bot"
+    "html_url": "https://github.com/Outcome-Signal-Forge/trading-bot"
   },
   {
-    "id": 1245898085,
-    "name": "chatgpt-plus-automation-toolkit",
-    "full_name": "hanyi0000/chatgpt-plus-automation-toolkit",
-    "description": "自动化完成 ChatGPT 账号注册、GoPay/PayPal 支付、OAuth 授权与 Session 导出，含 Windows 控制面板",
-    "stars": 272,
+    "id": 1247940858,
+    "name": "openbrief",
+    "full_name": "tantara/openbrief",
+    "description": null,
+    "stars": 285,
+    "language": "TypeScript",
+    "html_url": "https://github.com/tantara/openbrief"
+  },
+  {
+    "id": 1247236424,
+    "name": "agentic-ai-system-course",
+    "full_name": "bryanyzhu/agentic-ai-system-course",
+    "description": "Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents ",
+    "stars": 270,
+    "language": "JavaScript",
+    "html_url": "https://github.com/bryanyzhu/agentic-ai-system-course"
+  },
+  {
+    "id": 1247944288,
+    "name": "gepa-viz",
+    "full_name": "modaic-ai/gepa-viz",
+    "description": "Interactive live visualizer for gepa runs",
+    "stars": 269,
+    "language": "TypeScript",
+    "html_url": "https://github.com/modaic-ai/gepa-viz"
+  },
+  {
+    "id": 1250486032,
+    "name": "flashlib",
+    "full_name": "FlashML-org/flashlib",
+    "description": "Fast and memory-efficient classical machine learning operators",
+    "stars": 268,
     "language": "Python",
-    "html_url": "https://github.com/hanyi0000/chatgpt-plus-automation-toolkit"
+    "html_url": "https://github.com/FlashML-org/flashlib"
+  },
+  {
+    "id": 1250579204,
+    "name": "stake-monthly",
+    "full_name": "5-m0cftvuvif/stake-monthly",
+    "description": "Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms.",
+    "stars": 267,
+    "language": "HTML",
+    "html_url": "https://github.com/5-m0cftvuvif/stake-monthly"
   }
 ]
