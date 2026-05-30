@@ -4,72 +4,153 @@
     "name": "guizang-social-card-skill",
     "full_name": "op7418/guizang-social-card-skill",
     "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
-    "stars": 867,
+    "stars": 1183,
     "language": "HTML",
     "html_url": "https://github.com/op7418/guizang-social-card-skill"
   },
   {
-    "id": 1247201816,
-    "name": "awesome-architecture",
-    "full_name": "study8677/awesome-architecture",
-    "description": "🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。",
-    "stars": 744,
-    "language": "Vue",
-    "html_url": "https://github.com/study8677/awesome-architecture"
+    "id": 1251775733,
+    "name": "ian-xiaohei-illustrations",
+    "full_name": "helloianneo/ian-xiaohei-illustrations",
+    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+    "stars": 860,
+    "language": null,
+    "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
   },
   {
     "id": 1249107749,
     "name": "adhd",
     "full_name": "UditAkhourii/adhd",
     "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-    "stars": 477,
+    "stars": 519,
     "language": "TypeScript",
     "html_url": "https://github.com/UditAkhourii/adhd"
+  },
+  {
+    "id": 1250957639,
+    "name": "vibecode-pro-max-kit",
+    "full_name": "withkynam/vibecode-pro-max-kit",
+    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+    "stars": 509,
+    "language": "JavaScript",
+    "html_url": "https://github.com/withkynam/vibecode-pro-max-kit"
   },
   {
     "id": 1249337147,
     "name": "kms-pico-latest-april-2026",
     "full_name": "harrietteehisqu7759383/kms-pico-latest-april-2026",
     "description": "A secure, educational toolkit for understanding KMS activation, designed for lab environments.",
-    "stars": 448,
+    "stars": 449,
     "language": "C#",
     "html_url": "https://github.com/harrietteehisqu7759383/kms-pico-latest-april-2026"
+  },
+  {
+    "id": 1252751767,
+    "name": "pi-dynamic-workflows",
+    "full_name": "Michaelliv/pi-dynamic-workflows",
+    "description": null,
+    "stars": 449,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Michaelliv/pi-dynamic-workflows"
+  },
+  {
+    "id": 1249261520,
+    "name": "aimili-vpngate",
+    "full_name": "baoweise-bot/aimili-vpngate",
+    "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
+    "stars": 432,
+    "language": "Python",
+    "html_url": "https://github.com/baoweise-bot/aimili-vpngate"
   },
   {
     "id": 1252347021,
     "name": "WallpaperDownloader-26",
     "full_name": "alfiyahkamilah1239298/WallpaperDownloader-26",
     "description": "A comprehensive community toolkit for organizing, creating, and managing dynamic wallpaper projects and assets, enhancing your Wallpaper Engine experience.",
-    "stars": 398,
+    "stars": 400,
     "language": "TypeScript",
     "html_url": "https://github.com/alfiyahkamilah1239298/WallpaperDownloader-26"
+  },
+  {
+    "id": 1252289708,
+    "name": "gemini-web2api",
+    "full_name": "Sophomoresty/gemini-web2api",
+    "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+    "stars": 398,
+    "language": "Python",
+    "html_url": "https://github.com/Sophomoresty/gemini-web2api"
   },
   {
     "id": 1250486032,
     "name": "flashlib",
     "full_name": "FlashML-org/flashlib",
     "description": "Fast and memory-efficient classical machine learning operators",
-    "stars": 370,
+    "stars": 392,
     "language": "Python",
     "html_url": "https://github.com/FlashML-org/flashlib"
   },
   {
-    "id": 1249421182,
-    "name": "aster-bot",
-    "full_name": "SigmaTradeLabs/aster-bot",
-    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-    "stars": 344,
-    "language": "JavaScript",
-    "html_url": "https://github.com/SigmaTradeLabs/aster-bot"
+    "id": 1252258448,
+    "name": "Duel-Agents",
+    "full_name": "2aronS/Duel-Agents",
+    "description": "CLI, SDK, and IDE plugins for Duel Agents",
+    "stars": 378,
+    "language": "TypeScript",
+    "html_url": "https://github.com/2aronS/Duel-Agents"
+  },
+  {
+    "id": 1252583707,
+    "name": "SenPaiScanner",
+    "full_name": "MatinSenPai/SenPaiScanner",
+    "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
+    "stars": 371,
+    "language": "Go",
+    "html_url": "https://github.com/MatinSenPai/SenPaiScanner"
   },
   {
     "id": 1249432861,
     "name": "hyperliquid-trading-bot",
     "full_name": "Novaquant-labs/hyperliquid-trading-bot",
     "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-    "stars": 344,
+    "stars": 361,
     "language": "Python",
     "html_url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot"
+  },
+  {
+    "id": 1249421182,
+    "name": "aster-bot",
+    "full_name": "SigmaTradeLabs/aster-bot",
+    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
+    "stars": 359,
+    "language": "JavaScript",
+    "html_url": "https://github.com/SigmaTradeLabs/aster-bot"
+  },
+  {
+    "id": 1247944288,
+    "name": "gepa-viz",
+    "full_name": "modaic-ai/gepa-viz",
+    "description": "Interactive live visualizer for gepa runs",
+    "stars": 352,
+    "language": "TypeScript",
+    "html_url": "https://github.com/modaic-ai/gepa-viz"
+  },
+  {
+    "id": 1247940858,
+    "name": "openbrief",
+    "full_name": "tantara/openbrief",
+    "description": null,
+    "stars": 351,
+    "language": "TypeScript",
+    "html_url": "https://github.com/tantara/openbrief"
+  },
+  {
+    "id": 1248129407,
+    "name": "SAM3DBody-cpp",
+    "full_name": "AmmarkoV/SAM3DBody-cpp",
+    "description": "Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.",
+    "stars": 344,
+    "language": "C",
+    "html_url": "https://github.com/AmmarkoV/SAM3DBody-cpp"
   },
   {
     "id": 1249349626,
@@ -81,15 +162,6 @@
     "html_url": "https://github.com/cortneymanieri50677828029/RBX-Executor-Version-2026"
   },
   {
-    "id": 1248087471,
-    "name": "trading-bot",
-    "full_name": "Outcome-Signal-Forge/trading-bot",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
-    "stars": 340,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Outcome-Signal-Forge/trading-bot"
-  },
-  {
     "id": 1249327962,
     "name": "MineCraft-Collection-C-Client",
     "full_name": "martawewqc7692530/MineCraft-Collection-C-Client",
@@ -99,84 +171,12 @@
     "html_url": "https://github.com/martawewqc7692530/MineCraft-Collection-C-Client"
   },
   {
-    "id": 1247151578,
-    "name": "comimi",
-    "full_name": "yui540/comimi",
-    "description": "Open-source comic reader library for JS/TS",
-    "stars": 330,
-    "language": "TypeScript",
-    "html_url": "https://github.com/yui540/comimi"
-  },
-  {
-    "id": 1247940858,
-    "name": "openbrief",
-    "full_name": "tantara/openbrief",
-    "description": null,
-    "stars": 329,
-    "language": "TypeScript",
-    "html_url": "https://github.com/tantara/openbrief"
-  },
-  {
-    "id": 1247944288,
-    "name": "gepa-viz",
-    "full_name": "modaic-ai/gepa-viz",
-    "description": "Interactive live visualizer for gepa runs",
-    "stars": 326,
-    "language": "TypeScript",
-    "html_url": "https://github.com/modaic-ai/gepa-viz"
-  },
-  {
-    "id": 1250957639,
-    "name": "vibecode-pro-max-kit",
-    "full_name": "withkynam/vibecode-pro-max-kit",
-    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-    "stars": 321,
-    "language": "JavaScript",
-    "html_url": "https://github.com/withkynam/vibecode-pro-max-kit"
-  },
-  {
-    "id": 1249347976,
-    "name": "Lossless-Scaling-Util-V3.0",
-    "full_name": "tanekaverd64170803960/Lossless-Scaling-Util-V3.0",
-    "description": "A standalone utility to configure, optimize, and unlock lossless frame generation and scaling features for any 3D application or game.",
-    "stars": 320,
-    "language": "C#",
-    "html_url": "https://github.com/tanekaverd64170803960/Lossless-Scaling-Util-V3.0"
-  },
-  {
-    "id": 1249327663,
-    "name": "Gemini-Pro-Desktop-2026",
-    "full_name": "odinsalazar964150/Gemini-Pro-Desktop-2026",
-    "description": "A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity.",
-    "stars": 303,
-    "language": "C#",
-    "html_url": "https://github.com/odinsalazar964150/Gemini-Pro-Desktop-2026"
-  },
-  {
-    "id": 1247572002,
-    "name": "casino-bonus",
-    "full_name": "bonus-2026/casino-bonus",
-    "description": "Casino Bonus guide featuring a $250 USD no deposit welcome reward for new users with promo code DROP. Explore crypto casino bonuses, cashback systems, welcome offers, and gaming platform features",
-    "stars": 302,
-    "language": null,
-    "html_url": "https://github.com/bonus-2026/casino-bonus"
-  },
-  {
-    "id": 1247712932,
-    "name": "yellowkey-bitlocker",
-    "full_name": "Mclisterjoeh2o/yellowkey-bitlocker",
-    "description": "yellowkey  bitlocker github vulnerability  bypass  cve-2026-45585 windows 11 security zero day exploit winre recovery mode poc nightmare eclipse chaotic eclipse exploit tool usb attack encryption hack script mitigation guide fstx winpeshl shell unpatched fix tool",
-    "stars": 301,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Mclisterjoeh2o/yellowkey-bitlocker"
-  },
-  {
-    "id": 1251705853,
-    "name": "ChatGPT-Pro-Desktop-2026",
-    "full_name": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-    "description": "A comprehensive desktop application package for advanced ChatGPT interactions and management.",
-    "stars": 289,
-    "language": "C#",
-    "html_url": "https://github.com/adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026"
+    "id": 1251565665,
+    "name": "garnix-ci",
+    "full_name": "garnix-io/garnix-ci",
+    "description": "CI and hosting for nix-based, flakified github repos",
+    "stars": 323,
+    "language": "Haskell",
+    "html_url": "https://github.com/garnix-io/garnix-ci"
   }
 ]
