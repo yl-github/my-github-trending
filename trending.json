@@ -1,10 +1,19 @@
 [
   {
+    "id": 1255180606,
+    "name": "odysseus",
+    "full_name": "pewdiepie-archdaemon/odysseus",
+    "description": "Self-hosted AI workspace. ",
+    "stars": 9079,
+    "language": "JavaScript",
+    "html_url": "https://github.com/pewdiepie-archdaemon/odysseus"
+  },
+  {
     "id": 1251263546,
     "name": "guizang-social-card-skill",
     "full_name": "op7418/guizang-social-card-skill",
     "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
-    "stars": 1683,
+    "stars": 2140,
     "language": "HTML",
     "html_url": "https://github.com/op7418/guizang-social-card-skill"
   },
@@ -13,97 +22,70 @@
     "name": "ian-xiaohei-illustrations",
     "full_name": "helloianneo/ian-xiaohei-illustrations",
     "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-    "stars": 1171,
+    "stars": 1479,
     "language": null,
     "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
   },
   {
-    "id": 1249107749,
-    "name": "adhd",
-    "full_name": "UditAkhourii/adhd",
-    "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
-    "stars": 609,
-    "language": "TypeScript",
-    "html_url": "https://github.com/UditAkhourii/adhd"
-  },
-  {
-    "id": 1250957639,
-    "name": "vibecode-pro-max-kit",
-    "full_name": "withkynam/vibecode-pro-max-kit",
-    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-    "stars": 604,
-    "language": "JavaScript",
-    "html_url": "https://github.com/withkynam/vibecode-pro-max-kit"
-  },
-  {
-    "id": 1252583707,
-    "name": "SenPaiScanner",
-    "full_name": "MatinSenPai/SenPaiScanner",
-    "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
-    "stars": 604,
-    "language": "Go",
-    "html_url": "https://github.com/MatinSenPai/SenPaiScanner"
-  },
-  {
-    "id": 1252751767,
-    "name": "pi-dynamic-workflows",
-    "full_name": "Michaelliv/pi-dynamic-workflows",
-    "description": null,
-    "stars": 583,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Michaelliv/pi-dynamic-workflows"
+    "id": 1251186402,
+    "name": "GordenPPTSkill",
+    "full_name": "GordenSun/GordenPPTSkill",
+    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
+    "stars": 1035,
+    "language": "Python",
+    "html_url": "https://github.com/GordenSun/GordenPPTSkill"
   },
   {
     "id": 1252289708,
     "name": "gemini-web2api",
     "full_name": "Sophomoresty/gemini-web2api",
     "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-    "stars": 573,
+    "stars": 935,
     "language": "Python",
     "html_url": "https://github.com/Sophomoresty/gemini-web2api"
   },
   {
-    "id": 1249261520,
-    "name": "aimili-vpngate",
-    "full_name": "baoweise-bot/aimili-vpngate",
-    "description": "aimili-vpngate是一个借助vpngate.net让Linux用干净ip出站的代理工具。",
-    "stars": 518,
-    "language": "Python",
-    "html_url": "https://github.com/baoweise-bot/aimili-vpngate"
+    "id": 1252583707,
+    "name": "SenPaiScanner",
+    "full_name": "MatinSenPai/SenPaiScanner",
+    "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
+    "stars": 805,
+    "language": "Go",
+    "html_url": "https://github.com/MatinSenPai/SenPaiScanner"
+  },
+  {
+    "id": 1250957639,
+    "name": "vibecode-pro-max-kit",
+    "full_name": "withkynam/vibecode-pro-max-kit",
+    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
+    "stars": 671,
+    "language": "JavaScript",
+    "html_url": "https://github.com/withkynam/vibecode-pro-max-kit"
+  },
+  {
+    "id": 1252751767,
+    "name": "pi-dynamic-workflows",
+    "full_name": "Michaelliv/pi-dynamic-workflows",
+    "description": null,
+    "stars": 639,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Michaelliv/pi-dynamic-workflows"
   },
   {
     "id": 1252258448,
     "name": "Duel-Agents",
     "full_name": "2aronS/Duel-Agents",
     "description": "CLI, SDK, and IDE plugins for Duel Agents",
-    "stars": 464,
+    "stars": 580,
     "language": "TypeScript",
     "html_url": "https://github.com/2aronS/Duel-Agents"
-  },
-  {
-    "id": 1248747220,
-    "name": "Gamma-World",
-    "full_name": "nv-tlabs/Gamma-World",
-    "description": "Implementation of Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
-    "stars": 430,
-    "language": null,
-    "html_url": "https://github.com/nv-tlabs/Gamma-World"
-  },
-  {
-    "id": 1248697773,
-    "name": "wha-spell-simulator",
-    "full_name": "ytnrvdf/wha-spell-simulator",
-    "description": "A fan-made browser-based Witch Hat Atelier spell simulator.",
-    "stars": 413,
-    "language": "JavaScript",
-    "html_url": "https://github.com/ytnrvdf/wha-spell-simulator"
   },
   {
     "id": 1249866465,
     "name": "DeltaForce-OBS-Locker",
     "full_name": "ace-trump-tech/DeltaForce-OBS-Locker",
     "description": "三角洲行动OBS锁头插件 – 基于OBS渲染注入的智能锁头辅助，支持QQ音乐/网易云联精准骨骼识别、平滑自瞄、压枪抑制，稳定过检，提升击杀效率。动加载。DeltaForce OBS Lockhead Plugin – Smart aim assist via OBS injection, supports QQ Music/NetEase Cloud integration. Bone recognition, smooth aimbot, recoil control, stable anti-cheat bypass.",
-    "stars": 413,
+    "stars": 505,
     "language": "Python",
     "html_url": "https://github.com/ace-trump-tech/DeltaForce-OBS-Locker"
   },
@@ -112,71 +94,89 @@
     "name": "flashlib",
     "full_name": "FlashML-org/flashlib",
     "description": "Fast and memory-efficient classical machine learning operators",
-    "stars": 407,
+    "stars": 421,
     "language": "Python",
     "html_url": "https://github.com/FlashML-org/flashlib"
   },
   {
-    "id": 1249432861,
-    "name": "hyperliquid-trading-bot",
-    "full_name": "Novaquant-labs/hyperliquid-trading-bot",
-    "description": "hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot, hyperliquid trading bot, perp trading bot, hyperliquid profitable trading bot,",
-    "stars": 382,
-    "language": "Python",
-    "html_url": "https://github.com/Novaquant-labs/hyperliquid-trading-bot"
-  },
-  {
-    "id": 1251186402,
-    "name": "GordenPPTSkill",
-    "full_name": "GordenSun/GordenPPTSkill",
-    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-    "stars": 379,
-    "language": "Python",
-    "html_url": "https://github.com/GordenSun/GordenPPTSkill"
-  },
-  {
-    "id": 1249421182,
-    "name": "aster-bot",
-    "full_name": "SigmaTradeLabs/aster-bot",
-    "description": "asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot, asterDEX trading bot, perp trading, asterDEX auto trading bot,",
-    "stars": 379,
+    "id": 1252592714,
+    "name": "polymarket-trading-bot",
+    "full_name": "BlackCandleLab/polymarket-trading-bot",
+    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
+    "stars": 391,
     "language": "JavaScript",
-    "html_url": "https://github.com/SigmaTradeLabs/aster-bot"
+    "html_url": "https://github.com/BlackCandleLab/polymarket-trading-bot"
   },
   {
-    "id": 1249401892,
-    "name": "LCE-Emerald-Launcher",
-    "full_name": "lceminecraft-launcher/LCE-Emerald-Launcher",
-    "description": "lce emerald launcher minecraft  github Download minecraft legacy console edition",
+    "id": 1250519447,
+    "name": "Claude-Mythos-AI-Anthropic-App",
+    "full_name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+    "description": "claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update",
+    "stars": 369,
+    "language": "TypeScript",
+    "html_url": "https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App"
+  },
+  {
+    "id": 1250534073,
+    "name": "forza-horizon-6-spotify-radio",
+    "full_name": "Stellarwolf001/forza-horizon-6-spotify-radio",
+    "description": "forza horizon 6 spotify radio FH 6 spotify radio  mod download nexus mods github bigjohn0 spotify radio steam epic games xbox ps5",
     "stars": 368,
     "language": "TypeScript",
-    "html_url": "https://github.com/lceminecraft-launcher/LCE-Emerald-Launcher"
+    "html_url": "https://github.com/Stellarwolf001/forza-horizon-6-spotify-radio"
   },
   {
-    "id": 1249392808,
-    "name": "osulazer",
-    "full_name": "osulazerdownload/osulazer",
-    "description": "osu mania download skin lazer map open source rhythm game windows 11 macos linux android ios mobile default client latest version 2026 download beatmaps skins custom rulesets multiplayer free",
-    "stars": 358,
-    "language": "C#",
-    "html_url": "https://github.com/osulazerdownload/osulazer"
+    "id": 1252417902,
+    "name": "weather-prediction-bot",
+    "full_name": "Signal-Trade-Core/weather-prediction-bot",
+    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
+    "stars": 365,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Signal-Trade-Core/weather-prediction-bot"
   },
   {
-    "id": 1249414368,
-    "name": "Olden-Era-Template-Generator",
-    "full_name": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
-    "description": "olden era template generator github Download heroes of might and magic homm random map rmg json custom map editor templates utility tool windows 11 latest version free preview zone layout multiplayer",
-    "stars": 350,
-    "language": "C#",
-    "html_url": "https://github.com/OldenEraTemplateGenerator/Olden-Era-Template-Generator"
+    "id": 1251565665,
+    "name": "garnix-ci",
+    "full_name": "garnix-io/garnix-ci",
+    "description": "CI and hosting for nix-based, flakified github repos",
+    "stars": 362,
+    "language": "Haskell",
+    "html_url": "https://github.com/garnix-io/garnix-ci"
   },
   {
-    "id": 1249425919,
-    "name": "MonkeModManager",
-    "full_name": "Monke-Manager/MonkeModManager",
-    "description": "monkemodmanager download github gorilla tag mod installer manager bepinex cosmetics quest link steam vr custom maps utility tool windows 11 latest version 2026 free gameplay tutorial update guide fix error",
-    "stars": 348,
+    "id": 1249876603,
+    "name": "make-pages-interactive",
+    "full_name": "paraschopra/make-pages-interactive",
+    "description": null,
+    "stars": 357,
+    "language": "JavaScript",
+    "html_url": "https://github.com/paraschopra/make-pages-interactive"
+  },
+  {
+    "id": 1250548787,
+    "name": "ryujinx-emu",
+    "full_name": "Dharyen/ryujinx-emu",
+    "description": "canary ryujinx emulator tomodachi life github ryubing nintendo switch emulator download",
+    "stars": 357,
     "language": "C#",
-    "html_url": "https://github.com/Monke-Manager/MonkeModManager"
+    "html_url": "https://github.com/Dharyen/ryujinx-emu"
+  },
+  {
+    "id": 1252572275,
+    "name": "tor-browser",
+    "full_name": "tor-browsers/tor-browser",
+    "description": "tor browser download official onion dark web privacy security anonymous vpn unblock windows 11 android apk latest version 2026 free setup guide fix",
+    "stars": 328,
+    "language": "C#",
+    "html_url": "https://github.com/tor-browsers/tor-browser"
+  },
+  {
+    "id": 1251506840,
+    "name": "roblox-account-manager",
+    "full_name": "Noahmusahdevs/roblox-account-manager",
+    "description": "roblox account manager github Download  Multi Roblox Account ic3w0lf22 rbx account manager alt manager multi instance roblox alt accounts cookie extractor open source windows 11 windows 10 auto login private server developer api secure encryption script automation multi boxing free download",
+    "stars": 327,
+    "language": "C#",
+    "html_url": "https://github.com/Noahmusahdevs/roblox-account-manager"
   }
 ]
