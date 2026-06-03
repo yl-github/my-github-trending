@@ -4,106 +4,88 @@
     "name": "odysseus",
     "full_name": "pewdiepie-archdaemon/odysseus",
     "description": "Self-hosted AI workspace. ",
-    "stars": 21940,
+    "stars": 34365,
     "language": "JavaScript",
     "html_url": "https://github.com/pewdiepie-archdaemon/odysseus"
   },
   {
-    "id": 1251263546,
-    "name": "guizang-social-card-skill",
-    "full_name": "op7418/guizang-social-card-skill",
-    "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
-    "stars": 2453,
-    "language": "HTML",
-    "html_url": "https://github.com/op7418/guizang-social-card-skill"
-  },
-  {
-    "id": 1251775733,
-    "name": "ian-xiaohei-illustrations",
-    "full_name": "helloianneo/ian-xiaohei-illustrations",
-    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
-    "stars": 1650,
-    "language": null,
-    "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations"
-  },
-  {
-    "id": 1251186402,
-    "name": "GordenPPTSkill",
-    "full_name": "GordenSun/GordenPPTSkill",
-    "description": "AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates + non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only.",
-    "stars": 1458,
-    "language": "Python",
-    "html_url": "https://github.com/GordenSun/GordenPPTSkill"
+    "id": 1253077206,
+    "name": "WechatOnCloud",
+    "full_name": "Gloridust/WechatOnCloud",
+    "description": "云微WOC，云微信，自由连接",
+    "stars": 1568,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Gloridust/WechatOnCloud"
   },
   {
     "id": 1252289708,
     "name": "gemini-web2api",
     "full_name": "Sophomoresty/gemini-web2api",
     "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-    "stars": 1107,
+    "stars": 1273,
     "language": "Python",
     "html_url": "https://github.com/Sophomoresty/gemini-web2api"
-  },
-  {
-    "id": 1252583707,
-    "name": "SenPaiScanner",
-    "full_name": "MatinSenPai/SenPaiScanner",
-    "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
-    "stars": 859,
-    "language": "Go",
-    "html_url": "https://github.com/MatinSenPai/SenPaiScanner"
-  },
-  {
-    "id": 1252751767,
-    "name": "pi-dynamic-workflows",
-    "full_name": "Michaelliv/pi-dynamic-workflows",
-    "description": null,
-    "stars": 708,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Michaelliv/pi-dynamic-workflows"
-  },
-  {
-    "id": 1250957639,
-    "name": "vibecode-pro-max-kit",
-    "full_name": "withkynam/vibecode-pro-max-kit",
-    "description": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds",
-    "stars": 703,
-    "language": "JavaScript",
-    "html_url": "https://github.com/withkynam/vibecode-pro-max-kit"
   },
   {
     "id": 1255197498,
     "name": "aBaiAutoplus",
     "full_name": "asz798838958/aBaiAutoplus",
     "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "stars": 688,
+    "stars": 1114,
     "language": "Python",
     "html_url": "https://github.com/asz798838958/aBaiAutoplus"
+  },
+  {
+    "id": 1252583707,
+    "name": "SenPaiScanner",
+    "full_name": "MatinSenPai/SenPaiScanner",
+    "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
+    "stars": 906,
+    "language": "Go",
+    "html_url": "https://github.com/MatinSenPai/SenPaiScanner"
+  },
+  {
+    "id": 1257155061,
+    "name": "goose",
+    "full_name": "b-nnett/goose",
+    "description": "Goose Swift proof-of-concept README",
+    "stars": 827,
+    "language": "Rust",
+    "html_url": "https://github.com/b-nnett/goose"
+  },
+  {
+    "id": 1252751767,
+    "name": "pi-dynamic-workflows",
+    "full_name": "Michaelliv/pi-dynamic-workflows",
+    "description": null,
+    "stars": 743,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Michaelliv/pi-dynamic-workflows"
   },
   {
     "id": 1252258448,
     "name": "Duel-Agents",
     "full_name": "2aronS/Duel-Agents",
     "description": "CLI, SDK, and IDE plugins for Duel Agents",
-    "stars": 641,
+    "stars": 687,
     "language": "TypeScript",
     "html_url": "https://github.com/2aronS/Duel-Agents"
   },
   {
-    "id": 1252592714,
-    "name": "polymarket-trading-bot",
-    "full_name": "BlackCandleLab/polymarket-trading-bot",
-    "description": "polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, polymarket trading bot, polymarket arbitrage bot, ",
-    "stars": 457,
-    "language": "JavaScript",
-    "html_url": "https://github.com/BlackCandleLab/polymarket-trading-bot"
+    "id": 1255412388,
+    "name": "memory-os",
+    "full_name": "ClaudioDrews/memory-os",
+    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+    "stars": 651,
+    "language": "Python",
+    "html_url": "https://github.com/ClaudioDrews/memory-os"
   },
   {
     "id": 1254102663,
     "name": "female-portrait-director",
     "full_name": "liyue-aigc/female-portrait-director",
     "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-    "stars": 437,
+    "stars": 490,
     "language": null,
     "html_url": "https://github.com/liyue-aigc/female-portrait-director"
   },
@@ -112,71 +94,89 @@
     "name": "specification.website",
     "full_name": "jdevalk/specification.website",
     "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
-    "stars": 400,
+    "stars": 460,
     "language": "TypeScript",
     "html_url": "https://github.com/jdevalk/specification.website"
-  },
-  {
-    "id": 1251948393,
-    "name": "Qwen-VLA",
-    "full_name": "QwenLM/Qwen-VLA",
-    "description": "The official repository of Qwen-VLA",
-    "stars": 389,
-    "language": null,
-    "html_url": "https://github.com/QwenLM/Qwen-VLA"
   },
   {
     "id": 1255349541,
     "name": "rift",
     "full_name": "anomalyco/rift",
     "description": null,
-    "stars": 381,
+    "stars": 458,
     "language": "Rust",
     "html_url": "https://github.com/anomalyco/rift"
   },
   {
-    "id": 1251565665,
-    "name": "garnix-ci",
-    "full_name": "garnix-io/garnix-ci",
-    "description": "CI and hosting for nix-based, flakified github repos",
-    "stars": 373,
-    "language": "Haskell",
-    "html_url": "https://github.com/garnix-io/garnix-ci"
+    "id": 1251948393,
+    "name": "Qwen-VLA",
+    "full_name": "QwenLM/Qwen-VLA",
+    "description": "The official repository of Qwen-VLA",
+    "stars": 436,
+    "language": null,
+    "html_url": "https://github.com/QwenLM/Qwen-VLA"
   },
   {
-    "id": 1252417902,
-    "name": "weather-prediction-bot",
-    "full_name": "Signal-Trade-Core/weather-prediction-bot",
-    "description": "polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot polymarket trading bot",
-    "stars": 367,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Signal-Trade-Core/weather-prediction-bot"
-  },
-  {
-    "id": 1253077206,
-    "name": "WechatOnCloud",
-    "full_name": "Gloridust/WechatOnCloud",
-    "description": "云微WOC，云微信，自由连接",
-    "stars": 353,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Gloridust/WechatOnCloud"
-  },
-  {
-    "id": 1250888279,
-    "name": "PhenoPixel",
-    "full_name": "ikeda042/PhenoPixel",
-    "description": "PhenoPixel: A web application for single-cell microscopy image analysis (deployed at Hiroshima University).",
-    "stars": 338,
-    "language": "TypeScript",
-    "html_url": "https://github.com/ikeda042/PhenoPixel"
+    "id": 1255875207,
+    "name": "chokepoint-atlas",
+    "full_name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+    "description": null,
+    "stars": 434,
+    "language": "Python",
+    "html_url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
   },
   {
     "id": 1253525979,
     "name": "skills",
     "full_name": "DannyMac180/skills",
     "description": "AI agent skills created by me: Dan McAteer",
-    "stars": 337,
+    "stars": 388,
     "language": "Python",
     "html_url": "https://github.com/DannyMac180/skills"
+  },
+  {
+    "id": 1254971431,
+    "name": "ESP32-Plane-Radar",
+    "full_name": "MatixYo/ESP32-Plane-Radar",
+    "description": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.",
+    "stars": 326,
+    "language": "C++",
+    "html_url": "https://github.com/MatixYo/ESP32-Plane-Radar"
+  },
+  {
+    "id": 1253324397,
+    "name": "crypto-casino-bonus",
+    "full_name": "bonus-2026/crypto-casino-bonus",
+    "description": "Explore the best Crypto Casino Bonus - including no deposit welcome bonuses. Learn about Bitcoin casino rewards, free spins, cashback offers, crypto payments, mobile gaming, and responsible online casino promotions.",
+    "stars": 294,
+    "language": null,
+    "html_url": "https://github.com/bonus-2026/crypto-casino-bonus"
+  },
+  {
+    "id": 1254038692,
+    "name": "chinese-buy-us-stock-guide",
+    "full_name": "zgwl/chinese-buy-us-stock-guide",
+    "description": "美股指南",
+    "stars": 278,
+    "language": null,
+    "html_url": "https://github.com/zgwl/chinese-buy-us-stock-guide"
+  },
+  {
+    "id": 1256080504,
+    "name": "TripoSplat",
+    "full_name": "VAST-AI-Research/TripoSplat",
+    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+    "stars": 244,
+    "language": "Python",
+    "html_url": "https://github.com/VAST-AI-Research/TripoSplat"
+  },
+  {
+    "id": 1256125546,
+    "name": "reg-factory",
+    "full_name": "tiantianGPU/reg-factory",
+    "description": null,
+    "stars": 239,
+    "language": "Python",
+    "html_url": "https://github.com/tiantianGPU/reg-factory"
   }
 ]
