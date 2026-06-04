@@ -4,7 +4,7 @@
     "name": "odysseus",
     "full_name": "pewdiepie-archdaemon/odysseus",
     "description": "Self-hosted AI workspace. ",
-    "stars": 34365,
+    "stars": 44669,
     "language": "JavaScript",
     "html_url": "https://github.com/pewdiepie-archdaemon/odysseus"
   },
@@ -13,170 +13,170 @@
     "name": "WechatOnCloud",
     "full_name": "Gloridust/WechatOnCloud",
     "description": "云微WOC，云微信，自由连接",
-    "stars": 1568,
+    "stars": 1966,
     "language": "TypeScript",
     "html_url": "https://github.com/Gloridust/WechatOnCloud"
-  },
-  {
-    "id": 1252289708,
-    "name": "gemini-web2api",
-    "full_name": "Sophomoresty/gemini-web2api",
-    "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
-    "stars": 1273,
-    "language": "Python",
-    "html_url": "https://github.com/Sophomoresty/gemini-web2api"
-  },
-  {
-    "id": 1255197498,
-    "name": "aBaiAutoplus",
-    "full_name": "asz798838958/aBaiAutoplus",
-    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "stars": 1114,
-    "language": "Python",
-    "html_url": "https://github.com/asz798838958/aBaiAutoplus"
-  },
-  {
-    "id": 1252583707,
-    "name": "SenPaiScanner",
-    "full_name": "MatinSenPai/SenPaiScanner",
-    "description": "A light-weight scanner for Cloudflare IPs, written in Golang",
-    "stars": 906,
-    "language": "Go",
-    "html_url": "https://github.com/MatinSenPai/SenPaiScanner"
   },
   {
     "id": 1257155061,
     "name": "goose",
     "full_name": "b-nnett/goose",
     "description": "Goose Swift proof-of-concept README",
-    "stars": 827,
+    "stars": 1486,
     "language": "Rust",
     "html_url": "https://github.com/b-nnett/goose"
-  },
-  {
-    "id": 1252751767,
-    "name": "pi-dynamic-workflows",
-    "full_name": "Michaelliv/pi-dynamic-workflows",
-    "description": null,
-    "stars": 743,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Michaelliv/pi-dynamic-workflows"
-  },
-  {
-    "id": 1252258448,
-    "name": "Duel-Agents",
-    "full_name": "2aronS/Duel-Agents",
-    "description": "CLI, SDK, and IDE plugins for Duel Agents",
-    "stars": 687,
-    "language": "TypeScript",
-    "html_url": "https://github.com/2aronS/Duel-Agents"
-  },
-  {
-    "id": 1255412388,
-    "name": "memory-os",
-    "full_name": "ClaudioDrews/memory-os",
-    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
-    "stars": 651,
-    "language": "Python",
-    "html_url": "https://github.com/ClaudioDrews/memory-os"
-  },
-  {
-    "id": 1254102663,
-    "name": "female-portrait-director",
-    "full_name": "liyue-aigc/female-portrait-director",
-    "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-    "stars": 490,
-    "language": null,
-    "html_url": "https://github.com/liyue-aigc/female-portrait-director"
-  },
-  {
-    "id": 1253236308,
-    "name": "specification.website",
-    "full_name": "jdevalk/specification.website",
-    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
-    "stars": 460,
-    "language": "TypeScript",
-    "html_url": "https://github.com/jdevalk/specification.website"
-  },
-  {
-    "id": 1255349541,
-    "name": "rift",
-    "full_name": "anomalyco/rift",
-    "description": null,
-    "stars": 458,
-    "language": "Rust",
-    "html_url": "https://github.com/anomalyco/rift"
-  },
-  {
-    "id": 1251948393,
-    "name": "Qwen-VLA",
-    "full_name": "QwenLM/Qwen-VLA",
-    "description": "The official repository of Qwen-VLA",
-    "stars": 436,
-    "language": null,
-    "html_url": "https://github.com/QwenLM/Qwen-VLA"
-  },
-  {
-    "id": 1255875207,
-    "name": "chokepoint-atlas",
-    "full_name": "qiuqiubuchongle-cloud/chokepoint-atlas",
-    "description": null,
-    "stars": 434,
-    "language": "Python",
-    "html_url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
-  },
-  {
-    "id": 1253525979,
-    "name": "skills",
-    "full_name": "DannyMac180/skills",
-    "description": "AI agent skills created by me: Dan McAteer",
-    "stars": 388,
-    "language": "Python",
-    "html_url": "https://github.com/DannyMac180/skills"
-  },
-  {
-    "id": 1254971431,
-    "name": "ESP32-Plane-Radar",
-    "full_name": "MatixYo/ESP32-Plane-Radar",
-    "description": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.",
-    "stars": 326,
-    "language": "C++",
-    "html_url": "https://github.com/MatixYo/ESP32-Plane-Radar"
-  },
-  {
-    "id": 1253324397,
-    "name": "crypto-casino-bonus",
-    "full_name": "bonus-2026/crypto-casino-bonus",
-    "description": "Explore the best Crypto Casino Bonus - including no deposit welcome bonuses. Learn about Bitcoin casino rewards, free spins, cashback offers, crypto payments, mobile gaming, and responsible online casino promotions.",
-    "stars": 294,
-    "language": null,
-    "html_url": "https://github.com/bonus-2026/crypto-casino-bonus"
   },
   {
     "id": 1254038692,
     "name": "chinese-buy-us-stock-guide",
     "full_name": "zgwl/chinese-buy-us-stock-guide",
     "description": "美股指南",
-    "stars": 278,
+    "stars": 1419,
     "language": null,
     "html_url": "https://github.com/zgwl/chinese-buy-us-stock-guide"
   },
   {
-    "id": 1256080504,
-    "name": "TripoSplat",
-    "full_name": "VAST-AI-Research/TripoSplat",
-    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
-    "stars": 244,
+    "id": 1255197498,
+    "name": "aBaiAutoplus",
+    "full_name": "asz798838958/aBaiAutoplus",
+    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "stars": 1412,
     "language": "Python",
-    "html_url": "https://github.com/VAST-AI-Research/TripoSplat"
+    "html_url": "https://github.com/asz798838958/aBaiAutoplus"
+  },
+  {
+    "id": 1257699593,
+    "name": "skylight",
+    "full_name": "cpaczek/skylight",
+    "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
+    "stars": 863,
+    "language": "TypeScript",
+    "html_url": "https://github.com/cpaczek/skylight"
+  },
+  {
+    "id": 1255412388,
+    "name": "memory-os",
+    "full_name": "ClaudioDrews/memory-os",
+    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
+    "stars": 769,
+    "language": "Python",
+    "html_url": "https://github.com/ClaudioDrews/memory-os"
+  },
+  {
+    "id": 1257638955,
+    "name": "tab-labeler",
+    "full_name": "SenhorH/tab-labeler",
+    "description": "Rename browser tabs locally and bring order to chaotic sessions.",
+    "stars": 562,
+    "language": "TypeScript",
+    "html_url": "https://github.com/SenhorH/tab-labeler"
+  },
+  {
+    "id": 1255875207,
+    "name": "chokepoint-atlas",
+    "full_name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+    "description": null,
+    "stars": 531,
+    "language": "Python",
+    "html_url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
+  },
+  {
+    "id": 1254102663,
+    "name": "female-portrait-director",
+    "full_name": "liyue-aigc/female-portrait-director",
+    "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
+    "stars": 506,
+    "language": null,
+    "html_url": "https://github.com/liyue-aigc/female-portrait-director"
+  },
+  {
+    "id": 1255349541,
+    "name": "rift",
+    "full_name": "anomalyco/rift",
+    "description": null,
+    "stars": 495,
+    "language": "Rust",
+    "html_url": "https://github.com/anomalyco/rift"
+  },
+  {
+    "id": 1253236308,
+    "name": "specification.website",
+    "full_name": "jdevalk/specification.website",
+    "description": "Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.",
+    "stars": 481,
+    "language": "TypeScript",
+    "html_url": "https://github.com/jdevalk/specification.website"
+  },
+  {
+    "id": 1253525979,
+    "name": "skills",
+    "full_name": "DannyMac180/skills",
+    "description": "AI agent skills created by me: Dan McAteer",
+    "stars": 401,
+    "language": "Python",
+    "html_url": "https://github.com/DannyMac180/skills"
   },
   {
     "id": 1256125546,
     "name": "reg-factory",
     "full_name": "tiantianGPU/reg-factory",
     "description": null,
-    "stars": 239,
+    "stars": 385,
     "language": "Python",
     "html_url": "https://github.com/tiantianGPU/reg-factory"
+  },
+  {
+    "id": 1254447363,
+    "name": "nbd-vram",
+    "full_name": "c0deJedi/nbd-vram",
+    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work",
+    "stars": 356,
+    "language": "Shell",
+    "html_url": "https://github.com/c0deJedi/nbd-vram"
+  },
+  {
+    "id": 1254971431,
+    "name": "ESP32-Plane-Radar",
+    "full_name": "MatixYo/ESP32-Plane-Radar",
+    "description": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.",
+    "stars": 349,
+    "language": "C++",
+    "html_url": "https://github.com/MatixYo/ESP32-Plane-Radar"
+  },
+  {
+    "id": 1256080504,
+    "name": "TripoSplat",
+    "full_name": "VAST-AI-Research/TripoSplat",
+    "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
+    "stars": 329,
+    "language": "Python",
+    "html_url": "https://github.com/VAST-AI-Research/TripoSplat"
+  },
+  {
+    "id": 1253322436,
+    "name": "Bernini",
+    "full_name": "bytedance/Bernini",
+    "description": "Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer.",
+    "stars": 310,
+    "language": "Python",
+    "html_url": "https://github.com/bytedance/Bernini"
+  },
+  {
+    "id": 1254710588,
+    "name": "ShardBrowser",
+    "full_name": "ProxyShard/ShardBrowser",
+    "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5.",
+    "stars": 299,
+    "language": "TypeScript",
+    "html_url": "https://github.com/ProxyShard/ShardBrowser"
+  },
+  {
+    "id": 1256728599,
+    "name": "JoyAI-Echo",
+    "full_name": "jd-opensource/JoyAI-Echo",
+    "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
+    "stars": 288,
+    "language": "Python",
+    "html_url": "https://github.com/jd-opensource/JoyAI-Echo"
   }
 ]
