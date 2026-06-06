@@ -4,52 +4,43 @@
     "name": "odysseus",
     "full_name": "pewdiepie-archdaemon/odysseus",
     "description": "Self-hosted AI workspace. ",
-    "stars": 51721,
+    "stars": 56007,
     "language": "Python",
     "html_url": "https://github.com/pewdiepie-archdaemon/odysseus"
-  },
-  {
-    "id": 1254038692,
-    "name": "chinese-buy-us-stock-guide",
-    "full_name": "zgwl/chinese-buy-us-stock-guide",
-    "description": "美股指南",
-    "stars": 2837,
-    "language": null,
-    "html_url": "https://github.com/zgwl/chinese-buy-us-stock-guide"
   },
   {
     "id": 1257155061,
     "name": "goose",
     "full_name": "b-nnett/goose",
     "description": "Goose Swift proof-of-concept README",
-    "stars": 1905,
+    "stars": 2120,
     "language": "Rust",
     "html_url": "https://github.com/b-nnett/goose"
-  },
-  {
-    "id": 1255197498,
-    "name": "aBaiAutoplus",
-    "full_name": "asz798838958/aBaiAutoplus",
-    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "stars": 1488,
-    "language": "Python",
-    "html_url": "https://github.com/asz798838958/aBaiAutoplus"
   },
   {
     "id": 1257699593,
     "name": "skylight",
     "full_name": "cpaczek/skylight",
     "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
-    "stars": 1242,
+    "stars": 1730,
     "language": "TypeScript",
     "html_url": "https://github.com/cpaczek/skylight"
+  },
+  {
+    "id": 1255197498,
+    "name": "aBaiAutoplus",
+    "full_name": "asz798838958/aBaiAutoplus",
+    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
+    "stars": 1536,
+    "language": "Python",
+    "html_url": "https://github.com/asz798838958/aBaiAutoplus"
   },
   {
     "id": 1255412388,
     "name": "memory-os",
     "full_name": "ClaudioDrews/memory-os",
     "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
-    "stars": 829,
+    "stars": 884,
     "language": "Python",
     "html_url": "https://github.com/ClaudioDrews/memory-os"
   },
@@ -58,125 +49,134 @@
     "name": "chokepoint-atlas",
     "full_name": "qiuqiubuchongle-cloud/chokepoint-atlas",
     "description": null,
-    "stars": 560,
+    "stars": 583,
     "language": "Python",
     "html_url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
-  },
-  {
-    "id": 1254102663,
-    "name": "female-portrait-director",
-    "full_name": "liyue-aigc/female-portrait-director",
-    "description": "A modular Codex Skill for directing and expanding detailed AI female portrait prompts.",
-    "stars": 511,
-    "language": null,
-    "html_url": "https://github.com/liyue-aigc/female-portrait-director"
-  },
-  {
-    "id": 1255349541,
-    "name": "rift",
-    "full_name": "anomalyco/rift",
-    "description": null,
-    "stars": 506,
-    "language": "Rust",
-    "html_url": "https://github.com/anomalyco/rift"
-  },
-  {
-    "id": 1257638955,
-    "name": "tab-labeler",
-    "full_name": "SenhorH/tab-labeler",
-    "description": "Rename browser tabs locally and bring order to chaotic sessions.",
-    "stars": 459,
-    "language": "TypeScript",
-    "html_url": "https://github.com/SenhorH/tab-labeler"
-  },
-  {
-    "id": 1254681752,
-    "name": "Void-Tools-v2.0",
-    "full_name": "V0id-v2/Void-Tools-v2.0",
-    "description": "Python terminal multitool — OSINT, Discord, web & network utilities. Rich TUI, 13 themes, remote updates. Educational use only.",
-    "stars": 437,
-    "language": "Python",
-    "html_url": "https://github.com/V0id-v2/Void-Tools-v2.0"
   },
   {
     "id": 1256728599,
     "name": "JoyAI-Echo",
     "full_name": "jd-opensource/JoyAI-Echo",
     "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-    "stars": 428,
+    "stars": 582,
     "language": "Python",
     "html_url": "https://github.com/jd-opensource/JoyAI-Echo"
   },
   {
-    "id": 1256125546,
-    "name": "reg-factory",
-    "full_name": "tiantianGPU/reg-factory",
+    "id": 1255349541,
+    "name": "rift",
+    "full_name": "anomalyco/rift",
     "description": null,
-    "stars": 409,
-    "language": "Python",
-    "html_url": "https://github.com/tiantianGPU/reg-factory"
+    "stars": 532,
+    "language": "Rust",
+    "html_url": "https://github.com/anomalyco/rift"
   },
   {
     "id": 1258621567,
     "name": "sandboxes",
     "full_name": "tastyeffectco/sandboxes",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-    "stars": 395,
+    "stars": 440,
     "language": "Go",
     "html_url": "https://github.com/tastyeffectco/sandboxes"
-  },
-  {
-    "id": 1254447363,
-    "name": "nbd-vram",
-    "full_name": "c0deJedi/nbd-vram",
-    "description": "Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work",
-    "stars": 390,
-    "language": "Shell",
-    "html_url": "https://github.com/c0deJedi/nbd-vram"
-  },
-  {
-    "id": 1254971431,
-    "name": "ESP32-Plane-Radar",
-    "full_name": "MatixYo/ESP32-Plane-Radar",
-    "description": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.",
-    "stars": 376,
-    "language": "C++",
-    "html_url": "https://github.com/MatixYo/ESP32-Plane-Radar"
   },
   {
     "id": 1256080504,
     "name": "TripoSplat",
     "full_name": "VAST-AI-Research/TripoSplat",
     "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
-    "stars": 363,
+    "stars": 438,
     "language": "Python",
     "html_url": "https://github.com/VAST-AI-Research/TripoSplat"
   },
   {
-    "id": 1254416912,
-    "name": "ExamPass-Assistant",
-    "full_name": "WUBING2023/ExamPass-Assistant",
-    "description": "把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友",
-    "stars": 327,
+    "id": 1256125546,
+    "name": "reg-factory",
+    "full_name": "tiantianGPU/reg-factory",
+    "description": null,
+    "stars": 437,
     "language": "Python",
-    "html_url": "https://github.com/WUBING2023/ExamPass-Assistant"
+    "html_url": "https://github.com/tiantianGPU/reg-factory"
+  },
+  {
+    "id": 1258992633,
+    "name": "xiaoer-videolab",
+    "full_name": "Jane-xiaoer/xiaoer-videolab",
+    "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
+    "stars": 397,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
+  },
+  {
+    "id": 1254971431,
+    "name": "ESP32-Plane-Radar",
+    "full_name": "MatixYo/ESP32-Plane-Radar",
+    "description": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.",
+    "stars": 387,
+    "language": "C++",
+    "html_url": "https://github.com/MatixYo/ESP32-Plane-Radar"
+  },
+  {
+    "id": 1257638955,
+    "name": "tab-labeler",
+    "full_name": "SenhorH/tab-labeler",
+    "description": "Rename browser tabs locally and bring order to chaotic sessions.",
+    "stars": 386,
+    "language": "TypeScript",
+    "html_url": "https://github.com/SenhorH/tab-labeler"
+  },
+  {
+    "id": 1254749434,
+    "name": "QMAI",
+    "full_name": "Mochocyang/QMAI",
+    "description": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。",
+    "stars": 362,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Mochocyang/QMAI"
   },
   {
     "id": 1255839210,
     "name": "vimhjkl",
     "full_name": "S-Sigdel/vimhjkl",
     "description": "learn vim from your terminal with spaced repetition",
-    "stars": 317,
+    "stars": 352,
     "language": "Python",
     "html_url": "https://github.com/S-Sigdel/vimhjkl"
   },
   {
-    "id": 1254710588,
-    "name": "ShardBrowser",
-    "full_name": "ProxyShard/ShardBrowser",
-    "description": "Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5.",
-    "stars": 315,
+    "id": 1255237198,
+    "name": "munder-difflin",
+    "full_name": "chaitanyagiri/munder-difflin",
+    "description": "local multi-agent harness",
+    "stars": 336,
     "language": "TypeScript",
-    "html_url": "https://github.com/ProxyShard/ShardBrowser"
+    "html_url": "https://github.com/chaitanyagiri/munder-difflin"
+  },
+  {
+    "id": 1255939927,
+    "name": "Anima",
+    "full_name": "Fullive-AI/Anima",
+    "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
+    "stars": 331,
+    "language": "Python",
+    "html_url": "https://github.com/Fullive-AI/Anima"
+  },
+  {
+    "id": 1256602781,
+    "name": "sage",
+    "full_name": "ConiferKit/sage",
+    "description": null,
+    "stars": 303,
+    "language": null,
+    "html_url": "https://github.com/ConiferKit/sage"
+  },
+  {
+    "id": 1255069527,
+    "name": "agent",
+    "full_name": "PentesterFlow/agent",
+    "description": "Agentic offensive-security in your terminal",
+    "stars": 295,
+    "language": "TypeScript",
+    "html_url": "https://github.com/PentesterFlow/agent"
   }
 ]
