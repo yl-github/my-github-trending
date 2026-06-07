@@ -1,19 +1,10 @@
 [
   {
-    "id": 1255180606,
-    "name": "odysseus",
-    "full_name": "pewdiepie-archdaemon/odysseus",
-    "description": "Self-hosted AI workspace. ",
-    "stars": 56007,
-    "language": "Python",
-    "html_url": "https://github.com/pewdiepie-archdaemon/odysseus"
-  },
-  {
     "id": 1257155061,
     "name": "goose",
     "full_name": "b-nnett/goose",
     "description": "Goose Swift proof-of-concept README",
-    "stars": 2120,
+    "stars": 2168,
     "language": "Rust",
     "html_url": "https://github.com/b-nnett/goose"
   },
@@ -22,79 +13,52 @@
     "name": "skylight",
     "full_name": "cpaczek/skylight",
     "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
-    "stars": 1730,
+    "stars": 2097,
     "language": "TypeScript",
     "html_url": "https://github.com/cpaczek/skylight"
-  },
-  {
-    "id": 1255197498,
-    "name": "aBaiAutoplus",
-    "full_name": "asz798838958/aBaiAutoplus",
-    "description": "多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus",
-    "stars": 1536,
-    "language": "Python",
-    "html_url": "https://github.com/asz798838958/aBaiAutoplus"
-  },
-  {
-    "id": 1255412388,
-    "name": "memory-os",
-    "full_name": "ClaudioDrews/memory-os",
-    "description": "A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.",
-    "stars": 884,
-    "language": "Python",
-    "html_url": "https://github.com/ClaudioDrews/memory-os"
-  },
-  {
-    "id": 1255875207,
-    "name": "chokepoint-atlas",
-    "full_name": "qiuqiubuchongle-cloud/chokepoint-atlas",
-    "description": null,
-    "stars": 583,
-    "language": "Python",
-    "html_url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
   },
   {
     "id": 1256728599,
     "name": "JoyAI-Echo",
     "full_name": "jd-opensource/JoyAI-Echo",
     "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-    "stars": 582,
+    "stars": 740,
     "language": "Python",
     "html_url": "https://github.com/jd-opensource/JoyAI-Echo"
   },
   {
-    "id": 1255349541,
-    "name": "rift",
-    "full_name": "anomalyco/rift",
+    "id": 1255875207,
+    "name": "chokepoint-atlas",
+    "full_name": "qiuqiubuchongle-cloud/chokepoint-atlas",
     "description": null,
-    "stars": 532,
-    "language": "Rust",
-    "html_url": "https://github.com/anomalyco/rift"
-  },
-  {
-    "id": 1258621567,
-    "name": "sandboxes",
-    "full_name": "tastyeffectco/sandboxes",
-    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-    "stars": 440,
-    "language": "Go",
-    "html_url": "https://github.com/tastyeffectco/sandboxes"
+    "stars": 592,
+    "language": "Python",
+    "html_url": "https://github.com/qiuqiubuchongle-cloud/chokepoint-atlas"
   },
   {
     "id": 1256080504,
     "name": "TripoSplat",
     "full_name": "VAST-AI-Research/TripoSplat",
     "description": "TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.",
-    "stars": 438,
+    "stars": 497,
     "language": "Python",
     "html_url": "https://github.com/VAST-AI-Research/TripoSplat"
+  },
+  {
+    "id": 1258621567,
+    "name": "sandboxes",
+    "full_name": "tastyeffectco/sandboxes",
+    "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
+    "stars": 472,
+    "language": "Go",
+    "html_url": "https://github.com/tastyeffectco/sandboxes"
   },
   {
     "id": 1256125546,
     "name": "reg-factory",
     "full_name": "tiantianGPU/reg-factory",
     "description": null,
-    "stars": 437,
+    "stars": 457,
     "language": "Python",
     "html_url": "https://github.com/tiantianGPU/reg-factory"
   },
@@ -103,80 +67,116 @@
     "name": "xiaoer-videolab",
     "full_name": "Jane-xiaoer/xiaoer-videolab",
     "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-    "stars": 397,
+    "stars": 455,
     "language": "JavaScript",
     "html_url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
-  },
-  {
-    "id": 1254971431,
-    "name": "ESP32-Plane-Radar",
-    "full_name": "MatixYo/ESP32-Plane-Radar",
-    "description": "Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.",
-    "stars": 387,
-    "language": "C++",
-    "html_url": "https://github.com/MatixYo/ESP32-Plane-Radar"
-  },
-  {
-    "id": 1257638955,
-    "name": "tab-labeler",
-    "full_name": "SenhorH/tab-labeler",
-    "description": "Rename browser tabs locally and bring order to chaotic sessions.",
-    "stars": 386,
-    "language": "TypeScript",
-    "html_url": "https://github.com/SenhorH/tab-labeler"
-  },
-  {
-    "id": 1254749434,
-    "name": "QMAI",
-    "full_name": "Mochocyang/QMAI",
-    "description": "青幕AI写作软件，解决长篇小说写作问题，解决小说角色性格不统一，防止人设崩坏。",
-    "stars": 362,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Mochocyang/QMAI"
-  },
-  {
-    "id": 1255839210,
-    "name": "vimhjkl",
-    "full_name": "S-Sigdel/vimhjkl",
-    "description": "learn vim from your terminal with spaced repetition",
-    "stars": 352,
-    "language": "Python",
-    "html_url": "https://github.com/S-Sigdel/vimhjkl"
-  },
-  {
-    "id": 1255237198,
-    "name": "munder-difflin",
-    "full_name": "chaitanyagiri/munder-difflin",
-    "description": "local multi-agent harness",
-    "stars": 336,
-    "language": "TypeScript",
-    "html_url": "https://github.com/chaitanyagiri/munder-difflin"
   },
   {
     "id": 1255939927,
     "name": "Anima",
     "full_name": "Fullive-AI/Anima",
     "description": "Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence",
-    "stars": 331,
+    "stars": 394,
     "language": "Python",
     "html_url": "https://github.com/Fullive-AI/Anima"
+  },
+  {
+    "id": 1255839210,
+    "name": "vimhjkl",
+    "full_name": "S-Sigdel/vimhjkl",
+    "description": "learn vim from your terminal with spaced repetition",
+    "stars": 387,
+    "language": "Python",
+    "html_url": "https://github.com/S-Sigdel/vimhjkl"
+  },
+  {
+    "id": 1257638955,
+    "name": "tab-labeler",
+    "full_name": "SenhorH/tab-labeler",
+    "description": "Rename browser tabs locally and bring order to chaotic sessions.",
+    "stars": 384,
+    "language": "TypeScript",
+    "html_url": "https://github.com/SenhorH/tab-labeler"
+  },
+  {
+    "id": 1259081986,
+    "name": "meatshell",
+    "full_name": "jeff141/meatshell",
+    "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+    "stars": 326,
+    "language": "Rust",
+    "html_url": "https://github.com/jeff141/meatshell"
+  },
+  {
+    "id": 1259194283,
+    "name": "9drive",
+    "full_name": "zenhosta/9drive",
+    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
+    "stars": 316,
+    "language": "TypeScript",
+    "html_url": "https://github.com/zenhosta/9drive"
   },
   {
     "id": 1256602781,
     "name": "sage",
     "full_name": "ConiferKit/sage",
     "description": null,
-    "stars": 303,
+    "stars": 304,
     "language": null,
     "html_url": "https://github.com/ConiferKit/sage"
   },
   {
-    "id": 1255069527,
-    "name": "agent",
-    "full_name": "PentesterFlow/agent",
-    "description": "Agentic offensive-security in your terminal",
-    "stars": 295,
+    "id": 1257823581,
+    "name": "zhongguo-traditional-colors",
+    "full_name": "nevertoday/zhongguo-traditional-colors",
+    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+    "stars": 273,
+    "language": "JavaScript",
+    "html_url": "https://github.com/nevertoday/zhongguo-traditional-colors"
+  },
+  {
+    "id": 1260198724,
+    "name": "ai-coding-starter-kit",
+    "full_name": "CWS6206/ai-coding-starter-kit",
+    "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+    "stars": 260,
+    "language": null,
+    "html_url": "https://github.com/CWS6206/ai-coding-starter-kit"
+  },
+  {
+    "id": 1259071744,
+    "name": "edulab",
+    "full_name": "wy51ai/edulab",
+    "description": null,
+    "stars": 259,
+    "language": "HTML",
+    "html_url": "https://github.com/wy51ai/edulab"
+  },
+  {
+    "id": 1257516676,
+    "name": "deanonymizer",
+    "full_name": "ni5arga/deanonymizer",
+    "description": "Deanonymize anyone based on their public commenting or posting history & pattern.",
+    "stars": 254,
     "language": "TypeScript",
-    "html_url": "https://github.com/PentesterFlow/agent"
+    "html_url": "https://github.com/ni5arga/deanonymizer"
+  },
+  {
+    "id": 1257356954,
+    "name": "ScrollWheel",
+    "full_name": "torvalds/ScrollWheel",
+    "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project",
+    "stars": 236,
+    "language": "C",
+    "html_url": "https://github.com/torvalds/ScrollWheel"
+  },
+  {
+    "id": 1259638530,
+    "name": "ai-naughty-tools",
+    "full_name": "best-spicy-ai/ai-naughty-tools",
+    "description": "Discover uncensored AI image & video tools trusted by users worldwide for highly photorealistic results. Create without unnecessary limits using platforms built for realism, quality, and full creative freedom - https://tinyurl.com/imggenai",
+    "stars": 215,
+    "language": null,
+    "html_url": "https://github.com/best-spicy-ai/ai-naughty-tools"
   }
 ]
