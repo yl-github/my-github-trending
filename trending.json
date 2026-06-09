@@ -1,37 +1,37 @@
 [
   {
-    "id": 1257699593,
-    "name": "skylight",
-    "full_name": "cpaczek/skylight",
-    "description": "Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.",
-    "stars": 2282,
+    "id": 1259415257,
+    "name": "lottie",
+    "full_name": "diffusionstudio/lottie",
+    "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
+    "stars": 596,
     "language": "TypeScript",
-    "html_url": "https://github.com/cpaczek/skylight"
+    "html_url": "https://github.com/diffusionstudio/lottie"
   },
   {
-    "id": 1257155061,
-    "name": "goose",
-    "full_name": "b-nnett/goose",
-    "description": "Goose Swift proof-of-concept README",
-    "stars": 2261,
-    "language": "Rust",
-    "html_url": "https://github.com/b-nnett/goose"
+    "id": 1261650101,
+    "name": "baoyu-design",
+    "full_name": "JimLiu/baoyu-design",
+    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+    "stars": 539,
+    "language": "JavaScript",
+    "html_url": "https://github.com/JimLiu/baoyu-design"
   },
   {
-    "id": 1256728599,
-    "name": "JoyAI-Echo",
-    "full_name": "jd-opensource/JoyAI-Echo",
-    "description": "JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation",
-    "stars": 874,
-    "language": "Python",
-    "html_url": "https://github.com/jd-opensource/JoyAI-Echo"
+    "id": 1262173643,
+    "name": "noop",
+    "full_name": "NoopApp/noop",
+    "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
+    "stars": 539,
+    "language": "Swift",
+    "html_url": "https://github.com/NoopApp/noop"
   },
   {
     "id": 1258621567,
     "name": "sandboxd",
     "full_name": "tastyeffectco/sandboxd",
     "description": "Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories",
-    "stars": 498,
+    "stars": 516,
     "language": "Go",
     "html_url": "https://github.com/tastyeffectco/sandboxd"
   },
@@ -40,115 +40,106 @@
     "name": "xiaoer-videolab",
     "full_name": "Jane-xiaoer/xiaoer-videolab",
     "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-    "stars": 469,
+    "stars": 485,
     "language": "JavaScript",
     "html_url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
-  },
-  {
-    "id": 1259194283,
-    "name": "9drive",
-    "full_name": "zenhosta/9drive",
-    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
-    "stars": 410,
-    "language": "TypeScript",
-    "html_url": "https://github.com/zenhosta/9drive"
-  },
-  {
-    "id": 1259081986,
-    "name": "meatshell",
-    "full_name": "jeff141/meatshell",
-    "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-    "stars": 392,
-    "language": "Rust",
-    "html_url": "https://github.com/jeff141/meatshell"
-  },
-  {
-    "id": 1257823581,
-    "name": "zhongguo-traditional-colors",
-    "full_name": "nevertoday/zhongguo-traditional-colors",
-    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
-    "stars": 370,
-    "language": "JavaScript",
-    "html_url": "https://github.com/nevertoday/zhongguo-traditional-colors"
-  },
-  {
-    "id": 1261650101,
-    "name": "baoyu-design",
-    "full_name": "JimLiu/baoyu-design",
-    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-    "stars": 343,
-    "language": "JavaScript",
-    "html_url": "https://github.com/JimLiu/baoyu-design"
   },
   {
     "id": 1261422007,
     "name": "guard-skills",
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-    "stars": 339,
+    "stars": 474,
     "language": null,
     "html_url": "https://github.com/amElnagdy/guard-skills"
   },
   {
-    "id": 1257638955,
-    "name": "tab-labeler",
-    "full_name": "SenhorH/tab-labeler",
-    "description": "Rename browser tabs locally and bring order to chaotic sessions.",
-    "stars": 328,
+    "id": 1257823581,
+    "name": "zhongguo-traditional-colors",
+    "full_name": "nevertoday/zhongguo-traditional-colors",
+    "description": "中华传统色演示、色卡浏览与颜色知识科普开源项目",
+    "stars": 470,
+    "language": "JavaScript",
+    "html_url": "https://github.com/nevertoday/zhongguo-traditional-colors"
+  },
+  {
+    "id": 1259194283,
+    "name": "9drive",
+    "full_name": "zenhosta/9drive",
+    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
+    "stars": 451,
     "language": "TypeScript",
-    "html_url": "https://github.com/SenhorH/tab-labeler"
+    "html_url": "https://github.com/zenhosta/9drive"
+  },
+  {
+    "id": 1262142501,
+    "name": "GordenSuperPPTSkills",
+    "full_name": "GordenSun/GordenSuperPPTSkills",
+    "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+    "stars": 448,
+    "language": "Python",
+    "html_url": "https://github.com/GordenSun/GordenSuperPPTSkills"
+  },
+  {
+    "id": 1259081986,
+    "name": "meatshell",
+    "full_name": "jeff141/meatshell",
+    "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
+    "stars": 430,
+    "language": "Rust",
+    "html_url": "https://github.com/jeff141/meatshell"
   },
   {
     "id": 1259071744,
     "name": "edulab",
     "full_name": "wy51ai/edulab",
     "description": null,
-    "stars": 317,
+    "stars": 414,
     "language": "HTML",
     "html_url": "https://github.com/wy51ai/edulab"
   },
   {
-    "id": 1262173643,
-    "name": "noop",
-    "full_name": "NoopApp/noop",
-    "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-    "stars": 293,
-    "language": "Swift",
-    "html_url": "https://github.com/NoopApp/noop"
-  },
-  {
-    "id": 1260198724,
-    "name": "ai-coding-starter-kit",
-    "full_name": "CWS6206/ai-coding-starter-kit",
-    "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
-    "stars": 260,
+    "id": 1258828721,
+    "name": "loupe",
+    "full_name": "mysk-research/loupe",
+    "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
+    "stars": 368,
     "language": null,
-    "html_url": "https://github.com/CWS6206/ai-coding-starter-kit"
-  },
-  {
-    "id": 1257516676,
-    "name": "deanonymizer",
-    "full_name": "ni5arga/deanonymizer",
-    "description": "Deanonymize anyone based on their public commenting or posting history & pattern.",
-    "stars": 259,
-    "language": "TypeScript",
-    "html_url": "https://github.com/ni5arga/deanonymizer"
+    "html_url": "https://github.com/mysk-research/loupe"
   },
   {
     "id": 1258377532,
     "name": "align-dev",
     "full_name": "razr001/align-dev",
     "description": "AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.",
-    "stars": 258,
+    "stars": 344,
     "language": "TypeScript",
     "html_url": "https://github.com/razr001/align-dev"
+  },
+  {
+    "id": 1259824458,
+    "name": "Microsoft-Office-Activated",
+    "full_name": "Unicornronote/Microsoft-Office-Activated",
+    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
+    "stars": 344,
+    "language": "C++",
+    "html_url": "https://github.com/Unicornronote/Microsoft-Office-Activated"
+  },
+  {
+    "id": 1259194804,
+    "name": "dots.tts",
+    "full_name": "rednote-hilab/dots.tts",
+    "description": null,
+    "stars": 315,
+    "language": "Python",
+    "html_url": "https://github.com/rednote-hilab/dots.tts"
   },
   {
     "id": 1257953142,
     "name": "produck-oss",
     "full_name": "YuvBindal/produck-oss",
-    "description": "Testing if this quacks",
-    "stars": 258,
+    "description": "Great apps are built on good context",
+    "stars": 311,
     "language": null,
     "html_url": "https://github.com/YuvBindal/produck-oss"
   },
@@ -157,26 +148,35 @@
     "name": "parcle-memory",
     "full_name": "Parcle-AI/parcle-memory",
     "description": null,
-    "stars": 258,
+    "stars": 311,
     "language": null,
     "html_url": "https://github.com/Parcle-AI/parcle-memory"
   },
   {
-    "id": 1258828721,
-    "name": "loupe",
-    "full_name": "mysk-research/loupe",
-    "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
-    "stars": 245,
-    "language": null,
-    "html_url": "https://github.com/mysk-research/loupe"
+    "id": 1262119305,
+    "name": "performativeUI",
+    "full_name": "vorpus/performativeUI",
+    "description": null,
+    "stars": 296,
+    "language": "TypeScript",
+    "html_url": "https://github.com/vorpus/performativeUI"
   },
   {
-    "id": 1257356954,
-    "name": "ScrollWheel",
-    "full_name": "torvalds/ScrollWheel",
-    "description": "Minimalist RP2350 magnetic sensor scroll wheel toy project",
-    "stars": 243,
-    "language": "C",
-    "html_url": "https://github.com/torvalds/ScrollWheel"
+    "id": 1260198724,
+    "name": "ai-coding-starter-kit",
+    "full_name": "CWS6206/ai-coding-starter-kit",
+    "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+    "stars": 262,
+    "language": null,
+    "html_url": "https://github.com/CWS6206/ai-coding-starter-kit"
+  },
+  {
+    "id": 1260625224,
+    "name": "wayland",
+    "full_name": "FerroxLabs/wayland",
+    "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+    "stars": 253,
+    "language": "TypeScript",
+    "html_url": "https://github.com/FerroxLabs/wayland"
   }
 ]
