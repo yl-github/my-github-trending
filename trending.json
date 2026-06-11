@@ -1,46 +1,73 @@
 [
   {
-    "id": 1259415257,
-    "name": "lottie",
-    "full_name": "diffusionstudio/lottie",
-    "description": "Open-source skill and harness for generating production ready Lottie animations with codex/claude code",
-    "stars": 1590,
-    "language": "TypeScript",
-    "html_url": "https://github.com/diffusionstudio/lottie"
-  },
-  {
     "id": 1262173643,
     "name": "noop",
     "full_name": "NoopApp/noop",
     "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-    "stars": 1088,
+    "stars": 1403,
     "language": "Swift",
     "html_url": "https://github.com/NoopApp/noop"
   },
   {
-    "id": 1261650101,
-    "name": "baoyu-design",
-    "full_name": "JimLiu/baoyu-design",
-    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-    "stars": 647,
-    "language": "JavaScript",
-    "html_url": "https://github.com/JimLiu/baoyu-design"
+    "id": 1265025028,
+    "name": "MiMo-Code",
+    "full_name": "XiaomiMiMo/MiMo-Code",
+    "description": null,
+    "stars": 1274,
+    "language": "TypeScript",
+    "html_url": "https://github.com/XiaomiMiMo/MiMo-Code"
+  },
+  {
+    "id": 1264986626,
+    "name": "improve",
+    "full_name": "shadcn/improve",
+    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+    "stars": 963,
+    "language": null,
+    "html_url": "https://github.com/shadcn/improve"
+  },
+  {
+    "id": 1264312494,
+    "name": "RoguePlanet",
+    "full_name": "MSNightmare/RoguePlanet",
+    "description": "RoguePlanet Windows Defender Vulnerability",
+    "stars": 944,
+    "language": "C++",
+    "html_url": "https://github.com/MSNightmare/RoguePlanet"
   },
   {
     "id": 1262142501,
     "name": "GordenSuperPPTSkills",
     "full_name": "GordenSun/GordenSuperPPTSkills",
     "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-    "stars": 639,
+    "stars": 737,
     "language": "Python",
     "html_url": "https://github.com/GordenSun/GordenSuperPPTSkills"
+  },
+  {
+    "id": 1261650101,
+    "name": "baoyu-design",
+    "full_name": "JimLiu/baoyu-design",
+    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+    "stars": 700,
+    "language": "JavaScript",
+    "html_url": "https://github.com/JimLiu/baoyu-design"
+  },
+  {
+    "id": 1262530182,
+    "name": "coreai-models",
+    "full_name": "apple/coreai-models",
+    "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+    "stars": 627,
+    "language": "Python",
+    "html_url": "https://github.com/apple/coreai-models"
   },
   {
     "id": 1262119305,
     "name": "performativeUI",
     "full_name": "vorpus/performativeUI",
     "description": null,
-    "stars": 525,
+    "stars": 577,
     "language": "TypeScript",
     "html_url": "https://github.com/vorpus/performativeUI"
   },
@@ -49,97 +76,25 @@
     "name": "guard-skills",
     "full_name": "amElnagdy/guard-skills",
     "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-    "stars": 519,
+    "stars": 556,
     "language": null,
     "html_url": "https://github.com/amElnagdy/guard-skills"
   },
   {
-    "id": 1258992633,
-    "name": "xiaoer-videolab",
-    "full_name": "Jane-xiaoer/xiaoer-videolab",
-    "description": "One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。",
-    "stars": 495,
-    "language": "JavaScript",
-    "html_url": "https://github.com/Jane-xiaoer/xiaoer-videolab"
-  },
-  {
-    "id": 1259081986,
-    "name": "meatshell",
-    "full_name": "jeff141/meatshell",
-    "description": "一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client）",
-    "stars": 479,
-    "language": "Rust",
-    "html_url": "https://github.com/jeff141/meatshell"
-  },
-  {
-    "id": 1259194283,
-    "name": "9drive",
-    "full_name": "zenhosta/9drive",
-    "description": "9Drive is a storage gateway web app for connecting multiple Google Drive accounts into one virtual storage dashboard. Users can connect Google Drive accounts, track quota, upload files, organize files with virtual folders, preview files, and let the backend route uploads to the Drive account with enough free space.",
-    "stars": 474,
-    "language": "TypeScript",
-    "html_url": "https://github.com/zenhosta/9drive"
-  },
-  {
-    "id": 1259071744,
-    "name": "edulab",
-    "full_name": "wy51ai/edulab",
-    "description": null,
-    "stars": 461,
-    "language": "HTML",
-    "html_url": "https://github.com/wy51ai/edulab"
-  },
-  {
-    "id": 1258828721,
-    "name": "loupe",
-    "full_name": "mysk-research/loupe",
-    "description": "A privacy-focused iOS app that raises awareness about what native apps can see",
-    "stars": 426,
-    "language": null,
-    "html_url": "https://github.com/mysk-research/loupe"
-  },
-  {
-    "id": 1259194804,
-    "name": "dots.tts",
-    "full_name": "rednote-hilab/dots.tts",
-    "description": null,
-    "stars": 399,
+    "id": 1262897325,
+    "name": "UniRL",
+    "full_name": "Tencent-Hunyuan/UniRL",
+    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
+    "stars": 455,
     "language": "Python",
-    "html_url": "https://github.com/rednote-hilab/dots.tts"
-  },
-  {
-    "id": 1262530182,
-    "name": "coreai-models",
-    "full_name": "apple/coreai-models",
-    "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-    "stars": 395,
-    "language": "Python",
-    "html_url": "https://github.com/apple/coreai-models"
-  },
-  {
-    "id": 1259824458,
-    "name": "Microsoft-Office-Activated",
-    "full_name": "Unicornronote/Microsoft-Office-Activated",
-    "description": "📊 Microsoft Office Professional Edition — Complete Productivity & Document Management Suite for Windows (2026)",
-    "stars": 382,
-    "language": "C++",
-    "html_url": "https://github.com/Unicornronote/Microsoft-Office-Activated"
-  },
-  {
-    "id": 1260900484,
-    "name": "parcle-memory",
-    "full_name": "Parcle-AI/parcle-memory",
-    "description": null,
-    "stars": 362,
-    "language": null,
-    "html_url": "https://github.com/Parcle-AI/parcle-memory"
+    "html_url": "https://github.com/Tencent-Hunyuan/UniRL"
   },
   {
     "id": 1262769725,
     "name": "xiaohu-video-translate",
     "full_name": "xiaohuailabs/xiaohu-video-translate",
     "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-    "stars": 361,
+    "stars": 446,
     "language": "Python",
     "html_url": "https://github.com/xiaohuailabs/xiaohu-video-translate"
   },
@@ -148,35 +103,80 @@
     "name": "Neo3dEngine",
     "full_name": "IvanSobolev/Neo3dEngine",
     "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.",
-    "stars": 350,
+    "stars": 398,
     "language": "C#",
     "html_url": "https://github.com/IvanSobolev/Neo3dEngine"
+  },
+  {
+    "id": 1260900484,
+    "name": "parcle-memory",
+    "full_name": "Parcle-AI/parcle-memory",
+    "description": null,
+    "stars": 376,
+    "language": "Python",
+    "html_url": "https://github.com/Parcle-AI/parcle-memory"
   },
   {
     "id": 1260625224,
     "name": "wayland",
     "full_name": "FerroxLabs/wayland",
     "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
-    "stars": 336,
+    "stars": 371,
     "language": "TypeScript",
     "html_url": "https://github.com/FerroxLabs/wayland"
-  },
-  {
-    "id": 1262897325,
-    "name": "UniRL",
-    "full_name": "Tencent-Hunyuan/UniRL",
-    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-    "stars": 317,
-    "language": "Python",
-    "html_url": "https://github.com/Tencent-Hunyuan/UniRL"
   },
   {
     "id": 1261832412,
     "name": "aethergate-pro",
     "full_name": "JFGAtlas/aethergate-pro",
     "description": null,
-    "stars": 285,
+    "stars": 333,
     "language": "Python",
     "html_url": "https://github.com/JFGAtlas/aethergate-pro"
+  },
+  {
+    "id": 1263886755,
+    "name": "gpt-pp",
+    "full_name": "jmmy9609-design/gpt-pp",
+    "description": null,
+    "stars": 331,
+    "language": "Python",
+    "html_url": "https://github.com/jmmy9609-design/gpt-pp"
+  },
+  {
+    "id": 1263268212,
+    "name": "secret-tool",
+    "full_name": "secret-tools/secret-tool",
+    "description": "Secret-Tools — classified discord utilities. Star the repo.",
+    "stars": 299,
+    "language": null,
+    "html_url": "https://github.com/secret-tools/secret-tool"
+  },
+  {
+    "id": 1262110699,
+    "name": "xuefeng-agent",
+    "full_name": "ziqihe10-droid/xuefeng-agent",
+    "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+    "stars": 286,
+    "language": "Python",
+    "html_url": "https://github.com/ziqihe10-droid/xuefeng-agent"
+  },
+  {
+    "id": 1260155434,
+    "name": "deep-research",
+    "full_name": "hoolulu/deep-research",
+    "description": "深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages",
+    "stars": 271,
+    "language": "Python",
+    "html_url": "https://github.com/hoolulu/deep-research"
+  },
+  {
+    "id": 1260198724,
+    "name": "ai-coding-starter-kit",
+    "full_name": "CWS6206/ai-coding-starter-kit",
+    "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+    "stars": 263,
+    "language": null,
+    "html_url": "https://github.com/CWS6206/ai-coding-starter-kit"
   }
 ]
