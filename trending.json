@@ -4,7 +4,7 @@
     "name": "MiMo-Code",
     "full_name": "XiaomiMiMo/MiMo-Code",
     "description": null,
-    "stars": 5031,
+    "stars": 7013,
     "language": "TypeScript",
     "html_url": "https://github.com/XiaomiMiMo/MiMo-Code"
   },
@@ -13,7 +13,7 @@
     "name": "improve",
     "full_name": "shadcn/improve",
     "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-    "stars": 1915,
+    "stars": 2468,
     "language": null,
     "html_url": "https://github.com/shadcn/improve"
   },
@@ -22,7 +22,7 @@
     "name": "noop",
     "full_name": "NoopApp/noop",
     "description": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.",
-    "stars": 1484,
+    "stars": 1546,
     "language": "Swift",
     "html_url": "https://github.com/NoopApp/noop"
   },
@@ -31,97 +31,124 @@
     "name": "RoguePlanet",
     "full_name": "MSNightmare/RoguePlanet",
     "description": "RoguePlanet Windows Defender Vulnerability",
-    "stars": 1126,
+    "stars": 1220,
     "language": "C++",
     "html_url": "https://github.com/MSNightmare/RoguePlanet"
+  },
+  {
+    "id": 1266797999,
+    "name": "ponytail",
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "stars": 969,
+    "language": "JavaScript",
+    "html_url": "https://github.com/DietrichGebert/ponytail"
   },
   {
     "id": 1262142501,
     "name": "GordenSuperPPTSkills",
     "full_name": "GordenSun/GordenSuperPPTSkills",
     "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
-    "stars": 800,
+    "stars": 848,
     "language": "Python",
     "html_url": "https://github.com/GordenSun/GordenSuperPPTSkills"
-  },
-  {
-    "id": 1261650101,
-    "name": "baoyu-design",
-    "full_name": "JimLiu/baoyu-design",
-    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-    "stars": 784,
-    "language": "JavaScript",
-    "html_url": "https://github.com/JimLiu/baoyu-design"
   },
   {
     "id": 1262530182,
     "name": "coreai-models",
     "full_name": "apple/coreai-models",
     "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-    "stars": 753,
-    "language": "Python",
+    "stars": 837,
+    "language": "Swift",
     "html_url": "https://github.com/apple/coreai-models"
+  },
+  {
+    "id": 1261650101,
+    "name": "baoyu-design",
+    "full_name": "JimLiu/baoyu-design",
+    "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+    "stars": 831,
+    "language": "JavaScript",
+    "html_url": "https://github.com/JimLiu/baoyu-design"
   },
   {
     "id": 1262119305,
     "name": "performativeUI",
     "full_name": "vorpus/performativeUI",
     "description": null,
-    "stars": 627,
+    "stars": 661,
     "language": "TypeScript",
     "html_url": "https://github.com/vorpus/performativeUI"
   },
   {
-    "id": 1261422007,
-    "name": "guard-skills",
-    "full_name": "amElnagdy/guard-skills",
-    "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
-    "stars": 571,
-    "language": null,
-    "html_url": "https://github.com/amElnagdy/guard-skills"
+    "id": 1265107923,
+    "name": "enableMacosAI",
+    "full_name": "SkyBlue997/enableMacosAI",
+    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
+    "stars": 648,
+    "language": "Shell",
+    "html_url": "https://github.com/SkyBlue997/enableMacosAI"
   },
   {
     "id": 1262897325,
     "name": "UniRL",
     "full_name": "Tencent-Hunyuan/UniRL",
     "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-    "stars": 526,
+    "stars": 555,
     "language": "Python",
     "html_url": "https://github.com/Tencent-Hunyuan/UniRL"
+  },
+  {
+    "id": 1264478656,
+    "name": "effective-html",
+    "full_name": "plannotator/effective-html",
+    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+    "stars": 517,
+    "language": "HTML",
+    "html_url": "https://github.com/plannotator/effective-html"
   },
   {
     "id": 1262769725,
     "name": "xiaohu-video-translate",
     "full_name": "xiaohuailabs/xiaohu-video-translate",
     "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-    "stars": 466,
+    "stars": 482,
     "language": "Python",
     "html_url": "https://github.com/xiaohuailabs/xiaohu-video-translate"
   },
   {
-    "id": 1261137494,
-    "name": "Neo3dEngine",
-    "full_name": "IvanSobolev/Neo3dEngine",
-    "description": "A minimalist CPU-based 3D console engine in C# (.NET 8) built from scratch. Features Raycasting/Raytracing, dynamic lighting & shadows, .obj loader, and custom TCP-based multiplayer with real-time chat. No external graphics APIs.",
-    "stars": 430,
-    "language": "C#",
-    "html_url": "https://github.com/IvanSobolev/Neo3dEngine"
+    "id": 1264716916,
+    "name": "world-of-claudecraft",
+    "full_name": "levy-street/world-of-claudecraft",
+    "description": null,
+    "stars": 455,
+    "language": "TypeScript",
+    "html_url": "https://github.com/levy-street/world-of-claudecraft"
   },
   {
-    "id": 1260900484,
-    "name": "parcle-memory",
-    "full_name": "Parcle-AI/parcle-memory",
-    "description": null,
-    "stars": 392,
+    "id": 1264265489,
+    "name": "text-humanizer",
+    "full_name": "khrisat/text-humanizer",
+    "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+    "stars": 436,
     "language": "Python",
-    "html_url": "https://github.com/Parcle-AI/parcle-memory"
+    "html_url": "https://github.com/khrisat/text-humanizer"
+  },
+  {
+    "id": 1265651119,
+    "name": "GreatXML",
+    "full_name": "MSNightmare/GreatXML",
+    "description": "GreatXML bitlocker bypass vulnerability",
+    "stars": 429,
+    "language": null,
+    "html_url": "https://github.com/MSNightmare/GreatXML"
   },
   {
     "id": 1262119018,
     "name": "claude-for-financial-services-cn",
     "full_name": "jwangkun/claude-for-financial-services-cn",
     "description": " 63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。",
-    "stars": 381,
+    "stars": 426,
     "language": "Python",
     "html_url": "https://github.com/jwangkun/claude-for-financial-services-cn"
   },
@@ -130,7 +157,7 @@
     "name": "xuefeng-agent",
     "full_name": "ziqihe10-droid/xuefeng-agent",
     "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
-    "stars": 355,
+    "stars": 396,
     "language": "HTML",
     "html_url": "https://github.com/ziqihe10-droid/xuefeng-agent"
   },
@@ -139,7 +166,7 @@
     "name": "gpt-pp",
     "full_name": "jmmy9609-design/gpt-pp",
     "description": null,
-    "stars": 354,
+    "stars": 375,
     "language": "Python",
     "html_url": "https://github.com/jmmy9609-design/gpt-pp"
   },
@@ -148,35 +175,8 @@
     "name": "aethergate-pro",
     "full_name": "JFGAtlas/aethergate-pro",
     "description": null,
-    "stars": 340,
+    "stars": 346,
     "language": "Python",
     "html_url": "https://github.com/JFGAtlas/aethergate-pro"
-  },
-  {
-    "id": 1263268212,
-    "name": "secret-tool",
-    "full_name": "secret-tools/secret-tool",
-    "description": "Secret-Tools — classified discord utilities. Star the repo.",
-    "stars": 329,
-    "language": null,
-    "html_url": "https://github.com/secret-tools/secret-tool"
-  },
-  {
-    "id": 1261348412,
-    "name": "BestSerenitySkillFromAT",
-    "full_name": "yux1azhengye/BestSerenitySkillFromAT",
-    "description": "BestSerenityFromAT(AlphaTerminal On The Way)",
-    "stars": 301,
-    "language": null,
-    "html_url": "https://github.com/yux1azhengye/BestSerenitySkillFromAT"
-  },
-  {
-    "id": 1265651119,
-    "name": "GreatXML",
-    "full_name": "MSNightmare/GreatXML",
-    "description": "GreatXML bitlocker bypass vulnerability",
-    "stars": 295,
-    "language": null,
-    "html_url": "https://github.com/MSNightmare/GreatXML"
   }
 ]
