@@ -1,10 +1,19 @@
 [
   {
+    "id": 1266797999,
+    "name": "ponytail",
+    "full_name": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "stars": 8776,
+    "language": "JavaScript",
+    "html_url": "https://github.com/DietrichGebert/ponytail"
+  },
+  {
     "id": 1265025028,
     "name": "MiMo-Code",
     "full_name": "XiaomiMiMo/MiMo-Code",
     "description": null,
-    "stars": 8002,
+    "stars": 8567,
     "language": "TypeScript",
     "html_url": "https://github.com/XiaomiMiMo/MiMo-Code"
   },
@@ -13,25 +22,25 @@
     "name": "improve",
     "full_name": "shadcn/improve",
     "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-    "stars": 3522,
+    "stars": 4438,
     "language": null,
     "html_url": "https://github.com/shadcn/improve"
   },
   {
-    "id": 1266797999,
-    "name": "ponytail",
-    "full_name": "DietrichGebert/ponytail",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "stars": 1625,
-    "language": "JavaScript",
-    "html_url": "https://github.com/DietrichGebert/ponytail"
+    "id": 1266212515,
+    "name": "omnigent",
+    "full_name": "omnigent-ai/omnigent",
+    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
+    "stars": 1286,
+    "language": "Python",
+    "html_url": "https://github.com/omnigent-ai/omnigent"
   },
   {
     "id": 1264312494,
     "name": "RoguePlanet",
     "full_name": "MSNightmare/RoguePlanet",
     "description": "RoguePlanet Windows Defender Vulnerability",
-    "stars": 1255,
+    "stars": 1276,
     "language": "C++",
     "html_url": "https://github.com/MSNightmare/RoguePlanet"
   },
@@ -40,117 +49,117 @@
     "name": "enableMacosAI",
     "full_name": "SkyBlue997/enableMacosAI",
     "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-    "stars": 1034,
+    "stars": 1213,
     "language": "Shell",
     "html_url": "https://github.com/SkyBlue997/enableMacosAI"
-  },
-  {
-    "id": 1262530182,
-    "name": "coreai-models",
-    "full_name": "apple/coreai-models",
-    "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
-    "stars": 874,
-    "language": "Swift",
-    "html_url": "https://github.com/apple/coreai-models"
-  },
-  {
-    "id": 1264478656,
-    "name": "effective-html",
-    "full_name": "plannotator/effective-html",
-    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
-    "stars": 755,
-    "language": "HTML",
-    "html_url": "https://github.com/plannotator/effective-html"
   },
   {
     "id": 1267357207,
     "name": "aur-malware-check",
     "full_name": "lenucksi/aur-malware-check",
     "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-    "stars": 619,
+    "stars": 903,
     "language": "Shell",
     "html_url": "https://github.com/lenucksi/aur-malware-check"
+  },
+  {
+    "id": 1264478656,
+    "name": "effective-html",
+    "full_name": "plannotator/effective-html",
+    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+    "stars": 847,
+    "language": "HTML",
+    "html_url": "https://github.com/plannotator/effective-html"
+  },
+  {
+    "id": 1269156190,
+    "name": "kage",
+    "full_name": "tamnd/kage",
+    "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
+    "stars": 752,
+    "language": "Go",
+    "html_url": "https://github.com/tamnd/kage"
   },
   {
     "id": 1264716916,
     "name": "world-of-claudecraft",
     "full_name": "levy-street/world-of-claudecraft",
     "description": null,
-    "stars": 603,
+    "stars": 710,
     "language": "TypeScript",
     "html_url": "https://github.com/levy-street/world-of-claudecraft"
-  },
-  {
-    "id": 1262897325,
-    "name": "UniRL",
-    "full_name": "Tencent-Hunyuan/UniRL",
-    "description": "UniRL is a Framework for Unified Multimodal Model Reinforcement Learning",
-    "stars": 582,
-    "language": "Python",
-    "html_url": "https://github.com/Tencent-Hunyuan/UniRL"
-  },
-  {
-    "id": 1264265489,
-    "name": "text-humanizer",
-    "full_name": "khrisat/text-humanizer",
-    "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-    "stars": 570,
-    "language": "Python",
-    "html_url": "https://github.com/khrisat/text-humanizer"
-  },
-  {
-    "id": 1266212515,
-    "name": "omnigent",
-    "full_name": "omnigent-ai/omnigent",
-    "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-    "stars": 559,
-    "language": "Python",
-    "html_url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "id": 1262769725,
-    "name": "xiaohu-video-translate",
-    "full_name": "xiaohuailabs/xiaohu-video-translate",
-    "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
-    "stars": 494,
-    "language": "Python",
-    "html_url": "https://github.com/xiaohuailabs/xiaohu-video-translate"
-  },
-  {
-    "id": 1266385233,
-    "name": "qiaomu-goal-meta-skill",
-    "full_name": "joeseesun/qiaomu-goal-meta-skill",
-    "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-    "stars": 474,
-    "language": "Python",
-    "html_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill"
-  },
-  {
-    "id": 1265651119,
-    "name": "GreatXML",
-    "full_name": "MSNightmare/GreatXML",
-    "description": "GreatXML bitlocker bypass vulnerability",
-    "stars": 458,
-    "language": null,
-    "html_url": "https://github.com/MSNightmare/GreatXML"
-  },
-  {
-    "id": 1264531337,
-    "name": "fanbox",
-    "full_name": "alchaincyf/fanbox",
-    "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-    "stars": 454,
-    "language": "JavaScript",
-    "html_url": "https://github.com/alchaincyf/fanbox"
   },
   {
     "id": 1267797347,
     "name": "renwei-writing",
     "full_name": "orange2ai/renwei-writing",
     "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-    "stars": 446,
+    "stars": 607,
     "language": null,
     "html_url": "https://github.com/orange2ai/renwei-writing"
+  },
+  {
+    "id": 1266385233,
+    "name": "qiaomu-goal-meta-skill",
+    "full_name": "joeseesun/qiaomu-goal-meta-skill",
+    "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
+    "stars": 587,
+    "language": "Python",
+    "html_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill"
+  },
+  {
+    "id": 1264195214,
+    "name": "slot-text",
+    "full_name": "Danilaa1/slot-text",
+    "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
+    "stars": 583,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Danilaa1/slot-text"
+  },
+  {
+    "id": 1264265489,
+    "name": "text-humanizer",
+    "full_name": "khrisat/text-humanizer",
+    "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
+    "stars": 579,
+    "language": "Python",
+    "html_url": "https://github.com/khrisat/text-humanizer"
+  },
+  {
+    "id": 1264531337,
+    "name": "fanbox",
+    "full_name": "alchaincyf/fanbox",
+    "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
+    "stars": 528,
+    "language": "JavaScript",
+    "html_url": "https://github.com/alchaincyf/fanbox"
+  },
+  {
+    "id": 1264560911,
+    "name": "boo",
+    "full_name": "coder/boo",
+    "description": "A GNU screen style terminal multiplexer built on libghostty.",
+    "stars": 481,
+    "language": "Zig",
+    "html_url": "https://github.com/coder/boo"
+  },
+  {
+    "id": 1265651119,
+    "name": "GreatXML",
+    "full_name": "MSNightmare/GreatXML",
+    "description": "GreatXML bitlocker bypass vulnerability",
+    "stars": 476,
+    "language": null,
+    "html_url": "https://github.com/MSNightmare/GreatXML"
+  },
+  {
+    "id": 1266832037,
+    "name": "architect-loop",
+    "full_name": "DanMcInerney/architect-loop",
+    "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+    "stars": 400,
+    "language": "HTML",
+    "html_url": "https://github.com/DanMcInerney/architect-loop"
   },
   {
     "id": 1263886755,
@@ -162,21 +171,12 @@
     "html_url": "https://github.com/jmmy9609-design/gpt-pp"
   },
   {
-    "id": 1264195214,
-    "name": "slot-text",
-    "full_name": "Danilaa1/slot-text",
-    "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
-    "stars": 383,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Danilaa1/slot-text"
-  },
-  {
-    "id": 1264560911,
-    "name": "boo",
-    "full_name": "coder/boo",
-    "description": "A GNU screen style terminal multiplexer built on libghostty.",
-    "stars": 360,
-    "language": "Zig",
-    "html_url": "https://github.com/coder/boo"
+    "id": 1268186785,
+    "name": "IPA-Download",
+    "full_name": "EEliberto/IPA-Download",
+    "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+    "stars": 394,
+    "language": "Swift",
+    "html_url": "https://github.com/EEliberto/IPA-Download"
   }
 ]
