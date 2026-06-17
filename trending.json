@@ -4,97 +4,61 @@
     "name": "ponytail",
     "full_name": "DietrichGebert/ponytail",
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "stars": 8776,
+    "stars": 26167,
     "language": "JavaScript",
     "html_url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
-    "id": 1265025028,
-    "name": "MiMo-Code",
-    "full_name": "XiaomiMiMo/MiMo-Code",
-    "description": null,
-    "stars": 8567,
-    "language": "TypeScript",
-    "html_url": "https://github.com/XiaomiMiMo/MiMo-Code"
-  },
-  {
-    "id": 1264986626,
-    "name": "improve",
-    "full_name": "shadcn/improve",
-    "description": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
-    "stars": 4438,
-    "language": null,
-    "html_url": "https://github.com/shadcn/improve"
   },
   {
     "id": 1266212515,
     "name": "omnigent",
     "full_name": "omnigent-ai/omnigent",
     "description": "A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.",
-    "stars": 1286,
+    "stars": 2902,
     "language": "Python",
     "html_url": "https://github.com/omnigent-ai/omnigent"
-  },
-  {
-    "id": 1264312494,
-    "name": "RoguePlanet",
-    "full_name": "MSNightmare/RoguePlanet",
-    "description": "RoguePlanet Windows Defender Vulnerability",
-    "stars": 1276,
-    "language": "C++",
-    "html_url": "https://github.com/MSNightmare/RoguePlanet"
-  },
-  {
-    "id": 1265107923,
-    "name": "enableMacosAI",
-    "full_name": "SkyBlue997/enableMacosAI",
-    "description": "国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon",
-    "stars": 1213,
-    "language": "Shell",
-    "html_url": "https://github.com/SkyBlue997/enableMacosAI"
-  },
-  {
-    "id": 1267357207,
-    "name": "aur-malware-check",
-    "full_name": "lenucksi/aur-malware-check",
-    "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-    "stars": 903,
-    "language": "Shell",
-    "html_url": "https://github.com/lenucksi/aur-malware-check"
-  },
-  {
-    "id": 1264478656,
-    "name": "effective-html",
-    "full_name": "plannotator/effective-html",
-    "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
-    "stars": 847,
-    "language": "HTML",
-    "html_url": "https://github.com/plannotator/effective-html"
   },
   {
     "id": 1269156190,
     "name": "kage",
     "full_name": "tamnd/kage",
     "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-    "stars": 752,
+    "stars": 1780,
     "language": "Go",
     "html_url": "https://github.com/tamnd/kage"
   },
   {
-    "id": 1264716916,
-    "name": "world-of-claudecraft",
-    "full_name": "levy-street/world-of-claudecraft",
-    "description": null,
-    "stars": 710,
-    "language": "TypeScript",
-    "html_url": "https://github.com/levy-street/world-of-claudecraft"
+    "id": 1267357207,
+    "name": "aur-malware-check",
+    "full_name": "lenucksi/aur-malware-check",
+    "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
+    "stars": 1356,
+    "language": "Shell",
+    "html_url": "https://github.com/lenucksi/aur-malware-check"
+  },
+  {
+    "id": 1268186785,
+    "name": "IPA-Download",
+    "full_name": "EEliberto/IPA-Download",
+    "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+    "stars": 857,
+    "language": "Swift",
+    "html_url": "https://github.com/EEliberto/IPA-Download"
+  },
+  {
+    "id": 1265847218,
+    "name": "loc567",
+    "full_name": "loc567/loc567",
+    "description": "loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com",
+    "stars": 791,
+    "language": "C",
+    "html_url": "https://github.com/loc567/loc567"
   },
   {
     "id": 1267797347,
     "name": "renwei-writing",
     "full_name": "orange2ai/renwei-writing",
     "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-    "stars": 607,
+    "stars": 732,
     "language": null,
     "html_url": "https://github.com/orange2ai/renwei-writing"
   },
@@ -103,80 +67,116 @@
     "name": "qiaomu-goal-meta-skill",
     "full_name": "joeseesun/qiaomu-goal-meta-skill",
     "description": "Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide",
-    "stars": 587,
+    "stars": 634,
     "language": "Python",
     "html_url": "https://github.com/joeseesun/qiaomu-goal-meta-skill"
   },
   {
-    "id": 1264195214,
-    "name": "slot-text",
-    "full_name": "Danilaa1/slot-text",
-    "description": "Dependency-free text roll animation for vanilla JS, React, and Vue.",
-    "stars": 583,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Danilaa1/slot-text"
-  },
-  {
-    "id": 1264265489,
-    "name": "text-humanizer",
-    "full_name": "khrisat/text-humanizer",
-    "description": "Advanced open-source AI humanizer designed to make AI-generated text undetectable by Turnitin, GPTZero, and other AI detection services.",
-    "stars": 579,
+    "id": 1266923310,
+    "name": "pixel2motion",
+    "full_name": "nolangz/pixel2motion",
+    "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+    "stars": 619,
     "language": "Python",
-    "html_url": "https://github.com/khrisat/text-humanizer"
+    "html_url": "https://github.com/nolangz/pixel2motion"
   },
   {
-    "id": 1264531337,
-    "name": "fanbox",
-    "full_name": "alchaincyf/fanbox",
-    "description": "vibe coding 的驾驶舱：左边文件，右边/下边终端，中间看清每一次改动。 / The cockpit for vibe coding: browse files on the left, command agents on the right, watch every change in between.",
-    "stars": 528,
-    "language": "JavaScript",
-    "html_url": "https://github.com/alchaincyf/fanbox"
-  },
-  {
-    "id": 1264560911,
-    "name": "boo",
-    "full_name": "coder/boo",
-    "description": "A GNU screen style terminal multiplexer built on libghostty.",
-    "stars": 481,
-    "language": "Zig",
-    "html_url": "https://github.com/coder/boo"
+    "id": 1267485499,
+    "name": "vorssaint-utils",
+    "full_name": "vorssaint/vorssaint-utils",
+    "description": null,
+    "stars": 514,
+    "language": "Swift",
+    "html_url": "https://github.com/vorssaint/vorssaint-utils"
   },
   {
     "id": 1265651119,
     "name": "GreatXML",
     "full_name": "MSNightmare/GreatXML",
     "description": "GreatXML bitlocker bypass vulnerability",
-    "stars": 476,
+    "stars": 505,
     "language": null,
     "html_url": "https://github.com/MSNightmare/GreatXML"
+  },
+  {
+    "id": 1269794613,
+    "name": "loop-engineering-orange-book",
+    "full_name": "alchaincyf/loop-engineering-orange-book",
+    "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
+    "stars": 500,
+    "language": null,
+    "html_url": "https://github.com/alchaincyf/loop-engineering-orange-book"
+  },
+  {
+    "id": 1267525341,
+    "name": "GoldenEye-Recomp",
+    "full_name": "SunJaycy/GoldenEye-Recomp",
+    "description": null,
+    "stars": 497,
+    "language": "C++",
+    "html_url": "https://github.com/SunJaycy/GoldenEye-Recomp"
   },
   {
     "id": 1266832037,
     "name": "architect-loop",
     "full_name": "DanMcInerney/architect-loop",
     "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
-    "stars": 400,
+    "stars": 487,
     "language": "HTML",
     "html_url": "https://github.com/DanMcInerney/architect-loop"
   },
   {
-    "id": 1263886755,
-    "name": "gpt-pp",
-    "full_name": "jmmy9609-design/gpt-pp",
-    "description": null,
-    "stars": 396,
-    "language": "Python",
-    "html_url": "https://github.com/jmmy9609-design/gpt-pp"
+    "id": 1267455254,
+    "name": "gateGPT",
+    "full_name": "fguzman82/gateGPT",
+    "description": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
+    "stars": 450,
+    "language": "Verilog",
+    "html_url": "https://github.com/fguzman82/gateGPT"
   },
   {
-    "id": 1268186785,
-    "name": "IPA-Download",
-    "full_name": "EEliberto/IPA-Download",
-    "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-    "stars": 394,
-    "language": "Swift",
-    "html_url": "https://github.com/EEliberto/IPA-Download"
+    "id": 1268068714,
+    "name": "fable-mode",
+    "full_name": "mrtooher/fable-mode",
+    "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+    "stars": 433,
+    "language": null,
+    "html_url": "https://github.com/mrtooher/fable-mode"
+  },
+  {
+    "id": 1268898197,
+    "name": "sqltoerdiagram",
+    "full_name": "royalbhati/sqltoerdiagram",
+    "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+    "stars": 399,
+    "language": "JavaScript",
+    "html_url": "https://github.com/royalbhati/sqltoerdiagram"
+  },
+  {
+    "id": 1266009367,
+    "name": "luban-skill",
+    "full_name": "LearnPrompt/luban-skill",
+    "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
+    "stars": 370,
+    "language": "Shell",
+    "html_url": "https://github.com/LearnPrompt/luban-skill"
+  },
+  {
+    "id": 1268946118,
+    "name": "fablize",
+    "full_name": "fivetaku/fablize",
+    "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
+    "stars": 364,
+    "language": "Shell",
+    "html_url": "https://github.com/fivetaku/fablize"
+  },
+  {
+    "id": 1266985960,
+    "name": "compose-nav-graph",
+    "full_name": "skydoves/compose-nav-graph",
+    "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
+    "stars": 361,
+    "language": "Kotlin",
+    "html_url": "https://github.com/skydoves/compose-nav-graph"
   }
 ]
