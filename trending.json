@@ -1,182 +1,182 @@
 [
   {
-    "id": 1266797999,
-    "name": "ponytail",
-    "full_name": "DietrichGebert/ponytail",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "stars": 32450,
-    "language": "JavaScript",
-    "html_url": "https://github.com/DietrichGebert/ponytail"
-  },
-  {
     "id": 1269156190,
     "name": "kage",
     "full_name": "tamnd/kage",
     "description": "Shadow any website for offline viewing, with the JavaScript stripped out",
-    "stars": 1868,
+    "stars": 2016,
     "language": "Go",
     "html_url": "https://github.com/tamnd/kage"
-  },
-  {
-    "id": 1267357207,
-    "name": "aur-malware-check",
-    "full_name": "lenucksi/aur-malware-check",
-    "description": "Detection tools for the June 2026 atomic-lockfile AUR supply-chain attack. Consolidated from community Gists.",
-    "stars": 1466,
-    "language": "Shell",
-    "html_url": "https://github.com/lenucksi/aur-malware-check"
-  },
-  {
-    "id": 1268186785,
-    "name": "IPA-Download",
-    "full_name": "EEliberto/IPA-Download",
-    "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
-    "stars": 1022,
-    "language": "Swift",
-    "html_url": "https://github.com/EEliberto/IPA-Download"
   },
   {
     "id": 1271113810,
     "name": "eve",
     "full_name": "vercel/eve",
     "description": "The Framework for Building Agents",
-    "stars": 801,
+    "stars": 1413,
     "language": "TypeScript",
     "html_url": "https://github.com/vercel/eve"
   },
   {
-    "id": 1267797347,
-    "name": "renwei-writing",
-    "full_name": "orange2ai/renwei-writing",
-    "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
-    "stars": 780,
-    "language": null,
-    "html_url": "https://github.com/orange2ai/renwei-writing"
+    "id": 1268186785,
+    "name": "IPA-Download",
+    "full_name": "EEliberto/IPA-Download",
+    "description": "一款用于安装 IPA 历史版本的工具，适用于获取旧版应用并自动捕获数据包。下载后，可直接通过 AirDrop 传输至 iPhone、iPad 上并安装并使用。",
+    "stars": 1075,
+    "language": "Swift",
+    "html_url": "https://github.com/EEliberto/IPA-Download"
   },
   {
-    "id": 1266923310,
-    "name": "pixel2motion",
-    "full_name": "nolangz/pixel2motion",
-    "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
-    "stars": 727,
-    "language": "Python",
-    "html_url": "https://github.com/nolangz/pixel2motion"
+    "id": 1269395331,
+    "name": "devspace",
+    "full_name": "Waishnav/devspace",
+    "description": "Turn ChatGPT into Codex",
+    "stars": 944,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Waishnav/devspace"
   },
   {
     "id": 1269794613,
     "name": "loop-engineering-orange-book",
     "full_name": "alchaincyf/loop-engineering-orange-book",
     "description": "别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.",
-    "stars": 637,
+    "stars": 674,
     "language": null,
     "html_url": "https://github.com/alchaincyf/loop-engineering-orange-book"
-  },
-  {
-    "id": 1267485499,
-    "name": "vorssaint-utils",
-    "full_name": "vorssaint/vorssaint-utils",
-    "description": "Vorssaint macOS app",
-    "stars": 602,
-    "language": "Swift",
-    "html_url": "https://github.com/vorssaint/vorssaint-utils"
-  },
-  {
-    "id": 1267525341,
-    "name": "GoldenEye-Recomp",
-    "full_name": "SunJaycy/GoldenEye-Recomp",
-    "description": null,
-    "stars": 532,
-    "language": "C++",
-    "html_url": "https://github.com/SunJaycy/GoldenEye-Recomp"
-  },
-  {
-    "id": 1266832037,
-    "name": "architect-loop",
-    "full_name": "DanMcInerney/architect-loop",
-    "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
-    "stars": 501,
-    "language": "HTML",
-    "html_url": "https://github.com/DanMcInerney/architect-loop"
   },
   {
     "id": 1271894214,
     "name": "junction",
     "full_name": "Plaer1/junction",
     "description": "VS Code chat sidebar for local AI coding agents",
-    "stars": 501,
+    "stars": 510,
     "language": "TypeScript",
     "html_url": "https://github.com/Plaer1/junction"
-  },
-  {
-    "id": 1267455254,
-    "name": "gateGPT",
-    "full_name": "fguzman82/gateGPT",
-    "description": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
-    "stars": 487,
-    "language": "Verilog",
-    "html_url": "https://github.com/fguzman82/gateGPT"
   },
   {
     "id": 1268068714,
     "name": "fable-mode",
     "full_name": "mrtooher/fable-mode",
     "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
-    "stars": 474,
+    "stars": 501,
     "language": null,
     "html_url": "https://github.com/mrtooher/fable-mode"
-  },
-  {
-    "id": 1268898197,
-    "name": "sqltoerdiagram",
-    "full_name": "royalbhati/sqltoerdiagram",
-    "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
-    "stars": 452,
-    "language": "JavaScript",
-    "html_url": "https://github.com/royalbhati/sqltoerdiagram"
   },
   {
     "id": 1268946118,
     "name": "fablize",
     "full_name": "fivetaku/fablize",
     "description": "A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.",
-    "stars": 445,
-    "language": "Shell",
+    "stars": 479,
+    "language": "Python",
     "html_url": "https://github.com/fivetaku/fablize"
   },
   {
-    "id": 1266794943,
-    "name": "gorest-2d-animation-spritesheet-generator",
-    "full_name": "NO6KIKO/gorest-2d-animation-spritesheet-generator",
-    "description": "Codex-assisted local 2D animation spritesheet generator and scene compositing workspace.",
-    "stars": 387,
+    "id": 1268898197,
+    "name": "sqltoerdiagram",
+    "full_name": "royalbhati/sqltoerdiagram",
+    "description": "ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded",
+    "stars": 467,
+    "language": "JavaScript",
+    "html_url": "https://github.com/royalbhati/sqltoerdiagram"
+  },
+  {
+    "id": 1271627791,
+    "name": "codexpro",
+    "full_name": "rebel0789/codexpro",
+    "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+    "stars": 403,
     "language": "TypeScript",
-    "html_url": "https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator"
+    "html_url": "https://github.com/rebel0789/codexpro"
   },
   {
-    "id": 1266985960,
-    "name": "compose-nav-graph",
-    "full_name": "skydoves/compose-nav-graph",
-    "description": "⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.",
-    "stars": 381,
-    "language": "Kotlin",
-    "html_url": "https://github.com/skydoves/compose-nav-graph"
-  },
-  {
-    "id": 1267078448,
-    "name": "coralline",
-    "full_name": "Nanako0129/coralline",
-    "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
-    "stars": 358,
-    "language": "Shell",
-    "html_url": "https://github.com/Nanako0129/coralline"
+    "id": 1268429667,
+    "name": "bazi-ziwei-skill",
+    "full_name": "dzcmemory-web/bazi-ziwei-skill",
+    "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+    "stars": 394,
+    "language": "TypeScript",
+    "html_url": "https://github.com/dzcmemory-web/bazi-ziwei-skill"
   },
   {
     "id": 1268774372,
     "name": "fusion-fable",
     "full_name": "duolahypercho/fusion-fable",
     "description": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
-    "stars": 351,
+    "stars": 368,
     "language": "Shell",
     "html_url": "https://github.com/duolahypercho/fusion-fable"
+  },
+  {
+    "id": 1268405871,
+    "name": "mac-ocr",
+    "full_name": "privatenumber/mac-ocr",
+    "description": "macOS CLI for OCR and searchable PDFs using Apple's Vision framework.",
+    "stars": 365,
+    "language": "Swift",
+    "html_url": "https://github.com/privatenumber/mac-ocr"
+  },
+  {
+    "id": 1268441659,
+    "name": "ku",
+    "full_name": "bjarneo/ku",
+    "description": "A fast, keyboard-driven Kubernetes TUI. Browse any resource, edit objects, follow logs, and shell into pods. ",
+    "stars": 339,
+    "language": "Go",
+    "html_url": "https://github.com/bjarneo/ku"
+  },
+  {
+    "id": 1272331576,
+    "name": "Maya-2026-Animation-Workflow",
+    "full_name": "ApothecarySeize/Maya-2026-Animation-Workflow",
+    "description": null,
+    "stars": 319,
+    "language": null,
+    "html_url": "https://github.com/ApothecarySeize/Maya-2026-Animation-Workflow"
+  },
+  {
+    "id": 1269229845,
+    "name": "FableCodex",
+    "full_name": "baskduf/FableCodex",
+    "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+    "stars": 308,
+    "language": "Python",
+    "html_url": "https://github.com/baskduf/FableCodex"
+  },
+  {
+    "id": 1267982346,
+    "name": "Third-Eye",
+    "full_name": "eli-labz/Third-Eye",
+    "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+    "stars": 302,
+    "language": "TypeScript",
+    "html_url": "https://github.com/eli-labz/Third-Eye"
+  },
+  {
+    "id": 1268528222,
+    "name": "qiaomu-novel-generator",
+    "full_name": "joeseesun/qiaomu-novel-generator",
+    "description": "Generate complete, gripping original Chinese short fiction from story ideas with reusable narrative craft hooks.",
+    "stars": 300,
+    "language": "Python",
+    "html_url": "https://github.com/joeseesun/qiaomu-novel-generator"
+  },
+  {
+    "id": 1269836503,
+    "name": "compass-skills",
+    "full_name": "dongshuyan/compass-skills",
+    "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+    "stars": 296,
+    "language": "Python",
+    "html_url": "https://github.com/dongshuyan/compass-skills"
+  },
+  {
+    "id": 1271332229,
+    "name": "Boogu-Image",
+    "full_name": "boogu-project/Boogu-Image",
+    "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
+    "stars": 289,
+    "language": "Python",
+    "html_url": "https://github.com/boogu-project/Boogu-Image"
   }
 ]
