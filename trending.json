@@ -1,111 +1,129 @@
 [
   {
-    "id": 1271113810,
-    "name": "eve",
-    "full_name": "vercel/eve",
-    "description": "The Framework for Building Agents",
-    "stars": 2110,
-    "language": "TypeScript",
-    "html_url": "https://github.com/vercel/eve"
-  },
-  {
     "id": 1273536446,
     "name": "Cowart",
     "full_name": "zhongerxin/Cowart",
     "description": null,
-    "stars": 1414,
+    "stars": 2060,
     "language": "JavaScript",
     "html_url": "https://github.com/zhongerxin/Cowart"
   },
   {
-    "id": 1271627791,
-    "name": "codexpro",
-    "full_name": "rebel0789/codexpro",
-    "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
-    "stars": 636,
-    "language": "JavaScript",
-    "html_url": "https://github.com/rebel0789/codexpro"
+    "id": 1274950277,
+    "name": "zhengxi-views",
+    "full_name": "lyra81604/zhengxi-views",
+    "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
+    "stars": 702,
+    "language": "Python",
+    "html_url": "https://github.com/lyra81604/zhengxi-views"
   },
   {
     "id": 1274547830,
     "name": "agent-apprenticeship",
     "full_name": "Forsy-AI/agent-apprenticeship",
     "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-    "stars": 613,
+    "stars": 692,
     "language": null,
     "html_url": "https://github.com/Forsy-AI/agent-apprenticeship"
-  },
-  {
-    "id": 1271894214,
-    "name": "junction",
-    "full_name": "Plaer1/junction",
-    "description": "VS Code chat sidebar for local AI coding agents",
-    "stars": 518,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Plaer1/junction"
-  },
-  {
-    "id": 1271432814,
-    "name": "webernetes",
-    "full_name": "ngrok/webernetes",
-    "description": "Kubernetes in the browser.",
-    "stars": 488,
-    "language": "TypeScript",
-    "html_url": "https://github.com/ngrok/webernetes"
-  },
-  {
-    "id": 1271332229,
-    "name": "Boogu-Image",
-    "full_name": "boogu-project/Boogu-Image",
-    "description": "Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.",
-    "stars": 402,
-    "language": "Python",
-    "html_url": "https://github.com/boogu-project/Boogu-Image"
-  },
-  {
-    "id": 1272999515,
-    "name": "polymarket-trading-bot-services-polyedge365",
-    "full_name": "MstKail/polymarket-trading-bot-services-polyedge365",
-    "description": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot",
-    "stars": 381,
-    "language": null,
-    "html_url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365"
   },
   {
     "id": 1274697585,
     "name": "cnfast",
     "full_name": "aidenybai/cnfast",
     "description": "Fast drop in replacement for `cn`",
-    "stars": 366,
+    "stars": 670,
     "language": "TypeScript",
     "html_url": "https://github.com/aidenybai/cnfast"
   },
   {
-    "id": 1272107529,
-    "name": "Back-End-Developer-Interview-Questions",
-    "full_name": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
-    "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
-    "stars": 366,
+    "id": 1273138090,
+    "name": "Unlimited-OCR",
+    "full_name": "baidu/Unlimited-OCR",
+    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
+    "stars": 630,
+    "language": "Python",
+    "html_url": "https://github.com/baidu/Unlimited-OCR"
+  },
+  {
+    "id": 1276067021,
+    "name": "birds.cafe",
+    "full_name": "kanavtwtgg/birds.cafe",
+    "description": null,
+    "stars": 561,
+    "language": "JavaScript",
+    "html_url": "https://github.com/kanavtwtgg/birds.cafe"
+  },
+  {
+    "id": 1271894214,
+    "name": "junction",
+    "full_name": "Plaer1/junction",
+    "description": "VS Code chat sidebar for local AI coding agents",
+    "stars": 526,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Plaer1/junction"
+  },
+  {
+    "id": 1272999515,
+    "name": "polymarket-trading-bot-services-polyedge365",
+    "full_name": "MstKail/polymarket-trading-bot-services-polyedge365",
+    "description": "polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot, polymarket hedge bot, polymarket maker bot, polymarket trading bot services, polymarket copy trading bot, polymarket arbitrage bot",
+    "stars": 398,
     "language": null,
-    "html_url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions"
+    "html_url": "https://github.com/MstKail/polymarket-trading-bot-services-polyedge365"
   },
   {
     "id": 1272134131,
     "name": "formcms",
     "full_name": "nnecrkvenuOX/formcms",
     "description": "AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.",
-    "stars": 363,
+    "stars": 382,
     "language": "C#",
     "html_url": "https://github.com/nnecrkvenuOX/formcms"
   },
   {
-    "id": 1271323125,
-    "name": "launch-your-agent",
-    "full_name": "anthropics/launch-your-agent",
-    "description": "Claude Code skills that take a founder from idea to a live Claude Managed Agent: interview, scope a v0, launch in their own account, grade it, iterate, and schedule it",
-    "stars": 357,
-    "language": "HTML",
-    "html_url": "https://github.com/anthropics/launch-your-agent"
+    "id": 1272107529,
+    "name": "Back-End-Developer-Interview-Questions",
+    "full_name": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+    "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+    "stars": 382,
+    "language": null,
+    "html_url": "https://github.com/ReulgeApmpetty0O/Back-End-Developer-Interview-Questions"
+  },
+  {
+    "id": 1273427276,
+    "name": "security-audit-skill",
+    "full_name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "stars": 381,
+    "language": "JavaScript",
+    "html_url": "https://github.com/cloudflare/security-audit-skill"
+  },
+  {
+    "id": 1274399536,
+    "name": "Windows-Copilot-API",
+    "full_name": "sums001/Windows-Copilot-API",
+    "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
+    "stars": 380,
+    "language": "Python",
+    "html_url": "https://github.com/sums001/Windows-Copilot-API"
+  },
+  {
+    "id": 1275444433,
+    "name": "make-look-scanned",
+    "full_name": "overflowy/make-look-scanned",
+    "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+    "stars": 336,
+    "language": "Go",
+    "html_url": "https://github.com/overflowy/make-look-scanned"
+  },
+  {
+    "id": 1274728677,
+    "name": "recall",
+    "full_name": "raiyanyahya/recall",
+    "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
+    "stars": 331,
+    "language": "Python",
+    "html_url": "https://github.com/raiyanyahya/recall"
   },
   {
     "id": 1274064783,
@@ -117,66 +135,48 @@
     "html_url": "https://github.com/MstKail/wc2026-crypto-sportsbook"
   },
   {
-    "id": 1274950277,
-    "name": "zhengxi-views",
-    "full_name": "lyra81604/zhengxi-views",
-    "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-    "stars": 298,
-    "language": "Python",
-    "html_url": "https://github.com/lyra81604/zhengxi-views"
-  },
-  {
-    "id": 1275444433,
-    "name": "make-look-scanned",
-    "full_name": "overflowy/make-look-scanned",
-    "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
-    "stars": 260,
-    "language": "Go",
-    "html_url": "https://github.com/overflowy/make-look-scanned"
-  },
-  {
     "id": 1271960167,
     "name": "intruth-factcheck",
     "full_name": "rpanigrahi222/intruth-factcheck",
     "description": null,
-    "stars": 258,
+    "stars": 309,
     "language": "JavaScript",
     "html_url": "https://github.com/rpanigrahi222/intruth-factcheck"
-  },
-  {
-    "id": 1273427276,
-    "name": "security-audit-skill",
-    "full_name": "cloudflare/security-audit-skill",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "stars": 248,
-    "language": "JavaScript",
-    "html_url": "https://github.com/cloudflare/security-audit-skill"
-  },
-  {
-    "id": 1275299163,
-    "name": "FUNCAPTCHAV3",
-    "full_name": "clent267/FUNCAPTCHAV3",
-    "description": null,
-    "stars": 238,
-    "language": "Python",
-    "html_url": "https://github.com/clent267/FUNCAPTCHAV3"
   },
   {
     "id": 1274683820,
     "name": "transfer-api",
     "full_name": "eooce/transfer-api",
     "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-    "stars": 238,
+    "stars": 296,
     "language": "JavaScript",
     "html_url": "https://github.com/eooce/transfer-api"
   },
   {
-    "id": 1270883324,
-    "name": "patterngen-oss",
-    "full_name": "halfof8/patterngen-oss",
-    "description": null,
-    "stars": 237,
+    "id": 1275152793,
+    "name": "Good-Badminton",
+    "full_name": "yo-WASSUP/Good-Badminton",
+    "description": "🏸  AI Badminton Hawk-Eye System",
+    "stars": 294,
+    "language": "Python",
+    "html_url": "https://github.com/yo-WASSUP/Good-Badminton"
+  },
+  {
+    "id": 1276527666,
+    "name": "AgentSpace",
+    "full_name": "HKUDS/AgentSpace",
+    "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+    "stars": 247,
     "language": "TypeScript",
-    "html_url": "https://github.com/halfof8/patterngen-oss"
+    "html_url": "https://github.com/HKUDS/AgentSpace"
+  },
+  {
+    "id": 1272228069,
+    "name": "codex-referral-risk-research",
+    "full_name": "Tyxy-R/codex-referral-risk-research",
+    "description": null,
+    "stars": 229,
+    "language": "Python",
+    "html_url": "https://github.com/Tyxy-R/codex-referral-risk-research"
   }
 ]
