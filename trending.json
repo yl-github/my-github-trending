@@ -1,28 +1,19 @@
 [
   {
-    "id": 1273138090,
-    "name": "Unlimited-OCR",
-    "full_name": "baidu/Unlimited-OCR",
-    "description": "Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.",
-    "stars": 4035,
-    "language": "Python",
-    "html_url": "https://github.com/baidu/Unlimited-OCR"
-  },
-  {
-    "id": 1273536446,
-    "name": "Cowart",
-    "full_name": "zhongerxin/Cowart",
-    "description": null,
-    "stars": 2412,
-    "language": "JavaScript",
-    "html_url": "https://github.com/zhongerxin/Cowart"
+    "id": 1277578741,
+    "name": "codex-orange-book",
+    "full_name": "bozhouDev/codex-orange-book",
+    "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
+    "stars": 1527,
+    "language": "HTML",
+    "html_url": "https://github.com/bozhouDev/codex-orange-book"
   },
   {
     "id": 1274950277,
     "name": "zhengxi-views",
     "full_name": "lyra81604/zhengxi-views",
     "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-    "stars": 926,
+    "stars": 994,
     "language": "Python",
     "html_url": "https://github.com/lyra81604/zhengxi-views"
   },
@@ -31,7 +22,7 @@
     "name": "agent-apprenticeship",
     "full_name": "Forsy-AI/agent-apprenticeship",
     "description": "The living ecosystem where AI agents learn from real-world work through iterative workflow loops, reusable experience, and collective training signal exchange.",
-    "stars": 867,
+    "stars": 914,
     "language": null,
     "html_url": "https://github.com/Forsy-AI/agent-apprenticeship"
   },
@@ -40,7 +31,7 @@
     "name": "cnfast",
     "full_name": "aidenybai/cnfast",
     "description": "Fast drop in replacement for `cn`",
-    "stars": 797,
+    "stars": 886,
     "language": "TypeScript",
     "html_url": "https://github.com/aidenybai/cnfast"
   },
@@ -49,134 +40,143 @@
     "name": "birds.cafe",
     "full_name": "kanavtwtgg/birds.cafe",
     "description": null,
-    "stars": 726,
+    "stars": 769,
     "language": "JavaScript",
     "html_url": "https://github.com/kanavtwtgg/birds.cafe"
-  },
-  {
-    "id": 1277578741,
-    "name": "codex-orange-book",
-    "full_name": "bozhouDev/codex-orange-book",
-    "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-    "stars": 626,
-    "language": "HTML",
-    "html_url": "https://github.com/bozhouDev/codex-orange-book"
   },
   {
     "id": 1274399536,
     "name": "Windows-Copilot-API",
     "full_name": "sums001/Windows-Copilot-API",
     "description": "Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.",
-    "stars": 552,
+    "stars": 676,
     "language": "Python",
     "html_url": "https://github.com/sums001/Windows-Copilot-API"
-  },
-  {
-    "id": 1273427276,
-    "name": "security-audit-skill",
-    "full_name": "cloudflare/security-audit-skill",
-    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-    "stars": 504,
-    "language": "JavaScript",
-    "html_url": "https://github.com/cloudflare/security-audit-skill"
-  },
-  {
-    "id": 1275152793,
-    "name": "Good-Badminton",
-    "full_name": "yo-WASSUP/Good-Badminton",
-    "description": "🏸  AI Badminton Hawk-Eye System",
-    "stars": 425,
-    "language": "Python",
-    "html_url": "https://github.com/yo-WASSUP/Good-Badminton"
   },
   {
     "id": 1274728677,
     "name": "recall",
     "full_name": "raiyanyahya/recall",
     "description": "Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.",
-    "stars": 418,
+    "stars": 487,
     "language": "Python",
     "html_url": "https://github.com/raiyanyahya/recall"
+  },
+  {
+    "id": 1275152793,
+    "name": "Good-Badminton",
+    "full_name": "yo-WASSUP/Good-Badminton",
+    "description": "🏸  AI Badminton Hawk-Eye System",
+    "stars": 482,
+    "language": "Python",
+    "html_url": "https://github.com/yo-WASSUP/Good-Badminton"
   },
   {
     "id": 1275444433,
     "name": "make-look-scanned",
     "full_name": "overflowy/make-look-scanned",
     "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
-    "stars": 381,
+    "stars": 404,
     "language": "Go",
     "html_url": "https://github.com/overflowy/make-look-scanned"
-  },
-  {
-    "id": 1274683820,
-    "name": "transfer-api",
-    "full_name": "eooce/transfer-api",
-    "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
-    "stars": 326,
-    "language": "JavaScript",
-    "html_url": "https://github.com/eooce/transfer-api"
   },
   {
     "id": 1276527666,
     "name": "AgentSpace",
     "full_name": "HKUDS/AgentSpace",
     "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-    "stars": 318,
+    "stars": 360,
     "language": "TypeScript",
     "html_url": "https://github.com/HKUDS/AgentSpace"
   },
   {
-    "id": 1273707469,
-    "name": "looper",
-    "full_name": "ksimback/looper",
-    "description": "Design visual, review-gated agent loops for Claude Code before you run them.",
-    "stars": 232,
+    "id": 1274683820,
+    "name": "transfer-api",
+    "full_name": "eooce/transfer-api",
+    "description": "Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.",
+    "stars": 351,
+    "language": "JavaScript",
+    "html_url": "https://github.com/eooce/transfer-api"
+  },
+  {
+    "id": 1277004822,
+    "name": "Qwen-AgentWorld",
+    "full_name": "QwenLM/Qwen-AgentWorld",
+    "description": "Qwen-AgentWorld: Language World Models for General Agents",
+    "stars": 332,
     "language": "Python",
-    "html_url": "https://github.com/ksimback/looper"
+    "html_url": "https://github.com/QwenLM/Qwen-AgentWorld"
   },
   {
     "id": 1277468360,
     "name": "liquid-glass",
     "full_name": "samasante/liquid-glass",
     "description": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
-    "stars": 230,
+    "stars": 293,
     "language": "TypeScript",
     "html_url": "https://github.com/samasante/liquid-glass"
-  },
-  {
-    "id": 1276028522,
-    "name": "baiyueguang-learning-skill",
-    "full_name": "SarkAzia/baiyueguang-learning-skill",
-    "description": "用视奸前任白月光的方式学数学以及任何学科",
-    "stars": 217,
-    "language": null,
-    "html_url": "https://github.com/SarkAzia/baiyueguang-learning-skill"
   },
   {
     "id": 1277614585,
     "name": "tabbit-toy",
     "full_name": "goehou/tabbit-toy",
     "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-    "stars": 215,
+    "stars": 276,
     "language": "JavaScript",
     "html_url": "https://github.com/goehou/tabbit-toy"
   },
   {
-    "id": 1272942359,
-    "name": "sonic-topography",
-    "full_name": "yin-yizhen/sonic-topography",
-    "description": "随音乐产生交互的棋盘式海浪，支持网易云搜索",
-    "stars": 187,
-    "language": "TypeScript",
-    "html_url": "https://github.com/yin-yizhen/sonic-topography"
+    "id": 1276955862,
+    "name": "CWR",
+    "full_name": "BohemiaInteractive/CWR",
+    "description": "Arma: Cold War Assault Remastered Source Code Repository.",
+    "stars": 256,
+    "language": "C++",
+    "html_url": "https://github.com/BohemiaInteractive/CWR"
   },
   {
-    "id": 1275436996,
-    "name": "Gothic-Remake-Lockpick-Solver",
-    "full_name": "pixelgridhub-coder/Gothic-Remake-Lockpick-Solver",
-    "description": "Gothic Remake Lockpick Solver chest gate puzzle combination sequence pin plate slider helper assistant unreal pc steam alkimia thq colony break logic calculator ue5 turn door pattern",
-    "stars": 182,
-    "language": "C#",
-    "html_url": "https://github.com/pixelgridhub-coder/Gothic-Remake-Lockpick-Solver"
+    "id": 1276028522,
+    "name": "baiyueguang-learning-skill",
+    "full_name": "SarkAzia/baiyueguang-learning-skill",
+    "description": "用视奸前任白月光的方式学数学以及任何学科",
+    "stars": 243,
+    "language": null,
+    "html_url": "https://github.com/SarkAzia/baiyueguang-learning-skill"
+  },
+  {
+    "id": 1278830624,
+    "name": "wloc",
+    "full_name": "Yu9191/wloc",
+    "description": "Apple WLOC Location Spoofer",
+    "stars": 215,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Yu9191/wloc"
+  },
+  {
+    "id": 1278049181,
+    "name": "ComfyUI-ConditioningKrea2Rebalance",
+    "full_name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
+    "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+    "stars": 205,
+    "language": "Python",
+    "html_url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance"
+  },
+  {
+    "id": 1277405426,
+    "name": "krea-2",
+    "full_name": "krea-ai/krea-2",
+    "description": "Official inference code for Krea 2",
+    "stars": 193,
+    "language": "Python",
+    "html_url": "https://github.com/krea-ai/krea-2"
+  },
+  {
+    "id": 1278930806,
+    "name": "awesome-evals",
+    "full_name": "benchflow-ai/awesome-evals",
+    "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
+    "stars": 190,
+    "language": null,
+    "html_url": "https://github.com/benchflow-ai/awesome-evals"
   }
 ]
