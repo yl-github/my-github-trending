@@ -4,88 +4,43 @@
     "name": "codex-orange-book",
     "full_name": "bozhouDev/codex-orange-book",
     "description": "Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）",
-    "stars": 1988,
+    "stars": 2153,
     "language": "HTML",
     "html_url": "https://github.com/bozhouDev/codex-orange-book"
-  },
-  {
-    "id": 1274950277,
-    "name": "zhengxi-views",
-    "full_name": "lyra81604/zhengxi-views",
-    "description": "可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！",
-    "stars": 1042,
-    "language": "Python",
-    "html_url": "https://github.com/lyra81604/zhengxi-views"
   },
   {
     "id": 1276067021,
     "name": "birds.cafe",
     "full_name": "kanavtwtgg/birds.cafe",
     "description": null,
-    "stars": 788,
+    "stars": 736,
     "language": "JavaScript",
     "html_url": "https://github.com/kanavtwtgg/birds.cafe"
-  },
-  {
-    "id": 1275152793,
-    "name": "Good-Badminton",
-    "full_name": "yo-WASSUP/Good-Badminton",
-    "description": "🏸  AI Badminton Hawk-Eye System",
-    "stars": 523,
-    "language": "Python",
-    "html_url": "https://github.com/yo-WASSUP/Good-Badminton"
-  },
-  {
-    "id": 1277004822,
-    "name": "Qwen-AgentWorld",
-    "full_name": "QwenLM/Qwen-AgentWorld",
-    "description": "Qwen-AgentWorld: Language World Models for General Agents",
-    "stars": 503,
-    "language": "Python",
-    "html_url": "https://github.com/QwenLM/Qwen-AgentWorld"
   },
   {
     "id": 1276955862,
     "name": "CWR",
     "full_name": "BohemiaInteractive/CWR",
     "description": "Arma: Cold War Assault Remastered Source Code Repository.",
-    "stars": 499,
+    "stars": 627,
     "language": "C++",
     "html_url": "https://github.com/BohemiaInteractive/CWR"
   },
   {
-    "id": 1276527666,
-    "name": "AgentSpace",
-    "full_name": "HKUDS/AgentSpace",
-    "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
-    "stars": 424,
-    "language": "TypeScript",
-    "html_url": "https://github.com/HKUDS/AgentSpace"
-  },
-  {
-    "id": 1275444433,
-    "name": "make-look-scanned",
-    "full_name": "overflowy/make-look-scanned",
-    "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
-    "stars": 416,
-    "language": "Go",
-    "html_url": "https://github.com/overflowy/make-look-scanned"
-  },
-  {
-    "id": 1276236933,
-    "name": "claude-status-bar",
-    "full_name": "m1ckc3s/claude-status-bar",
-    "description": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
-    "stars": 328,
-    "language": "Swift",
-    "html_url": "https://github.com/m1ckc3s/claude-status-bar"
+    "id": 1277004822,
+    "name": "Qwen-AgentWorld",
+    "full_name": "QwenLM/Qwen-AgentWorld",
+    "description": "Qwen-AgentWorld: Language World Models for General Agents",
+    "stars": 569,
+    "language": "Python",
+    "html_url": "https://github.com/QwenLM/Qwen-AgentWorld"
   },
   {
     "id": 1278830624,
     "name": "wloc",
     "full_name": "Yu9191/wloc",
     "description": "修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位",
-    "stars": 322,
+    "stars": 471,
     "language": "JavaScript",
     "html_url": "https://github.com/Yu9191/wloc"
   },
@@ -94,61 +49,106 @@
     "name": "awesome-evals",
     "full_name": "benchflow-ai/awesome-evals",
     "description": "A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.",
-    "stars": 318,
+    "stars": 471,
     "language": null,
     "html_url": "https://github.com/benchflow-ai/awesome-evals"
+  },
+  {
+    "id": 1280019559,
+    "name": "theeleven",
+    "full_name": "winsznx/theeleven",
+    "description": "Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.",
+    "stars": 467,
+    "language": "TypeScript",
+    "html_url": "https://github.com/winsznx/theeleven"
+  },
+  {
+    "id": 1276527666,
+    "name": "AgentSpace",
+    "full_name": "HKUDS/AgentSpace",
+    "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+    "stars": 456,
+    "language": "TypeScript",
+    "html_url": "https://github.com/HKUDS/AgentSpace"
+  },
+  {
+    "id": 1276236933,
+    "name": "claude-status-bar",
+    "full_name": "m1ckc3s/claude-status-bar",
+    "description": "A tiny macOS menu bar status indicator for Claude Code: animated icons, elapsed timer, and open/close lifecycle.",
+    "stars": 360,
+    "language": "Swift",
+    "html_url": "https://github.com/m1ckc3s/claude-status-bar"
   },
   {
     "id": 1275942797,
     "name": "open_oura",
     "full_name": "Th0rgal/open_oura",
     "description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and reimplemented data-processing algorithms. Sync, store, and analyze your data locally.",
-    "stars": 315,
+    "stars": 342,
     "language": "Rust",
     "html_url": "https://github.com/Th0rgal/open_oura"
-  },
-  {
-    "id": 1277468360,
-    "name": "liquid-glass",
-    "full_name": "samasante/liquid-glass",
-    "description": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
-    "stars": 312,
-    "language": "TypeScript",
-    "html_url": "https://github.com/samasante/liquid-glass"
   },
   {
     "id": 1277614585,
     "name": "tabbit-toy",
     "full_name": "goehou/tabbit-toy",
     "description": "这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型",
-    "stars": 305,
+    "stars": 330,
     "language": "JavaScript",
     "html_url": "https://github.com/goehou/tabbit-toy"
   },
   {
-    "id": 1276028522,
-    "name": "baiyueguang-learning-skill",
-    "full_name": "SarkAzia/baiyueguang-learning-skill",
-    "description": "用视奸前任白月光的方式学数学以及任何学科",
-    "stars": 269,
+    "id": 1277468360,
+    "name": "liquid-glass",
+    "full_name": "samasante/liquid-glass",
+    "description": "Apple-style Liquid Glass for the web — a headless React lens that refracts the live DOM in Safari, Firefox and Chrome. Zero dependencies.",
+    "stars": 319,
+    "language": "TypeScript",
+    "html_url": "https://github.com/samasante/liquid-glass"
+  },
+  {
+    "id": 1276908304,
+    "name": "huasheng13-skill",
+    "full_name": "WangJunqing-coder/huasheng13-skill",
+    "description": "基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
+    "stars": 309,
     "language": null,
-    "html_url": "https://github.com/SarkAzia/baiyueguang-learning-skill"
+    "html_url": "https://github.com/WangJunqing-coder/huasheng13-skill"
   },
   {
     "id": 1277405426,
     "name": "krea-2",
     "full_name": "krea-ai/krea-2",
     "description": "Official inference code for Krea 2",
-    "stars": 269,
+    "stars": 305,
     "language": "Python",
     "html_url": "https://github.com/krea-ai/krea-2"
+  },
+  {
+    "id": 1278926400,
+    "name": "opentag",
+    "full_name": "amplifthq/opentag",
+    "description": "Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.",
+    "stars": 302,
+    "language": "TypeScript",
+    "html_url": "https://github.com/amplifthq/opentag"
+  },
+  {
+    "id": 1276028522,
+    "name": "baiyueguang-learning-skill",
+    "full_name": "SarkAzia/baiyueguang-learning-skill",
+    "description": "用视奸前任白月光的方式学数学以及任何学科",
+    "stars": 292,
+    "language": null,
+    "html_url": "https://github.com/SarkAzia/baiyueguang-learning-skill"
   },
   {
     "id": 1279342186,
     "name": "pm-adam-trader",
     "full_name": "PMTraderAdam/pm-adam-trader",
     "description": null,
-    "stars": 256,
+    "stars": 284,
     "language": "TypeScript",
     "html_url": "https://github.com/PMTraderAdam/pm-adam-trader"
   },
@@ -156,27 +156,27 @@
     "id": 1278049181,
     "name": "ComfyUI-ConditioningKrea2Rebalance",
     "full_name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
-    "description": "A conditioning optimizer with per layer weighting that offers IP-Adapter-like features for Krea 2 along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
-    "stars": 242,
+    "description": "Conditioning optimizer nodes with per layer weighting that offers IP-Adapter-like features for Krea 2 image reference editing along with bypassing the built in quality diluation from the trained safety filter and also works as a means to unfilter the model.",
+    "stars": 268,
     "language": "Python",
     "html_url": "https://github.com/nova452/ComfyUI-ConditioningKrea2Rebalance"
-  },
-  {
-    "id": 1276908304,
-    "name": "huasheng13-skill",
-    "full_name": "WangJunqing-coder/huasheng13-skill",
-    "description": "基于花生十三公开教学体系、课程资料、历年正题整理得到的skill。",
-    "stars": 238,
-    "language": null,
-    "html_url": "https://github.com/WangJunqing-coder/huasheng13-skill"
   },
   {
     "id": 1276885966,
     "name": "OpenFugu",
     "full_name": "trotsky1997/OpenFugu",
     "description": "Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.",
-    "stars": 234,
+    "stars": 251,
     "language": "Python",
     "html_url": "https://github.com/trotsky1997/OpenFugu"
+  },
+  {
+    "id": 1277041207,
+    "name": "mithka",
+    "full_name": "iebb/mithka",
+    "description": null,
+    "stars": 226,
+    "language": "Dart",
+    "html_url": "https://github.com/iebb/mithka"
   }
 ]
