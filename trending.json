@@ -1,37 +1,55 @@
 [
   {
+    "id": 1287460663,
+    "name": "T3MP3ST",
+    "full_name": "elder-plinius/T3MP3ST",
+    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+    "stars": 1782,
+    "language": "TypeScript",
+    "html_url": "https://github.com/elder-plinius/T3MP3ST"
+  },
+  {
     "id": 1284981522,
     "name": "ios-location-spoofer",
     "full_name": "mekos2772/ios-location-spoofer",
     "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-    "stars": 1289,
+    "stars": 1333,
     "language": "JavaScript",
     "html_url": "https://github.com/mekos2772/ios-location-spoofer"
-  },
-  {
-    "id": 1288292418,
-    "name": "local-llm",
-    "full_name": "jamesob/local-llm",
-    "description": "Everything I know about running LLMs locally",
-    "stars": 771,
-    "language": "Shell",
-    "html_url": "https://github.com/jamesob/local-llm"
   },
   {
     "id": 1284959612,
     "name": "claude-real-video",
     "full_name": "HUANGCHIHHUNGLeo/claude-real-video",
     "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
-    "stars": 757,
+    "stars": 1008,
     "language": "Python",
     "html_url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video"
+  },
+  {
+    "id": 1288292418,
+    "name": "local-llm",
+    "full_name": "jamesob/local-llm",
+    "description": "Everything I know about running LLMs locally",
+    "stars": 928,
+    "language": "Shell",
+    "html_url": "https://github.com/jamesob/local-llm"
+  },
+  {
+    "id": 1288835164,
+    "name": "Generals-Mac-iOS-iPad",
+    "full_name": "ammaarreshi/Generals-Mac-iOS-iPad",
+    "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
+    "stars": 831,
+    "language": "C++",
+    "html_url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
   },
   {
     "id": 1287845516,
     "name": "investing-for-beginners",
     "full_name": "xuchonglang/investing-for-beginners",
     "description": "小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架",
-    "stars": 659,
+    "stars": 715,
     "language": null,
     "html_url": "https://github.com/xuchonglang/investing-for-beginners"
   },
@@ -40,7 +58,7 @@
     "name": "Talos",
     "full_name": "jmerelnyc/Talos",
     "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
-    "stars": 594,
+    "stars": 680,
     "language": "Python",
     "html_url": "https://github.com/jmerelnyc/Talos"
   },
@@ -49,134 +67,116 @@
     "name": "hermex",
     "full_name": "uzairansaruzi/hermex",
     "description": "Native iPhone app for your Hermes agent",
-    "stars": 556,
+    "stars": 622,
     "language": "Swift",
     "html_url": "https://github.com/uzairansaruzi/hermex"
-  },
-  {
-    "id": 1284538699,
-    "name": "Fundamental-Ava",
-    "full_name": "TianhangZhuzth/Fundamental-Ava",
-    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
-    "stars": 523,
-    "language": "Python",
-    "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
   },
   {
     "id": 1288414617,
     "name": "token-diet",
     "full_name": "Kulaxyz/token-diet",
     "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
-    "stars": 466,
+    "stars": 588,
     "language": "Shell",
     "html_url": "https://github.com/Kulaxyz/token-diet"
   },
   {
-    "id": 1283642247,
-    "name": "ds.css",
-    "full_name": "spiritov/ds.css",
-    "description": "A css framework recreating the DS / DS Lite's UI",
-    "stars": 428,
-    "language": "CSS",
-    "html_url": "https://github.com/spiritov/ds.css"
-  },
-  {
-    "id": 1286732818,
-    "name": "FrciblyK12",
-    "full_name": "asz798838958/FrciblyK12",
-    "description": "多线程全自动注册free 强上K12空间",
-    "stars": 417,
-    "language": "Python",
-    "html_url": "https://github.com/asz798838958/FrciblyK12"
+    "id": 1289481119,
+    "name": "MECCHA-VISION-ULTIMATE",
+    "full_name": "CalmNoteDepot/MECCHA-VISION-ULTIMATE",
+    "description": "🎯 Meccha Vision Ultimate — Ultimate Enhancement Tool for MECCHA CHAMELEON ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint · Speed Hack · No Recoil",
+    "stars": 533,
+    "language": null,
+    "html_url": "https://github.com/CalmNoteDepot/MECCHA-VISION-ULTIMATE"
   },
   {
     "id": 1286800347,
     "name": "FuckClaude",
     "full_name": "LinXiaoTao/FuckClaude",
     "description": null,
-    "stars": 385,
-    "language": "Astro",
+    "stars": 525,
+    "language": "TypeScript",
     "html_url": "https://github.com/LinXiaoTao/FuckClaude"
+  },
+  {
+    "id": 1284538699,
+    "name": "Fundamental-Ava",
+    "full_name": "TianhangZhuzth/Fundamental-Ava",
+    "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+    "stars": 525,
+    "language": "Python",
+    "html_url": "https://github.com/TianhangZhuzth/Fundamental-Ava"
+  },
+  {
+    "id": 1286732818,
+    "name": "FrciblyK12",
+    "full_name": "asz798838958/FrciblyK12",
+    "description": "多线程全自动注册free 强上K12空间",
+    "stars": 453,
+    "language": "Python",
+    "html_url": "https://github.com/asz798838958/FrciblyK12"
+  },
+  {
+    "id": 1285974683,
+    "name": "OpenOPC",
+    "full_name": "HKUDS/OpenOPC",
+    "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+    "stars": 396,
+    "language": "Python",
+    "html_url": "https://github.com/HKUDS/OpenOPC"
   },
   {
     "id": 1285512939,
     "name": "reverse-flow-skill",
     "full_name": "lingbol088-spec/reverse-flow-skill",
     "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
-    "stars": 352,
+    "stars": 395,
     "language": "Python",
     "html_url": "https://github.com/lingbol088-spec/reverse-flow-skill"
   },
   {
-    "id": 1288835164,
-    "name": "Generals-Mac-iOS-iPad",
-    "full_name": "ammaarreshi/Generals-Mac-iOS-iPad",
-    "description": "Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.",
-    "stars": 306,
-    "language": "C++",
-    "html_url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad"
-  },
-  {
-    "id": 1284139792,
-    "name": "Awesome-Blender-Seedance-Workflow-Usecases",
-    "full_name": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
-    "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
-    "stars": 299,
-    "language": "Python",
-    "html_url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases"
-  },
-  {
-    "id": 1287460663,
-    "name": "T3MP3ST",
-    "full_name": "elder-plinius/T3MP3ST",
-    "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-    "stars": 263,
-    "language": "TypeScript",
-    "html_url": "https://github.com/elder-plinius/T3MP3ST"
-  },
-  {
-    "id": 1289481119,
-    "name": "MECCHA-CHAMELEON-VISION",
-    "full_name": "CalmNoteDepot/MECCHA-CHAMELEON-VISION",
-    "description": "🎨 Meccha Chameleon Vision — Desktop Tool 2026",
-    "stars": 251,
-    "language": null,
-    "html_url": "https://github.com/CalmNoteDepot/MECCHA-CHAMELEON-VISION"
-  },
-  {
-    "id": 1286309178,
-    "name": "GameBlocks",
-    "full_name": "xt4d/GameBlocks",
-    "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
-    "stars": 230,
-    "language": "JavaScript",
-    "html_url": "https://github.com/xt4d/GameBlocks"
-  },
-  {
-    "id": 1284008447,
-    "name": "LongCat-2.0",
-    "full_name": "meituan-longcat/LongCat-2.0",
+    "id": 1287043670,
+    "name": "skills",
+    "full_name": "dzhng/skills",
     "description": null,
-    "stars": 223,
-    "language": null,
-    "html_url": "https://github.com/meituan-longcat/LongCat-2.0"
+    "stars": 335,
+    "language": "JavaScript",
+    "html_url": "https://github.com/dzhng/skills"
   },
   {
-    "id": 1287401002,
-    "name": "CSSwitch",
-    "full_name": "SuperJJ007/CSSwitch",
-    "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
-    "stars": 223,
-    "language": "Rust",
-    "html_url": "https://github.com/SuperJJ007/CSSwitch"
+    "id": 1284845470,
+    "name": "loopkit",
+    "full_name": "Archive228/loopkit",
+    "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+    "stars": 320,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Archive228/loopkit"
   },
   {
     "id": 1288848940,
     "name": "Codex-X",
     "full_name": "yynxxxxx/Codex-X",
     "description": "Codex Switch & Instruct desktop manager",
-    "stars": 209,
-    "language": "TypeScript",
+    "stars": 310,
+    "language": "Rust",
     "html_url": "https://github.com/yynxxxxx/Codex-X"
+  },
+  {
+    "id": 1286309178,
+    "name": "GameBlocks",
+    "full_name": "xt4d/GameBlocks",
+    "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+    "stars": 300,
+    "language": "JavaScript",
+    "html_url": "https://github.com/xt4d/GameBlocks"
+  },
+  {
+    "id": 1287401002,
+    "name": "CSSwitch",
+    "full_name": "SuperJJ007/CSSwitch",
+    "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+    "stars": 263,
+    "language": "Rust",
+    "html_url": "https://github.com/SuperJJ007/CSSwitch"
   }
 ]
