@@ -4,7 +4,7 @@
     "name": "os-taxonomy",
     "full_name": "withmarbleapp/os-taxonomy",
     "description": null,
-    "stars": 2154,
+    "stars": 2428,
     "language": "JavaScript",
     "html_url": "https://github.com/withmarbleapp/os-taxonomy"
   },
@@ -13,160 +13,106 @@
     "name": "knockoff",
     "full_name": "Shpigford/knockoff",
     "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-    "stars": 1707,
+    "stars": 1774,
     "language": "JavaScript",
     "html_url": "https://github.com/Shpigford/knockoff"
-  },
-  {
-    "id": 1290120400,
-    "name": "riddle",
-    "full_name": "MaximeRivest/riddle",
-    "description": "The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the page drinks your ink and answers in a flowing hand",
-    "stars": 1343,
-    "language": "Rust",
-    "html_url": "https://github.com/MaximeRivest/riddle"
-  },
-  {
-    "id": 1289604542,
-    "name": "dnsglobe",
-    "full_name": "514-labs/dnsglobe",
-    "description": "Global DNS propagation checker TUI — watch a DNS record propagate across 34 public resolvers worldwide, on a world map in your terminal",
-    "stars": 797,
-    "language": "Rust",
-    "html_url": "https://github.com/514-labs/dnsglobe"
-  },
-  {
-    "id": 1293372051,
-    "name": "lingbot-world-v2",
-    "full_name": "Robbyant/lingbot-world-v2",
-    "description": "Infinite Worlds with Versatile Interactions",
-    "stars": 703,
-    "language": "Python",
-    "html_url": "https://github.com/Robbyant/lingbot-world-v2"
-  },
-  {
-    "id": 1289743790,
-    "name": "Vibe-Research",
-    "full_name": "simonlin1212/Vibe-Research",
-    "description": "Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录。Vibe-Research 把数据和功能配齐，由你自己的 AI 驱动投资研究。",
-    "stars": 680,
-    "language": "TypeScript",
-    "html_url": "https://github.com/simonlin1212/Vibe-Research"
-  },
-  {
-    "id": 1293670798,
-    "name": "lingbot-video",
-    "full_name": "Robbyant/lingbot-video",
-    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-    "stars": 645,
-    "language": "Python",
-    "html_url": "https://github.com/Robbyant/lingbot-video"
   },
   {
     "id": 1291501023,
     "name": "scroll-world",
     "full_name": "oso95/scroll-world",
     "description": "A skill that turn any brand into a scrollable 3D world",
-    "stars": 639,
+    "stars": 899,
     "language": "JavaScript",
     "html_url": "https://github.com/oso95/scroll-world"
-  },
-  {
-    "id": 1291108900,
-    "name": "lingbot-vision",
-    "full_name": "Robbyant/lingbot-vision",
-    "description": "Self-supervised learning for spatial perception",
-    "stars": 617,
-    "language": "Python",
-    "html_url": "https://github.com/Robbyant/lingbot-vision"
   },
   {
     "id": 1293134522,
     "name": "3x-ui-Upgrade",
     "full_name": "x4gKing/3x-ui-Upgrade",
     "description": null,
-    "stars": 609,
+    "stars": 801,
     "language": "HTML",
     "html_url": "https://github.com/x4gKing/3x-ui-Upgrade"
+  },
+  {
+    "id": 1293372051,
+    "name": "lingbot-world-v2",
+    "full_name": "Robbyant/lingbot-world-v2",
+    "description": "Infinite Worlds with Versatile Interactions",
+    "stars": 799,
+    "language": "Python",
+    "html_url": "https://github.com/Robbyant/lingbot-world-v2"
+  },
+  {
+    "id": 1293670798,
+    "name": "lingbot-video",
+    "full_name": "Robbyant/lingbot-video",
+    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
+    "stars": 681,
+    "language": "Python",
+    "html_url": "https://github.com/Robbyant/lingbot-video"
+  },
+  {
+    "id": 1291108900,
+    "name": "lingbot-vision",
+    "full_name": "Robbyant/lingbot-vision",
+    "description": "Self-supervised learning for spatial perception",
+    "stars": 637,
+    "language": "Python",
+    "html_url": "https://github.com/Robbyant/lingbot-vision"
   },
   {
     "id": 1292406637,
     "name": "guizang-material-illustration",
     "full_name": "op7418/guizang-material-illustration",
     "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-    "stars": 528,
+    "stars": 561,
     "language": null,
     "html_url": "https://github.com/op7418/guizang-material-illustration"
-  },
-  {
-    "id": 1289868346,
-    "name": "engram",
-    "full_name": "nagisanzenin/engram",
-    "description": "Evidence-based learning engine for Claude Code — first-principles curricula, free-recall verification with receipts, FSRS-scheduled memory, and explorable artifacts. Learn anything; keep it.",
-    "stars": 496,
-    "language": "Python",
-    "html_url": "https://github.com/nagisanzenin/engram"
   },
   {
     "id": 1291198433,
     "name": "Januscape",
     "full_name": "V4bel/Januscape",
     "description": null,
-    "stars": 462,
+    "stars": 472,
     "language": "C",
     "html_url": "https://github.com/V4bel/Januscape"
-  },
-  {
-    "id": 1290260182,
-    "name": "PasarGuard",
-    "full_name": "x4gKing/PasarGuard",
-    "description": null,
-    "stars": 429,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/x4gKing/PasarGuard"
-  },
-  {
-    "id": 1292588083,
-    "name": "lingbot-vla-v2",
-    "full_name": "Robbyant/lingbot-vla-v2",
-    "description": "From Foundation to Application",
-    "stars": 429,
-    "language": "Python",
-    "html_url": "https://github.com/Robbyant/lingbot-vla-v2"
   },
   {
     "id": 1292280249,
     "name": "homerail",
     "full_name": "xiaotianfotos/homerail",
     "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-    "stars": 415,
+    "stars": 452,
     "language": "TypeScript",
     "html_url": "https://github.com/xiaotianfotos/homerail"
+  },
+  {
+    "id": 1292588083,
+    "name": "lingbot-vla-v2",
+    "full_name": "Robbyant/lingbot-vla-v2",
+    "description": "From Foundation to Application",
+    "stars": 451,
+    "language": "Python",
+    "html_url": "https://github.com/Robbyant/lingbot-vla-v2"
   },
   {
     "id": 1290703740,
     "name": "PasarGuard-Node",
     "full_name": "x4gKing/PasarGuard-Node",
     "description": null,
-    "stars": 398,
+    "stars": 449,
     "language": "Dockerfile",
     "html_url": "https://github.com/x4gKing/PasarGuard-Node"
-  },
-  {
-    "id": 1290344168,
-    "name": "threejs-procedural-dungeon",
-    "full_name": "majidmanzarpour/threejs-procedural-dungeon",
-    "description": "Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaunay/MST graph layouts, room semantics, five themes, and a custom bloom/tilt-shift pipeline.",
-    "stars": 380,
-    "language": "JavaScript",
-    "html_url": "https://github.com/majidmanzarpour/threejs-procedural-dungeon"
   },
   {
     "id": 1291157543,
     "name": "motion-anything",
     "full_name": "nexu-io/motion-anything",
     "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-    "stars": 369,
+    "stars": 395,
     "language": "JavaScript",
     "html_url": "https://github.com/nexu-io/motion-anything"
   },
@@ -175,8 +121,62 @@
     "name": "storyai-3d-director-desk",
     "full_name": "jiguang132/storyai-3d-director-desk",
     "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
-    "stars": 365,
+    "stars": 388,
     "language": "TypeScript",
     "html_url": "https://github.com/jiguang132/storyai-3d-director-desk"
+  },
+  {
+    "id": 1293473664,
+    "name": "pilotfish",
+    "full_name": "Nanako0129/pilotfish",
+    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+    "stars": 357,
+    "language": null,
+    "html_url": "https://github.com/Nanako0129/pilotfish"
+  },
+  {
+    "id": 1293275849,
+    "name": "texts-to-transformer",
+    "full_name": "Doriandarko/texts-to-transformer",
+    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+    "stars": 352,
+    "language": "Python",
+    "html_url": "https://github.com/Doriandarko/texts-to-transformer"
+  },
+  {
+    "id": 1293936298,
+    "name": "uninstally",
+    "full_name": "gostonx/uninstally",
+    "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
+    "stars": 345,
+    "language": "Swift",
+    "html_url": "https://github.com/gostonx/uninstally"
+  },
+  {
+    "id": 1290597550,
+    "name": "gdid-reversal",
+    "full_name": "SmtimesIWndr/gdid-reversal",
+    "description": null,
+    "stars": 343,
+    "language": null,
+    "html_url": "https://github.com/SmtimesIWndr/gdid-reversal"
+  },
+  {
+    "id": 1291242597,
+    "name": "FableCut",
+    "full_name": "ronak-create/FableCut",
+    "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
+    "stars": 339,
+    "language": "JavaScript",
+    "html_url": "https://github.com/ronak-create/FableCut"
+  },
+  {
+    "id": 1290854596,
+    "name": "ax",
+    "full_name": "yusukebe/ax",
+    "description": "The AI-era curl",
+    "stars": 333,
+    "language": "TypeScript",
+    "html_url": "https://github.com/yusukebe/ax"
   }
 ]
