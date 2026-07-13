@@ -4,88 +4,70 @@
     "name": "os-taxonomy",
     "full_name": "withmarbleapp/os-taxonomy",
     "description": null,
-    "stars": 2428,
+    "stars": 2730,
     "language": "JavaScript",
     "html_url": "https://github.com/withmarbleapp/os-taxonomy"
-  },
-  {
-    "id": 1291168761,
-    "name": "knockoff",
-    "full_name": "Shpigford/knockoff",
-    "description": "Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, established brands.",
-    "stars": 1774,
-    "language": "JavaScript",
-    "html_url": "https://github.com/Shpigford/knockoff"
-  },
-  {
-    "id": 1291501023,
-    "name": "scroll-world",
-    "full_name": "oso95/scroll-world",
-    "description": "A skill that turn any brand into a scrollable 3D world",
-    "stars": 899,
-    "language": "JavaScript",
-    "html_url": "https://github.com/oso95/scroll-world"
-  },
-  {
-    "id": 1293134522,
-    "name": "3x-ui-Upgrade",
-    "full_name": "x4gKing/3x-ui-Upgrade",
-    "description": null,
-    "stars": 801,
-    "language": "HTML",
-    "html_url": "https://github.com/x4gKing/3x-ui-Upgrade"
   },
   {
     "id": 1293372051,
     "name": "lingbot-world-v2",
     "full_name": "Robbyant/lingbot-world-v2",
     "description": "Infinite Worlds with Versatile Interactions",
-    "stars": 799,
+    "stars": 935,
     "language": "Python",
     "html_url": "https://github.com/Robbyant/lingbot-world-v2"
+  },
+  {
+    "id": 1293134522,
+    "name": "3x-ui-Upgrade",
+    "full_name": "x4gKing/3x-ui-Upgrade",
+    "description": null,
+    "stars": 890,
+    "language": "HTML",
+    "html_url": "https://github.com/x4gKing/3x-ui-Upgrade"
   },
   {
     "id": 1293670798,
     "name": "lingbot-video",
     "full_name": "Robbyant/lingbot-video",
     "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-    "stars": 681,
+    "stars": 714,
     "language": "Python",
     "html_url": "https://github.com/Robbyant/lingbot-video"
   },
   {
-    "id": 1291108900,
-    "name": "lingbot-vision",
-    "full_name": "Robbyant/lingbot-vision",
-    "description": "Self-supervised learning for spatial perception",
-    "stars": 637,
+    "id": 1298189234,
+    "name": "clodex-ide",
+    "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
+    "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+    "stars": 641,
+    "language": "TypeScript",
+    "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
+  },
+  {
+    "id": 1295531254,
+    "name": "Three.js-Object-Sculptor-Codex-Plugin",
+    "full_name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+    "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
+    "stars": 638,
     "language": "Python",
-    "html_url": "https://github.com/Robbyant/lingbot-vision"
+    "html_url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin"
   },
   {
     "id": 1292406637,
     "name": "guizang-material-illustration",
     "full_name": "op7418/guizang-material-illustration",
     "description": "归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。",
-    "stars": 561,
+    "stars": 594,
     "language": null,
     "html_url": "https://github.com/op7418/guizang-material-illustration"
-  },
-  {
-    "id": 1291198433,
-    "name": "Januscape",
-    "full_name": "V4bel/Januscape",
-    "description": null,
-    "stars": 472,
-    "language": "C",
-    "html_url": "https://github.com/V4bel/Januscape"
   },
   {
     "id": 1292280249,
     "name": "homerail",
     "full_name": "xiaotianfotos/homerail",
     "description": "Voice-first local agent orchestration runtime for auditable DAG workflows.",
-    "stars": 452,
+    "stars": 488,
     "language": "TypeScript",
     "html_url": "https://github.com/xiaotianfotos/homerail"
   },
@@ -94,89 +76,107 @@
     "name": "lingbot-vla-v2",
     "full_name": "Robbyant/lingbot-vla-v2",
     "description": "From Foundation to Application",
-    "stars": 451,
+    "stars": 477,
     "language": "Python",
     "html_url": "https://github.com/Robbyant/lingbot-vla-v2"
-  },
-  {
-    "id": 1290703740,
-    "name": "PasarGuard-Node",
-    "full_name": "x4gKing/PasarGuard-Node",
-    "description": null,
-    "stars": 449,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/x4gKing/PasarGuard-Node"
-  },
-  {
-    "id": 1291157543,
-    "name": "motion-anything",
-    "full_name": "nexu-io/motion-anything",
-    "description": "✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.",
-    "stars": 395,
-    "language": "JavaScript",
-    "html_url": "https://github.com/nexu-io/motion-anything"
-  },
-  {
-    "id": 1290489028,
-    "name": "storyai-3d-director-desk",
-    "full_name": "jiguang132/storyai-3d-director-desk",
-    "description": "A browser-based 3D director desk demo built with React, Vite, and Three.js.",
-    "stars": 388,
-    "language": "TypeScript",
-    "html_url": "https://github.com/jiguang132/storyai-3d-director-desk"
-  },
-  {
-    "id": 1293473664,
-    "name": "pilotfish",
-    "full_name": "Nanako0129/pilotfish",
-    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-    "stars": 357,
-    "language": null,
-    "html_url": "https://github.com/Nanako0129/pilotfish"
-  },
-  {
-    "id": 1293275849,
-    "name": "texts-to-transformer",
-    "full_name": "Doriandarko/texts-to-transformer",
-    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-    "stars": 352,
-    "language": "Python",
-    "html_url": "https://github.com/Doriandarko/texts-to-transformer"
   },
   {
     "id": 1293936298,
     "name": "uninstally",
     "full_name": "gostonx/uninstally",
     "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
-    "stars": 345,
+    "stars": 423,
     "language": "Swift",
     "html_url": "https://github.com/gostonx/uninstally"
   },
   {
-    "id": 1290597550,
-    "name": "gdid-reversal",
-    "full_name": "SmtimesIWndr/gdid-reversal",
-    "description": null,
-    "stars": 343,
+    "id": 1293371220,
+    "name": "speak-human-tw",
+    "full_name": "Raymondhou0917/speak-human-tw",
+    "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
+    "stars": 397,
     "language": null,
-    "html_url": "https://github.com/SmtimesIWndr/gdid-reversal"
+    "html_url": "https://github.com/Raymondhou0917/speak-human-tw"
   },
   {
-    "id": 1291242597,
-    "name": "FableCut",
-    "full_name": "ronak-create/FableCut",
-    "description": "Zero-dependency browser video editor that AI agents can drive — JSON timeline, MCP + REST, live-reloading UI",
-    "stars": 339,
-    "language": "JavaScript",
-    "html_url": "https://github.com/ronak-create/FableCut"
+    "id": 1293473664,
+    "name": "pilotfish",
+    "full_name": "Nanako0129/pilotfish",
+    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
+    "stars": 388,
+    "language": null,
+    "html_url": "https://github.com/Nanako0129/pilotfish"
   },
   {
-    "id": 1290854596,
-    "name": "ax",
-    "full_name": "yusukebe/ax",
-    "description": "The AI-era curl",
-    "stars": 333,
+    "id": 1296107475,
+    "name": "luxy-aisre",
+    "full_name": "CoscoAI/luxy-aisre",
+    "description": "AISRE for Cosco",
+    "stars": 386,
+    "language": "Python",
+    "html_url": "https://github.com/CoscoAI/luxy-aisre"
+  },
+  {
+    "id": 1293275849,
+    "name": "texts-to-transformer",
+    "full_name": "Doriandarko/texts-to-transformer",
+    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+    "stars": 369,
+    "language": "Python",
+    "html_url": "https://github.com/Doriandarko/texts-to-transformer"
+  },
+  {
+    "id": 1295154902,
+    "name": "mindwalk",
+    "full_name": "cosmtrek/mindwalk",
+    "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+    "stars": 328,
+    "language": "Go",
+    "html_url": "https://github.com/cosmtrek/mindwalk"
+  },
+  {
+    "id": 1296301313,
+    "name": "kill-ai-slop",
+    "full_name": "yetone/kill-ai-slop",
+    "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+    "stars": 326,
     "language": "TypeScript",
-    "html_url": "https://github.com/yusukebe/ax"
+    "html_url": "https://github.com/yetone/kill-ai-slop"
+  },
+  {
+    "id": 1292672931,
+    "name": "jlens-qwen36",
+    "full_name": "WeZZard/jlens-qwen36",
+    "description": "J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, ported to Apple MLX",
+    "stars": 311,
+    "language": "Python",
+    "html_url": "https://github.com/WeZZard/jlens-qwen36"
+  },
+  {
+    "id": 1293128596,
+    "name": "lapian-notes",
+    "full_name": "bkingfilm/lapian-notes",
+    "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
+    "stars": 289,
+    "language": "TypeScript",
+    "html_url": "https://github.com/bkingfilm/lapian-notes"
+  },
+  {
+    "id": 1292158992,
+    "name": "antidoom",
+    "full_name": "Liquid4All/antidoom",
+    "description": null,
+    "stars": 281,
+    "language": "Python",
+    "html_url": "https://github.com/Liquid4All/antidoom"
+  },
+  {
+    "id": 1292611271,
+    "name": "AlayaWorld",
+    "full_name": "AlayaLab/AlayaWorld",
+    "description": "Full-stack open-source interactive long-horizon world model.",
+    "stars": 276,
+    "language": null,
+    "html_url": "https://github.com/AlayaLab/AlayaWorld"
   }
 ]
