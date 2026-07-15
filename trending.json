@@ -1,182 +1,182 @@
 [
   {
-    "id": 1293375068,
-    "name": "os-taxonomy",
-    "full_name": "withmarbleapp/os-taxonomy",
-    "description": null,
-    "stars": 2931,
-    "language": "JavaScript",
-    "html_url": "https://github.com/withmarbleapp/os-taxonomy"
-  },
-  {
-    "id": 1293372051,
-    "name": "lingbot-world-v2",
-    "full_name": "Robbyant/lingbot-world-v2",
-    "description": "Infinite Worlds with Versatile Interactions",
-    "stars": 1037,
+    "id": 1297316519,
+    "name": "gpt-5.6-instruct",
+    "full_name": "MDX-Tom/gpt-5.6-instruct",
+    "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
+    "stars": 1022,
     "language": "Python",
-    "html_url": "https://github.com/Robbyant/lingbot-world-v2"
-  },
-  {
-    "id": 1293134522,
-    "name": "3x-ui-Upgrade",
-    "full_name": "x4gKing/3x-ui-Upgrade",
-    "description": null,
-    "stars": 959,
-    "language": "HTML",
-    "html_url": "https://github.com/x4gKing/3x-ui-Upgrade"
+    "html_url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
   },
   {
     "id": 1295531254,
     "name": "Three.js-Object-Sculptor-Codex-Plugin",
     "full_name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
     "description": "Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js models.",
-    "stars": 865,
+    "stars": 966,
     "language": "Python",
     "html_url": "https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin"
-  },
-  {
-    "id": 1293670798,
-    "name": "lingbot-video",
-    "full_name": "Robbyant/lingbot-video",
-    "description": "Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence",
-    "stars": 761,
-    "language": "Python",
-    "html_url": "https://github.com/Robbyant/lingbot-video"
   },
   {
     "id": 1298890549,
     "name": "mimic",
     "full_name": "littledivy/mimic",
     "description": "Intercept any app, then call it from Python like a library",
-    "stars": 708,
+    "stars": 909,
     "language": "Python",
     "html_url": "https://github.com/littledivy/mimic"
-  },
-  {
-    "id": 1297316519,
-    "name": "gpt-5.6-instruct",
-    "full_name": "MDX-Tom/gpt-5.6-instruct",
-    "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-    "stars": 707,
-    "language": "Python",
-    "html_url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
   },
   {
     "id": 1298189234,
     "name": "clodex-ide",
     "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
     "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "stars": 696,
+    "stars": 801,
     "language": "TypeScript",
     "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
-  },
-  {
-    "id": 1296107475,
-    "name": "LuxyAI",
-    "full_name": "William-Lu-stack/LuxyAI",
-    "description": "AgenticOps for Kubernetes and cloud infrastructure.",
-    "stars": 554,
-    "language": "Python",
-    "html_url": "https://github.com/William-Lu-stack/LuxyAI"
   },
   {
     "id": 1296036886,
     "name": "WorkBuddyGuide",
     "full_name": "AlephAITech/WorkBuddyGuide",
     "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-    "stars": 515,
+    "stars": 703,
     "language": "Python",
     "html_url": "https://github.com/AlephAITech/WorkBuddyGuide"
-  },
-  {
-    "id": 1295154902,
-    "name": "mindwalk",
-    "full_name": "cosmtrek/mindwalk",
-    "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
-    "stars": 493,
-    "language": "Go",
-    "html_url": "https://github.com/cosmtrek/mindwalk"
-  },
-  {
-    "id": 1293371220,
-    "name": "speak-human-tw",
-    "full_name": "Raymondhou0917/speak-human-tw",
-    "description": "「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。",
-    "stars": 484,
-    "language": null,
-    "html_url": "https://github.com/Raymondhou0917/speak-human-tw"
   },
   {
     "id": 1298660286,
     "name": "Marzban-Panel",
     "full_name": "x4gKing/Marzban-Panel",
     "description": null,
-    "stars": 466,
+    "stars": 670,
     "language": "Dockerfile",
     "html_url": "https://github.com/x4gKing/Marzban-Panel"
   },
   {
-    "id": 1293936298,
-    "name": "uninstally",
-    "full_name": "gostonx/uninstally",
-    "description": "A clean, native macOS uninstaller. Completely removes apps and every file they leave behind using smart bundle-identifier detection. SwiftUI + Finder extension.",
-    "stars": 453,
-    "language": "Swift",
-    "html_url": "https://github.com/gostonx/uninstally"
-  },
-  {
-    "id": 1293473664,
-    "name": "pilotfish",
-    "full_name": "Nanako0129/pilotfish",
-    "description": "Multi-model orchestration layer for Claude Code — the frontier model plans, cheaper models execute, verification guards quality. One-prompt install.",
-    "stars": 429,
+    "id": 1296107475,
+    "name": "Flawless",
+    "full_name": "William-Lu-stack/Flawless",
+    "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
+    "stars": 617,
     "language": "Python",
-    "html_url": "https://github.com/Nanako0129/pilotfish"
-  },
-  {
-    "id": 1296301313,
-    "name": "kill-ai-slop",
-    "full_name": "yetone/kill-ai-slop",
-    "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-    "stars": 401,
-    "language": "TypeScript",
-    "html_url": "https://github.com/yetone/kill-ai-slop"
-  },
-  {
-    "id": 1298660599,
-    "name": "Marzban-Node",
-    "full_name": "x4gKing/Marzban-Node",
-    "description": null,
-    "stars": 392,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/x4gKing/Marzban-Node"
-  },
-  {
-    "id": 1293275849,
-    "name": "texts-to-transformer",
-    "full_name": "Doriandarko/texts-to-transformer",
-    "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-    "stars": 386,
-    "language": "Python",
-    "html_url": "https://github.com/Doriandarko/texts-to-transformer"
+    "html_url": "https://github.com/William-Lu-stack/Flawless"
   },
   {
     "id": 1298346646,
     "name": "codex-first-customer-finder-skill",
     "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
     "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-    "stars": 315,
+    "stars": 604,
     "language": "Python",
     "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
   },
   {
-    "id": 1293128596,
-    "name": "lapian-notes",
-    "full_name": "bkingfilm/lapian-notes",
-    "description": "拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆",
-    "stars": 310,
+    "id": 1295154902,
+    "name": "mindwalk",
+    "full_name": "cosmtrek/mindwalk",
+    "description": "A visualization tool that replays coding-agent sessions on a 3D map of your codebase.",
+    "stars": 581,
+    "language": "Go",
+    "html_url": "https://github.com/cosmtrek/mindwalk"
+  },
+  {
+    "id": 1298660599,
+    "name": "Marzban-Node",
+    "full_name": "x4gKing/Marzban-Node",
+    "description": null,
+    "stars": 567,
+    "language": "Dockerfile",
+    "html_url": "https://github.com/x4gKing/Marzban-Node"
+  },
+  {
+    "id": 1296627757,
+    "name": "jzsub",
+    "full_name": "pengchujin/jzsub",
+    "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
+    "stars": 559,
+    "language": "Python",
+    "html_url": "https://github.com/pengchujin/jzsub"
+  },
+  {
+    "id": 1296301313,
+    "name": "kill-ai-slop",
+    "full_name": "yetone/kill-ai-slop",
+    "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
+    "stars": 436,
     "language": "TypeScript",
-    "html_url": "https://github.com/bkingfilm/lapian-notes"
+    "html_url": "https://github.com/yetone/kill-ai-slop"
+  },
+  {
+    "id": 1296300799,
+    "name": "skills",
+    "full_name": "jakubkrehel/skills",
+    "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
+    "stars": 329,
+    "language": null,
+    "html_url": "https://github.com/jakubkrehel/skills"
+  },
+  {
+    "id": 1295568163,
+    "name": "scaling-octo-engine",
+    "full_name": "JexTradesLab/scaling-octo-engine",
+    "description": null,
+    "stars": 293,
+    "language": "TypeScript",
+    "html_url": "https://github.com/JexTradesLab/scaling-octo-engine"
+  },
+  {
+    "id": 1294589409,
+    "name": "txm",
+    "full_name": "thatmagicalcat/txm",
+    "description": "Terminal Math rendering engine",
+    "stars": 290,
+    "language": "Rust",
+    "html_url": "https://github.com/thatmagicalcat/txm"
+  },
+  {
+    "id": 1298422810,
+    "name": "domain-sdk",
+    "full_name": "opencoredev/domain-sdk",
+    "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+    "stars": 277,
+    "language": "TypeScript",
+    "html_url": "https://github.com/opencoredev/domain-sdk"
+  },
+  {
+    "id": 1297317864,
+    "name": "grokRegister-cpa",
+    "full_name": "Git-creat7/grokRegister-cpa",
+    "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
+    "stars": 269,
+    "language": "Python",
+    "html_url": "https://github.com/Git-creat7/grokRegister-cpa"
+  },
+  {
+    "id": 1296102301,
+    "name": "paper-collage-ad-codex",
+    "full_name": "Jane-xiaoer/paper-collage-ad-codex",
+    "description": "Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice cloning, animation, audio and MP4 QC",
+    "stars": 253,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Jane-xiaoer/paper-collage-ad-codex"
+  },
+  {
+    "id": 1296680841,
+    "name": "personal-model",
+    "full_name": "Intuition-Lab/personal-model",
+    "description": "Build your HUMAN.md.",
+    "stars": 240,
+    "language": "Python",
+    "html_url": "https://github.com/Intuition-Lab/personal-model"
+  },
+  {
+    "id": 1299490770,
+    "name": "ashare-quant-strategies",
+    "full_name": "WAYLON/ashare-quant-strategies",
+    "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning",
+    "stars": 238,
+    "language": "Python",
+    "html_url": "https://github.com/WAYLON/ashare-quant-strategies"
   }
 ]
