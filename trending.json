@@ -4,16 +4,25 @@
     "name": "grok-build",
     "full_name": "xai-org/grok-build",
     "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-    "stars": 4164,
+    "stars": 12703,
     "language": "Rust",
     "html_url": "https://github.com/xai-org/grok-build"
+  },
+  {
+    "id": 1301597356,
+    "name": "Codex-Dream-Skin",
+    "full_name": "Fei-Away/Codex-Dream-Skin",
+    "description": "Codex Dream Skin",
+    "stars": 5876,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin"
   },
   {
     "id": 1297316519,
     "name": "gpt-5.6-instruct",
     "full_name": "MDX-Tom/gpt-5.6-instruct",
     "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-    "stars": 1369,
+    "stars": 1695,
     "language": "Python",
     "html_url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
   },
@@ -22,161 +31,152 @@
     "name": "mimic",
     "full_name": "littledivy/mimic",
     "description": "Intercept any app, then call it from Python like a library",
-    "stars": 1025,
+    "stars": 1107,
     "language": "Python",
     "html_url": "https://github.com/littledivy/mimic"
-  },
-  {
-    "id": 1296036886,
-    "name": "WorkBuddyGuide",
-    "full_name": "AlephAITech/WorkBuddyGuide",
-    "description": "A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝皮书：教程、真实工作流、Skills、MCP、自动化与多智能体实践。",
-    "stars": 819,
-    "language": "Python",
-    "html_url": "https://github.com/AlephAITech/WorkBuddyGuide"
-  },
-  {
-    "id": 1298189234,
-    "name": "clodex-ide",
-    "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
-    "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "stars": 812,
-    "language": "TypeScript",
-    "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
-  },
-  {
-    "id": 1298660286,
-    "name": "Marzban-Panel",
-    "full_name": "x4gKing/Marzban-Panel",
-    "description": null,
-    "stars": 775,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/x4gKing/Marzban-Panel"
-  },
-  {
-    "id": 1298346646,
-    "name": "codex-first-customer-finder-skill",
-    "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
-    "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-    "stars": 711,
-    "language": "Python",
-    "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
-  },
-  {
-    "id": 1296627757,
-    "name": "jzsub",
-    "full_name": "pengchujin/jzsub",
-    "description": "JZSub — 一条视频链接，自动交付最高画质、封面和 GPT 双语字幕 MP4。",
-    "stars": 679,
-    "language": "Python",
-    "html_url": "https://github.com/pengchujin/jzsub"
-  },
-  {
-    "id": 1298660599,
-    "name": "Marzban-Node",
-    "full_name": "x4gKing/Marzban-Node",
-    "description": null,
-    "stars": 666,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/x4gKing/Marzban-Node"
-  },
-  {
-    "id": 1296107475,
-    "name": "Flawless",
-    "full_name": "William-Lu-stack/Flawless",
-    "description": "AI SRE AgenticOps for Kubernetes and cloud infrastructure.",
-    "stars": 642,
-    "language": "Python",
-    "html_url": "https://github.com/William-Lu-stack/Flawless"
   },
   {
     "id": 1299007583,
     "name": "aval",
     "full_name": "pixel-point/aval",
     "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-    "stars": 606,
+    "stars": 1057,
     "language": "TypeScript",
     "html_url": "https://github.com/pixel-point/aval"
-  },
-  {
-    "id": 1298998324,
-    "name": "beautify-github-readme",
-    "full_name": "oil-oil/beautify-github-readme",
-    "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
-    "stars": 562,
-    "language": "Python",
-    "html_url": "https://github.com/oil-oil/beautify-github-readme"
   },
   {
     "id": 1300584797,
     "name": "Aether",
     "full_name": "CluvexStudio/Aether",
     "description": null,
-    "stars": 551,
+    "stars": 937,
     "language": "Rust",
     "html_url": "https://github.com/CluvexStudio/Aether"
   },
   {
-    "id": 1296301313,
-    "name": "kill-ai-slop",
-    "full_name": "yetone/kill-ai-slop",
-    "description": "A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com",
-    "stars": 464,
-    "language": "TypeScript",
-    "html_url": "https://github.com/yetone/kill-ai-slop"
+    "id": 1298660286,
+    "name": "Marzban-Panel",
+    "full_name": "x4gKing/Marzban-Panel",
+    "description": null,
+    "stars": 846,
+    "language": "Dockerfile",
+    "html_url": "https://github.com/x4gKing/Marzban-Panel"
   },
   {
-    "id": 1296300799,
-    "name": "skills",
-    "full_name": "jakubkrehel/skills",
-    "description": "A set of agent skills that help improve different parts of a product, from animations and typography to layout and colors.",
-    "stars": 407,
-    "language": null,
-    "html_url": "https://github.com/jakubkrehel/skills"
+    "id": 1298189234,
+    "name": "clodex-ide",
+    "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
+    "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
+    "stars": 829,
+    "language": "TypeScript",
+    "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
+  },
+  {
+    "id": 1298346646,
+    "name": "codex-first-customer-finder-skill",
+    "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
+    "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+    "stars": 761,
+    "language": "Python",
+    "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
+  },
+  {
+    "id": 1298660599,
+    "name": "Marzban-Node",
+    "full_name": "x4gKing/Marzban-Node",
+    "description": null,
+    "stars": 728,
+    "language": "Dockerfile",
+    "html_url": "https://github.com/x4gKing/Marzban-Node"
+  },
+  {
+    "id": 1298998324,
+    "name": "beautify-github-readme",
+    "full_name": "oil-oil/beautify-github-readme",
+    "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+    "stars": 693,
+    "language": "Python",
+    "html_url": "https://github.com/oil-oil/beautify-github-readme"
+  },
+  {
+    "id": 1302398032,
+    "name": "wardrobe",
+    "full_name": "tandpfun/wardrobe",
+    "description": "Your clothes, extracted and organized with gpt-image.",
+    "stars": 656,
+    "language": "JavaScript",
+    "html_url": "https://github.com/tandpfun/wardrobe"
+  },
+  {
+    "id": 1299820860,
+    "name": "kubeez-scroll-world-video",
+    "full_name": "KubeezMedia/kubeez-scroll-world-video",
+    "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
+    "stars": 583,
+    "language": "JavaScript",
+    "html_url": "https://github.com/KubeezMedia/kubeez-scroll-world-video"
   },
   {
     "id": 1300909192,
     "name": "Aether-GUI",
     "full_name": "MatinSenPai/Aether-GUI",
     "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
-    "stars": 375,
+    "stars": 482,
     "language": "TypeScript",
     "html_url": "https://github.com/MatinSenPai/Aether-GUI"
-  },
-  {
-    "id": 1296680841,
-    "name": "personal-model",
-    "full_name": "Intuition-Lab/personal-model",
-    "description": "Build your HUMAN.md.",
-    "stars": 338,
-    "language": "Python",
-    "html_url": "https://github.com/Intuition-Lab/personal-model"
-  },
-  {
-    "id": 1300024503,
-    "name": "quantumbyte",
-    "full_name": "QuantumByteOSS/quantumbyte",
-    "description": "Open-source app builder engine — intent to working app",
-    "stars": 311,
-    "language": "Python",
-    "html_url": "https://github.com/QuantumByteOSS/quantumbyte"
   },
   {
     "id": 1297317864,
     "name": "grokRegister-cpa",
     "full_name": "Git-creat7/grokRegister-cpa",
     "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
-    "stars": 300,
+    "stars": 340,
     "language": "Python",
     "html_url": "https://github.com/Git-creat7/grokRegister-cpa"
+  },
+  {
+    "id": 1300024503,
+    "name": "quantumbyte",
+    "full_name": "QuantumByteOSS/quantumbyte",
+    "description": "Open-source app builder engine — intent to working app",
+    "stars": 316,
+    "language": "Python",
+    "html_url": "https://github.com/QuantumByteOSS/quantumbyte"
   },
   {
     "id": 1298422810,
     "name": "domain-sdk",
     "full_name": "opencoredev/domain-sdk",
     "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-    "stars": 294,
+    "stars": 313,
     "language": "TypeScript",
     "html_url": "https://github.com/opencoredev/domain-sdk"
+  },
+  {
+    "id": 1298301815,
+    "name": "HMS",
+    "full_name": "Shadow-Weave/HMS",
+    "description": null,
+    "stars": 306,
+    "language": "Python",
+    "html_url": "https://github.com/Shadow-Weave/HMS"
+  },
+  {
+    "id": 1300173275,
+    "name": "deja-vu",
+    "full_name": "vshulcz/deja-vu",
+    "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
+    "stars": 303,
+    "language": "Go",
+    "html_url": "https://github.com/vshulcz/deja-vu"
+  },
+  {
+    "id": 1299966529,
+    "name": "Rebuttal-Skill",
+    "full_name": "TobiasLee/Rebuttal-Skill",
+    "description": null,
+    "stars": 300,
+    "language": null,
+    "html_url": "https://github.com/TobiasLee/Rebuttal-Skill"
   }
 ]
