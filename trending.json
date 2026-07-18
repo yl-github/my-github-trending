@@ -4,7 +4,7 @@
     "name": "grok-build",
     "full_name": "xai-org/grok-build",
     "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-    "stars": 12703,
+    "stars": 16627,
     "language": "Rust",
     "html_url": "https://github.com/xai-org/grok-build"
   },
@@ -13,43 +13,34 @@
     "name": "Codex-Dream-Skin",
     "full_name": "Fei-Away/Codex-Dream-Skin",
     "description": "Codex Dream Skin",
-    "stars": 5876,
+    "stars": 8753,
     "language": "JavaScript",
     "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin"
-  },
-  {
-    "id": 1297316519,
-    "name": "gpt-5.6-instruct",
-    "full_name": "MDX-Tom/gpt-5.6-instruct",
-    "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-    "stars": 1695,
-    "language": "Python",
-    "html_url": "https://github.com/MDX-Tom/gpt-5.6-instruct"
-  },
-  {
-    "id": 1298890549,
-    "name": "mimic",
-    "full_name": "littledivy/mimic",
-    "description": "Intercept any app, then call it from Python like a library",
-    "stars": 1107,
-    "language": "Python",
-    "html_url": "https://github.com/littledivy/mimic"
   },
   {
     "id": 1299007583,
     "name": "aval",
     "full_name": "pixel-point/aval",
     "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-    "stars": 1057,
+    "stars": 1164,
     "language": "TypeScript",
     "html_url": "https://github.com/pixel-point/aval"
+  },
+  {
+    "id": 1298890549,
+    "name": "mimic",
+    "full_name": "littledivy/mimic",
+    "description": "Intercept any app, then call it from Python like a library",
+    "stars": 1149,
+    "language": "Python",
+    "html_url": "https://github.com/littledivy/mimic"
   },
   {
     "id": 1300584797,
     "name": "Aether",
     "full_name": "CluvexStudio/Aether",
     "description": null,
-    "stars": 937,
+    "stars": 1144,
     "language": "Rust",
     "html_url": "https://github.com/CluvexStudio/Aether"
   },
@@ -58,16 +49,25 @@
     "name": "Marzban-Panel",
     "full_name": "x4gKing/Marzban-Panel",
     "description": null,
-    "stars": 846,
+    "stars": 914,
     "language": "Dockerfile",
     "html_url": "https://github.com/x4gKing/Marzban-Panel"
+  },
+  {
+    "id": 1302398032,
+    "name": "wardrobe",
+    "full_name": "tandpfun/wardrobe",
+    "description": "Your clothes, extracted and organized with gpt-image.",
+    "stars": 905,
+    "language": "JavaScript",
+    "html_url": "https://github.com/tandpfun/wardrobe"
   },
   {
     "id": 1298189234,
     "name": "clodex-ide",
     "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
     "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "stars": 829,
+    "stars": 833,
     "language": "TypeScript",
     "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
   },
@@ -76,7 +76,7 @@
     "name": "codex-first-customer-finder-skill",
     "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
     "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-    "stars": 761,
+    "stars": 789,
     "language": "Python",
     "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
   },
@@ -85,7 +85,7 @@
     "name": "Marzban-Node",
     "full_name": "x4gKing/Marzban-Node",
     "description": null,
-    "stars": 728,
+    "stars": 777,
     "language": "Dockerfile",
     "html_url": "https://github.com/x4gKing/Marzban-Node"
   },
@@ -94,25 +94,16 @@
     "name": "beautify-github-readme",
     "full_name": "oil-oil/beautify-github-readme",
     "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
-    "stars": 693,
+    "stars": 758,
     "language": "Python",
     "html_url": "https://github.com/oil-oil/beautify-github-readme"
-  },
-  {
-    "id": 1302398032,
-    "name": "wardrobe",
-    "full_name": "tandpfun/wardrobe",
-    "description": "Your clothes, extracted and organized with gpt-image.",
-    "stars": 656,
-    "language": "JavaScript",
-    "html_url": "https://github.com/tandpfun/wardrobe"
   },
   {
     "id": 1299820860,
     "name": "kubeez-scroll-world-video",
     "full_name": "KubeezMedia/kubeez-scroll-world-video",
     "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-    "stars": 583,
+    "stars": 646,
     "language": "JavaScript",
     "html_url": "https://github.com/KubeezMedia/kubeez-scroll-world-video"
   },
@@ -121,62 +112,71 @@
     "name": "Aether-GUI",
     "full_name": "MatinSenPai/Aether-GUI",
     "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
-    "stars": 482,
+    "stars": 541,
     "language": "TypeScript",
     "html_url": "https://github.com/MatinSenPai/Aether-GUI"
   },
   {
-    "id": 1297317864,
-    "name": "grokRegister-cpa",
-    "full_name": "Git-creat7/grokRegister-cpa",
-    "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
-    "stars": 340,
+    "id": 1302077273,
+    "name": "cue",
+    "full_name": "Blueturboguy07/cue",
+    "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+    "stars": 482,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Blueturboguy07/cue"
+  },
+  {
+    "id": 1302915552,
+    "name": "circuit-framework",
+    "full_name": "PengZhang64/circuit-framework",
+    "description": "Circuit Framework — multi-agent LLM trading research system",
+    "stars": 479,
     "language": "Python",
-    "html_url": "https://github.com/Git-creat7/grokRegister-cpa"
+    "html_url": "https://github.com/PengZhang64/circuit-framework"
+  },
+  {
+    "id": 1302446279,
+    "name": "yoinks",
+    "full_name": "pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "stars": 432,
+    "language": "TypeScript",
+    "html_url": "https://github.com/pablostanley/yoinks"
+  },
+  {
+    "id": 1300173275,
+    "name": "deja-vu",
+    "full_name": "vshulcz/deja-vu",
+    "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
+    "stars": 338,
+    "language": "Go",
+    "html_url": "https://github.com/vshulcz/deja-vu"
   },
   {
     "id": 1300024503,
     "name": "quantumbyte",
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
-    "stars": 316,
+    "stars": 324,
     "language": "Python",
     "html_url": "https://github.com/QuantumByteOSS/quantumbyte"
-  },
-  {
-    "id": 1298422810,
-    "name": "domain-sdk",
-    "full_name": "opencoredev/domain-sdk",
-    "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-    "stars": 313,
-    "language": "TypeScript",
-    "html_url": "https://github.com/opencoredev/domain-sdk"
   },
   {
     "id": 1298301815,
     "name": "HMS",
     "full_name": "Shadow-Weave/HMS",
     "description": null,
-    "stars": 306,
+    "stars": 322,
     "language": "Python",
     "html_url": "https://github.com/Shadow-Weave/HMS"
   },
   {
-    "id": 1300173275,
-    "name": "deja-vu",
-    "full_name": "vshulcz/deja-vu",
-    "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
-    "stars": 303,
-    "language": "Go",
-    "html_url": "https://github.com/vshulcz/deja-vu"
-  },
-  {
-    "id": 1299966529,
-    "name": "Rebuttal-Skill",
-    "full_name": "TobiasLee/Rebuttal-Skill",
-    "description": null,
-    "stars": 300,
-    "language": null,
-    "html_url": "https://github.com/TobiasLee/Rebuttal-Skill"
+    "id": 1298422810,
+    "name": "domain-sdk",
+    "full_name": "opencoredev/domain-sdk",
+    "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
+    "stars": 316,
+    "language": "TypeScript",
+    "html_url": "https://github.com/opencoredev/domain-sdk"
   }
 ]
