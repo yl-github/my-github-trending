@@ -4,7 +4,7 @@
     "name": "grok-build",
     "full_name": "xai-org/grok-build",
     "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-    "stars": 16627,
+    "stars": 18963,
     "language": "Rust",
     "html_url": "https://github.com/xai-org/grok-build"
   },
@@ -13,16 +13,25 @@
     "name": "Codex-Dream-Skin",
     "full_name": "Fei-Away/Codex-Dream-Skin",
     "description": "Codex Dream Skin",
-    "stars": 8753,
+    "stars": 9782,
     "language": "JavaScript",
     "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+  },
+  {
+    "id": 1300584797,
+    "name": "Aether",
+    "full_name": "CluvexStudio/Aether",
+    "description": null,
+    "stars": 1256,
+    "language": "Rust",
+    "html_url": "https://github.com/CluvexStudio/Aether"
   },
   {
     "id": 1299007583,
     "name": "aval",
     "full_name": "pixel-point/aval",
     "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-    "stars": 1164,
+    "stars": 1214,
     "language": "TypeScript",
     "html_url": "https://github.com/pixel-point/aval"
   },
@@ -31,79 +40,43 @@
     "name": "mimic",
     "full_name": "littledivy/mimic",
     "description": "Intercept any app, then call it from Python like a library",
-    "stars": 1149,
+    "stars": 1176,
     "language": "Python",
     "html_url": "https://github.com/littledivy/mimic"
-  },
-  {
-    "id": 1300584797,
-    "name": "Aether",
-    "full_name": "CluvexStudio/Aether",
-    "description": null,
-    "stars": 1144,
-    "language": "Rust",
-    "html_url": "https://github.com/CluvexStudio/Aether"
-  },
-  {
-    "id": 1298660286,
-    "name": "Marzban-Panel",
-    "full_name": "x4gKing/Marzban-Panel",
-    "description": null,
-    "stars": 914,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/x4gKing/Marzban-Panel"
   },
   {
     "id": 1302398032,
     "name": "wardrobe",
     "full_name": "tandpfun/wardrobe",
     "description": "Your clothes, extracted and organized with gpt-image.",
-    "stars": 905,
+    "stars": 1058,
     "language": "JavaScript",
     "html_url": "https://github.com/tandpfun/wardrobe"
-  },
-  {
-    "id": 1298189234,
-    "name": "clodex-ide",
-    "full_name": "mereyabdenbekuly-ctrl/clodex-ide",
-    "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-    "stars": 833,
-    "language": "TypeScript",
-    "html_url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide"
-  },
-  {
-    "id": 1298346646,
-    "name": "codex-first-customer-finder-skill",
-    "full_name": "Kappaemme-git/codex-first-customer-finder-skill",
-    "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-    "stars": 789,
-    "language": "Python",
-    "html_url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill"
-  },
-  {
-    "id": 1298660599,
-    "name": "Marzban-Node",
-    "full_name": "x4gKing/Marzban-Node",
-    "description": null,
-    "stars": 777,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/x4gKing/Marzban-Node"
   },
   {
     "id": 1298998324,
     "name": "beautify-github-readme",
     "full_name": "oil-oil/beautify-github-readme",
     "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
-    "stars": 758,
+    "stars": 821,
     "language": "Python",
     "html_url": "https://github.com/oil-oil/beautify-github-readme"
+  },
+  {
+    "id": 1303576851,
+    "name": "conversation-steganography",
+    "full_name": "nethical6/conversation-steganography",
+    "description": "Use LLMs to hide messages inside normal looking conversations",
+    "stars": 704,
+    "language": "Go",
+    "html_url": "https://github.com/nethical6/conversation-steganography"
   },
   {
     "id": 1299820860,
     "name": "kubeez-scroll-world-video",
     "full_name": "KubeezMedia/kubeez-scroll-world-video",
     "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-    "stars": 646,
+    "stars": 653,
     "language": "JavaScript",
     "html_url": "https://github.com/KubeezMedia/kubeez-scroll-world-video"
   },
@@ -112,16 +85,25 @@
     "name": "Aether-GUI",
     "full_name": "MatinSenPai/Aether-GUI",
     "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
-    "stars": 541,
+    "stars": 597,
     "language": "TypeScript",
     "html_url": "https://github.com/MatinSenPai/Aether-GUI"
+  },
+  {
+    "id": 1302446279,
+    "name": "yoinks",
+    "full_name": "pablostanley/yoinks",
+    "description": "yoink any video from your terminal. no shady ads.",
+    "stars": 561,
+    "language": "TypeScript",
+    "html_url": "https://github.com/pablostanley/yoinks"
   },
   {
     "id": 1302077273,
     "name": "cue",
     "full_name": "Blueturboguy07/cue",
     "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-    "stars": 482,
+    "stars": 552,
     "language": "JavaScript",
     "html_url": "https://github.com/Blueturboguy07/cue"
   },
@@ -130,53 +112,71 @@
     "name": "circuit-framework",
     "full_name": "PengZhang64/circuit-framework",
     "description": "Circuit Framework — multi-agent LLM trading research system",
-    "stars": 479,
+    "stars": 481,
     "language": "Python",
     "html_url": "https://github.com/PengZhang64/circuit-framework"
   },
   {
-    "id": 1302446279,
-    "name": "yoinks",
-    "full_name": "pablostanley/yoinks",
-    "description": "yoink any video from your terminal. no shady ads.",
-    "stars": 432,
+    "id": 1300825775,
+    "name": "bolt-slides",
+    "full_name": "stackblitz/bolt-slides",
+    "description": "Use any agent to create stunning, interactive presentations",
+    "stars": 385,
     "language": "TypeScript",
-    "html_url": "https://github.com/pablostanley/yoinks"
+    "html_url": "https://github.com/stackblitz/bolt-slides"
   },
   {
     "id": 1300173275,
     "name": "deja-vu",
     "full_name": "vshulcz/deja-vu",
     "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
-    "stars": 338,
+    "stars": 365,
     "language": "Go",
     "html_url": "https://github.com/vshulcz/deja-vu"
+  },
+  {
+    "id": 1301607598,
+    "name": "gbro-collage-broll",
+    "full_name": "pyang5166/gbro-collage-broll",
+    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+    "stars": 363,
+    "language": "Python",
+    "html_url": "https://github.com/pyang5166/gbro-collage-broll"
   },
   {
     "id": 1300024503,
     "name": "quantumbyte",
     "full_name": "QuantumByteOSS/quantumbyte",
     "description": "Open-source app builder engine — intent to working app",
-    "stars": 324,
+    "stars": 327,
     "language": "Python",
     "html_url": "https://github.com/QuantumByteOSS/quantumbyte"
   },
   {
-    "id": 1298301815,
-    "name": "HMS",
-    "full_name": "Shadow-Weave/HMS",
+    "id": 1299966529,
+    "name": "Rebuttal-Skill",
+    "full_name": "TobiasLee/Rebuttal-Skill",
     "description": null,
-    "stars": 322,
-    "language": "Python",
-    "html_url": "https://github.com/Shadow-Weave/HMS"
+    "stars": 311,
+    "language": null,
+    "html_url": "https://github.com/TobiasLee/Rebuttal-Skill"
   },
   {
-    "id": 1298422810,
-    "name": "domain-sdk",
-    "full_name": "opencoredev/domain-sdk",
-    "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
-    "stars": 316,
-    "language": "TypeScript",
-    "html_url": "https://github.com/opencoredev/domain-sdk"
+    "id": 1299059228,
+    "name": "Wan-Dancer",
+    "full_name": "Wan-Video/Wan-Dancer",
+    "description": null,
+    "stars": 310,
+    "language": "Python",
+    "html_url": "https://github.com/Wan-Video/Wan-Dancer"
+  },
+  {
+    "id": 1302709153,
+    "name": "agentsmith",
+    "full_name": "PromptPartner/agentsmith",
+    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+    "stars": 308,
+    "language": "Shell",
+    "html_url": "https://github.com/PromptPartner/agentsmith"
   }
 ]
