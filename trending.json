@@ -1,46 +1,37 @@
 [
   {
-    "id": 1300902838,
-    "name": "grok-build",
-    "full_name": "xai-org/grok-build",
-    "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-    "stars": 20185,
-    "language": "Rust",
-    "html_url": "https://github.com/xai-org/grok-build"
-  },
-  {
     "id": 1301597356,
     "name": "Codex-Dream-Skin",
     "full_name": "Fei-Away/Codex-Dream-Skin",
     "description": "Codex Dream Skin",
-    "stars": 10436,
+    "stars": 11120,
     "language": "JavaScript",
     "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin"
-  },
-  {
-    "id": 1300584797,
-    "name": "Aether",
-    "full_name": "CluvexStudio/Aether",
-    "description": null,
-    "stars": 1317,
-    "language": "Rust",
-    "html_url": "https://github.com/CluvexStudio/Aether"
   },
   {
     "id": 1302398032,
     "name": "wardrobe",
     "full_name": "tandpfun/wardrobe",
     "description": "Your clothes, extracted and organized with gpt-image.",
-    "stars": 1160,
+    "stars": 1220,
     "language": "JavaScript",
     "html_url": "https://github.com/tandpfun/wardrobe"
+  },
+  {
+    "id": 1301140808,
+    "name": "img2threejs",
+    "full_name": "hoainho/img2threejs",
+    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
+    "stars": 1057,
+    "language": "Python",
+    "html_url": "https://github.com/hoainho/img2threejs"
   },
   {
     "id": 1303576851,
     "name": "conversation-steganography",
     "full_name": "nethical6/conversation-steganography",
     "description": "Use LLMs to hide messages inside normal looking conversations",
-    "stars": 828,
+    "stars": 884,
     "language": "Go",
     "html_url": "https://github.com/nethical6/conversation-steganography"
   },
@@ -49,25 +40,25 @@
     "name": "yoinks",
     "full_name": "pablostanley/yoinks",
     "description": "yoink any video from your terminal. no shady ads.",
-    "stars": 761,
+    "stars": 873,
     "language": "TypeScript",
     "html_url": "https://github.com/pablostanley/yoinks"
   },
   {
-    "id": 1300909192,
-    "name": "Aether-GUI",
-    "full_name": "MatinSenPai/Aether-GUI",
-    "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
-    "stars": 627,
-    "language": "TypeScript",
-    "html_url": "https://github.com/MatinSenPai/Aether-GUI"
+    "id": 1305243497,
+    "name": "harness-engineering",
+    "full_name": "lopopolo/harness-engineering",
+    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "stars": 818,
+    "language": "Python",
+    "html_url": "https://github.com/lopopolo/harness-engineering"
   },
   {
     "id": 1302077273,
     "name": "cue",
     "full_name": "Blueturboguy07/cue",
     "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-    "stars": 616,
+    "stars": 662,
     "language": "JavaScript",
     "html_url": "https://github.com/Blueturboguy07/cue"
   },
@@ -76,97 +67,43 @@
     "name": "vmodal_sdk_flutter",
     "full_name": "v-modal/vmodal_sdk_flutter",
     "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-    "stars": 591,
+    "stars": 622,
     "language": "Dart",
     "html_url": "https://github.com/v-modal/vmodal_sdk_flutter"
-  },
-  {
-    "id": 1305243497,
-    "name": "harness-engineering",
-    "full_name": "lopopolo/harness-engineering",
-    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-    "stars": 586,
-    "language": "Python",
-    "html_url": "https://github.com/lopopolo/harness-engineering"
-  },
-  {
-    "id": 1301140808,
-    "name": "img2threejs",
-    "full_name": "hoainho/img2threejs",
-    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-    "stars": 511,
-    "language": "Python",
-    "html_url": "https://github.com/hoainho/img2threejs"
-  },
-  {
-    "id": 1302915552,
-    "name": "circuit-framework",
-    "full_name": "PengZhang64/circuit-framework",
-    "description": "Circuit Framework — multi-agent LLM trading research system",
-    "stars": 485,
-    "language": "Python",
-    "html_url": "https://github.com/PengZhang64/circuit-framework"
-  },
-  {
-    "id": 1300825775,
-    "name": "bolt-slides",
-    "full_name": "stackblitz/bolt-slides",
-    "description": "Use any agent to create stunning, interactive presentations",
-    "stars": 451,
-    "language": "TypeScript",
-    "html_url": "https://github.com/stackblitz/bolt-slides"
-  },
-  {
-    "id": 1301607598,
-    "name": "gbro-collage-broll",
-    "full_name": "pyang5166/gbro-collage-broll",
-    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-    "stars": 416,
-    "language": "Python",
-    "html_url": "https://github.com/pyang5166/gbro-collage-broll"
-  },
-  {
-    "id": 1300173275,
-    "name": "deja-vu",
-    "full_name": "vshulcz/deja-vu",
-    "description": "Your agents already solved this. deja finds it — retroactive search and MCP recall over the session logs your coding agents already wrote. Cross-agent, SSH-portable, one zero-dep binary, fully local.",
-    "stars": 384,
-    "language": "Go",
-    "html_url": "https://github.com/vshulcz/deja-vu"
   },
   {
     "id": 1304673796,
     "name": "handdraw-story-video",
     "full_name": "xiejunjie524/handdraw-story-video",
     "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-    "stars": 377,
+    "stars": 506,
     "language": "Python",
     "html_url": "https://github.com/xiejunjie524/handdraw-story-video"
   },
   {
-    "id": 1300603925,
-    "name": "MacCheck",
-    "full_name": "andyhuo520/MacCheck",
-    "description": "MacCheck 验机宝：本地 Mac 硬件检测、交互验机与 PDF/PNG 报告导出工具",
-    "stars": 371,
-    "language": "Swift",
-    "html_url": "https://github.com/andyhuo520/MacCheck"
+    "id": 1302915552,
+    "name": "circuit-framework",
+    "full_name": "EthanXiang777/circuit-framework",
+    "description": "Circuit Framework — multi-agent LLM trading research system",
+    "stars": 486,
+    "language": "Python",
+    "html_url": "https://github.com/EthanXiang777/circuit-framework"
   },
   {
-    "id": 1304253209,
-    "name": "Holo",
-    "full_name": "JustinGamer191/Holo",
-    "description": null,
-    "stars": 351,
-    "language": "Swift",
-    "html_url": "https://github.com/JustinGamer191/Holo"
+    "id": 1301607598,
+    "name": "gbro-collage-broll",
+    "full_name": "pyang5166/gbro-collage-broll",
+    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
+    "stars": 482,
+    "language": "Python",
+    "html_url": "https://github.com/pyang5166/gbro-collage-broll"
   },
   {
     "id": 1303829880,
     "name": "Trading-Bot",
     "full_name": "MIgHTy-alIeN/Trading-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "stars": 351,
+    "stars": 467,
     "language": "Solidity",
     "html_url": "https://github.com/MIgHTy-alIeN/Trading-Bot"
   },
@@ -175,8 +112,71 @@
     "name": "wp2shell-poc",
     "full_name": "Icex0/wp2shell-poc",
     "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-    "stars": 348,
+    "stars": 422,
     "language": "Python",
     "html_url": "https://github.com/Icex0/wp2shell-poc"
+  },
+  {
+    "id": 1304253209,
+    "name": "Holo",
+    "full_name": "JustinGamer191/Holo",
+    "description": null,
+    "stars": 381,
+    "language": "Swift",
+    "html_url": "https://github.com/JustinGamer191/Holo"
+  },
+  {
+    "id": 1301672719,
+    "name": "yuwen-publish-precheck",
+    "full_name": "yuwen-cool/yuwen-publish-precheck",
+    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
+    "stars": 353,
+    "language": "Python",
+    "html_url": "https://github.com/yuwen-cool/yuwen-publish-precheck"
+  },
+  {
+    "id": 1302709153,
+    "name": "agentsmith",
+    "full_name": "PromptPartner/agentsmith",
+    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+    "stars": 312,
+    "language": "Shell",
+    "html_url": "https://github.com/PromptPartner/agentsmith"
+  },
+  {
+    "id": 1302448737,
+    "name": "appless",
+    "full_name": "thesysdev/appless",
+    "description": "What if your phone had no apps",
+    "stars": 301,
+    "language": "TypeScript",
+    "html_url": "https://github.com/thesysdev/appless"
+  },
+  {
+    "id": 1301044359,
+    "name": "inspired-mino-design-skills",
+    "full_name": "my-take-dev/inspired-mino-design-skills",
+    "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
+    "stars": 295,
+    "language": "Shell",
+    "html_url": "https://github.com/my-take-dev/inspired-mino-design-skills"
+  },
+  {
+    "id": 1303978006,
+    "name": "football-stadium",
+    "full_name": "thebuggeddev/football-stadium",
+    "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
+    "stars": 291,
+    "language": "HTML",
+    "html_url": "https://github.com/thebuggeddev/football-stadium"
+  },
+  {
+    "id": 1301485816,
+    "name": "heige-codex-skin-studio",
+    "full_name": "HeiGeAi/heige-codex-skin-studio",
+    "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
+    "stars": 285,
+    "language": "JavaScript",
+    "html_url": "https://github.com/HeiGeAi/heige-codex-skin-studio"
   }
 ]
