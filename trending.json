@@ -1,82 +1,73 @@
 [
   {
-    "id": 1301597356,
-    "name": "Codex-Dream-Skin",
-    "full_name": "Fei-Away/Codex-Dream-Skin",
-    "description": "Codex Dream Skin",
-    "stars": 11120,
-    "language": "JavaScript",
-    "html_url": "https://github.com/Fei-Away/Codex-Dream-Skin"
+    "id": 1305243497,
+    "name": "harness-engineering",
+    "full_name": "lopopolo/harness-engineering",
+    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "stars": 1657,
+    "language": "Python",
+    "html_url": "https://github.com/lopopolo/harness-engineering"
   },
   {
     "id": 1302398032,
     "name": "wardrobe",
     "full_name": "tandpfun/wardrobe",
     "description": "Your clothes, extracted and organized with gpt-image.",
-    "stars": 1220,
+    "stars": 1287,
     "language": "JavaScript",
     "html_url": "https://github.com/tandpfun/wardrobe"
-  },
-  {
-    "id": 1301140808,
-    "name": "img2threejs",
-    "full_name": "hoainho/img2threejs",
-    "description": "Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.",
-    "stars": 1057,
-    "language": "Python",
-    "html_url": "https://github.com/hoainho/img2threejs"
-  },
-  {
-    "id": 1303576851,
-    "name": "conversation-steganography",
-    "full_name": "nethical6/conversation-steganography",
-    "description": "Use LLMs to hide messages inside normal looking conversations",
-    "stars": 884,
-    "language": "Go",
-    "html_url": "https://github.com/nethical6/conversation-steganography"
   },
   {
     "id": 1302446279,
     "name": "yoinks",
     "full_name": "pablostanley/yoinks",
     "description": "yoink any video from your terminal. no shady ads.",
-    "stars": 873,
+    "stars": 968,
     "language": "TypeScript",
     "html_url": "https://github.com/pablostanley/yoinks"
   },
   {
-    "id": 1305243497,
-    "name": "harness-engineering",
-    "full_name": "lopopolo/harness-engineering",
-    "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-    "stars": 818,
-    "language": "Python",
-    "html_url": "https://github.com/lopopolo/harness-engineering"
-  },
-  {
-    "id": 1302077273,
-    "name": "cue",
-    "full_name": "Blueturboguy07/cue",
-    "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-    "stars": 662,
-    "language": "JavaScript",
-    "html_url": "https://github.com/Blueturboguy07/cue"
+    "id": 1303576851,
+    "name": "conversation-steganography",
+    "full_name": "nethical6/conversation-steganography",
+    "description": "Use LLMs to hide messages inside normal looking conversations",
+    "stars": 914,
+    "language": "Go",
+    "html_url": "https://github.com/nethical6/conversation-steganography"
   },
   {
     "id": 1302756008,
     "name": "vmodal_sdk_flutter",
     "full_name": "v-modal/vmodal_sdk_flutter",
     "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-    "stars": 622,
+    "stars": 778,
     "language": "Dart",
     "html_url": "https://github.com/v-modal/vmodal_sdk_flutter"
+  },
+  {
+    "id": 1303829880,
+    "name": "MEV-Arbitrage-Bot",
+    "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
+    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
+    "stars": 739,
+    "language": "Solidity",
+    "html_url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot"
+  },
+  {
+    "id": 1306758289,
+    "name": "nativ",
+    "full_name": "Blaizzy/nativ",
+    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+    "stars": 630,
+    "language": "Swift",
+    "html_url": "https://github.com/Blaizzy/nativ"
   },
   {
     "id": 1304673796,
     "name": "handdraw-story-video",
     "full_name": "xiejunjie524/handdraw-story-video",
     "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-    "stars": 506,
+    "stars": 591,
     "language": "Python",
     "html_url": "https://github.com/xiejunjie524/handdraw-story-video"
   },
@@ -85,98 +76,107 @@
     "name": "circuit-framework",
     "full_name": "EthanXiang777/circuit-framework",
     "description": "Circuit Framework — multi-agent LLM trading research system",
-    "stars": 486,
+    "stars": 487,
     "language": "Python",
     "html_url": "https://github.com/EthanXiang777/circuit-framework"
   },
   {
-    "id": 1301607598,
-    "name": "gbro-collage-broll",
-    "full_name": "pyang5166/gbro-collage-broll",
-    "description": "半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 | Editorial halftone paper-collage B-roll agent skill",
-    "stars": 482,
-    "language": "Python",
-    "html_url": "https://github.com/pyang5166/gbro-collage-broll"
-  },
-  {
-    "id": 1303829880,
-    "name": "Trading-Bot",
-    "full_name": "MIgHTy-alIeN/Trading-Bot",
-    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "stars": 467,
-    "language": "Solidity",
-    "html_url": "https://github.com/MIgHTy-alIeN/Trading-Bot"
+    "id": 1304129036,
+    "name": "pohuy",
+    "full_name": "smixs/pohuy",
+    "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
+    "stars": 468,
+    "language": null,
+    "html_url": "https://github.com/smixs/pohuy"
   },
   {
     "id": 1304360266,
     "name": "wp2shell-poc",
     "full_name": "Icex0/wp2shell-poc",
     "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-    "stars": 422,
+    "stars": 464,
     "language": "Python",
     "html_url": "https://github.com/Icex0/wp2shell-poc"
+  },
+  {
+    "id": 1305663861,
+    "name": "video-shotcraft",
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "stars": 435,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
   {
     "id": 1304253209,
     "name": "Holo",
     "full_name": "JustinGamer191/Holo",
     "description": null,
-    "stars": 381,
+    "stars": 408,
     "language": "Swift",
     "html_url": "https://github.com/JustinGamer191/Holo"
   },
   {
-    "id": 1301672719,
-    "name": "yuwen-publish-precheck",
-    "full_name": "yuwen-cool/yuwen-publish-precheck",
-    "description": "发布前审｜发抖音/小红书/视频号前先让 AI 审一遍：哪句踩线、依据哪条官方规则、给能直接用的改法。38 篇真实样本校准判定尺度，72 条官方原文引文可查证，你踩过的坑沉淀成本地规则库越用越准。不承诺过审，不教绕审。",
-    "stars": 353,
-    "language": "Python",
-    "html_url": "https://github.com/yuwen-cool/yuwen-publish-precheck"
+    "id": 1302449868,
+    "name": "MovieBox-Tui",
+    "full_name": "mesamirh/MovieBox-Tui",
+    "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
+    "stars": 365,
+    "language": "Rust",
+    "html_url": "https://github.com/mesamirh/MovieBox-Tui"
   },
   {
-    "id": 1302709153,
-    "name": "agentsmith",
-    "full_name": "PromptPartner/agentsmith",
-    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-    "stars": 312,
-    "language": "Shell",
-    "html_url": "https://github.com/PromptPartner/agentsmith"
+    "id": 1306722822,
+    "name": "goutoujunshi",
+    "full_name": "powerycy/goutoujunshi",
+    "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+    "stars": 354,
+    "language": "Python",
+    "html_url": "https://github.com/powerycy/goutoujunshi"
+  },
+  {
+    "id": 1305466278,
+    "name": "claude-fable-5-system-prompt-clean",
+    "full_name": "KinetiNode/claude-fable-5-system-prompt-clean",
+    "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
+    "stars": 346,
+    "language": null,
+    "html_url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean"
   },
   {
     "id": 1302448737,
     "name": "appless",
     "full_name": "thesysdev/appless",
     "description": "What if your phone had no apps",
-    "stars": 301,
+    "stars": 316,
     "language": "TypeScript",
     "html_url": "https://github.com/thesysdev/appless"
   },
   {
-    "id": 1301044359,
-    "name": "inspired-mino-design-skills",
-    "full_name": "my-take-dev/inspired-mino-design-skills",
-    "description": "ミノ駆動氏のWebに掲載されている資料から作成した開発スキル",
-    "stars": 295,
+    "id": 1302709153,
+    "name": "agentsmith",
+    "full_name": "PromptPartner/agentsmith",
+    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+    "stars": 314,
     "language": "Shell",
-    "html_url": "https://github.com/my-take-dev/inspired-mino-design-skills"
+    "html_url": "https://github.com/PromptPartner/agentsmith"
   },
   {
     "id": 1303978006,
     "name": "football-stadium",
     "full_name": "thebuggeddev/football-stadium",
     "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
-    "stars": 291,
+    "stars": 313,
     "language": "HTML",
     "html_url": "https://github.com/thebuggeddev/football-stadium"
   },
   {
-    "id": 1301485816,
-    "name": "heige-codex-skin-studio",
-    "full_name": "HeiGeAi/heige-codex-skin-studio",
-    "description": "给 Codex Desktop 一键换肤：OpenAI Codex/ChatGPT 桌面端主题工具，CDP 注入零修改应用，Miku/原神/鸣潮/火影/恋与深空 9 预设+自定义图片取色 | One-click theme & skin switcher for OpenAI Codex Desktop (macOS/Windows)",
-    "stars": 285,
-    "language": "JavaScript",
-    "html_url": "https://github.com/HeiGeAi/heige-codex-skin-studio"
+    "id": 1306595286,
+    "name": "machine-genome",
+    "full_name": "paxlabs-inc/machine-genome",
+    "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
+    "stars": 284,
+    "language": "Go",
+    "html_url": "https://github.com/paxlabs-inc/machine-genome"
   }
 ]
