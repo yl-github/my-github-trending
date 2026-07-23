@@ -4,52 +4,25 @@
     "name": "harness-engineering",
     "full_name": "lopopolo/harness-engineering",
     "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-    "stars": 1657,
+    "stars": 2197,
     "language": "Python",
     "html_url": "https://github.com/lopopolo/harness-engineering"
-  },
-  {
-    "id": 1302398032,
-    "name": "wardrobe",
-    "full_name": "tandpfun/wardrobe",
-    "description": "Your clothes, extracted and organized with gpt-image.",
-    "stars": 1287,
-    "language": "JavaScript",
-    "html_url": "https://github.com/tandpfun/wardrobe"
-  },
-  {
-    "id": 1302446279,
-    "name": "yoinks",
-    "full_name": "pablostanley/yoinks",
-    "description": "yoink any video from your terminal. no shady ads.",
-    "stars": 968,
-    "language": "TypeScript",
-    "html_url": "https://github.com/pablostanley/yoinks"
   },
   {
     "id": 1303576851,
     "name": "conversation-steganography",
     "full_name": "nethical6/conversation-steganography",
     "description": "Use LLMs to hide messages inside normal looking conversations",
-    "stars": 914,
+    "stars": 992,
     "language": "Go",
     "html_url": "https://github.com/nethical6/conversation-steganography"
-  },
-  {
-    "id": 1302756008,
-    "name": "vmodal_sdk_flutter",
-    "full_name": "v-modal/vmodal_sdk_flutter",
-    "description": "V- Modal AI: Search anything anywhere SDK Flutter",
-    "stars": 778,
-    "language": "Dart",
-    "html_url": "https://github.com/v-modal/vmodal_sdk_flutter"
   },
   {
     "id": 1303829880,
     "name": "MEV-Arbitrage-Bot",
     "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
     "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "stars": 739,
+    "stars": 920,
     "language": "Solidity",
     "html_url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot"
   },
@@ -58,125 +31,152 @@
     "name": "nativ",
     "full_name": "Blaizzy/nativ",
     "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-    "stars": 630,
+    "stars": 764,
     "language": "Swift",
     "html_url": "https://github.com/Blaizzy/nativ"
+  },
+  {
+    "id": 1307383231,
+    "name": "thinking-orbs",
+    "full_name": "Jakubantalik/thinking-orbs",
+    "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+    "stars": 639,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Jakubantalik/thinking-orbs"
   },
   {
     "id": 1304673796,
     "name": "handdraw-story-video",
     "full_name": "xiejunjie524/handdraw-story-video",
     "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-    "stars": 591,
+    "stars": 621,
     "language": "Python",
     "html_url": "https://github.com/xiejunjie524/handdraw-story-video"
-  },
-  {
-    "id": 1302915552,
-    "name": "circuit-framework",
-    "full_name": "EthanXiang777/circuit-framework",
-    "description": "Circuit Framework — multi-agent LLM trading research system",
-    "stars": 487,
-    "language": "Python",
-    "html_url": "https://github.com/EthanXiang777/circuit-framework"
   },
   {
     "id": 1304129036,
     "name": "pohuy",
     "full_name": "smixs/pohuy",
     "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-    "stars": 468,
+    "stars": 538,
     "language": null,
     "html_url": "https://github.com/smixs/pohuy"
-  },
-  {
-    "id": 1304360266,
-    "name": "wp2shell-poc",
-    "full_name": "Icex0/wp2shell-poc",
-    "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-    "stars": 464,
-    "language": "Python",
-    "html_url": "https://github.com/Icex0/wp2shell-poc"
-  },
-  {
-    "id": 1305663861,
-    "name": "video-shotcraft",
-    "full_name": "Vincentwei1021/video-shotcraft",
-    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "stars": 435,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Vincentwei1021/video-shotcraft"
-  },
-  {
-    "id": 1304253209,
-    "name": "Holo",
-    "full_name": "JustinGamer191/Holo",
-    "description": null,
-    "stars": 408,
-    "language": "Swift",
-    "html_url": "https://github.com/JustinGamer191/Holo"
-  },
-  {
-    "id": 1302449868,
-    "name": "MovieBox-Tui",
-    "full_name": "mesamirh/MovieBox-Tui",
-    "description": "A modern Rust based terminal user interface for MovieBox. Fast, lightweight, keyboard first, and cross-platform.",
-    "stars": 365,
-    "language": "Rust",
-    "html_url": "https://github.com/mesamirh/MovieBox-Tui"
   },
   {
     "id": 1306722822,
     "name": "goutoujunshi",
     "full_name": "powerycy/goutoujunshi",
     "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-    "stars": 354,
+    "stars": 535,
     "language": "Python",
     "html_url": "https://github.com/powerycy/goutoujunshi"
+  },
+  {
+    "id": 1305663861,
+    "name": "video-shotcraft",
+    "full_name": "Vincentwei1021/video-shotcraft",
+    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+    "stars": 529,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Vincentwei1021/video-shotcraft"
+  },
+  {
+    "id": 1307786942,
+    "name": "hyperliquid-tracker",
+    "full_name": "0xhype/hyperliquid-tracker",
+    "description": "Get notified when big trades happen on Hyperliquid.",
+    "stars": 503,
+    "language": "TypeScript",
+    "html_url": "https://github.com/0xhype/hyperliquid-tracker"
+  },
+  {
+    "id": 1304360266,
+    "name": "wp2shell-poc",
+    "full_name": "Icex0/wp2shell-poc",
+    "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
+    "stars": 488,
+    "language": "Python",
+    "html_url": "https://github.com/Icex0/wp2shell-poc"
+  },
+  {
+    "id": 1304207622,
+    "name": "bento",
+    "full_name": "nyblnet/bento",
+    "description": null,
+    "stars": 486,
+    "language": "TypeScript",
+    "html_url": "https://github.com/nyblnet/bento"
+  },
+  {
+    "id": 1306443880,
+    "name": "pireel",
+    "full_name": "pireel/pireel",
+    "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+    "stars": 458,
+    "language": "TypeScript",
+    "html_url": "https://github.com/pireel/pireel"
+  },
+  {
+    "id": 1304253209,
+    "name": "Holo",
+    "full_name": "JustinGamer191/Holo",
+    "description": null,
+    "stars": 443,
+    "language": "Swift",
+    "html_url": "https://github.com/JustinGamer191/Holo"
+  },
+  {
+    "id": 1307486190,
+    "name": "story-to-handdrawn-video",
+    "full_name": "gnipbao/story-to-handdrawn-video",
+    "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+    "stars": 405,
+    "language": "JavaScript",
+    "html_url": "https://github.com/gnipbao/story-to-handdrawn-video"
   },
   {
     "id": 1305466278,
     "name": "claude-fable-5-system-prompt-clean",
     "full_name": "KinetiNode/claude-fable-5-system-prompt-clean",
     "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-    "stars": 346,
+    "stars": 378,
     "language": null,
     "html_url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean"
   },
   {
-    "id": 1302448737,
-    "name": "appless",
-    "full_name": "thesysdev/appless",
-    "description": "What if your phone had no apps",
-    "stars": 316,
-    "language": "TypeScript",
-    "html_url": "https://github.com/thesysdev/appless"
-  },
-  {
-    "id": 1302709153,
-    "name": "agentsmith",
-    "full_name": "PromptPartner/agentsmith",
-    "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-    "stars": 314,
-    "language": "Shell",
-    "html_url": "https://github.com/PromptPartner/agentsmith"
+    "id": 1303494416,
+    "name": "fastctx",
+    "full_name": "yc-duan/fastctx",
+    "description": "Fast, context-efficient repository tools for AI agents (MCP)",
+    "stars": 342,
+    "language": "Rust",
+    "html_url": "https://github.com/yc-duan/fastctx"
   },
   {
     "id": 1303978006,
     "name": "football-stadium",
     "full_name": "thebuggeddev/football-stadium",
     "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
-    "stars": 313,
+    "stars": 324,
     "language": "HTML",
     "html_url": "https://github.com/thebuggeddev/football-stadium"
   },
   {
-    "id": 1306595286,
-    "name": "machine-genome",
-    "full_name": "paxlabs-inc/machine-genome",
-    "description": "Machine Genome is an open identity and provenance protocol for models, agents, harnesses, datasets, and the artifacts that connect them.",
-    "stars": 284,
-    "language": "Go",
-    "html_url": "https://github.com/paxlabs-inc/machine-genome"
+    "id": 1306989887,
+    "name": "open-kritt",
+    "full_name": "Kritt-ai/open-kritt",
+    "description": "Orchestrate AI agents to find real vulnerabilities in code.",
+    "stars": 323,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Kritt-ai/open-kritt"
+  },
+  {
+    "id": 1308210168,
+    "name": "solanavolumebot",
+    "full_name": "chartup-solana-volume-bot/solanavolumebot",
+    "description": "Top-rated Solana volume bot and developer tools for DEX liquidity, maker activity, and holder management.",
+    "stars": 305,
+    "language": null,
+    "html_url": "https://github.com/chartup-solana-volume-bot/solanavolumebot"
   }
 ]
