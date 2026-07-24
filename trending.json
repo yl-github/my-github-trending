@@ -4,179 +4,179 @@
     "name": "harness-engineering",
     "full_name": "lopopolo/harness-engineering",
     "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
-    "stars": 2197,
+    "stars": 2277,
     "language": "Python",
     "html_url": "https://github.com/lopopolo/harness-engineering"
   },
   {
-    "id": 1303576851,
-    "name": "conversation-steganography",
-    "full_name": "nethical6/conversation-steganography",
-    "description": "Use LLMs to hide messages inside normal looking conversations",
-    "stars": 992,
-    "language": "Go",
-    "html_url": "https://github.com/nethical6/conversation-steganography"
-  },
-  {
-    "id": 1303829880,
-    "name": "MEV-Arbitrage-Bot",
-    "full_name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-    "description": "An arbitrage bot is a smart contract connected to an external automation script that controls its operation.",
-    "stars": 920,
-    "language": "Solidity",
-    "html_url": "https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot"
-  },
-  {
-    "id": 1306758289,
-    "name": "nativ",
-    "full_name": "Blaizzy/nativ",
-    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-    "stars": 764,
-    "language": "Swift",
-    "html_url": "https://github.com/Blaizzy/nativ"
-  },
-  {
-    "id": 1307383231,
-    "name": "thinking-orbs",
-    "full_name": "Jakubantalik/thinking-orbs",
-    "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-    "stars": 639,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Jakubantalik/thinking-orbs"
-  },
-  {
-    "id": 1304673796,
-    "name": "handdraw-story-video",
-    "full_name": "xiejunjie524/handdraw-story-video",
-    "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
-    "stars": 621,
+    "id": 1306128367,
+    "name": "openworker",
+    "full_name": "andrewyng/openworker",
+    "description": null,
+    "stars": 1444,
     "language": "Python",
-    "html_url": "https://github.com/xiejunjie524/handdraw-story-video"
-  },
-  {
-    "id": 1304129036,
-    "name": "pohuy",
-    "full_name": "smixs/pohuy",
-    "description": "Режим идиоматического русского мата для AI-агентов. Короче, душевнее, эффективнее. 18+",
-    "stars": 538,
-    "language": null,
-    "html_url": "https://github.com/smixs/pohuy"
-  },
-  {
-    "id": 1306722822,
-    "name": "goutoujunshi",
-    "full_name": "powerycy/goutoujunshi",
-    "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-    "stars": 535,
-    "language": "Python",
-    "html_url": "https://github.com/powerycy/goutoujunshi"
+    "html_url": "https://github.com/andrewyng/openworker"
   },
   {
     "id": 1305663861,
     "name": "video-shotcraft",
     "full_name": "Vincentwei1021/video-shotcraft",
     "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "stars": 529,
+    "stars": 968,
     "language": "TypeScript",
     "html_url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
   {
-    "id": 1307786942,
-    "name": "hyperliquid-tracker",
-    "full_name": "0xhype/hyperliquid-tracker",
-    "description": "Get notified when big trades happen on Hyperliquid.",
-    "stars": 503,
+    "id": 1307383231,
+    "name": "thinking-orbs",
+    "full_name": "Jakubantalik/thinking-orbs",
+    "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+    "stars": 834,
     "language": "TypeScript",
-    "html_url": "https://github.com/0xhype/hyperliquid-tracker"
+    "html_url": "https://github.com/Jakubantalik/thinking-orbs"
   },
   {
-    "id": 1304360266,
-    "name": "wp2shell-poc",
-    "full_name": "Icex0/wp2shell-poc",
-    "description": "wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain",
-    "stars": 488,
+    "id": 1306758289,
+    "name": "nativ",
+    "full_name": "Blaizzy/nativ",
+    "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+    "stars": 818,
+    "language": "Swift",
+    "html_url": "https://github.com/Blaizzy/nativ"
+  },
+  {
+    "id": 1306722822,
+    "name": "goutoujunshi",
+    "full_name": "powerycy/goutoujunshi",
+    "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+    "stars": 669,
     "language": "Python",
-    "html_url": "https://github.com/Icex0/wp2shell-poc"
-  },
-  {
-    "id": 1304207622,
-    "name": "bento",
-    "full_name": "nyblnet/bento",
-    "description": null,
-    "stars": 486,
-    "language": "TypeScript",
-    "html_url": "https://github.com/nyblnet/bento"
+    "html_url": "https://github.com/powerycy/goutoujunshi"
   },
   {
     "id": 1306443880,
     "name": "pireel",
     "full_name": "pireel/pireel",
     "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-    "stars": 458,
+    "stars": 661,
     "language": "TypeScript",
     "html_url": "https://github.com/pireel/pireel"
   },
   {
-    "id": 1304253209,
-    "name": "Holo",
-    "full_name": "JustinGamer191/Holo",
-    "description": null,
-    "stars": 443,
-    "language": "Swift",
-    "html_url": "https://github.com/JustinGamer191/Holo"
+    "id": 1304673796,
+    "name": "handdraw-story-video",
+    "full_name": "xiejunjie524/handdraw-story-video",
+    "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+    "stars": 634,
+    "language": "Python",
+    "html_url": "https://github.com/xiejunjie524/handdraw-story-video"
   },
   {
     "id": 1307486190,
     "name": "story-to-handdrawn-video",
     "full_name": "gnipbao/story-to-handdrawn-video",
     "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-    "stars": 405,
+    "stars": 565,
     "language": "JavaScript",
     "html_url": "https://github.com/gnipbao/story-to-handdrawn-video"
+  },
+  {
+    "id": 1307786942,
+    "name": "hyperliquid-tracker",
+    "full_name": "0xhype/hyperliquid-tracker",
+    "description": "Get notified when big trades happen on Hyperliquid.",
+    "stars": 504,
+    "language": "TypeScript",
+    "html_url": "https://github.com/0xhype/hyperliquid-tracker"
   },
   {
     "id": 1305466278,
     "name": "claude-fable-5-system-prompt-clean",
     "full_name": "KinetiNode/claude-fable-5-system-prompt-clean",
     "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-    "stars": 378,
+    "stars": 396,
     "language": null,
     "html_url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean"
   },
   {
-    "id": 1303494416,
-    "name": "fastctx",
-    "full_name": "yc-duan/fastctx",
-    "description": "Fast, context-efficient repository tools for AI agents (MCP)",
-    "stars": 342,
-    "language": "Rust",
-    "html_url": "https://github.com/yc-duan/fastctx"
-  },
-  {
-    "id": 1303978006,
-    "name": "football-stadium",
-    "full_name": "thebuggeddev/football-stadium",
-    "description": "A 3D football stadium to visualize where you sit in the seat before you buy it",
-    "stars": 324,
-    "language": "HTML",
-    "html_url": "https://github.com/thebuggeddev/football-stadium"
+    "id": 1306841672,
+    "name": "sticker-forge",
+    "full_name": "CatsJuice/sticker-forge",
+    "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
+    "stars": 395,
+    "language": "JavaScript",
+    "html_url": "https://github.com/CatsJuice/sticker-forge"
   },
   {
     "id": 1306989887,
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-    "stars": 323,
+    "stars": 359,
     "language": "JavaScript",
     "html_url": "https://github.com/Kritt-ai/open-kritt"
   },
   {
-    "id": 1308210168,
-    "name": "solanavolumebot",
-    "full_name": "chartup-solana-volume-bot/solanavolumebot",
-    "description": "Top-rated Solana volume bot and developer tools for DEX liquidity, maker activity, and holder management.",
-    "stars": 305,
-    "language": null,
-    "html_url": "https://github.com/chartup-solana-volume-bot/solanavolumebot"
+    "id": 1306689071,
+    "name": "PM-Sniper",
+    "full_name": "AdelanSoulX/PM-Sniper",
+    "description": null,
+    "stars": 346,
+    "language": "Python",
+    "html_url": "https://github.com/AdelanSoulX/PM-Sniper"
+  },
+  {
+    "id": 1307405656,
+    "name": "adelan-support",
+    "full_name": "AdelanSupport/adelan-support",
+    "description": null,
+    "stars": 342,
+    "language": "Python",
+    "html_url": "https://github.com/AdelanSupport/adelan-support"
+  },
+  {
+    "id": 1309308913,
+    "name": "redis-poc",
+    "full_name": "berabuddies/redis-poc",
+    "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
+    "stars": 312,
+    "language": "Python",
+    "html_url": "https://github.com/berabuddies/redis-poc"
+  },
+  {
+    "id": 1304696714,
+    "name": "design-judge-skills",
+    "full_name": "SeanJ1ang/design-judge-skills",
+    "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.",
+    "stars": 301,
+    "language": "Python",
+    "html_url": "https://github.com/SeanJ1ang/design-judge-skills"
+  },
+  {
+    "id": 1306808818,
+    "name": "Grok-Register",
+    "full_name": "Charles-0509/Grok-Register",
+    "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+    "stars": 301,
+    "language": "Go",
+    "html_url": "https://github.com/Charles-0509/Grok-Register"
+  },
+  {
+    "id": 1305624022,
+    "name": "OpenBrowser",
+    "full_name": "lyu0805/OpenBrowser",
+    "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+    "stars": 293,
+    "language": "JavaScript",
+    "html_url": "https://github.com/lyu0805/OpenBrowser"
+  },
+  {
+    "id": 1305068975,
+    "name": "tuistore",
+    "full_name": "Gheat1/tuistore",
+    "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.",
+    "stars": 286,
+    "language": "Python",
+    "html_url": "https://github.com/Gheat1/tuistore"
   }
 ]
