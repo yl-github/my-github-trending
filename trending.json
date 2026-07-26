@@ -4,25 +4,16 @@
     "name": "openworker",
     "full_name": "andrewyng/openworker",
     "description": null,
-    "stars": 3475,
+    "stars": 5089,
     "language": "Python",
     "html_url": "https://github.com/andrewyng/openworker"
-  },
-  {
-    "id": 1305663861,
-    "name": "video-shotcraft",
-    "full_name": "Vincentwei1021/video-shotcraft",
-    "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
-    "stars": 1464,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Vincentwei1021/video-shotcraft"
   },
   {
     "id": 1307383231,
     "name": "thinking-orbs",
     "full_name": "Jakubantalik/thinking-orbs",
     "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
-    "stars": 933,
+    "stars": 1015,
     "language": "TypeScript",
     "html_url": "https://github.com/Jakubantalik/thinking-orbs"
   },
@@ -31,7 +22,7 @@
     "name": "nativ",
     "full_name": "Blaizzy/nativ",
     "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
-    "stars": 863,
+    "stars": 885,
     "language": "Swift",
     "html_url": "https://github.com/Blaizzy/nativ"
   },
@@ -40,16 +31,25 @@
     "name": "goutoujunshi",
     "full_name": "powerycy/goutoujunshi",
     "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
-    "stars": 809,
+    "stars": 880,
     "language": "Python",
     "html_url": "https://github.com/powerycy/goutoujunshi"
+  },
+  {
+    "id": 1310057619,
+    "name": "esp32-ai",
+    "full_name": "slvDev/esp32-ai",
+    "description": null,
+    "stars": 838,
+    "language": "Python",
+    "html_url": "https://github.com/slvDev/esp32-ai"
   },
   {
     "id": 1306443880,
     "name": "pireel",
     "full_name": "pireel/pireel",
     "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
-    "stars": 714,
+    "stars": 753,
     "language": "TypeScript",
     "html_url": "https://github.com/pireel/pireel"
   },
@@ -58,124 +58,124 @@
     "name": "story-to-handdrawn-video",
     "full_name": "gnipbao/story-to-handdrawn-video",
     "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
-    "stars": 609,
+    "stars": 627,
     "language": "JavaScript",
     "html_url": "https://github.com/gnipbao/story-to-handdrawn-video"
+  },
+  {
+    "id": 1311384232,
+    "name": "ai-copywriter",
+    "full_name": "mikiarlo3/ai-copywriter",
+    "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+    "stars": 595,
+    "language": "Python",
+    "html_url": "https://github.com/mikiarlo3/ai-copywriter"
   },
   {
     "id": 1306841672,
     "name": "sticker-forge",
     "full_name": "CatsJuice/sticker-forge",
     "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
-    "stars": 526,
+    "stars": 575,
     "language": "JavaScript",
     "html_url": "https://github.com/CatsJuice/sticker-forge"
+  },
+  {
+    "id": 1306543174,
+    "name": "ZEUS-PANEL",
+    "full_name": "zeus-panel/ZEUS-PANEL",
+    "description": "A high-performance, serverless VLESS network proxy management panel deployed natively on Cloudflare Workers & D1 SQL Database.",
+    "stars": 537,
+    "language": "JavaScript",
+    "html_url": "https://github.com/zeus-panel/ZEUS-PANEL"
   },
   {
     "id": 1307786942,
     "name": "hyperliquid-tracker",
     "full_name": "0xhype/hyperliquid-tracker",
     "description": "Get notified when big trades happen on Hyperliquid.",
-    "stars": 509,
+    "stars": 510,
     "language": "TypeScript",
     "html_url": "https://github.com/0xhype/hyperliquid-tracker"
-  },
-  {
-    "id": 1310057619,
-    "name": "esp32-ai",
-    "full_name": "slvDev/esp32-ai",
-    "description": null,
-    "stars": 435,
-    "language": "Python",
-    "html_url": "https://github.com/slvDev/esp32-ai"
   },
   {
     "id": 1306808818,
     "name": "Grok-Register",
     "full_name": "Charles-0509/Grok-Register",
     "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
-    "stars": 432,
+    "stars": 460,
     "language": "Go",
     "html_url": "https://github.com/Charles-0509/Grok-Register"
   },
   {
-    "id": 1305466278,
-    "name": "claude-fable-5-system-prompt-clean",
-    "full_name": "KinetiNode/claude-fable-5-system-prompt-clean",
-    "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
-    "stars": 408,
-    "language": null,
-    "html_url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean"
-  },
-  {
-    "id": 1307405656,
-    "name": "adelan-support",
-    "full_name": "AdelanSupport/adelan-support",
-    "description": null,
-    "stars": 392,
+    "id": 1309308913,
+    "name": "redis-poc",
+    "full_name": "berabuddies/redis-poc",
+    "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
+    "stars": 418,
     "language": "Python",
-    "html_url": "https://github.com/AdelanSupport/adelan-support"
+    "html_url": "https://github.com/berabuddies/redis-poc"
   },
   {
     "id": 1306689071,
     "name": "PM-Sniper",
     "full_name": "AdelanSoulX/PM-Sniper",
     "description": null,
-    "stars": 391,
+    "stars": 410,
     "language": "Python",
     "html_url": "https://github.com/AdelanSoulX/PM-Sniper"
   },
   {
-    "id": 1309308913,
-    "name": "redis-poc",
-    "full_name": "berabuddies/redis-poc",
-    "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
-    "stars": 389,
+    "id": 1307405656,
+    "name": "adelan-support",
+    "full_name": "AdelanSupport/adelan-support",
+    "description": null,
+    "stars": 408,
     "language": "Python",
-    "html_url": "https://github.com/berabuddies/redis-poc"
+    "html_url": "https://github.com/AdelanSupport/adelan-support"
   },
   {
     "id": 1306989887,
     "name": "open-kritt",
     "full_name": "Kritt-ai/open-kritt",
     "description": "Orchestrate AI agents to find real vulnerabilities in code.",
-    "stars": 374,
+    "stars": 391,
     "language": "JavaScript",
     "html_url": "https://github.com/Kritt-ai/open-kritt"
-  },
-  {
-    "id": 1306918164,
-    "name": "cinema-dna-21x9x3",
-    "full_name": "dacnay816y62-hub/cinema-dna-21x9x3",
-    "description": "高级感电影画面生成",
-    "stars": 321,
-    "language": null,
-    "html_url": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3"
   },
   {
     "id": 1311313855,
     "name": "TG-Polymarket-bot",
     "full_name": "melloworchid8rr6g/TG-Polymarket-bot",
     "description": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
-    "stars": 313,
+    "stars": 390,
     "language": "JavaScript",
     "html_url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot"
   },
   {
-    "id": 1305624022,
-    "name": "OpenBrowser",
-    "full_name": "lyu0805/OpenBrowser",
-    "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
-    "stars": 308,
-    "language": "JavaScript",
-    "html_url": "https://github.com/lyu0805/OpenBrowser"
+    "id": 1306918164,
+    "name": "cinema-dna-21x9x3",
+    "full_name": "dacnay816y62-hub/cinema-dna-21x9x3",
+    "description": "高级感电影画面生成",
+    "stars": 349,
+    "language": null,
+    "html_url": "https://github.com/dacnay816y62-hub/cinema-dna-21x9x3"
+  },
+  {
+    "id": 1311225763,
+    "name": "agentacct",
+    "full_name": "mikehasa/agentacct",
+    "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+    "stars": 324,
+    "language": "Python",
+    "html_url": "https://github.com/mikehasa/agentacct"
   },
   {
     "id": 1307154301,
     "name": "agent-notch",
     "full_name": "realfishsam/agent-notch",
     "description": "The open-source alternative to vibe-island",
-    "stars": 266,
+    "stars": 272,
     "language": "Swift",
     "html_url": "https://github.com/realfishsam/agent-notch"
   }
