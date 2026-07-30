@@ -1,28 +1,10 @@
 [
   {
-    "id": 1309331155,
-    "name": "scriptc",
-    "full_name": "vercel-labs/scriptc",
-    "description": "TypeScript-to-Native Compiler",
-    "stars": 1783,
-    "language": "TypeScript",
-    "html_url": "https://github.com/vercel-labs/scriptc"
-  },
-  {
-    "id": 1310057619,
-    "name": "esp32-ai",
-    "full_name": "slvDev/esp32-ai",
-    "description": null,
-    "stars": 1762,
-    "language": "Python",
-    "html_url": "https://github.com/slvDev/esp32-ai"
-  },
-  {
     "id": 1313576395,
     "name": "Kimi-K3",
     "full_name": "MoonshotAI/Kimi-K3",
     "description": "Open Frontier Intelligence",
-    "stars": 1634,
+    "stars": 5954,
     "language": null,
     "html_url": "https://github.com/MoonshotAI/Kimi-K3"
   },
@@ -31,152 +13,170 @@
     "name": "Claude-of-Duty",
     "full_name": "mshumer/Claude-of-Duty",
     "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-    "stars": 1040,
+    "stars": 2256,
     "language": "JavaScript",
     "html_url": "https://github.com/mshumer/Claude-of-Duty"
+  },
+  {
+    "id": 1311510441,
+    "name": "quill",
+    "full_name": "digimata/quill",
+    "description": "Ultra-minimalist macOS recording + transcription.",
+    "stars": 1552,
+    "language": "Swift",
+    "html_url": "https://github.com/digimata/quill"
   },
   {
     "id": 1311384232,
     "name": "ai-copywriter",
     "full_name": "mikiarlo3/ai-copywriter",
     "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-    "stars": 939,
+    "stars": 1047,
     "language": "Python",
     "html_url": "https://github.com/mikiarlo3/ai-copywriter"
   },
   {
-    "id": 1309102418,
-    "name": "cindy",
-    "full_name": "makecindy/cindy",
-    "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
-    "stars": 865,
-    "language": "TypeScript",
-    "html_url": "https://github.com/makecindy/cindy"
-  },
-  {
-    "id": 1309451980,
-    "name": "AgentENV",
-    "full_name": "kvcache-ai/AgentENV",
-    "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-    "stars": 758,
-    "language": "Rust",
-    "html_url": "https://github.com/kvcache-ai/AgentENV"
+    "id": 1312410567,
+    "name": "Shared-Claude-Chats",
+    "full_name": "fuadmefleh/Shared-Claude-Chats",
+    "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
+    "stars": 933,
+    "language": "Python",
+    "html_url": "https://github.com/fuadmefleh/Shared-Claude-Chats"
   },
   {
     "id": 1312158335,
     "name": "OptMem",
     "full_name": "VictorTaelin/OptMem",
     "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-    "stars": 651,
+    "stars": 880,
     "language": "Python",
     "html_url": "https://github.com/VictorTaelin/OptMem"
-  },
-  {
-    "id": 1313191574,
-    "name": "openclaude-improved",
-    "full_name": "0xwilliamortiz/openclaude-improved",
-    "description": "runs anywhere. uses anything",
-    "stars": 530,
-    "language": "TypeScript",
-    "html_url": "https://github.com/0xwilliamortiz/openclaude-improved"
-  },
-  {
-    "id": 1311225763,
-    "name": "agentacct",
-    "full_name": "mikehasa/agentacct",
-    "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
-    "stars": 481,
-    "language": "Python",
-    "html_url": "https://github.com/mikehasa/agentacct"
   },
   {
     "id": 1310847317,
     "name": "MoonEP",
     "full_name": "MoonshotAI/MoonEP",
     "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-    "stars": 475,
+    "stars": 862,
     "language": "Python",
     "html_url": "https://github.com/MoonshotAI/MoonEP"
   },
   {
-    "id": 1309308913,
-    "name": "redis-poc",
-    "full_name": "berabuddies/redis-poc",
-    "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-    "stars": 454,
-    "language": "Python",
-    "html_url": "https://github.com/berabuddies/redis-poc"
-  },
-  {
-    "id": 1308919753,
-    "name": "Crisp",
-    "full_name": "didriksg/Crisp",
-    "description": "Free, open-source macOS alternative to BetterDisplay and Lunar: a lightweight menu bar app with sharp HiDPI/Retina scaling for external monitors (no more blurry or tiny text), plus brightness (DDC), virtual displays, presets, and color.",
-    "stars": 409,
-    "language": "Swift",
-    "html_url": "https://github.com/didriksg/Crisp"
-  },
-  {
-    "id": 1308648534,
-    "name": "draw-your-font",
-    "full_name": "danilo-znamerovszkij/draw-your-font",
-    "description": "Turn a photo of your handwriting into a real font (TTF/WOFF/WOFF2) - free, open source, no uploads. Node CLI + Claude Code skill.",
-    "stars": 405,
-    "language": "JavaScript",
-    "html_url": "https://github.com/danilo-znamerovszkij/draw-your-font"
-  },
-  {
-    "id": 1311973228,
-    "name": "Ethereum-bot",
-    "full_name": "rustyharbor308774/Ethereum-bot",
-    "description": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
-    "stars": 359,
-    "language": "Solidity",
-    "html_url": "https://github.com/rustyharbor308774/Ethereum-bot"
-  },
-  {
-    "id": 1310162837,
-    "name": "grok-app",
-    "full_name": "RongleCat/grok-app",
-    "description": "Desktop workbench for Grok Build CLI — sessions, projects, media, automations (Tauri 2 · unofficial)",
-    "stars": 345,
+    "id": 1313191574,
+    "name": "openclaude-improved",
+    "full_name": "0xwilliamortiz/openclaude-improved",
+    "description": "runs anywhere. uses anything",
+    "stars": 555,
     "language": "TypeScript",
-    "html_url": "https://github.com/RongleCat/grok-app"
+    "html_url": "https://github.com/0xwilliamortiz/openclaude-improved"
   },
   {
-    "id": 1309187090,
-    "name": "Audio-Cassette-Simulation",
-    "full_name": "AARomanov1985/Audio-Cassette-Simulation",
-    "description": "This project simulates cassette tape audio profiles using ffmpeg",
-    "stars": 331,
-    "language": "Shell",
-    "html_url": "https://github.com/AARomanov1985/Audio-Cassette-Simulation"
+    "id": 1315061605,
+    "name": "ponytail-improved",
+    "full_name": "0xwilliamortiz/ponytail-improved",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "stars": 547,
+    "language": "JavaScript",
+    "html_url": "https://github.com/0xwilliamortiz/ponytail-improved"
   },
   {
-    "id": 1309585508,
-    "name": "axrl",
-    "full_name": "XYZ-AI-Lab/axrl",
-    "description": "AxisRL is an agentic RL post-training framework built on SGLang rollout, Megatron training, and real-world agent workflows.",
-    "stars": 312,
+    "id": 1311225763,
+    "name": "agentacct",
+    "full_name": "mikehasa/agentacct",
+    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
+    "stars": 530,
     "language": "Python",
-    "html_url": "https://github.com/XYZ-AI-Lab/axrl"
+    "html_url": "https://github.com/mikehasa/agentacct"
+  },
+  {
+    "id": 1314908790,
+    "name": "persona",
+    "full_name": "xikhar/persona",
+    "description": "Bringing real-time voice to life.",
+    "stars": 515,
+    "language": "JavaScript",
+    "html_url": "https://github.com/xikhar/persona"
+  },
+  {
+    "id": 1315854686,
+    "name": "talivia",
+    "full_name": "talivia-group/talivia",
+    "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
+    "stars": 398,
+    "language": "TypeScript",
+    "html_url": "https://github.com/talivia-group/talivia"
+  },
+  {
+    "id": 1312338644,
+    "name": "PGSimCity",
+    "full_name": "NikolayS/PGSimCity",
+    "description": "An explorable 3D city that shows how Postgres actually works",
+    "stars": 396,
+    "language": "TypeScript",
+    "html_url": "https://github.com/NikolayS/PGSimCity"
+  },
+  {
+    "id": 1312488824,
+    "name": "deer-workflow",
+    "full_name": "deerwork-ai/deer-workflow",
+    "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "stars": 348,
+    "language": "TypeScript",
+    "html_url": "https://github.com/deerwork-ai/deer-workflow"
+  },
+  {
+    "id": 1313215450,
+    "name": "rescript",
+    "full_name": "wassgha/rescript",
+    "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
+    "stars": 342,
+    "language": "TypeScript",
+    "html_url": "https://github.com/wassgha/rescript"
+  },
+  {
+    "id": 1314404827,
+    "name": "deltafin",
+    "full_name": "gavamedia/deltafin",
+    "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.",
+    "stars": 336,
+    "language": "Python",
+    "html_url": "https://github.com/gavamedia/deltafin"
   },
   {
     "id": 1311313529,
     "name": "leaked-llm-prompts",
     "full_name": "Eversmile12/leaked-llm-prompts",
     "description": "collections-of-leaked-prompts",
-    "stars": 291,
+    "stars": 327,
     "language": null,
     "html_url": "https://github.com/Eversmile12/leaked-llm-prompts"
   },
   {
-    "id": 1309499087,
-    "name": "AxisAgentic",
-    "full_name": "XYZ-AI-Lab/AxisAgentic",
-    "description": "AxisAgentic: An Extensible Runtime and Trajectory-Collection Framework for Long-Horizon Agents.",
-    "stars": 282,
+    "id": 1313614650,
+    "name": "TheLongSilence",
+    "full_name": "achimala/TheLongSilence",
+    "description": "A space exploration game built by Claude Opus 5",
+    "stars": 326,
+    "language": "JavaScript",
+    "html_url": "https://github.com/achimala/TheLongSilence"
+  },
+  {
+    "id": 1310768914,
+    "name": "harkinianpad",
+    "full_name": "chrissotraidis/harkinianpad",
+    "description": "Ocarina of Time native on iOS and iPadOS via Ship of Harkinian with Metal rendering, touch controls, controller support, and ROM-free reproducible builds.",
+    "stars": 286,
+    "language": "Shell",
+    "html_url": "https://github.com/chrissotraidis/harkinianpad"
+  },
+  {
+    "id": 1312142639,
+    "name": "5.6-JAILBREAK-NERV-codex-instruct-5.6",
+    "full_name": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
+    "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
+    "stars": 273,
     "language": "Python",
-    "html_url": "https://github.com/XYZ-AI-Lab/AxisAgentic"
+    "html_url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6"
   }
 ]
