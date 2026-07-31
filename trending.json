@@ -4,7 +4,7 @@
     "name": "Kimi-K3",
     "full_name": "MoonshotAI/Kimi-K3",
     "description": "Open Frontier Intelligence",
-    "stars": 5954,
+    "stars": 7553,
     "language": null,
     "html_url": "https://github.com/MoonshotAI/Kimi-K3"
   },
@@ -13,170 +13,170 @@
     "name": "Claude-of-Duty",
     "full_name": "mshumer/Claude-of-Duty",
     "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-    "stars": 2256,
+    "stars": 2410,
     "language": "JavaScript",
     "html_url": "https://github.com/mshumer/Claude-of-Duty"
-  },
-  {
-    "id": 1311510441,
-    "name": "quill",
-    "full_name": "digimata/quill",
-    "description": "Ultra-minimalist macOS recording + transcription.",
-    "stars": 1552,
-    "language": "Swift",
-    "html_url": "https://github.com/digimata/quill"
-  },
-  {
-    "id": 1311384232,
-    "name": "ai-copywriter",
-    "full_name": "mikiarlo3/ai-copywriter",
-    "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-    "stars": 1047,
-    "language": "Python",
-    "html_url": "https://github.com/mikiarlo3/ai-copywriter"
-  },
-  {
-    "id": 1312410567,
-    "name": "Shared-Claude-Chats",
-    "full_name": "fuadmefleh/Shared-Claude-Chats",
-    "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdown, plus the two scripts that produce it.",
-    "stars": 933,
-    "language": "Python",
-    "html_url": "https://github.com/fuadmefleh/Shared-Claude-Chats"
   },
   {
     "id": 1312158335,
     "name": "OptMem",
     "full_name": "VictorTaelin/OptMem",
     "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-    "stars": 880,
+    "stars": 934,
     "language": "Python",
     "html_url": "https://github.com/VictorTaelin/OptMem"
-  },
-  {
-    "id": 1310847317,
-    "name": "MoonEP",
-    "full_name": "MoonshotAI/MoonEP",
-    "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-    "stars": 862,
-    "language": "Python",
-    "html_url": "https://github.com/MoonshotAI/MoonEP"
-  },
-  {
-    "id": 1313191574,
-    "name": "openclaude-improved",
-    "full_name": "0xwilliamortiz/openclaude-improved",
-    "description": "runs anywhere. uses anything",
-    "stars": 555,
-    "language": "TypeScript",
-    "html_url": "https://github.com/0xwilliamortiz/openclaude-improved"
-  },
-  {
-    "id": 1315061605,
-    "name": "ponytail-improved",
-    "full_name": "0xwilliamortiz/ponytail-improved",
-    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "stars": 547,
-    "language": "JavaScript",
-    "html_url": "https://github.com/0xwilliamortiz/ponytail-improved"
-  },
-  {
-    "id": 1311225763,
-    "name": "agentacct",
-    "full_name": "mikehasa/agentacct",
-    "description": "See what your coding agents did and what it cost. Breaks each task down into work steps — tools used, files changed, tests run, time and tokens spent. Local-first dashboard for Claude Code, Codex, OpenCode, and more. No login, no telemetry.",
-    "stars": 530,
-    "language": "Python",
-    "html_url": "https://github.com/mikehasa/agentacct"
   },
   {
     "id": 1314908790,
     "name": "persona",
     "full_name": "xikhar/persona",
     "description": "Bringing real-time voice to life.",
-    "stars": 515,
+    "stars": 677,
     "language": "JavaScript",
     "html_url": "https://github.com/xikhar/persona"
+  },
+  {
+    "id": 1315061605,
+    "name": "ponytail-improved",
+    "full_name": "0xwilliamortiz/ponytail-improved",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "stars": 564,
+    "language": "JavaScript",
+    "html_url": "https://github.com/0xwilliamortiz/ponytail-improved"
+  },
+  {
+    "id": 1313191574,
+    "name": "openclaude-improved",
+    "full_name": "0xwilliamortiz/openclaude-improved",
+    "description": "runs anywhere. uses anything",
+    "stars": 562,
+    "language": "TypeScript",
+    "html_url": "https://github.com/0xwilliamortiz/openclaude-improved"
   },
   {
     "id": 1315854686,
     "name": "talivia",
     "full_name": "talivia-group/talivia",
     "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-    "stars": 398,
+    "stars": 490,
     "language": "TypeScript",
     "html_url": "https://github.com/talivia-group/talivia"
+  },
+  {
+    "id": 1314404827,
+    "name": "deltafin",
+    "full_name": "gavamedia/deltafin",
+    "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+    "stars": 485,
+    "language": "Python",
+    "html_url": "https://github.com/gavamedia/deltafin"
   },
   {
     "id": 1312338644,
     "name": "PGSimCity",
     "full_name": "NikolayS/PGSimCity",
     "description": "An explorable 3D city that shows how Postgres actually works",
-    "stars": 396,
+    "stars": 440,
     "language": "TypeScript",
     "html_url": "https://github.com/NikolayS/PGSimCity"
   },
   {
-    "id": 1312488824,
-    "name": "deer-workflow",
-    "full_name": "deerwork-ai/deer-workflow",
-    "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
-    "stars": 348,
-    "language": "TypeScript",
-    "html_url": "https://github.com/deerwork-ai/deer-workflow"
+    "id": 1313435339,
+    "name": "qwen-audio-agent",
+    "full_name": "QwenAudio/qwen-audio-agent",
+    "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+    "stars": 429,
+    "language": "JavaScript",
+    "html_url": "https://github.com/QwenAudio/qwen-audio-agent"
   },
   {
     "id": 1313215450,
     "name": "rescript",
     "full_name": "wassgha/rescript",
     "description": "🎬 Open source, transcript-based video/audio editor that lives in the browser.",
-    "stars": 342,
+    "stars": 407,
     "language": "TypeScript",
     "html_url": "https://github.com/wassgha/rescript"
   },
   {
-    "id": 1314404827,
-    "name": "deltafin",
-    "full_name": "gavamedia/deltafin",
-    "description": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.",
-    "stars": 336,
-    "language": "Python",
-    "html_url": "https://github.com/gavamedia/deltafin"
+    "id": 1313185637,
+    "name": "DramaticShapeVoxelMod",
+    "full_name": "DramaticShape/DramaticShapeVoxelMod",
+    "description": null,
+    "stars": 400,
+    "language": "Lua",
+    "html_url": "https://github.com/DramaticShape/DramaticShapeVoxelMod"
   },
   {
-    "id": 1311313529,
-    "name": "leaked-llm-prompts",
-    "full_name": "Eversmile12/leaked-llm-prompts",
-    "description": "collections-of-leaked-prompts",
-    "stars": 327,
-    "language": null,
-    "html_url": "https://github.com/Eversmile12/leaked-llm-prompts"
+    "id": 1312488824,
+    "name": "deer-workflow",
+    "full_name": "deerwork-ai/deer-workflow",
+    "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+    "stars": 358,
+    "language": "TypeScript",
+    "html_url": "https://github.com/deerwork-ai/deer-workflow"
   },
   {
     "id": 1313614650,
     "name": "TheLongSilence",
     "full_name": "achimala/TheLongSilence",
     "description": "A space exploration game built by Claude Opus 5",
-    "stars": 326,
+    "stars": 357,
     "language": "JavaScript",
     "html_url": "https://github.com/achimala/TheLongSilence"
   },
   {
-    "id": 1310768914,
-    "name": "harkinianpad",
-    "full_name": "chrissotraidis/harkinianpad",
-    "description": "Ocarina of Time native on iOS and iPadOS via Ship of Harkinian with Metal rendering, touch controls, controller support, and ROM-free reproducible builds.",
-    "stars": 286,
-    "language": "Shell",
-    "html_url": "https://github.com/chrissotraidis/harkinianpad"
+    "id": 1315342480,
+    "name": "snowflow_demo",
+    "full_name": "Noniv/snowflow_demo",
+    "description": "A real-time procedural snow rendering demo built with WebGPU, Babylon.js and hand-written WGSL. Features GPU-generated terrain, snow deformation, procedural characters, cloth, surf wakes, water spells, atmosphere and post-processing—without textures, meshes, HDRIs or animation assets.",
+    "stars": 344,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Noniv/snowflow_demo"
+  },
+  {
+    "id": 1316875788,
+    "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+    "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+    "stars": 313,
+    "language": null,
+    "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
   },
   {
     "id": 1312142639,
     "name": "5.6-JAILBREAK-NERV-codex-instruct-5.6",
     "full_name": "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6",
     "description": "NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审核。31个MCP安全工具 + 28个技能模块 + Kali四后端集成。Codex CLI 即装即用。",
-    "stars": 273,
+    "stars": 298,
     "language": "Python",
     "html_url": "https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6"
+  },
+  {
+    "id": 1314368765,
+    "name": "kimi-k3-mlx",
+    "full_name": "PipeNetwork/kimi-k3-mlx",
+    "description": "MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP expert pruning, and per-language expert-overlap analysis",
+    "stars": 294,
+    "language": "Python",
+    "html_url": "https://github.com/PipeNetwork/kimi-k3-mlx"
+  },
+  {
+    "id": 1317563975,
+    "name": "decimen-optical-transfer",
+    "full_name": "bashalarmistalt/decimen-optical-transfer",
+    "description": null,
+    "stars": 283,
+    "language": "TypeScript",
+    "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+  },
+  {
+    "id": 1315939217,
+    "name": "grok-register-panel",
+    "full_name": "lij768423-svg/grok-register-panel",
+    "description": "Grok register engine (Camoufox) + live web monitor panel",
+    "stars": 269,
+    "language": "Python",
+    "html_url": "https://github.com/lij768423-svg/grok-register-panel"
   }
 ]
