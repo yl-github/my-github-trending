@@ -1,118 +1,100 @@
 [
   {
-    "id": 1316527318,
-    "name": "qm",
-    "full_name": "yc-software/qm",
-    "description": "Multiplayer agent harness for work",
-    "stars": 9861,
+    "id": 1318768894,
+    "name": "crm",
+    "full_name": "trycompai/crm",
+    "description": "An open-source, agentic-first CRM.",
+    "stars": 4787,
     "language": "TypeScript",
-    "html_url": "https://github.com/yc-software/qm"
+    "html_url": "https://github.com/trycompai/crm"
   },
   {
     "id": 1317563975,
     "name": "decimen-optical-transfer",
     "full_name": "bashalarmistalt/decimen-optical-transfer",
     "description": null,
-    "stars": 4269,
+    "stars": 4557,
     "language": "TypeScript",
     "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
-  },
-  {
-    "id": 1318768894,
-    "name": "crm",
-    "full_name": "trycompai/crm",
-    "description": "An open-source, agentic-first CRM.",
-    "stars": 3355,
-    "language": "TypeScript",
-    "html_url": "https://github.com/trycompai/crm"
   },
   {
     "id": 1316875788,
     "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
     "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-    "stars": 2118,
+    "stars": 2981,
     "language": null,
     "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
-  },
-  {
-    "id": 1316443307,
-    "name": "skill-recorder",
-    "full_name": "microsoft/skill-recorder",
-    "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-    "stars": 1448,
-    "language": "TypeScript",
-    "html_url": "https://github.com/microsoft/skill-recorder"
   },
   {
     "id": 1319154759,
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "stars": 1273,
+    "stars": 2061,
     "language": "C",
     "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
-  },
-  {
-    "id": 1319336961,
-    "name": "sol-advisor",
-    "full_name": "DannyMac180/sol-advisor",
-    "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-    "stars": 1021,
-    "language": "Shell",
-    "html_url": "https://github.com/DannyMac180/sol-advisor"
-  },
-  {
-    "id": 1318094168,
-    "name": "WilonityLoader",
-    "full_name": "WilonityDev/WilonityLoader",
-    "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
-    "stars": 898,
-    "language": null,
-    "html_url": "https://github.com/WilonityDev/WilonityLoader"
   },
   {
     "id": 1319484586,
     "name": "zhuzhiliao",
     "full_name": "imsai-sh/zhuzhiliao",
     "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-    "stars": 855,
+    "stars": 1690,
     "language": "HTML",
     "html_url": "https://github.com/imsai-sh/zhuzhiliao"
   },
   {
-    "id": 1320101490,
-    "name": "anatomy",
-    "full_name": "thebuggeddev/anatomy",
-    "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "stars": 787,
-    "language": "TypeScript",
-    "html_url": "https://github.com/thebuggeddev/anatomy"
+    "id": 1322012299,
+    "name": "anydoc",
+    "full_name": "firecrawl/anydoc",
+    "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "stars": 1672,
+    "language": "Rust",
+    "html_url": "https://github.com/firecrawl/anydoc"
   },
   {
     "id": 1318187016,
     "name": "genoffice",
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-    "stars": 711,
+    "stars": 1368,
     "language": "TypeScript",
     "html_url": "https://github.com/genspark-ai/genoffice"
   },
   {
-    "id": 1315854686,
-    "name": "talivia",
-    "full_name": "talivia-group/talivia",
-    "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenue attribution, and customer revenue integrations. datafast alternative",
-    "stars": 679,
+    "id": 1319336961,
+    "name": "sol-advisor",
+    "full_name": "DannyMac180/sol-advisor",
+    "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+    "stars": 1326,
+    "language": "Shell",
+    "html_url": "https://github.com/DannyMac180/sol-advisor"
+  },
+  {
+    "id": 1320101490,
+    "name": "anatomy",
+    "full_name": "thebuggeddev/anatomy",
+    "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+    "stars": 1238,
     "language": "TypeScript",
-    "html_url": "https://github.com/talivia-group/talivia"
+    "html_url": "https://github.com/thebuggeddev/anatomy"
+  },
+  {
+    "id": 1318094168,
+    "name": "WilonityLoader",
+    "full_name": "WilonityDev/WilonityLoader",
+    "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+    "stars": 900,
+    "language": null,
+    "html_url": "https://github.com/WilonityDev/WilonityLoader"
   },
   {
     "id": 1319280427,
     "name": "3x-ui-multi",
     "full_name": "x4gKing/3x-ui-multi",
     "description": null,
-    "stars": 560,
+    "stars": 704,
     "language": "JavaScript",
     "html_url": "https://github.com/x4gKing/3x-ui-multi"
   },
@@ -121,34 +103,43 @@
     "name": "humanizer-cli",
     "full_name": "0xwilliamortiz/humanizer-cli",
     "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-    "stars": 559,
+    "stars": 569,
     "language": "JavaScript",
     "html_url": "https://github.com/0xwilliamortiz/humanizer-cli"
   },
   {
-    "id": 1317565852,
-    "name": "interior",
-    "full_name": "ddoemonn/interior",
-    "description": "micro-interactions for react, built for the half-second after a click",
-    "stars": 469,
-    "language": "TypeScript",
-    "html_url": "https://github.com/ddoemonn/interior"
+    "id": 1319399540,
+    "name": "flashloan-scalper-bot",
+    "full_name": "brookfacehe2421/flashloan-scalper-bot",
+    "description": "Quick profit scalper using flashloan mechanics",
+    "stars": 553,
+    "language": "JavaScript",
+    "html_url": "https://github.com/brookfacehe2421/flashloan-scalper-bot"
   },
   {
     "id": 1318382587,
     "name": "animated-voiceover",
     "full_name": "s1dashu/animated-voiceover",
     "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
-    "stars": 469,
+    "stars": 494,
     "language": null,
     "html_url": "https://github.com/s1dashu/animated-voiceover"
+  },
+  {
+    "id": 1317565852,
+    "name": "interior",
+    "full_name": "ddoemonn/interior",
+    "description": "micro-interactions for react, built for the half-second after a click",
+    "stars": 485,
+    "language": "TypeScript",
+    "html_url": "https://github.com/ddoemonn/interior"
   },
   {
     "id": 1319019946,
     "name": "ten-proofs",
     "full_name": "openai/ten-proofs",
     "description": "Lean certificates accompanying proofs in mathematics and theoretical computer science",
-    "stars": 436,
+    "stars": 473,
     "language": "Lean",
     "html_url": "https://github.com/openai/ten-proofs"
   },
@@ -157,25 +148,34 @@
     "name": "ratchet",
     "full_name": "0xwilliamortiz/ratchet",
     "description": "Your agent reads the rules. This checks whether it followed them.",
-    "stars": 424,
+    "stars": 430,
     "language": "JavaScript",
     "html_url": "https://github.com/0xwilliamortiz/ratchet"
   },
   {
-    "id": 1315939217,
-    "name": "grok-register-panel",
-    "full_name": "lij768423-svg/grok-register-panel",
-    "description": "Grok register engine (Camoufox) + live web monitor panel",
-    "stars": 397,
-    "language": "Python",
-    "html_url": "https://github.com/lij768423-svg/grok-register-panel"
+    "id": 1320827273,
+    "name": "finger-frame-effect-ai",
+    "full_name": "sophiamyang/finger-frame-effect-ai",
+    "description": null,
+    "stars": 419,
+    "language": "JavaScript",
+    "html_url": "https://github.com/sophiamyang/finger-frame-effect-ai"
+  },
+  {
+    "id": 1319103484,
+    "name": "morphicons",
+    "full_name": "guillermolg00/morphicons",
+    "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+    "stars": 415,
+    "language": "TypeScript",
+    "html_url": "https://github.com/guillermolg00/morphicons"
   },
   {
     "id": 1317927783,
     "name": "qr-data-transfer",
     "full_name": "deedy/qr-data-transfer",
     "description": null,
-    "stars": 367,
+    "stars": 396,
     "language": "TypeScript",
     "html_url": "https://github.com/deedy/qr-data-transfer"
   }
