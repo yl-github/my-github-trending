@@ -4,34 +4,25 @@
     "name": "crm",
     "full_name": "trycompai/crm",
     "description": "An open-source, agentic-first CRM.",
-    "stars": 4787,
+    "stars": 6357,
     "language": "TypeScript",
     "html_url": "https://github.com/trycompai/crm"
   },
   {
-    "id": 1317563975,
-    "name": "decimen-optical-transfer",
-    "full_name": "bashalarmistalt/decimen-optical-transfer",
-    "description": null,
-    "stars": 4557,
-    "language": "TypeScript",
-    "html_url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
-  },
-  {
-    "id": 1316875788,
-    "name": "FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-    "full_name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-    "description": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
-    "stars": 2981,
-    "language": null,
-    "html_url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+    "id": 1322012299,
+    "name": "anydoc",
+    "full_name": "firecrawl/anydoc",
+    "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "stars": 5270,
+    "language": "Rust",
+    "html_url": "https://github.com/firecrawl/anydoc"
   },
   {
     "id": 1319154759,
     "name": "kimi-k3-in-c",
     "full_name": "FareedKhan-dev/kimi-k3-in-c",
     "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "stars": 2061,
+    "stars": 2597,
     "language": "C",
     "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
   },
@@ -40,79 +31,115 @@
     "name": "zhuzhiliao",
     "full_name": "imsai-sh/zhuzhiliao",
     "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-    "stars": 1690,
+    "stars": 2056,
     "language": "HTML",
     "html_url": "https://github.com/imsai-sh/zhuzhiliao"
-  },
-  {
-    "id": 1322012299,
-    "name": "anydoc",
-    "full_name": "firecrawl/anydoc",
-    "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-    "stars": 1672,
-    "language": "Rust",
-    "html_url": "https://github.com/firecrawl/anydoc"
   },
   {
     "id": 1318187016,
     "name": "genoffice",
     "full_name": "genspark-ai/genoffice",
     "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-    "stars": 1368,
+    "stars": 1801,
     "language": "TypeScript",
     "html_url": "https://github.com/genspark-ai/genoffice"
-  },
-  {
-    "id": 1319336961,
-    "name": "sol-advisor",
-    "full_name": "DannyMac180/sol-advisor",
-    "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-    "stars": 1326,
-    "language": "Shell",
-    "html_url": "https://github.com/DannyMac180/sol-advisor"
   },
   {
     "id": 1320101490,
     "name": "anatomy",
     "full_name": "thebuggeddev/anatomy",
     "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "stars": 1238,
+    "stars": 1624,
     "language": "TypeScript",
     "html_url": "https://github.com/thebuggeddev/anatomy"
   },
   {
-    "id": 1318094168,
-    "name": "WilonityLoader",
-    "full_name": "WilonityDev/WilonityLoader",
-    "description": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, PUBG, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
-    "stars": 900,
-    "language": null,
-    "html_url": "https://github.com/WilonityDev/WilonityLoader"
+    "id": 1319336961,
+    "name": "sol-advisor",
+    "full_name": "DannyMac180/sol-advisor",
+    "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+    "stars": 1477,
+    "language": "Shell",
+    "html_url": "https://github.com/DannyMac180/sol-advisor"
+  },
+  {
+    "id": 1323511527,
+    "name": "human-writing",
+    "full_name": "KKKKhazix/human-writing",
+    "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+    "stars": 1140,
+    "language": "Python",
+    "html_url": "https://github.com/KKKKhazix/human-writing"
+  },
+  {
+    "id": 1319855210,
+    "name": "RealReplicaBench",
+    "full_name": "Accio-Lab/RealReplicaBench",
+    "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+    "stars": 1019,
+    "language": "HTML",
+    "html_url": "https://github.com/Accio-Lab/RealReplicaBench"
   },
   {
     "id": 1319280427,
     "name": "3x-ui-multi",
     "full_name": "x4gKing/3x-ui-multi",
     "description": null,
-    "stars": 704,
+    "stars": 813,
     "language": "JavaScript",
     "html_url": "https://github.com/x4gKing/3x-ui-multi"
+  },
+  {
+    "id": 1319103484,
+    "name": "morphicons",
+    "full_name": "guillermolg00/morphicons",
+    "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+    "stars": 726,
+    "language": "TypeScript",
+    "html_url": "https://github.com/guillermolg00/morphicons"
+  },
+  {
+    "id": 1323763720,
+    "name": "open-kimi-ppt-skill",
+    "full_name": "Binaryify/open-kimi-ppt-skill",
+    "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+    "stars": 712,
+    "language": "Python",
+    "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill"
+  },
+  {
+    "id": 1317993731,
+    "name": "findphone",
+    "full_name": "ben-z/findphone",
+    "description": "Locate a nearby Bluetooth device by signal strength, from the macOS command line — for when Find My isn't available",
+    "stars": 601,
+    "language": "Swift",
+    "html_url": "https://github.com/ben-z/findphone"
   },
   {
     "id": 1319609477,
     "name": "humanizer-cli",
     "full_name": "0xwilliamortiz/humanizer-cli",
     "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-    "stars": 569,
+    "stars": 578,
     "language": "JavaScript",
     "html_url": "https://github.com/0xwilliamortiz/humanizer-cli"
+  },
+  {
+    "id": 1320827273,
+    "name": "finger-frame-effect-ai",
+    "full_name": "sophiamyang/finger-frame-effect-ai",
+    "description": null,
+    "stars": 557,
+    "language": "JavaScript",
+    "html_url": "https://github.com/sophiamyang/finger-frame-effect-ai"
   },
   {
     "id": 1319399540,
     "name": "flashloan-scalper-bot",
     "full_name": "brookfacehe2421/flashloan-scalper-bot",
     "description": "Quick profit scalper using flashloan mechanics",
-    "stars": 553,
+    "stars": 555,
     "language": "JavaScript",
     "html_url": "https://github.com/brookfacehe2421/flashloan-scalper-bot"
   },
@@ -121,62 +148,35 @@
     "name": "animated-voiceover",
     "full_name": "s1dashu/animated-voiceover",
     "description": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
-    "stars": 494,
+    "stars": 502,
     "language": null,
     "html_url": "https://github.com/s1dashu/animated-voiceover"
   },
   {
-    "id": 1317565852,
-    "name": "interior",
-    "full_name": "ddoemonn/interior",
-    "description": "micro-interactions for react, built for the half-second after a click",
-    "stars": 485,
-    "language": "TypeScript",
-    "html_url": "https://github.com/ddoemonn/interior"
+    "id": 1320242285,
+    "name": "doc7",
+    "full_name": "magicrew/doc7",
+    "description": "Turn documents into AI-ready Markdown with visual understanding",
+    "stars": 457,
+    "language": "Go",
+    "html_url": "https://github.com/magicrew/doc7"
   },
   {
-    "id": 1319019946,
-    "name": "ten-proofs",
-    "full_name": "openai/ten-proofs",
-    "description": "Lean certificates accompanying proofs in mathematics and theoretical computer science",
-    "stars": 473,
-    "language": "Lean",
-    "html_url": "https://github.com/openai/ten-proofs"
+    "id": 1321688525,
+    "name": "awesome-free-ai-course-notes",
+    "full_name": "MarcosSete/awesome-free-ai-course-notes",
+    "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+    "stars": 453,
+    "language": null,
+    "html_url": "https://github.com/MarcosSete/awesome-free-ai-course-notes"
   },
   {
-    "id": 1318616860,
-    "name": "ratchet",
-    "full_name": "0xwilliamortiz/ratchet",
-    "description": "Your agent reads the rules. This checks whether it followed them.",
-    "stars": 430,
-    "language": "JavaScript",
-    "html_url": "https://github.com/0xwilliamortiz/ratchet"
-  },
-  {
-    "id": 1320827273,
-    "name": "finger-frame-effect-ai",
-    "full_name": "sophiamyang/finger-frame-effect-ai",
-    "description": null,
-    "stars": 419,
-    "language": "JavaScript",
-    "html_url": "https://github.com/sophiamyang/finger-frame-effect-ai"
-  },
-  {
-    "id": 1319103484,
-    "name": "morphicons",
-    "full_name": "guillermolg00/morphicons",
-    "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-    "stars": 415,
-    "language": "TypeScript",
-    "html_url": "https://github.com/guillermolg00/morphicons"
-  },
-  {
-    "id": 1317927783,
-    "name": "qr-data-transfer",
-    "full_name": "deedy/qr-data-transfer",
-    "description": null,
-    "stars": 396,
-    "language": "TypeScript",
-    "html_url": "https://github.com/deedy/qr-data-transfer"
+    "id": 1323322459,
+    "name": "awesome-growth-hacking-skills",
+    "full_name": "mikiarlo3/awesome-growth-hacking-skills",
+    "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
+    "stars": 434,
+    "language": "Shell",
+    "html_url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills"
   }
 ]
