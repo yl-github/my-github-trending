@@ -4,52 +4,25 @@
     "name": "anydoc",
     "full_name": "firecrawl/anydoc",
     "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-    "stars": 8660,
+    "stars": 11059,
     "language": "Rust",
     "html_url": "https://github.com/firecrawl/anydoc"
-  },
-  {
-    "id": 1319154759,
-    "name": "kimi-k3-in-c",
-    "full_name": "FareedKhan-dev/kimi-k3-in-c",
-    "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-    "stars": 2856,
-    "language": "C",
-    "html_url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
-  },
-  {
-    "id": 1319484586,
-    "name": "zhuzhiliao",
-    "full_name": "imsai-sh/zhuzhiliao",
-    "description": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-    "stars": 2305,
-    "language": "HTML",
-    "html_url": "https://github.com/imsai-sh/zhuzhiliao"
   },
   {
     "id": 1320101490,
     "name": "anatomy",
     "full_name": "thebuggeddev/anatomy",
     "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "stars": 1873,
+    "stars": 1986,
     "language": "TypeScript",
     "html_url": "https://github.com/thebuggeddev/anatomy"
-  },
-  {
-    "id": 1319336961,
-    "name": "sol-advisor",
-    "full_name": "DannyMac180/sol-advisor",
-    "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-    "stars": 1709,
-    "language": "Shell",
-    "html_url": "https://github.com/DannyMac180/sol-advisor"
   },
   {
     "id": 1323511527,
     "name": "human-writing",
     "full_name": "KKKKhazix/human-writing",
     "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-    "stars": 1628,
+    "stars": 1879,
     "language": "Python",
     "html_url": "https://github.com/KKKKhazix/human-writing"
   },
@@ -58,115 +31,79 @@
     "name": "open-kimi-ppt-skill",
     "full_name": "Binaryify/open-kimi-ppt-skill",
     "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
-    "stars": 1412,
-    "language": "Python",
+    "stars": 1588,
+    "language": null,
     "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill"
-  },
-  {
-    "id": 1319855210,
-    "name": "RealReplicaBench",
-    "full_name": "Accio-org/RealReplicaBench",
-    "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
-    "stars": 1036,
-    "language": "HTML",
-    "html_url": "https://github.com/Accio-org/RealReplicaBench"
   },
   {
     "id": 1322768766,
     "name": "photo-abstract-editorial",
     "full_name": "ZzzLc0405/photo-abstract-editorial",
     "description": null,
-    "stars": 1035,
+    "stars": 1495,
     "language": null,
     "html_url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
   },
   {
-    "id": 1319280427,
-    "name": "3x-ui-multi",
-    "full_name": "x4gKing/3x-ui-multi",
-    "description": null,
-    "stars": 877,
-    "language": "JavaScript",
-    "html_url": "https://github.com/x4gKing/3x-ui-multi"
-  },
-  {
-    "id": 1319103484,
-    "name": "morphicons",
-    "full_name": "guillermolg00/morphicons",
-    "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
-    "stars": 815,
-    "language": "TypeScript",
-    "html_url": "https://github.com/guillermolg00/morphicons"
+    "id": 1319855210,
+    "name": "RealReplicaBench",
+    "full_name": "Accio-org/RealReplicaBench",
+    "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
+    "stars": 1040,
+    "language": "HTML",
+    "html_url": "https://github.com/Accio-org/RealReplicaBench"
   },
   {
     "id": 1323322459,
     "name": "awesome-growth-hacking-skills",
     "full_name": "mikiarlo3/awesome-growth-hacking-skills",
     "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-    "stars": 622,
+    "stars": 726,
     "language": "Shell",
     "html_url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills"
-  },
-  {
-    "id": 1320827273,
-    "name": "finger-frame-effect-ai",
-    "full_name": "sophiamyang/finger-frame-effect-ai",
-    "description": null,
-    "stars": 590,
-    "language": "JavaScript",
-    "html_url": "https://github.com/sophiamyang/finger-frame-effect-ai"
-  },
-  {
-    "id": 1319609477,
-    "name": "humanizer-cli",
-    "full_name": "0xwilliamortiz/humanizer-cli",
-    "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
-    "stars": 582,
-    "language": "JavaScript",
-    "html_url": "https://github.com/0xwilliamortiz/humanizer-cli"
-  },
-  {
-    "id": 1319399540,
-    "name": "flashloan-scalper-bot",
-    "full_name": "brookfacehe2421/flashloan-scalper-bot",
-    "description": "Quick profit scalper using flashloan mechanics",
-    "stars": 556,
-    "language": "JavaScript",
-    "html_url": "https://github.com/brookfacehe2421/flashloan-scalper-bot"
   },
   {
     "id": 1320242285,
     "name": "doc7",
     "full_name": "magicrew/doc7",
     "description": "Turn documents into AI-ready Markdown with visual understanding",
-    "stars": 552,
+    "stars": 611,
     "language": "Go",
     "html_url": "https://github.com/magicrew/doc7"
+  },
+  {
+    "id": 1320827273,
+    "name": "finger-frame-effect-ai",
+    "full_name": "sophiamyang/finger-frame-effect-ai",
+    "description": null,
+    "stars": 604,
+    "language": "JavaScript",
+    "html_url": "https://github.com/sophiamyang/finger-frame-effect-ai"
+  },
+  {
+    "id": 1324285410,
+    "name": "claude-red",
+    "full_name": "0xwilliamortiz/claude-red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "stars": 559,
+    "language": "JavaScript",
+    "html_url": "https://github.com/0xwilliamortiz/claude-red"
   },
   {
     "id": 1321688525,
     "name": "awesome-free-ai-course-notes",
     "full_name": "MarcosSete/awesome-free-ai-course-notes",
     "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-    "stars": 501,
+    "stars": 544,
     "language": null,
     "html_url": "https://github.com/MarcosSete/awesome-free-ai-course-notes"
-  },
-  {
-    "id": 1319419492,
-    "name": "gathered-scenes-zine-skill",
-    "full_name": "Zeejay0/gathered-scenes-zine-skill",
-    "description": null,
-    "stars": 476,
-    "language": null,
-    "html_url": "https://github.com/Zeejay0/gathered-scenes-zine-skill"
   },
   {
     "id": 1321624668,
     "name": "VirtualMacOniPad",
     "full_name": "nfzerox/VirtualMacOniPad",
     "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
-    "stars": 467,
+    "stars": 499,
     "language": "Objective-C",
     "html_url": "https://github.com/nfzerox/VirtualMacOniPad"
   },
@@ -175,8 +112,71 @@
     "name": "super-simple-software-factory",
     "full_name": "disler/super-simple-software-factory",
     "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-    "stars": 467,
+    "stars": 496,
     "language": "Python",
     "html_url": "https://github.com/disler/super-simple-software-factory"
+  },
+  {
+    "id": 1321283895,
+    "name": "lingxi",
+    "full_name": "wumingqi60/lingxi",
+    "description": "灵犀跨境-开源共建版",
+    "stars": 451,
+    "language": "TypeScript",
+    "html_url": "https://github.com/wumingqi60/lingxi"
+  },
+  {
+    "id": 1321790489,
+    "name": "Swiftlet",
+    "full_name": "leonickson1/Swiftlet",
+    "description": null,
+    "stars": 446,
+    "language": "Swift",
+    "html_url": "https://github.com/leonickson1/Swiftlet"
+  },
+  {
+    "id": 1321965715,
+    "name": "vphone-ws",
+    "full_name": "zqxwce/vphone-ws",
+    "description": "A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.",
+    "stars": 435,
+    "language": "Swift",
+    "html_url": "https://github.com/zqxwce/vphone-ws"
+  },
+  {
+    "id": 1322651268,
+    "name": "Fuxi",
+    "full_name": "fuxicodex/Fuxi",
+    "description": "FuXi is a fast, self-contained AI developer terminal",
+    "stars": 429,
+    "language": null,
+    "html_url": "https://github.com/fuxicodex/Fuxi"
+  },
+  {
+    "id": 1321578581,
+    "name": "InduSecAgent",
+    "full_name": "yuhuangerdi/InduSecAgent",
+    "description": null,
+    "stars": 422,
+    "language": "Vue",
+    "html_url": "https://github.com/yuhuangerdi/InduSecAgent"
+  },
+  {
+    "id": 1322136828,
+    "name": "gemma-translator",
+    "full_name": "google-gemma/gemma-translator",
+    "description": null,
+    "stars": 419,
+    "language": "JavaScript",
+    "html_url": "https://github.com/google-gemma/gemma-translator"
+  },
+  {
+    "id": 1322943860,
+    "name": "MAGI-2-preview",
+    "full_name": "SandAI-org/MAGI-2-preview",
+    "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
+    "stars": 418,
+    "language": "Python",
+    "html_url": "https://github.com/SandAI-org/MAGI-2-preview"
   }
 ]
