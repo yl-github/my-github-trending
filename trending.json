@@ -4,27 +4,27 @@
     "name": "anydoc",
     "full_name": "firecrawl/anydoc",
     "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-    "stars": 11059,
+    "stars": 12140,
     "language": "Rust",
     "html_url": "https://github.com/firecrawl/anydoc"
-  },
-  {
-    "id": 1320101490,
-    "name": "anatomy",
-    "full_name": "thebuggeddev/anatomy",
-    "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-    "stars": 1986,
-    "language": "TypeScript",
-    "html_url": "https://github.com/thebuggeddev/anatomy"
   },
   {
     "id": 1323511527,
     "name": "human-writing",
     "full_name": "KKKKhazix/human-writing",
     "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-    "stars": 1879,
+    "stars": 1989,
     "language": "Python",
     "html_url": "https://github.com/KKKKhazix/human-writing"
+  },
+  {
+    "id": 1322768766,
+    "name": "photo-abstract-editorial",
+    "full_name": "ZzzLc0405/photo-abstract-editorial",
+    "description": null,
+    "stars": 1730,
+    "language": null,
+    "html_url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
   },
   {
     "id": 1323763720,
@@ -36,101 +36,101 @@
     "html_url": "https://github.com/Binaryify/open-kimi-ppt-skill"
   },
   {
-    "id": 1322768766,
-    "name": "photo-abstract-editorial",
-    "full_name": "ZzzLc0405/photo-abstract-editorial",
-    "description": null,
-    "stars": 1495,
-    "language": null,
-    "html_url": "https://github.com/ZzzLc0405/photo-abstract-editorial"
-  },
-  {
-    "id": 1319855210,
-    "name": "RealReplicaBench",
-    "full_name": "Accio-org/RealReplicaBench",
-    "description": "RealReplicaBench: Benchmarking Long-Horizon Agents in High-Fidelity, Stateful, and Reproducible Replicas of Real Online Services",
-    "stars": 1040,
-    "language": "HTML",
-    "html_url": "https://github.com/Accio-org/RealReplicaBench"
-  },
-  {
     "id": 1323322459,
     "name": "awesome-growth-hacking-skills",
     "full_name": "mikiarlo3/awesome-growth-hacking-skills",
     "description": "Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot",
-    "stars": 726,
+    "stars": 765,
     "language": "Shell",
     "html_url": "https://github.com/mikiarlo3/awesome-growth-hacking-skills"
-  },
-  {
-    "id": 1320242285,
-    "name": "doc7",
-    "full_name": "magicrew/doc7",
-    "description": "Turn documents into AI-ready Markdown with visual understanding",
-    "stars": 611,
-    "language": "Go",
-    "html_url": "https://github.com/magicrew/doc7"
-  },
-  {
-    "id": 1320827273,
-    "name": "finger-frame-effect-ai",
-    "full_name": "sophiamyang/finger-frame-effect-ai",
-    "description": null,
-    "stars": 604,
-    "language": "JavaScript",
-    "html_url": "https://github.com/sophiamyang/finger-frame-effect-ai"
   },
   {
     "id": 1324285410,
     "name": "claude-red",
     "full_name": "0xwilliamortiz/claude-red",
     "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-    "stars": 559,
+    "stars": 681,
     "language": "JavaScript",
     "html_url": "https://github.com/0xwilliamortiz/claude-red"
   },
   {
-    "id": 1321688525,
-    "name": "awesome-free-ai-course-notes",
-    "full_name": "MarcosSete/awesome-free-ai-course-notes",
-    "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
-    "stars": 544,
-    "language": null,
-    "html_url": "https://github.com/MarcosSete/awesome-free-ai-course-notes"
-  },
-  {
-    "id": 1321624668,
-    "name": "VirtualMacOniPad",
-    "full_name": "nfzerox/VirtualMacOniPad",
-    "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
-    "stars": 499,
-    "language": "Objective-C",
-    "html_url": "https://github.com/nfzerox/VirtualMacOniPad"
-  },
-  {
-    "id": 1320444346,
-    "name": "super-simple-software-factory",
-    "full_name": "disler/super-simple-software-factory",
-    "description": "Repeatable agents-plus-code workflows, packaged as one skill, stamped into any repo. Deterministic Python owns the graph; coding agents are bounded nodes inside it.",
-    "stars": 496,
-    "language": "Python",
-    "html_url": "https://github.com/disler/super-simple-software-factory"
+    "id": 1322136828,
+    "name": "gemma-translator",
+    "full_name": "google-gemma/gemma-translator",
+    "description": null,
+    "stars": 582,
+    "language": "JavaScript",
+    "html_url": "https://github.com/google-gemma/gemma-translator"
   },
   {
     "id": 1321283895,
     "name": "lingxi",
     "full_name": "wumingqi60/lingxi",
     "description": "灵犀跨境-开源共建版",
-    "stars": 451,
+    "stars": 571,
     "language": "TypeScript",
     "html_url": "https://github.com/wumingqi60/lingxi"
+  },
+  {
+    "id": 1321688525,
+    "name": "awesome-free-ai-course-notes",
+    "full_name": "MarcosSete/awesome-free-ai-course-notes",
+    "description": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+    "stars": 560,
+    "language": null,
+    "html_url": "https://github.com/MarcosSete/awesome-free-ai-course-notes"
+  },
+  {
+    "id": 1324578069,
+    "name": "asm-hall-of-shame",
+    "full_name": "xoreaxeaxeax/asm-hall-of-shame",
+    "description": "Racing to the bottom of CPU performance",
+    "stars": 550,
+    "language": "C",
+    "html_url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame"
+  },
+  {
+    "id": 1321578581,
+    "name": "InduSecAgent",
+    "full_name": "yuhuangerdi/InduSecAgent",
+    "description": null,
+    "stars": 532,
+    "language": "Vue",
+    "html_url": "https://github.com/yuhuangerdi/InduSecAgent"
+  },
+  {
+    "id": 1321624668,
+    "name": "VirtualMacOniPad",
+    "full_name": "nfzerox/VirtualMacOniPad",
+    "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode and Terminal to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 16 up to 16.3.1.",
+    "stars": 523,
+    "language": "Objective-C",
+    "html_url": "https://github.com/nfzerox/VirtualMacOniPad"
+  },
+  {
+    "id": 1322698650,
+    "name": "JoyAI-Video-Edit",
+    "full_name": "jd-opensource/JoyAI-Video-Edit",
+    "description": "[Official Repo] JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+    "stars": 517,
+    "language": "Python",
+    "html_url": "https://github.com/jd-opensource/JoyAI-Video-Edit"
+  },
+  {
+    "id": 1324208491,
+    "name": "comfyui-minimax-h3-audio-T8",
+    "full_name": "T8mars/comfyui-minimax-h3-audio-T8",
+    "description": null,
+    "stars": 464,
+    "language": "Python",
+    "html_url": "https://github.com/T8mars/comfyui-minimax-h3-audio-T8"
   },
   {
     "id": 1321790489,
     "name": "Swiftlet",
     "full_name": "leonickson1/Swiftlet",
-    "description": null,
-    "stars": 446,
+    "description": "Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM, including on iPhone.",
+    "stars": 460,
     "language": "Swift",
     "html_url": "https://github.com/leonickson1/Swiftlet"
   },
@@ -139,7 +139,7 @@
     "name": "vphone-ws",
     "full_name": "zqxwce/vphone-ws",
     "description": "A native macOS app for managing virtual iPhones - browse, create, and boot iOS research VMs from a single window.",
-    "stars": 435,
+    "stars": 445,
     "language": "Swift",
     "html_url": "https://github.com/zqxwce/vphone-ws"
   },
@@ -148,35 +148,35 @@
     "name": "Fuxi",
     "full_name": "fuxicodex/Fuxi",
     "description": "FuXi is a fast, self-contained AI developer terminal",
-    "stars": 429,
+    "stars": 440,
     "language": null,
     "html_url": "https://github.com/fuxicodex/Fuxi"
-  },
-  {
-    "id": 1321578581,
-    "name": "InduSecAgent",
-    "full_name": "yuhuangerdi/InduSecAgent",
-    "description": null,
-    "stars": 422,
-    "language": "Vue",
-    "html_url": "https://github.com/yuhuangerdi/InduSecAgent"
-  },
-  {
-    "id": 1322136828,
-    "name": "gemma-translator",
-    "full_name": "google-gemma/gemma-translator",
-    "description": null,
-    "stars": 419,
-    "language": "JavaScript",
-    "html_url": "https://github.com/google-gemma/gemma-translator"
   },
   {
     "id": 1322943860,
     "name": "MAGI-2-preview",
     "full_name": "SandAI-org/MAGI-2-preview",
     "description": "MAGI-2-preview: Scaling Video Generation Models Efficiently",
-    "stars": 418,
+    "stars": 425,
     "language": "Python",
     "html_url": "https://github.com/SandAI-org/MAGI-2-preview"
+  },
+  {
+    "id": 1323127278,
+    "name": "HermesOffice",
+    "full_name": "criptogus/HermesOffice",
+    "description": "HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with native Hermes Agent AI",
+    "stars": 419,
+    "language": "TypeScript",
+    "html_url": "https://github.com/criptogus/HermesOffice"
+  },
+  {
+    "id": 1321920026,
+    "name": "mycontext",
+    "full_name": "openTrinity/mycontext",
+    "description": "MyContext is a local-first desktop app for everyday communication and knowledge work",
+    "stars": 413,
+    "language": "TypeScript",
+    "html_url": "https://github.com/openTrinity/mycontext"
   }
 ]
