@@ -4,7 +4,7 @@
     "name": "deepseek-harness",
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
-    "stars": 53388,
+    "stars": 96071,
     "language": "TypeScript",
     "html_url": "https://github.com/deepseek-ai/deepseek-harness"
   },
@@ -13,16 +13,34 @@
     "name": "watermarks-remover",
     "full_name": "guillaumemeyer/watermarks-remover",
     "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-    "stars": 5486,
+    "stars": 8202,
     "language": "Python",
     "html_url": "https://github.com/guillaumemeyer/watermarks-remover"
+  },
+  {
+    "id": 1333321333,
+    "name": "deepseek-harness-desktop",
+    "full_name": "anywhere-labs/deepseek-harness-desktop",
+    "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+    "stars": 1960,
+    "language": "TypeScript",
+    "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
+  },
+  {
+    "id": 1331636953,
+    "name": "dsh-web-ui",
+    "full_name": "zhu1090093659/dsh-web-ui",
+    "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+    "stars": 1955,
+    "language": "TypeScript",
+    "html_url": "https://github.com/zhu1090093659/dsh-web-ui"
   },
   {
     "id": 1328627783,
     "name": "h3.c",
     "full_name": "antirez/h3.c",
     "description": "MiniMax H3 inference engine for Mac computers",
-    "stars": 1780,
+    "stars": 1851,
     "language": "C",
     "html_url": "https://github.com/antirez/h3.c"
   },
@@ -31,106 +49,97 @@
     "name": "WeChat-AI",
     "full_name": "SMNETSTUDIO/WeChat-AI",
     "description": null,
-    "stars": 1686,
+    "stars": 1710,
     "language": "TypeScript",
     "html_url": "https://github.com/SMNETSTUDIO/WeChat-AI"
-  },
-  {
-    "id": 1333135492,
-    "name": "book-to-skill",
-    "full_name": "Leutenegger/book-to-skill",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "stars": 1028,
-    "language": "Python",
-    "html_url": "https://github.com/Leutenegger/book-to-skill"
   },
   {
     "id": 1333170396,
     "name": "skitter-creek-bath-salts",
     "full_name": "xoreaxeaxeax/skitter-creek-bath-salts",
     "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
-    "stars": 1017,
+    "stars": 1573,
     "language": "C",
     "html_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
-  },
-  {
-    "id": 1330135801,
-    "name": "claudish-to-english",
-    "full_name": "gvzdv/claudish-to-english",
-    "description": null,
-    "stars": 926,
-    "language": "Shell",
-    "html_url": "https://github.com/gvzdv/claudish-to-english"
-  },
-  {
-    "id": 1328769721,
-    "name": "pi-from-scratch",
-    "full_name": "SaladDay/pi-from-scratch",
-    "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
-    "stars": 893,
-    "language": "TypeScript",
-    "html_url": "https://github.com/SaladDay/pi-from-scratch"
-  },
-  {
-    "id": 1327502931,
-    "name": "kage",
-    "full_name": "MengTo/kage",
-    "description": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
-    "stars": 891,
-    "language": "HTML",
-    "html_url": "https://github.com/MengTo/kage"
-  },
-  {
-    "id": 1331227273,
-    "name": "youtube-music",
-    "full_name": "sohaibdevv/youtube-music",
-    "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-    "stars": 855,
-    "language": "TypeScript",
-    "html_url": "https://github.com/sohaibdevv/youtube-music"
-  },
-  {
-    "id": 1331261687,
-    "name": "OpenMausBot",
-    "full_name": "milind-soni/OpenMausBot",
-    "description": null,
-    "stars": 839,
-    "language": "TypeScript",
-    "html_url": "https://github.com/milind-soni/OpenMausBot"
   },
   {
     "id": 1332959628,
     "name": "paper",
     "full_name": "cordiverse/paper",
     "description": "A Programming Paradigm for Spatiotemporal Composability",
-    "stars": 755,
+    "stars": 1321,
     "language": null,
     "html_url": "https://github.com/cordiverse/paper"
   },
   {
-    "id": 1331636953,
-    "name": "dsh-web-ui",
-    "full_name": "zhu1090093659/dsh-web-ui",
-    "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-    "stars": 665,
-    "language": "TypeScript",
-    "html_url": "https://github.com/zhu1090093659/dsh-web-ui"
+    "id": 1333175049,
+    "name": "awesome-dsh-plugin",
+    "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+    "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+    "stars": 1149,
+    "language": "Python",
+    "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
   },
   {
-    "id": 1330864189,
-    "name": "chatbot-template",
-    "full_name": "shadcn-ui/chatbot-template",
-    "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-    "stars": 655,
+    "id": 1330135801,
+    "name": "claudish-to-english",
+    "full_name": "gvzdv/claudish-to-english",
+    "description": null,
+    "stars": 1099,
+    "language": "Shell",
+    "html_url": "https://github.com/gvzdv/claudish-to-english"
+  },
+  {
+    "id": 1333135492,
+    "name": "book-to-skill",
+    "full_name": "Leutenegger/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "stars": 1072,
+    "language": "Python",
+    "html_url": "https://github.com/Leutenegger/book-to-skill"
+  },
+  {
+    "id": 1328769721,
+    "name": "pi-from-scratch",
+    "full_name": "SaladDay/pi-from-scratch",
+    "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+    "stars": 979,
     "language": "TypeScript",
-    "html_url": "https://github.com/shadcn-ui/chatbot-template"
+    "html_url": "https://github.com/SaladDay/pi-from-scratch"
+  },
+  {
+    "id": 1331261687,
+    "name": "OpenMausBot",
+    "full_name": "milind-soni/OpenMausBot",
+    "description": null,
+    "stars": 918,
+    "language": "TypeScript",
+    "html_url": "https://github.com/milind-soni/OpenMausBot"
+  },
+  {
+    "id": 1333111893,
+    "name": "dsh-TUI",
+    "full_name": "ccch1mneyyy/dsh-TUI",
+    "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+    "stars": 905,
+    "language": "TypeScript",
+    "html_url": "https://github.com/ccch1mneyyy/dsh-TUI"
+  },
+  {
+    "id": 1331227273,
+    "name": "youtube-music",
+    "full_name": "sohaibdevv/youtube-music",
+    "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+    "stars": 857,
+    "language": "TypeScript",
+    "html_url": "https://github.com/sohaibdevv/youtube-music"
   },
   {
     "id": 1332080070,
     "name": "anti-slop",
     "full_name": "dmmulroy/anti-slop",
     "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-    "stars": 605,
+    "stars": 737,
     "language": "TypeScript",
     "html_url": "https://github.com/dmmulroy/anti-slop"
   },
@@ -139,44 +148,35 @@
     "name": "ASu-skills",
     "full_name": "Hisn00w/ASu-skills",
     "description": "简历包装",
-    "stars": 553,
+    "stars": 715,
     "language": "HTML",
     "html_url": "https://github.com/Hisn00w/ASu-skills"
   },
   {
-    "id": 1331289843,
-    "name": "ShieldBreak",
-    "full_name": "MSNightmare/ShieldBreak",
-    "description": "Windows Defender 0day vulnerability",
-    "stars": 502,
-    "language": "C++",
-    "html_url": "https://github.com/MSNightmare/ShieldBreak"
-  },
-  {
-    "id": 1327741635,
-    "name": "top-welcome-screens",
-    "full_name": "Appllama/top-welcome-screens",
-    "description": "How top iOS apps say hello | 10 animated welcome screens inspired by top-earning apps. Rebuilt in React Native + Expo.",
-    "stars": 468,
+    "id": 1330864189,
+    "name": "chatbot-template",
+    "full_name": "shadcn-ui/chatbot-template",
+    "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+    "stars": 676,
     "language": "TypeScript",
-    "html_url": "https://github.com/Appllama/top-welcome-screens"
+    "html_url": "https://github.com/shadcn-ui/chatbot-template"
   },
   {
-    "id": 1329643274,
-    "name": "nie-grassroots-logic",
-    "full_name": "ayi-ai/nie-grassroots-logic",
-    "description": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
-    "stars": 437,
+    "id": 1333123776,
+    "name": "dsh-deep-whale",
+    "full_name": "Small-tailqwq/dsh-deep-whale",
+    "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+    "stars": 602,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Small-tailqwq/dsh-deep-whale"
+  },
+  {
+    "id": 1333742677,
+    "name": "deepseek-harness-orange-book",
+    "full_name": "alchaincyf/deepseek-harness-orange-book",
+    "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+    "stars": 597,
     "language": "HTML",
-    "html_url": "https://github.com/ayi-ai/nie-grassroots-logic"
-  },
-  {
-    "id": 1330160336,
-    "name": "airship",
-    "full_name": "0xnyn/airship",
-    "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
-    "stars": 425,
-    "language": "TypeScript",
-    "html_url": "https://github.com/0xnyn/airship"
+    "html_url": "https://github.com/alchaincyf/deepseek-harness-orange-book"
   }
 ]
