@@ -4,25 +4,16 @@
     "name": "deepseek-harness",
     "full_name": "deepseek-ai/deepseek-harness",
     "description": "DeepSeek Harness: Everything is a Plugin.",
-    "stars": 132309,
+    "stars": 150321,
     "language": "TypeScript",
     "html_url": "https://github.com/deepseek-ai/deepseek-harness"
-  },
-  {
-    "id": 1331135699,
-    "name": "watermarks-remover",
-    "full_name": "guillaumemeyer/watermarks-remover",
-    "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-    "stars": 11548,
-    "language": "Python",
-    "html_url": "https://github.com/guillaumemeyer/watermarks-remover"
   },
   {
     "id": 1333321333,
     "name": "deepseek-harness-desktop",
     "full_name": "anywhere-labs/deepseek-harness-desktop",
-    "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
-    "stars": 9032,
+    "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+    "stars": 11724,
     "language": "TypeScript",
     "html_url": "https://github.com/anywhere-labs/deepseek-harness-desktop"
   },
@@ -31,16 +22,25 @@
     "name": "awesome-dsh-plugin",
     "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
     "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-    "stars": 5227,
+    "stars": 7608,
     "language": "Python",
     "html_url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
+  },
+  {
+    "id": 1334586481,
+    "name": "dsh-routing-suite",
+    "full_name": "yjh051108/dsh-routing-suite",
+    "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+    "stars": 5380,
+    "language": "PowerShell",
+    "html_url": "https://github.com/yjh051108/dsh-routing-suite"
   },
   {
     "id": 1331636953,
     "name": "dsh-web-ui",
     "full_name": "zhu1090093659/dsh-web-ui",
     "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-    "stars": 3451,
+    "stars": 4113,
     "language": "TypeScript",
     "html_url": "https://github.com/zhu1090093659/dsh-web-ui"
   },
@@ -49,88 +49,79 @@
     "name": "dsh-anchored-standard",
     "full_name": "xiaobright/dsh-anchored-standard",
     "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "stars": 3046,
+    "stars": 3426,
     "language": "JavaScript",
     "html_url": "https://github.com/xiaobright/dsh-anchored-standard"
-  },
-  {
-    "id": 1334586481,
-    "name": "dsh-routing-suite",
-    "full_name": "yjh051108/dsh-routing-suite",
-    "description": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-    "stars": 2841,
-    "language": "PowerShell",
-    "html_url": "https://github.com/yjh051108/dsh-routing-suite"
-  },
-  {
-    "id": 1332959628,
-    "name": "paper",
-    "full_name": "cordiverse/paper",
-    "description": "A Programming Paradigm for Spatiotemporal Composability",
-    "stars": 1881,
-    "language": null,
-    "html_url": "https://github.com/cordiverse/paper"
-  },
-  {
-    "id": 1333170396,
-    "name": "skitter-creek-bath-salts",
-    "full_name": "xoreaxeaxeax/skitter-creek-bath-salts",
-    "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
-    "stars": 1731,
-    "language": "C",
-    "html_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
   },
   {
     "id": 1332080070,
     "name": "anti-slop",
     "full_name": "dmmulroy/anti-slop",
     "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-    "stars": 1671,
+    "stars": 2373,
     "language": "TypeScript",
     "html_url": "https://github.com/dmmulroy/anti-slop"
+  },
+  {
+    "id": 1332959628,
+    "name": "paper",
+    "full_name": "cordiverse/paper",
+    "description": "A Programming Paradigm for Spatiotemporal Composability",
+    "stars": 2117,
+    "language": null,
+    "html_url": "https://github.com/cordiverse/paper"
   },
   {
     "id": 1333111893,
     "name": "dsh-TUI",
     "full_name": "ccch1mneyyy/dsh-TUI",
     "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
-    "stars": 1551,
+    "stars": 1817,
     "language": "TypeScript",
     "html_url": "https://github.com/ccch1mneyyy/dsh-TUI"
   },
   {
-    "id": 1333135492,
-    "name": "book-to-skill",
-    "full_name": "Leutenegger/book-to-skill",
-    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "stars": 1154,
-    "language": "Python",
-    "html_url": "https://github.com/Leutenegger/book-to-skill"
+    "id": 1333170396,
+    "name": "skitter-creek-bath-salts",
+    "full_name": "xoreaxeaxeax/skitter-creek-bath-salts",
+    "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+    "stars": 1778,
+    "language": "C",
+    "html_url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
   },
   {
-    "id": 1331261687,
-    "name": "OpenMausBot",
-    "full_name": "milind-soni/OpenMausBot",
-    "description": "Open Source Alternative to Grok Bot with a virtual machine that bots can use",
-    "stars": 1113,
+    "id": 1336933337,
+    "name": "cumora",
+    "full_name": "yetone/cumora",
+    "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+    "stars": 1258,
     "language": "TypeScript",
-    "html_url": "https://github.com/milind-soni/OpenMausBot"
+    "html_url": "https://github.com/yetone/cumora"
   },
   {
     "id": 1333123776,
     "name": "dsh-deep-whale",
     "full_name": "Small-tailqwq/dsh-deep-whale",
     "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
-    "stars": 1096,
+    "stars": 1254,
     "language": "TypeScript",
     "html_url": "https://github.com/Small-tailqwq/dsh-deep-whale"
+  },
+  {
+    "id": 1333135492,
+    "name": "book-to-skill",
+    "full_name": "Leutenegger/book-to-skill",
+    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "stars": 1176,
+    "language": "Python",
+    "html_url": "https://github.com/Leutenegger/book-to-skill"
   },
   {
     "id": 1331728719,
     "name": "ASu-skills",
     "full_name": "Hisn00w/ASu-skills",
     "description": "简历包装",
-    "stars": 896,
+    "stars": 1142,
     "language": "HTML",
     "html_url": "https://github.com/Hisn00w/ASu-skills"
   },
@@ -139,44 +130,53 @@
     "name": "deepseek-harness-orange-book",
     "full_name": "alchaincyf/deepseek-harness-orange-book",
     "description": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
-    "stars": 869,
+    "stars": 959,
     "language": "HTML",
     "html_url": "https://github.com/alchaincyf/deepseek-harness-orange-book"
-  },
-  {
-    "id": 1331227273,
-    "name": "youtube-music",
-    "full_name": "sohaibdevv/youtube-music",
-    "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
-    "stars": 856,
-    "language": "TypeScript",
-    "html_url": "https://github.com/sohaibdevv/youtube-music"
   },
   {
     "id": 1332009127,
     "name": "eve-software-factory-template",
     "full_name": "vercel-labs/eve-software-factory-template",
     "description": "Meet Foreman, an eve Software Factory.",
-    "stars": 834,
+    "stars": 884,
     "language": "TypeScript",
     "html_url": "https://github.com/vercel-labs/eve-software-factory-template"
   },
   {
-    "id": 1330864189,
-    "name": "chatbot-template",
-    "full_name": "shadcn-ui/chatbot-template",
-    "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
-    "stars": 703,
+    "id": 1333807290,
+    "name": "dsh-market",
+    "full_name": "dsh-market/dsh-market",
+    "description": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+    "stars": 832,
     "language": "TypeScript",
-    "html_url": "https://github.com/shadcn-ui/chatbot-template"
+    "html_url": "https://github.com/dsh-market/dsh-market"
   },
   {
-    "id": 1330867309,
-    "name": "pdfcn",
-    "full_name": "shadcn-labs/pdfcn",
-    "description": "Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.",
-    "stars": 640,
+    "id": 1333165619,
+    "name": "dsh-desktop",
+    "full_name": "dataelement/dsh-desktop",
+    "description": "DeepSeek Harness Desktop",
+    "stars": 782,
     "language": "TypeScript",
-    "html_url": "https://github.com/shadcn-labs/pdfcn"
+    "html_url": "https://github.com/dataelement/dsh-desktop"
+  },
+  {
+    "id": 1332781509,
+    "name": "rakazo",
+    "full_name": "elie222/rakazo",
+    "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+    "stars": 779,
+    "language": "TypeScript",
+    "html_url": "https://github.com/elie222/rakazo"
+  },
+  {
+    "id": 1333884889,
+    "name": "zsvirt",
+    "full_name": "ZSvirt/zsvirt",
+    "description": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+    "stars": 757,
+    "language": "Java",
+    "html_url": "https://github.com/ZSvirt/zsvirt"
   }
 ]
