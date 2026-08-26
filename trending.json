@@ -1,182 +1,182 @@
 [
   {
-    "id": 1338470635,
-    "name": "ip-as-logo-skill",
-    "full_name": "s1dashu/ip-as-logo-skill",
-    "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
-    "stars": 3907,
-    "language": null,
-    "html_url": "https://github.com/s1dashu/ip-as-logo-skill"
-  },
-  {
     "id": 1341759590,
     "name": "threeui",
     "full_name": "MengTo/threeui",
     "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-    "stars": 2911,
+    "stars": 3922,
     "language": "HTML",
     "html_url": "https://github.com/MengTo/threeui"
   },
   {
-    "id": 1337955304,
-    "name": "sprix-sage-router",
-    "full_name": "wang2122/sprix-sage-router",
-    "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
-    "stars": 1412,
-    "language": "Python",
-    "html_url": "https://github.com/wang2122/sprix-sage-router"
+    "id": 1344208527,
+    "name": "grok-bot-0.18-reconstructed",
+    "full_name": "b-nnett/grok-bot-0.18-reconstructed",
+    "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+    "stars": 2554,
+    "language": "TypeScript",
+    "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
   },
   {
-    "id": 1338435811,
-    "name": "deploy-vercel",
-    "full_name": "vvxw/deploy-vercel",
-    "description": "Install Command：npm install",
-    "stars": 1215,
-    "language": "JavaScript",
-    "html_url": "https://github.com/vvxw/deploy-vercel"
+    "id": 1344273611,
+    "name": "walgit",
+    "full_name": "tobi/walgit",
+    "description": null,
+    "stars": 1554,
+    "language": "Rust",
+    "html_url": "https://github.com/tobi/walgit"
   },
   {
     "id": 1342886503,
     "name": "x64dbg-mcp-server",
     "full_name": "duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-    "stars": 883,
+    "stars": 1381,
     "language": "Zig",
     "html_url": "https://github.com/duty1g/x64dbg-mcp-server"
-  },
-  {
-    "id": 1344223757,
-    "name": "watermark-remover",
-    "full_name": "ShadowAqueduct/watermark-remover",
-    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-    "stars": 760,
-    "language": "Python",
-    "html_url": "https://github.com/ShadowAqueduct/watermark-remover"
-  },
-  {
-    "id": 1337920628,
-    "name": "DeepSeek-Balance-Whale-Widget",
-    "full_name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-    "description": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-    "stars": 723,
-    "language": "JavaScript",
-    "html_url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
-  },
-  {
-    "id": 1338671045,
-    "name": "desktop-fly",
-    "full_name": "DenisSergeevitch/desktop-fly",
-    "description": "A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation of the real FlyWire connectome",
-    "stars": 704,
-    "language": "Swift",
-    "html_url": "https://github.com/DenisSergeevitch/desktop-fly"
   },
   {
     "id": 1340743476,
     "name": "lanshu-create-ai-presenter-video",
     "full_name": "cclank/lanshu-create-ai-presenter-video",
     "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-    "stars": 658,
+    "stars": 914,
     "language": "Python",
     "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video"
-  },
-  {
-    "id": 1339208118,
-    "name": "herdrm",
-    "full_name": "missuo/herdrm",
-    "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
-    "stars": 611,
-    "language": "Swift",
-    "html_url": "https://github.com/missuo/herdrm"
-  },
-  {
-    "id": 1338563299,
-    "name": "SpiderPanel",
-    "full_name": "amirh00sain/SpiderPanel",
-    "description": null,
-    "stars": 610,
-    "language": "Python",
-    "html_url": "https://github.com/amirh00sain/SpiderPanel"
-  },
-  {
-    "id": 1338237504,
-    "name": "Wake",
-    "full_name": "iAmCorey/Wake",
-    "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
-    "stars": 543,
-    "language": "Rust",
-    "html_url": "https://github.com/iAmCorey/Wake"
-  },
-  {
-    "id": 1339575436,
-    "name": "cve-2026-41940-PoC",
-    "full_name": "lanicer/cve-2026-41940-PoC",
-    "description": "A cPanel and WHM authentication bypassing tool",
-    "stars": 527,
-    "language": "Python",
-    "html_url": "https://github.com/lanicer/cve-2026-41940-PoC"
   },
   {
     "id": 1342930695,
     "name": "scroll-craft",
     "full_name": "nateherkai/scroll-craft",
     "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-    "stars": 492,
+    "stars": 910,
     "language": "JavaScript",
     "html_url": "https://github.com/nateherkai/scroll-craft"
   },
   {
-    "id": 1340252641,
-    "name": "getcontact-cli",
-    "full_name": "xdreizein666/getcontact-cli",
-    "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
-    "stars": 479,
+    "id": 1344223757,
+    "name": "watermark-remover",
+    "full_name": "ShadowAqueduct/watermark-remover",
+    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "stars": 791,
     "language": "Python",
-    "html_url": "https://github.com/xdreizein666/getcontact-cli"
+    "html_url": "https://github.com/ShadowAqueduct/watermark-remover"
   },
   {
-    "id": 1338325302,
-    "name": "youtube-downloader-zen",
-    "full_name": "PentagonConure42/youtube-downloader-zen",
-    "description": "Youtube Downloader Zen",
-    "stars": 461,
-    "language": null,
-    "html_url": "https://github.com/PentagonConure42/youtube-downloader-zen"
+    "id": 1342461518,
+    "name": "FrontierAgent",
+    "full_name": "ApodexAI/FrontierAgent",
+    "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+    "stars": 583,
+    "language": "Python",
+    "html_url": "https://github.com/ApodexAI/FrontierAgent"
+  },
+  {
+    "id": 1344425591,
+    "name": "workout-guide",
+    "full_name": "bryllim/workout-guide",
+    "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
+    "stars": 526,
+    "language": "Astro",
+    "html_url": "https://github.com/bryllim/workout-guide"
   },
   {
     "id": 1343228481,
     "name": "biosecurity-agent",
     "full_name": "Forsy-AI/biosecurity-agent",
     "description": "AI agent that builds a live biosecurity world around any target.",
-    "stars": 365,
+    "stars": 514,
     "language": "TypeScript",
     "html_url": "https://github.com/Forsy-AI/biosecurity-agent"
   },
   {
-    "id": 1339742577,
-    "name": "Amagine3D",
-    "full_name": "amagine-ai/Amagine3D",
-    "description": "Amagine3D: From hardware requirements to editable 3D designs",
-    "stars": 315,
-    "language": "TypeScript",
-    "html_url": "https://github.com/amagine-ai/Amagine3D"
-  },
-  {
-    "id": 1337915408,
-    "name": "Zetta-Embodiment",
-    "full_name": "air-embodied-brain/Zetta-Embodiment",
-    "description": null,
-    "stars": 311,
+    "id": 1340252641,
+    "name": "getcontact-cli",
+    "full_name": "xdreizein666/getcontact-cli",
+    "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+    "stars": 487,
     "language": "Python",
-    "html_url": "https://github.com/air-embodied-brain/Zetta-Embodiment"
+    "html_url": "https://github.com/xdreizein666/getcontact-cli"
   },
   {
-    "id": 1338023822,
-    "name": "sylva",
-    "full_name": "MengTo/sylva",
-    "description": "An interactive Three.js landscape study with a procedural, pointer-responsive moss world.",
-    "stars": 305,
+    "id": 1343146307,
+    "name": "kimodo.cpp",
+    "full_name": "localai-org/kimodo.cpp",
+    "description": "NVIDIA Kimodo ported to C++/GGML",
+    "stars": 463,
+    "language": "C++",
+    "html_url": "https://github.com/localai-org/kimodo.cpp"
+  },
+  {
+    "id": 1344318054,
+    "name": "Gradient",
+    "full_name": "RobertGolds1/Gradient",
+    "description": "Gradient",
+    "stars": 396,
+    "language": "Python",
+    "html_url": "https://github.com/RobertGolds1/Gradient"
+  },
+  {
+    "id": 1341669331,
+    "name": "no-negative-echo",
+    "full_name": "LB623/no-negative-echo",
+    "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+    "stars": 390,
+    "language": "Python",
+    "html_url": "https://github.com/LB623/no-negative-echo"
+  },
+  {
+    "id": 1342943152,
+    "name": "doop",
+    "full_name": "kgoedecke/doop",
+    "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+    "stars": 364,
+    "language": "TypeScript",
+    "html_url": "https://github.com/kgoedecke/doop"
+  },
+  {
+    "id": 1343906216,
+    "name": "selfdb",
+    "full_name": "fzakaria/selfdb",
+    "description": null,
+    "stars": 336,
+    "language": "Python",
+    "html_url": "https://github.com/fzakaria/selfdb"
+  },
+  {
+    "id": 1342226102,
+    "name": "backpass",
+    "full_name": "kunchenguid/backpass",
+    "description": "You don't write AGENTS.md. You train it with gradient descent.",
+    "stars": 334,
+    "language": "JavaScript",
+    "html_url": "https://github.com/kunchenguid/backpass"
+  },
+  {
+    "id": 1343438200,
+    "name": "rome",
+    "full_name": "rome-os/rome",
+    "description": "Rome is the agentic OS.",
+    "stars": 333,
+    "language": "TypeScript",
+    "html_url": "https://github.com/rome-os/rome"
+  },
+  {
+    "id": 1340859448,
+    "name": "system-atlas",
+    "full_name": "inkboard/system-atlas",
+    "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
+    "stars": 303,
     "language": "HTML",
-    "html_url": "https://github.com/MengTo/sylva"
+    "html_url": "https://github.com/inkboard/system-atlas"
+  },
+  {
+    "id": 1341264609,
+    "name": "cs-board",
+    "full_name": "ChenShuo2004/cs-board",
+    "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+    "stars": 298,
+    "language": "Python",
+    "html_url": "https://github.com/ChenShuo2004/cs-board"
   }
 ]
