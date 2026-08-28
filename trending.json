@@ -1,28 +1,28 @@
 [
   {
-    "id": 1341759590,
-    "name": "threeui",
-    "full_name": "MengTo/threeui",
-    "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
-    "stars": 3922,
-    "language": "HTML",
-    "html_url": "https://github.com/MengTo/threeui"
-  },
-  {
     "id": 1344208527,
     "name": "grok-bot-0.18-reconstructed",
     "full_name": "b-nnett/grok-bot-0.18-reconstructed",
     "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
-    "stars": 2554,
+    "stars": 3390,
     "language": "TypeScript",
     "html_url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+  },
+  {
+    "id": 1348410551,
+    "name": "my-girlfriend-jingtian-latex",
+    "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
+    "description": null,
+    "stars": 3141,
+    "language": "TeX",
+    "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
   },
   {
     "id": 1344273611,
     "name": "walgit",
     "full_name": "tobi/walgit",
     "description": null,
-    "stars": 1554,
+    "stars": 2272,
     "language": "Rust",
     "html_url": "https://github.com/tobi/walgit"
   },
@@ -31,106 +31,133 @@
     "name": "x64dbg-mcp-server",
     "full_name": "duty1g/x64dbg-mcp-server",
     "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
-    "stars": 1381,
+    "stars": 1618,
     "language": "Zig",
     "html_url": "https://github.com/duty1g/x64dbg-mcp-server"
-  },
-  {
-    "id": 1340743476,
-    "name": "lanshu-create-ai-presenter-video",
-    "full_name": "cclank/lanshu-create-ai-presenter-video",
-    "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
-    "stars": 914,
-    "language": "Python",
-    "html_url": "https://github.com/cclank/lanshu-create-ai-presenter-video"
-  },
-  {
-    "id": 1342930695,
-    "name": "scroll-craft",
-    "full_name": "nateherkai/scroll-craft",
-    "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
-    "stars": 910,
-    "language": "JavaScript",
-    "html_url": "https://github.com/nateherkai/scroll-craft"
-  },
-  {
-    "id": 1344223757,
-    "name": "watermark-remover",
-    "full_name": "ShadowAqueduct/watermark-remover",
-    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
-    "stars": 791,
-    "language": "Python",
-    "html_url": "https://github.com/ShadowAqueduct/watermark-remover"
   },
   {
     "id": 1342461518,
     "name": "FrontierAgent",
     "full_name": "ApodexAI/FrontierAgent",
     "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
-    "stars": 583,
+    "stars": 1182,
     "language": "Python",
     "html_url": "https://github.com/ApodexAI/FrontierAgent"
+  },
+  {
+    "id": 1342930695,
+    "name": "scroll-craft",
+    "full_name": "nateherkai/scroll-craft",
+    "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
+    "stars": 1117,
+    "language": "JavaScript",
+    "html_url": "https://github.com/nateherkai/scroll-craft"
   },
   {
     "id": 1344425591,
     "name": "workout-guide",
     "full_name": "bryllim/workout-guide",
     "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-    "stars": 526,
+    "stars": 942,
     "language": "Astro",
     "html_url": "https://github.com/bryllim/workout-guide"
+  },
+  {
+    "id": 1348577064,
+    "name": "PRAXIST",
+    "full_name": "sapientinc/PRAXIST",
+    "description": "Autonomous research system for measurable, computer-executable research.",
+    "stars": 927,
+    "language": "Python",
+    "html_url": "https://github.com/sapientinc/PRAXIST"
+  },
+  {
+    "id": 1346970181,
+    "name": "open-higgsfield",
+    "full_name": "wide-trace/open-higgsfield",
+    "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+    "stars": 905,
+    "language": "TypeScript",
+    "html_url": "https://github.com/wide-trace/open-higgsfield"
+  },
+  {
+    "id": 1344223757,
+    "name": "watermark-remover",
+    "full_name": "ShadowAqueduct/watermark-remover",
+    "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+    "stars": 822,
+    "language": "Python",
+    "html_url": "https://github.com/ShadowAqueduct/watermark-remover"
+  },
+  {
+    "id": 1345606017,
+    "name": "WeMM-Embedding",
+    "full_name": "Tencent/WeMM-Embedding",
+    "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+    "stars": 729,
+    "language": "Python",
+    "html_url": "https://github.com/Tencent/WeMM-Embedding"
+  },
+  {
+    "id": 1344252356,
+    "name": "try-omarchy",
+    "full_name": "themartiano/try-omarchy",
+    "description": "Run Omarchy on MacOS without any setup.",
+    "stars": 698,
+    "language": "Shell",
+    "html_url": "https://github.com/themartiano/try-omarchy"
+  },
+  {
+    "id": 1342432270,
+    "name": "anti-mage",
+    "full_name": "N4darae/anti-mage",
+    "description": "Browser testing utilizes various methods and algorithms, and performs calculations based on multiple parameters.",
+    "stars": 696,
+    "language": "Go",
+    "html_url": "https://github.com/N4darae/anti-mage"
+  },
+  {
+    "id": 1345177309,
+    "name": "personal-edge-proxy",
+    "full_name": "yding-git/personal-edge-proxy",
+    "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
+    "stars": 633,
+    "language": null,
+    "html_url": "https://github.com/yding-git/personal-edge-proxy"
+  },
+  {
+    "id": 1345185947,
+    "name": "learn",
+    "full_name": "amosblomqvist/learn",
+    "description": "My AI learning system.",
+    "stars": 559,
+    "language": "TypeScript",
+    "html_url": "https://github.com/amosblomqvist/learn"
+  },
+  {
+    "id": 1343146307,
+    "name": "kimodo.cpp",
+    "full_name": "localai-org/kimodo.cpp",
+    "description": "Animate skeletons with natural language; NVIDIA's Kimodo ported to C++/GGML",
+    "stars": 515,
+    "language": "C++",
+    "html_url": "https://github.com/localai-org/kimodo.cpp"
   },
   {
     "id": 1343228481,
     "name": "biosecurity-agent",
     "full_name": "Forsy-AI/biosecurity-agent",
     "description": "AI agent that builds a live biosecurity world around any target.",
-    "stars": 514,
+    "stars": 513,
     "language": "TypeScript",
     "html_url": "https://github.com/Forsy-AI/biosecurity-agent"
-  },
-  {
-    "id": 1340252641,
-    "name": "getcontact-cli",
-    "full_name": "xdreizein666/getcontact-cli",
-    "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
-    "stars": 487,
-    "language": "Python",
-    "html_url": "https://github.com/xdreizein666/getcontact-cli"
-  },
-  {
-    "id": 1343146307,
-    "name": "kimodo.cpp",
-    "full_name": "localai-org/kimodo.cpp",
-    "description": "NVIDIA Kimodo ported to C++/GGML",
-    "stars": 463,
-    "language": "C++",
-    "html_url": "https://github.com/localai-org/kimodo.cpp"
-  },
-  {
-    "id": 1344318054,
-    "name": "Gradient",
-    "full_name": "RobertGolds1/Gradient",
-    "description": "Gradient",
-    "stars": 396,
-    "language": "Python",
-    "html_url": "https://github.com/RobertGolds1/Gradient"
-  },
-  {
-    "id": 1341669331,
-    "name": "no-negative-echo",
-    "full_name": "LB623/no-negative-echo",
-    "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
-    "stars": 390,
-    "language": "Python",
-    "html_url": "https://github.com/LB623/no-negative-echo"
   },
   {
     "id": 1342943152,
     "name": "doop",
     "full_name": "kgoedecke/doop",
     "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
-    "stars": 364,
+    "stars": 468,
     "language": "TypeScript",
     "html_url": "https://github.com/kgoedecke/doop"
   },
@@ -139,44 +166,17 @@
     "name": "selfdb",
     "full_name": "fzakaria/selfdb",
     "description": null,
-    "stars": 336,
+    "stars": 459,
     "language": "Python",
     "html_url": "https://github.com/fzakaria/selfdb"
   },
   {
-    "id": 1342226102,
-    "name": "backpass",
-    "full_name": "kunchenguid/backpass",
-    "description": "You don't write AGENTS.md. You train it with gradient descent.",
-    "stars": 334,
-    "language": "JavaScript",
-    "html_url": "https://github.com/kunchenguid/backpass"
-  },
-  {
-    "id": 1343438200,
-    "name": "rome",
-    "full_name": "rome-os/rome",
-    "description": "Rome is the agentic OS.",
-    "stars": 333,
+    "id": 1342500731,
+    "name": "halofy",
+    "full_name": "halofyai/halofy",
+    "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+    "stars": 432,
     "language": "TypeScript",
-    "html_url": "https://github.com/rome-os/rome"
-  },
-  {
-    "id": 1340859448,
-    "name": "system-atlas",
-    "full_name": "inkboard/system-atlas",
-    "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
-    "stars": 303,
-    "language": "HTML",
-    "html_url": "https://github.com/inkboard/system-atlas"
-  },
-  {
-    "id": 1341264609,
-    "name": "cs-board",
-    "full_name": "ChenShuo2004/cs-board",
-    "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
-    "stars": 298,
-    "language": "Python",
-    "html_url": "https://github.com/ChenShuo2004/cs-board"
+    "html_url": "https://github.com/halofyai/halofy"
   }
 ]
