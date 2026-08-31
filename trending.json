@@ -1,182 +1,182 @@
 [
   {
-    "id": 1348410551,
-    "name": "my-girlfriend-jingtian-latex",
-    "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
-    "description": null,
-    "stars": 3971,
-    "language": "TeX",
-    "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
-  },
-  {
     "id": 1348577064,
     "name": "PRAXIST",
     "full_name": "sapientinc/PRAXIST",
     "description": "Autonomous research system for measurable, computer-executable research.",
-    "stars": 3209,
+    "stars": 4536,
     "language": "Python",
     "html_url": "https://github.com/sapientinc/PRAXIST"
   },
   {
-    "id": 1346970181,
-    "name": "open-higgsfield",
-    "full_name": "wide-trace/open-higgsfield",
-    "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-    "stars": 1074,
-    "language": "TypeScript",
-    "html_url": "https://github.com/wide-trace/open-higgsfield"
-  },
-  {
-    "id": 1344425591,
-    "name": "workout-guide",
-    "full_name": "bryllim/workout-guide",
-    "description": "302 open exercise illustrations and a framework-neutral npm package by Bryl Lim",
-    "stars": 1007,
-    "language": "Astro",
-    "html_url": "https://github.com/bryllim/workout-guide"
+    "id": 1348410551,
+    "name": "my-girlfriend-jingtian-latex",
+    "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
+    "description": null,
+    "stars": 4160,
+    "language": "TeX",
+    "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
   },
   {
     "id": 1349601607,
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "stars": 983,
+    "stars": 1477,
     "language": "TypeScript",
     "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
-  },
-  {
-    "id": 1345606017,
-    "name": "WeMM-Embedding",
-    "full_name": "Tencent/WeMM-Embedding",
-    "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
-    "stars": 912,
-    "language": "Python",
-    "html_url": "https://github.com/Tencent/WeMM-Embedding"
-  },
-  {
-    "id": 1345185947,
-    "name": "learn",
-    "full_name": "amosblomqvist/learn",
-    "description": "My AI learning system.",
-    "stars": 789,
-    "language": "TypeScript",
-    "html_url": "https://github.com/amosblomqvist/learn"
   },
   {
     "id": 1349354292,
     "name": "metamask-desktop",
     "full_name": "MetaMask-AI/metamask-desktop",
     "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-    "stars": 767,
+    "stars": 1227,
     "language": "CSS",
     "html_url": "https://github.com/MetaMask-AI/metamask-desktop"
   },
   {
-    "id": 1345177309,
-    "name": "personal-edge-proxy",
-    "full_name": "yding-git/personal-edge-proxy",
-    "description": "A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hysteria2, REALITY Vision, WARP and optional static SOCKS5 routing.",
-    "stars": 690,
-    "language": null,
-    "html_url": "https://github.com/yding-git/personal-edge-proxy"
+    "id": 1346970181,
+    "name": "open-higgsfield",
+    "full_name": "wide-trace/open-higgsfield",
+    "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
+    "stars": 1090,
+    "language": "TypeScript",
+    "html_url": "https://github.com/wide-trace/open-higgsfield"
   },
   {
     "id": 1349253750,
     "name": "sepia",
     "full_name": "Nanako0129/sepia",
     "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-    "stars": 686,
+    "stars": 952,
     "language": null,
     "html_url": "https://github.com/Nanako0129/sepia"
+  },
+  {
+    "id": 1345606017,
+    "name": "WeMM-Embedding",
+    "full_name": "Tencent/WeMM-Embedding",
+    "description": "WeMM-Embedding is a family of universal multimodal embedding models by the WeChat Vision Team at Tencent, supporting multimodal understanding and retrieval.",
+    "stars": 945,
+    "language": "Python",
+    "html_url": "https://github.com/Tencent/WeMM-Embedding"
   },
   {
     "id": 1348796050,
     "name": "shulihuazixuecongshu",
     "full_name": "tradecatlabs/shulihuazixuecongshu",
     "description": null,
-    "stars": 669,
+    "stars": 807,
     "language": "Python",
     "html_url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
-  },
-  {
-    "id": 1348995029,
-    "name": "darwin-vm",
-    "full_name": "jprx/darwin-vm",
-    "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-    "stars": 556,
-    "language": "Python",
-    "html_url": "https://github.com/jprx/darwin-vm"
-  },
-  {
-    "id": 1344541631,
-    "name": "outlook-auto-register",
-    "full_name": "lxf746/outlook-auto-register",
-    "description": "Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）",
-    "stars": 550,
-    "language": "Python",
-    "html_url": "https://github.com/lxf746/outlook-auto-register"
-  },
-  {
-    "id": 1348483831,
-    "name": "fastpotify",
-    "full_name": "crmne/fastpotify",
-    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-    "stars": 510,
-    "language": "Rust",
-    "html_url": "https://github.com/crmne/fastpotify"
-  },
-  {
-    "id": 1346869407,
-    "name": "AI-drama-pound",
-    "full_name": "POUND0423/AI-drama-pound",
-    "description": null,
-    "stars": 508,
-    "language": null,
-    "html_url": "https://github.com/POUND0423/AI-drama-pound"
-  },
-  {
-    "id": 1349765459,
-    "name": "boop",
-    "full_name": "chrisgreg/boop",
-    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
-    "stars": 483,
-    "language": "Go",
-    "html_url": "https://github.com/chrisgreg/boop"
   },
   {
     "id": 1346499044,
     "name": "WolfCut",
     "full_name": "jub0t/WolfCut",
     "description": "Free & Open-Source CapCut replacement.",
-    "stars": 467,
+    "stars": 735,
     "language": "TypeScript",
     "html_url": "https://github.com/jub0t/WolfCut"
+  },
+  {
+    "id": 1349898907,
+    "name": "headcount",
+    "full_name": "cbrock84/headcount",
+    "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "stars": 726,
+    "language": "Markdown",
+    "html_url": "https://github.com/cbrock84/headcount"
+  },
+  {
+    "id": 1348995029,
+    "name": "darwin-vm",
+    "full_name": "jprx/darwin-vm",
+    "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
+    "stars": 633,
+    "language": "Python",
+    "html_url": "https://github.com/jprx/darwin-vm"
+  },
+  {
+    "id": 1349765459,
+    "name": "boop",
+    "full_name": "chrisgreg/boop",
+    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+    "stars": 616,
+    "language": "Go",
+    "html_url": "https://github.com/chrisgreg/boop"
+  },
+  {
+    "id": 1348483831,
+    "name": "fastpotify",
+    "full_name": "crmne/fastpotify",
+    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+    "stars": 581,
+    "language": "Rust",
+    "html_url": "https://github.com/crmne/fastpotify"
   },
   {
     "id": 1346286651,
     "name": "life-ipo",
     "full_name": "gtlhuyidan-sketch/life-ipo",
     "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
-    "stars": 452,
+    "stars": 566,
     "language": "TypeScript",
     "html_url": "https://github.com/gtlhuyidan-sketch/life-ipo"
   },
   {
-    "id": 1344939825,
-    "name": "goldie",
-    "full_name": "kacperkapusciak/goldie",
-    "description": "✨ agentic app store previews and screenshots",
-    "stars": 433,
-    "language": "TypeScript",
-    "html_url": "https://github.com/kacperkapusciak/goldie"
+    "id": 1346869407,
+    "name": "AI-drama-pound",
+    "full_name": "POUND0423/AI-drama-pound",
+    "description": null,
+    "stars": 514,
+    "language": null,
+    "html_url": "https://github.com/POUND0423/AI-drama-pound"
   },
   {
     "id": 1347856248,
     "name": "refactoring-ui-skill",
     "full_name": "s0xDk/refactoring-ui-skill",
     "description": "A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth through emulated light — to building and fixing interfaces.",
-    "stars": 419,
+    "stars": 449,
     "language": "CSS",
     "html_url": "https://github.com/s0xDk/refactoring-ui-skill"
+  },
+  {
+    "id": 1345887853,
+    "name": "VI-Translate",
+    "full_name": "breslee1707/VI-Translate",
+    "description": null,
+    "stars": 438,
+    "language": "Python",
+    "html_url": "https://github.com/breslee1707/VI-Translate"
+  },
+  {
+    "id": 1348572094,
+    "name": "tokentab",
+    "full_name": "damejan80/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "stars": 393,
+    "language": "Python",
+    "html_url": "https://github.com/damejan80/tokentab"
+  },
+  {
+    "id": 1348793218,
+    "name": "my-free-code",
+    "full_name": "hkqr/my-free-code",
+    "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+    "stars": 386,
+    "language": "Python",
+    "html_url": "https://github.com/hkqr/my-free-code"
+  },
+  {
+    "id": 1348826110,
+    "name": "opengrok",
+    "full_name": "OnlyTerp/opengrok",
+    "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+    "stars": 384,
+    "language": "JavaScript",
+    "html_url": "https://github.com/OnlyTerp/opengrok"
   }
 ]
