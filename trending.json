@@ -4,35 +4,35 @@
     "name": "PRAXIST",
     "full_name": "sapientinc/PRAXIST",
     "description": "Autonomous research system for measurable, computer-executable research.",
-    "stars": 5462,
+    "stars": 6242,
     "language": "Python",
     "html_url": "https://github.com/sapientinc/PRAXIST"
-  },
-  {
-    "id": 1348410551,
-    "name": "my-girlfriend-jingtian-latex",
-    "full_name": "HEJustinSun/my-girlfriend-jingtian-latex",
-    "description": null,
-    "stars": 4197,
-    "language": "TeX",
-    "html_url": "https://github.com/HEJustinSun/my-girlfriend-jingtian-latex"
   },
   {
     "id": 1349601607,
     "name": "codex-with-chatgpt",
     "full_name": "XiaoDuoYa/codex-with-chatgpt",
     "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
-    "stars": 1910,
+    "stars": 2154,
     "language": "TypeScript",
     "html_url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+  },
+  {
+    "id": 1348483831,
+    "name": "fastpotify",
+    "full_name": "crmne/fastpotify",
+    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+    "stars": 1564,
+    "language": "Rust",
+    "html_url": "https://github.com/crmne/fastpotify"
   },
   {
     "id": 1349253750,
     "name": "sepia",
     "full_name": "Nanako0129/sepia",
     "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
-    "stars": 1257,
-    "language": null,
+    "stars": 1363,
+    "language": "Python",
     "html_url": "https://github.com/Nanako0129/sepia"
   },
   {
@@ -40,124 +40,97 @@
     "name": "metamask-desktop",
     "full_name": "MetaMask-AI/metamask-desktop",
     "description": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
-    "stars": 1228,
+    "stars": 1229,
     "language": "CSS",
     "html_url": "https://github.com/MetaMask-AI/metamask-desktop"
-  },
-  {
-    "id": 1346970181,
-    "name": "open-higgsfield",
-    "full_name": "wide-trace/open-higgsfield",
-    "description": "A studio for image and video generation — one prompt bar, each model’s own settings, and every finished run in one gallery.",
-    "stars": 1147,
-    "language": "TypeScript",
-    "html_url": "https://github.com/wide-trace/open-higgsfield"
-  },
-  {
-    "id": 1349898907,
-    "name": "headcount",
-    "full_name": "cbrock84/headcount",
-    "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
-    "stars": 862,
-    "language": "Markdown",
-    "html_url": "https://github.com/cbrock84/headcount"
-  },
-  {
-    "id": 1348796050,
-    "name": "shulihuazixuecongshu",
-    "full_name": "tradecatlabs/shulihuazixuecongshu",
-    "description": null,
-    "stars": 830,
-    "language": "Python",
-    "html_url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
-  },
-  {
-    "id": 1348483831,
-    "name": "fastpotify",
-    "full_name": "crmne/fastpotify",
-    "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
-    "stars": 770,
-    "language": "Rust",
-    "html_url": "https://github.com/crmne/fastpotify"
   },
   {
     "id": 1348572094,
     "name": "tokentab",
     "full_name": "damejan80/tokentab",
     "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
-    "stars": 719,
+    "stars": 1139,
     "language": "Python",
     "html_url": "https://github.com/damejan80/tokentab"
+  },
+  {
+    "id": 1349898907,
+    "name": "headcount",
+    "full_name": "cbrock84/headcount",
+    "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+    "stars": 962,
+    "language": "Markdown",
+    "html_url": "https://github.com/cbrock84/headcount"
   },
   {
     "id": 1348995029,
     "name": "darwin-vm",
     "full_name": "jprx/darwin-vm",
     "description": "Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.",
-    "stars": 709,
+    "stars": 887,
     "language": "Python",
     "html_url": "https://github.com/jprx/darwin-vm"
   },
   {
-    "id": 1349765459,
-    "name": "boop",
-    "full_name": "chrisgreg/boop",
-    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
-    "stars": 668,
-    "language": "Go",
-    "html_url": "https://github.com/chrisgreg/boop"
+    "id": 1348796050,
+    "name": "shulihuazixuecongshu",
+    "full_name": "tradecatlabs/shulihuazixuecongshu",
+    "description": null,
+    "stars": 848,
+    "language": "Python",
+    "html_url": "https://github.com/tradecatlabs/shulihuazixuecongshu"
   },
   {
     "id": 1351835285,
     "name": "CoomeRtool",
     "full_name": "GangTailorUpgrade/CoomeRtool",
     "description": "Coomer Tool",
-    "stars": 650,
+    "stars": 829,
     "language": "Python",
     "html_url": "https://github.com/GangTailorUpgrade/CoomeRtool"
+  },
+  {
+    "id": 1349765459,
+    "name": "boop",
+    "full_name": "chrisgreg/boop",
+    "description": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+    "stars": 678,
+    "language": "Go",
+    "html_url": "https://github.com/chrisgreg/boop"
+  },
+  {
+    "id": 1348084390,
+    "name": "prod-FARM-IOS-Core",
+    "full_name": "Git-Agni/prod-FARM-IOS-Core",
+    "description": "A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.",
+    "stars": 629,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Git-Agni/prod-FARM-IOS-Core"
   },
   {
     "id": 1348793218,
     "name": "my-free-code",
     "full_name": "hkqr/my-free-code",
     "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
-    "stars": 615,
+    "stars": 618,
     "language": "Python",
     "html_url": "https://github.com/hkqr/my-free-code"
   },
   {
-    "id": 1346800521,
-    "name": "shrimply",
-    "full_name": "soirihiroka/shrimply",
-    "description": "you're telling me a shrimp made this video?",
-    "stars": 551,
-    "language": "Rust",
-    "html_url": "https://github.com/soirihiroka/shrimply"
-  },
-  {
-    "id": 1346869407,
-    "name": "AI-drama-pound",
-    "full_name": "POUND0423/AI-drama-pound",
-    "description": null,
-    "stars": 522,
-    "language": null,
-    "html_url": "https://github.com/POUND0423/AI-drama-pound"
-  },
-  {
-    "id": 1347856248,
-    "name": "refactoring-ui-skill",
-    "full_name": "s0xDk/refactoring-ui-skill",
-    "description": "A Claude Code skill that applies the concrete design rules from the book Refactoring UI (Wathan & Schoger) — constrained spacing/type/color/shadow scales, hierarchy through weight and color, and depth through emulated light — to building and fixing interfaces.",
-    "stars": 465,
-    "language": "CSS",
-    "html_url": "https://github.com/s0xDk/refactoring-ui-skill"
+    "id": 1348932500,
+    "name": "hexstellar",
+    "full_name": "brayonpi/hexstellar",
+    "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+    "stars": 552,
+    "language": "Python",
+    "html_url": "https://github.com/brayonpi/hexstellar"
   },
   {
     "id": 1350871465,
     "name": "DLSS5-Feeder",
     "full_name": "jlrouzies-fr/DLSS5-Feeder",
     "description": "DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLAA contract (ReShade depth + motion vectors) to the DLSS 5 add-on via a private D3D12 device.",
-    "stars": 429,
+    "stars": 522,
     "language": "C++",
     "html_url": "https://github.com/jlrouzies-fr/DLSS5-Feeder"
   },
@@ -166,17 +139,44 @@
     "name": "opengrok",
     "full_name": "OnlyTerp/opengrok",
     "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
-    "stars": 397,
+    "stars": 409,
     "language": "JavaScript",
     "html_url": "https://github.com/OnlyTerp/opengrok"
   },
   {
-    "id": 1347890919,
-    "name": "fire-your-seo-agency",
-    "full_name": "leopard627/fire-your-seo-agency",
-    "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
-    "stars": 380,
-    "language": null,
-    "html_url": "https://github.com/leopard627/fire-your-seo-agency"
+    "id": 1348428036,
+    "name": "hello-sdd",
+    "full_name": "mouredev/hello-sdd",
+    "description": "Curso de SDD (Spec-Driven Development) desde cero",
+    "stars": 398,
+    "language": "Python",
+    "html_url": "https://github.com/mouredev/hello-sdd"
+  },
+  {
+    "id": 1349507889,
+    "name": "PawWork_ZhuaZhua",
+    "full_name": "Player-YN/PawWork_ZhuaZhua",
+    "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+    "stars": 381,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Player-YN/PawWork_ZhuaZhua"
+  },
+  {
+    "id": 1348253680,
+    "name": "ABot-Recon",
+    "full_name": "amap-cvlab/ABot-Recon",
+    "description": "Streaming 3D reconstruction from only video input: Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction",
+    "stars": 373,
+    "language": "Python",
+    "html_url": "https://github.com/amap-cvlab/ABot-Recon"
+  },
+  {
+    "id": 1348778300,
+    "name": "Code-as-World",
+    "full_name": "MirroS-Lab/Code-as-World",
+    "description": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
+    "stars": 368,
+    "language": "Python",
+    "html_url": "https://github.com/MirroS-Lab/Code-as-World"
   }
 ]
