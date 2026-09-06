@@ -4,7 +4,7 @@
     "name": "m3e-canvas",
     "full_name": "lnkiai/m3e-canvas",
     "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-    "stars": 2130,
+    "stars": 3770,
     "language": "TypeScript",
     "html_url": "https://github.com/lnkiai/m3e-canvas"
   },
@@ -13,7 +13,7 @@
     "name": "commerce-agents",
     "full_name": "anthropics/commerce-agents",
     "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
-    "stars": 1942,
+    "stars": 2062,
     "language": "Python",
     "html_url": "https://github.com/anthropics/commerce-agents"
   },
@@ -22,7 +22,7 @@
     "name": "cn",
     "full_name": "shadcn-ui/cn",
     "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge and clsx. Same APIs. Full parity. And it is 30× faster.",
-    "stars": 1109,
+    "stars": 1173,
     "language": "TypeScript",
     "html_url": "https://github.com/shadcn-ui/cn"
   },
@@ -31,7 +31,7 @@
     "name": "undress-service",
     "full_name": "GangTailorUpgrade/undress-service",
     "description": "Dress AI Sponsor",
-    "stars": 1060,
+    "stars": 1095,
     "language": "Python",
     "html_url": "https://github.com/GangTailorUpgrade/undress-service"
   },
@@ -39,17 +39,44 @@
     "id": 1351859098,
     "name": "reverify",
     "full_name": "2akouwu/reverify",
-    "description": "Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide: every claim is VERIFIED or REFUTED against the real bytes, with evidence, and grounded facts survive context resets. MCP server + CLI.",
-    "stars": 891,
+    "description": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Reverse engineering is the proving ground. MCP server + CLI.",
+    "stars": 924,
     "language": "Python",
     "html_url": "https://github.com/2akouwu/reverify"
+  },
+  {
+    "id": 1354127227,
+    "name": "oc-english",
+    "full_name": "yczz/oc-english",
+    "description": "养成类游戏英语学习",
+    "stars": 823,
+    "language": "JavaScript",
+    "html_url": "https://github.com/yczz/oc-english"
+  },
+  {
+    "id": 1357228959,
+    "name": "fermats-last-theorem",
+    "full_name": "anthropics/fermats-last-theorem",
+    "description": null,
+    "stars": 704,
+    "language": "Lean",
+    "html_url": "https://github.com/anthropics/fermats-last-theorem"
+  },
+  {
+    "id": 1355366032,
+    "name": "DLSS-NR-on-AMD",
+    "full_name": "danielblnc/DLSS-NR-on-AMD",
+    "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+    "stars": 660,
+    "language": null,
+    "html_url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
   },
   {
     "id": 1355017800,
     "name": "polyledger",
     "full_name": "nahrek/polyledger",
     "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-    "stars": 614,
+    "stars": 620,
     "language": "Python",
     "html_url": "https://github.com/nahrek/polyledger"
   },
@@ -58,34 +85,16 @@
     "name": "FalconFlank",
     "full_name": "MSNightmare/FalconFlank",
     "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-    "stars": 505,
+    "stars": 515,
     "language": "C",
     "html_url": "https://github.com/MSNightmare/FalconFlank"
-  },
-  {
-    "id": 1351701238,
-    "name": "dlss5-visual-enhancer",
-    "full_name": "Merserk/dlss5-visual-enhancer",
-    "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
-    "stars": 491,
-    "language": "Python",
-    "html_url": "https://github.com/Merserk/dlss5-visual-enhancer"
-  },
-  {
-    "id": 1355366032,
-    "name": "DLSS-NR-on-AMD",
-    "full_name": "danielblnc/DLSS-NR-on-AMD",
-    "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-    "stars": 473,
-    "language": null,
-    "html_url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
   },
   {
     "id": 1355259034,
     "name": "fable-orchestrator",
     "full_name": "codejunkie99/fable-orchestrator",
     "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
-    "stars": 471,
+    "stars": 514,
     "language": "Shell",
     "html_url": "https://github.com/codejunkie99/fable-orchestrator"
   },
@@ -94,43 +103,52 @@
     "name": "reef",
     "full_name": "Human-Agent-Society/reef",
     "description": "Continual learning infra for self-improving agents",
-    "stars": 432,
+    "stars": 485,
     "language": "Python",
     "html_url": "https://github.com/Human-Agent-Society/reef"
   },
   {
-    "id": 1355092388,
-    "name": "fable51-worlds",
-    "full_name": "PhiloLabs/fable51-worlds",
-    "description": "worlds via code, from fable 5.1",
-    "stars": 426,
-    "language": "JavaScript",
-    "html_url": "https://github.com/PhiloLabs/fable51-worlds"
+    "id": 1357699236,
+    "name": "human-atlas",
+    "full_name": "ashemag/human-atlas",
+    "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+    "stars": 462,
+    "language": "TypeScript",
+    "html_url": "https://github.com/ashemag/human-atlas"
+  },
+  {
+    "id": 1357272370,
+    "name": "wechat-intelligence-hub",
+    "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
+    "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+    "stars": 463,
+    "language": "Python",
+    "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
   },
   {
     "id": 1356159928,
     "name": "niubigeo",
     "full_name": "Albert-Weasker/niubigeo",
     "description": "Open-source AI brand visibility and competitor reports",
-    "stars": 415,
+    "stars": 461,
     "language": "TypeScript",
     "html_url": "https://github.com/Albert-Weasker/niubigeo"
   },
   {
-    "id": 1352375345,
-    "name": "skill-cabinet",
-    "full_name": "subsy/skill-cabinet",
-    "description": null,
-    "stars": 389,
-    "language": "JavaScript",
-    "html_url": "https://github.com/subsy/skill-cabinet"
+    "id": 1352493419,
+    "name": "NoGraphicsAPI",
+    "full_name": "sebbbi/NoGraphicsAPI",
+    "description": "Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my \"No Graphics API\" blog post and the SIGGRAPH talk.",
+    "stars": 454,
+    "language": "C++",
+    "html_url": "https://github.com/sebbbi/NoGraphicsAPI"
   },
   {
     "id": 1351898444,
     "name": "DLSS5oneclick",
     "full_name": "faisalkindi/DLSS5oneclick",
     "description": "One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 game on RTX 20–50, with or without DLSS. ReShade + RenoDX add-on (or OptiScaler engine); DLSS5-Feeder + LumeniteFX for games without DLSS; dlss5-bridge for DX11. Rust, single exe.",
-    "stars": 389,
+    "stars": 451,
     "language": "Rust",
     "html_url": "https://github.com/faisalkindi/DLSS5oneclick"
   },
@@ -139,44 +157,26 @@
     "name": "camera-to-blender",
     "full_name": "ahujasid/camera-to-blender",
     "description": "Take a photo of real objects, and paste them in Blender",
-    "stars": 339,
+    "stars": 447,
     "language": "JavaScript",
     "html_url": "https://github.com/ahujasid/camera-to-blender"
   },
   {
-    "id": 1357228959,
-    "name": "fermats-last-theorem",
-    "full_name": "anthropics/fermats-last-theorem",
-    "description": null,
-    "stars": 338,
-    "language": "Lean",
-    "html_url": "https://github.com/anthropics/fermats-last-theorem"
+    "id": 1355092388,
+    "name": "fable51-worlds",
+    "full_name": "PhiloLabs/fable51-worlds",
+    "description": "worlds via code, from fable 5.1",
+    "stars": 438,
+    "language": "JavaScript",
+    "html_url": "https://github.com/PhiloLabs/fable51-worlds"
   },
   {
     "id": 1351903372,
     "name": "FreePEP",
     "full_name": "siknet/FreePEP",
     "description": "人教社电子教材下载器",
-    "stars": 335,
+    "stars": 418,
     "language": "Python",
     "html_url": "https://github.com/siknet/FreePEP"
-  },
-  {
-    "id": 1354705170,
-    "name": "guizang-yingzao-skill",
-    "full_name": "op7418/guizang-yingzao-skill",
-    "description": "🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places & travel photos into art-directed editorial posters with GPT Image. 中国古建筑与在地文化照片 → 艺术指导海报",
-    "stars": 321,
-    "language": "Python",
-    "html_url": "https://github.com/op7418/guizang-yingzao-skill"
-  },
-  {
-    "id": 1353051646,
-    "name": "awesome-grokbot",
-    "full_name": "kydlikebtc/awesome-grokbot",
-    "description": "532 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
-    "stars": 307,
-    "language": "Python",
-    "html_url": "https://github.com/kydlikebtc/awesome-grokbot"
   }
 ]
