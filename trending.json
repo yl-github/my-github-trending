@@ -1,46 +1,46 @@
 [
   {
-    "id": 1354310030,
-    "name": "m3e-canvas",
-    "full_name": "lnkiai/m3e-canvas",
-    "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
-    "stars": 4719,
-    "language": "TypeScript",
-    "html_url": "https://github.com/lnkiai/m3e-canvas"
-  },
-  {
     "id": 1357699236,
     "name": "human-atlas",
     "full_name": "ashemag/human-atlas",
     "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-    "stars": 2061,
+    "stars": 2489,
     "language": "TypeScript",
     "html_url": "https://github.com/ashemag/human-atlas"
+  },
+  {
+    "id": 1356159928,
+    "name": "niubigeo",
+    "full_name": "Albert-Weasker/niubigeo",
+    "description": "Open-source AI brand visibility and competitor reports",
+    "stars": 2171,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Albert-Weasker/niubigeo"
   },
   {
     "id": 1357272370,
     "name": "wechat-intelligence-hub",
     "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
     "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-    "stars": 1842,
+    "stars": 1949,
     "language": "Python",
     "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
   },
   {
-    "id": 1358140812,
-    "name": "short-video-generator-AI",
-    "full_name": "pierrenade/short-video-generator-AI",
-    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
-    "stars": 1183,
+    "id": 1359610661,
+    "name": "holo-card-studio",
+    "full_name": "EverettFish/holo-card-studio",
+    "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+    "stars": 1143,
     "language": "Python",
-    "html_url": "https://github.com/pierrenade/short-video-generator-AI"
+    "html_url": "https://github.com/EverettFish/holo-card-studio"
   },
   {
     "id": 1358295353,
     "name": "codenotch",
     "full_name": "vinzdg/codenotch",
     "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-    "stars": 944,
+    "stars": 1117,
     "language": "Swift",
     "html_url": "https://github.com/vinzdg/codenotch"
   },
@@ -49,25 +49,25 @@
     "name": "fermats-last-theorem",
     "full_name": "anthropics/fermats-last-theorem",
     "description": null,
-    "stars": 941,
+    "stars": 981,
     "language": "Lean",
     "html_url": "https://github.com/anthropics/fermats-last-theorem"
   },
   {
-    "id": 1359610661,
-    "name": "holo-card-studio",
-    "full_name": "EverettFish/holo-card-studio",
-    "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-    "stars": 903,
-    "language": "Python",
-    "html_url": "https://github.com/EverettFish/holo-card-studio"
+    "id": 1361260630,
+    "name": "NavierStokesAndEuler",
+    "full_name": "openai/NavierStokesAndEuler",
+    "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+    "stars": 972,
+    "language": "Lean",
+    "html_url": "https://github.com/openai/NavierStokesAndEuler"
   },
   {
     "id": 1355366032,
     "name": "DLSS-NR-on-AMD",
     "full_name": "danielblnc/DLSS-NR-on-AMD",
     "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-    "stars": 863,
+    "stars": 937,
     "language": null,
     "html_url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
   },
@@ -76,52 +76,43 @@
     "name": "camera-to-blender",
     "full_name": "ahujasid/camera-to-blender",
     "description": "Take a photo of real objects, and paste them in Blender",
-    "stars": 703,
+    "stars": 777,
     "language": "JavaScript",
     "html_url": "https://github.com/ahujasid/camera-to-blender"
   },
   {
-    "id": 1356159928,
-    "name": "niubigeo",
-    "full_name": "Albert-Weasker/niubigeo",
-    "description": "Open-source AI brand visibility and competitor reports",
-    "stars": 678,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Albert-Weasker/niubigeo"
-  },
-  {
-    "id": 1355017800,
-    "name": "polyledger",
-    "full_name": "nahrek/polyledger",
-    "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB file you can query with SQL",
-    "stars": 621,
+    "id": 1356077516,
+    "name": "ffmpeg-skill",
+    "full_name": "kajisho5/ffmpeg-skill",
+    "description": null,
+    "stars": 753,
     "language": "Python",
-    "html_url": "https://github.com/nahrek/polyledger"
+    "html_url": "https://github.com/kajisho5/ffmpeg-skill"
   },
   {
     "id": 1356579487,
     "name": "usque-custom-pro",
     "full_name": "KJGX66F/usque-custom-pro",
     "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-    "stars": 615,
+    "stars": 682,
     "language": "JavaScript",
     "html_url": "https://github.com/KJGX66F/usque-custom-pro"
   },
   {
-    "id": 1355259034,
-    "name": "fable-orchestrator",
-    "full_name": "codejunkie99/fable-orchestrator",
-    "description": "Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement.",
-    "stars": 568,
-    "language": "Shell",
-    "html_url": "https://github.com/codejunkie99/fable-orchestrator"
+    "id": 1356772546,
+    "name": "vista",
+    "full_name": "Mantitup-Org/vista",
+    "description": null,
+    "stars": 601,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Mantitup-Org/vista"
   },
   {
     "id": 1358633852,
     "name": "macos-sysdata",
     "full_name": "Jarvis322/macos-sysdata",
     "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
-    "stars": 556,
+    "stars": 599,
     "language": "Swift",
     "html_url": "https://github.com/Jarvis322/macos-sysdata"
   },
@@ -130,53 +121,62 @@
     "name": "FalconFlank",
     "full_name": "MSNightmare/FalconFlank",
     "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-    "stars": 549,
+    "stars": 560,
     "language": "C",
     "html_url": "https://github.com/MSNightmare/FalconFlank"
-  },
-  {
-    "id": 1354267344,
-    "name": "recorder",
-    "full_name": "sonicloudco/recorder",
-    "description": "声云录音卡 Recorder 是一套面向开发者和行业客户的智能录音硬件接入方案。 项目以录音卡片硬件为核心，开放 BLE 协议 SDK 及 Android、iOS、鸿蒙、Flutter 接入示例，同时提供 Windows/macOS 桌面端 Demo，支持设备连接、录音控制、实时音频、文件传输、OTA 升级和语音转写等能力，帮助开发者快速将录音硬件接入自己的 App、桌面软件或行业系统。 如需获取硬件规格、样机、完整协议、SDK 资料或定制服务，请联系安徽声云",
-    "stars": 503,
-    "language": "HTML",
-    "html_url": "https://github.com/sonicloudco/recorder"
-  },
-  {
-    "id": 1357580136,
-    "name": "stop-stutter",
-    "full_name": "burakgon/stop-stutter",
-    "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
-    "stars": 496,
-    "language": "Swift",
-    "html_url": "https://github.com/burakgon/stop-stutter"
   },
   {
     "id": 1357414008,
     "name": "warp-masque-actions",
     "full_name": "byJoey/warp-masque-actions",
     "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-    "stars": 468,
+    "stars": 519,
     "language": "JavaScript",
     "html_url": "https://github.com/byJoey/warp-masque-actions"
+  },
+  {
+    "id": 1357580136,
+    "name": "stop-stutter",
+    "full_name": "burakgon/stop-stutter",
+    "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
+    "stars": 493,
+    "language": "Swift",
+    "html_url": "https://github.com/burakgon/stop-stutter"
   },
   {
     "id": 1358571386,
     "name": "okf-agent-memory",
     "full_name": "okf-memory/okf-agent-memory",
     "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-    "stars": 465,
+    "stars": 493,
     "language": "Go",
     "html_url": "https://github.com/okf-memory/okf-agent-memory"
   },
   {
-    "id": 1355092388,
-    "name": "fable51-worlds",
-    "full_name": "PhiloLabs/fable51-worlds",
-    "description": "worlds via code, from fable 5.1",
-    "stars": 465,
-    "language": "JavaScript",
-    "html_url": "https://github.com/PhiloLabs/fable51-worlds"
+    "id": 1358588929,
+    "name": "handraw-style",
+    "full_name": "yang0/handraw-style",
+    "description": "手绘风格编号画廊与双语提示词 Skill",
+    "stars": 492,
+    "language": "HTML",
+    "html_url": "https://github.com/yang0/handraw-style"
+  },
+  {
+    "id": 1358346534,
+    "name": "codex-astra-luna-orchestrator",
+    "full_name": "donvito/codex-astra-luna-orchestrator",
+    "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+    "stars": 412,
+    "language": "Python",
+    "html_url": "https://github.com/donvito/codex-astra-luna-orchestrator"
+  },
+  {
+    "id": 1359120685,
+    "name": "screenwriting-skills",
+    "full_name": "jtydhr88/screenwriting-skills",
+    "description": null,
+    "stars": 392,
+    "language": null,
+    "html_url": "https://github.com/jtydhr88/screenwriting-skills"
   }
 ]
