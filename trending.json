@@ -4,106 +4,97 @@
     "name": "human-atlas",
     "full_name": "ashemag/human-atlas",
     "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-    "stars": 2489,
+    "stars": 2867,
     "language": "TypeScript",
     "html_url": "https://github.com/ashemag/human-atlas"
-  },
-  {
-    "id": 1356159928,
-    "name": "niubigeo",
-    "full_name": "Albert-Weasker/niubigeo",
-    "description": "Open-source AI brand visibility and competitor reports",
-    "stars": 2171,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Albert-Weasker/niubigeo"
   },
   {
     "id": 1357272370,
     "name": "wechat-intelligence-hub",
     "full_name": "Rion-Wu-tech/wechat-intelligence-hub",
     "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-    "stars": 1949,
+    "stars": 2031,
     "language": "Python",
     "html_url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
-  },
-  {
-    "id": 1359610661,
-    "name": "holo-card-studio",
-    "full_name": "EverettFish/holo-card-studio",
-    "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-    "stars": 1143,
-    "language": "Python",
-    "html_url": "https://github.com/EverettFish/holo-card-studio"
-  },
-  {
-    "id": 1358295353,
-    "name": "codenotch",
-    "full_name": "vinzdg/codenotch",
-    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-    "stars": 1117,
-    "language": "Swift",
-    "html_url": "https://github.com/vinzdg/codenotch"
-  },
-  {
-    "id": 1357228959,
-    "name": "fermats-last-theorem",
-    "full_name": "anthropics/fermats-last-theorem",
-    "description": null,
-    "stars": 981,
-    "language": "Lean",
-    "html_url": "https://github.com/anthropics/fermats-last-theorem"
   },
   {
     "id": 1361260630,
     "name": "NavierStokesAndEuler",
     "full_name": "openai/NavierStokesAndEuler",
     "description": "Lean certificates accompanying Navier-Stokes and Euler results",
-    "stars": 972,
+    "stars": 1578,
     "language": "Lean",
     "html_url": "https://github.com/openai/NavierStokesAndEuler"
   },
   {
-    "id": 1355366032,
-    "name": "DLSS-NR-on-AMD",
-    "full_name": "danielblnc/DLSS-NR-on-AMD",
-    "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
-    "stars": 937,
-    "language": null,
-    "html_url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
+    "id": 1358295353,
+    "name": "codenotch",
+    "full_name": "vinzdg/codenotch",
+    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+    "stars": 1289,
+    "language": "Swift",
+    "html_url": "https://github.com/vinzdg/codenotch"
   },
   {
-    "id": 1355833393,
-    "name": "camera-to-blender",
-    "full_name": "ahujasid/camera-to-blender",
-    "description": "Take a photo of real objects, and paste them in Blender",
-    "stars": 777,
-    "language": "JavaScript",
-    "html_url": "https://github.com/ahujasid/camera-to-blender"
-  },
-  {
-    "id": 1356077516,
-    "name": "ffmpeg-skill",
-    "full_name": "kajisho5/ffmpeg-skill",
-    "description": null,
-    "stars": 753,
+    "id": 1359610661,
+    "name": "holo-card-studio",
+    "full_name": "EverettFish/holo-card-studio",
+    "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+    "stars": 1249,
     "language": "Python",
-    "html_url": "https://github.com/kajisho5/ffmpeg-skill"
+    "html_url": "https://github.com/EverettFish/holo-card-studio"
+  },
+  {
+    "id": 1357228959,
+    "name": "fermats-last-theorem",
+    "full_name": "anthropics/fermats-last-theorem",
+    "description": null,
+    "stars": 1001,
+    "language": "Lean",
+    "html_url": "https://github.com/anthropics/fermats-last-theorem"
+  },
+  {
+    "id": 1360432710,
+    "name": "dlssg_for_sm86",
+    "full_name": "sdli1995/dlssg_for_sm86",
+    "description": "Here is a dlssg for RTX30 Series GPU ",
+    "stars": 781,
+    "language": null,
+    "html_url": "https://github.com/sdli1995/dlssg_for_sm86"
+  },
+  {
+    "id": 1358346534,
+    "name": "codex-astra-luna-orchestrator",
+    "full_name": "donvito/codex-astra-luna-orchestrator",
+    "description": "Use Astra as orchestrator and Luna for subagents in Codex",
+    "stars": 773,
+    "language": "Python",
+    "html_url": "https://github.com/donvito/codex-astra-luna-orchestrator"
   },
   {
     "id": 1356579487,
     "name": "usque-custom-pro",
     "full_name": "KJGX66F/usque-custom-pro",
     "description": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
-    "stars": 682,
+    "stars": 724,
     "language": "JavaScript",
     "html_url": "https://github.com/KJGX66F/usque-custom-pro"
+  },
+  {
+    "id": 1358588929,
+    "name": "handraw-style",
+    "full_name": "yang0/handraw-style",
+    "description": "手绘风格编号画廊与双语提示词 Skill",
+    "stars": 663,
+    "language": "HTML",
+    "html_url": "https://github.com/yang0/handraw-style"
   },
   {
     "id": 1356772546,
     "name": "vista",
     "full_name": "Mantitup-Org/vista",
     "description": null,
-    "stars": 601,
+    "stars": 615,
     "language": "TypeScript",
     "html_url": "https://github.com/Mantitup-Org/vista"
   },
@@ -112,71 +103,80 @@
     "name": "macos-sysdata",
     "full_name": "Jarvis322/macos-sysdata",
     "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
-    "stars": 599,
+    "stars": 609,
     "language": "Swift",
     "html_url": "https://github.com/Jarvis322/macos-sysdata"
   },
   {
-    "id": 1355442495,
-    "name": "FalconFlank",
-    "full_name": "MSNightmare/FalconFlank",
-    "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
-    "stars": 560,
-    "language": "C",
-    "html_url": "https://github.com/MSNightmare/FalconFlank"
+    "id": 1357411595,
+    "name": "Microduck-build-tutorial",
+    "full_name": "AI-FanGe/Microduck-build-tutorial",
+    "description": "A practical hardware and software setup for a compact RL-powered biped robot.",
+    "stars": 562,
+    "language": "Python",
+    "html_url": "https://github.com/AI-FanGe/Microduck-build-tutorial"
   },
   {
     "id": 1357414008,
     "name": "warp-masque-actions",
     "full_name": "byJoey/warp-masque-actions",
     "description": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
-    "stars": 519,
+    "stars": 542,
     "language": "JavaScript",
     "html_url": "https://github.com/byJoey/warp-masque-actions"
-  },
-  {
-    "id": 1357580136,
-    "name": "stop-stutter",
-    "full_name": "burakgon/stop-stutter",
-    "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
-    "stars": 493,
-    "language": "Swift",
-    "html_url": "https://github.com/burakgon/stop-stutter"
   },
   {
     "id": 1358571386,
     "name": "okf-agent-memory",
     "full_name": "okf-memory/okf-agent-memory",
     "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-    "stars": 493,
+    "stars": 523,
     "language": "Go",
     "html_url": "https://github.com/okf-memory/okf-agent-memory"
   },
   {
-    "id": 1358588929,
-    "name": "handraw-style",
-    "full_name": "yang0/handraw-style",
-    "description": "手绘风格编号画廊与双语提示词 Skill",
-    "stars": 492,
+    "id": 1361246309,
+    "name": "Phantom-Wallet-Desktop",
+    "full_name": "com-phantom/Phantom-Wallet-Desktop",
+    "description": "Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop client that brings Phantom crypto wallet experience outside the browser with native desktop access.",
+    "stars": 511,
     "language": "HTML",
-    "html_url": "https://github.com/yang0/handraw-style"
+    "html_url": "https://github.com/com-phantom/Phantom-Wallet-Desktop"
   },
   {
-    "id": 1358346534,
-    "name": "codex-astra-luna-orchestrator",
-    "full_name": "donvito/codex-astra-luna-orchestrator",
-    "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-    "stars": 412,
+    "id": 1357580136,
+    "name": "stop-stutter",
+    "full_name": "burakgon/stop-stutter",
+    "description": "Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, Punktfunk, Parsec & Steam Link. Native SwiftUI + Liquid Glass. MIT.",
+    "stars": 498,
+    "language": "Swift",
+    "html_url": "https://github.com/burakgon/stop-stutter"
+  },
+  {
+    "id": 1360317501,
+    "name": "dream-loop",
+    "full_name": "achimala/dream-loop",
+    "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+    "stars": 492,
+    "language": "JavaScript",
+    "html_url": "https://github.com/achimala/dream-loop"
+  },
+  {
+    "id": 1360942455,
+    "name": "itsgiving",
+    "full_name": "gazijarin/itsgiving",
+    "description": "Express yourself in meetings (with memes, of course).",
+    "stars": 490,
     "language": "Python",
-    "html_url": "https://github.com/donvito/codex-astra-luna-orchestrator"
+    "html_url": "https://github.com/gazijarin/itsgiving"
   },
   {
-    "id": 1359120685,
-    "name": "screenwriting-skills",
-    "full_name": "jtydhr88/screenwriting-skills",
-    "description": null,
-    "stars": 392,
-    "language": null,
-    "html_url": "https://github.com/jtydhr88/screenwriting-skills"
+    "id": 1358848972,
+    "name": "OpenWAM",
+    "full_name": "OpenWAM-Official/OpenWAM",
+    "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+    "stars": 429,
+    "language": "Python",
+    "html_url": "https://github.com/OpenWAM-Official/OpenWAM"
   }
 ]
