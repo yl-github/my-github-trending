@@ -1,46 +1,28 @@
 [
   {
-    "id": 1357699236,
-    "name": "human-atlas",
-    "full_name": "ashemag/human-atlas",
-    "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-    "stars": 3109,
-    "language": "TypeScript",
-    "html_url": "https://github.com/ashemag/human-atlas"
+    "id": 1360432710,
+    "name": "dlssg_for_sm86",
+    "full_name": "sdli1995/dlssg_for_sm86",
+    "description": "Here is a dlssg for RTX30 Series GPU ",
+    "stars": 1817,
+    "language": null,
+    "html_url": "https://github.com/sdli1995/dlssg_for_sm86"
   },
   {
     "id": 1361260630,
     "name": "NavierStokesAndEuler",
     "full_name": "openai/NavierStokesAndEuler",
     "description": "Lean certificates accompanying Navier-Stokes and Euler results",
-    "stars": 1724,
+    "stars": 1780,
     "language": "Lean",
     "html_url": "https://github.com/openai/NavierStokesAndEuler"
-  },
-  {
-    "id": 1360432710,
-    "name": "dlssg_for_sm86",
-    "full_name": "sdli1995/dlssg_for_sm86",
-    "description": "Here is a dlssg for RTX30 Series GPU ",
-    "stars": 1465,
-    "language": null,
-    "html_url": "https://github.com/sdli1995/dlssg_for_sm86"
-  },
-  {
-    "id": 1358295353,
-    "name": "codenotch",
-    "full_name": "vinzdg/codenotch",
-    "description": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
-    "stars": 1390,
-    "language": "Swift",
-    "html_url": "https://github.com/vinzdg/codenotch"
   },
   {
     "id": 1359610661,
     "name": "holo-card-studio",
     "full_name": "EverettFish/holo-card-studio",
     "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-    "stars": 1342,
+    "stars": 1448,
     "language": "Python",
     "html_url": "https://github.com/EverettFish/holo-card-studio"
   },
@@ -49,79 +31,43 @@
     "name": "Edge0",
     "full_name": "Edge0-AI/Edge0",
     "description": null,
-    "stars": 1049,
+    "stars": 1358,
     "language": "Python",
     "html_url": "https://github.com/Edge0-AI/Edge0"
-  },
-  {
-    "id": 1358588929,
-    "name": "handraw-style",
-    "full_name": "yang0/handraw-style",
-    "description": "手绘风格编号画廊与双语提示词 Skill",
-    "stars": 1035,
-    "language": "HTML",
-    "html_url": "https://github.com/yang0/handraw-style"
-  },
-  {
-    "id": 1358346534,
-    "name": "codex-astra-luna-orchestrator",
-    "full_name": "donvito/codex-astra-luna-orchestrator",
-    "description": "Use Astra as orchestrator and Luna for subagents in Codex",
-    "stars": 927,
-    "language": "Python",
-    "html_url": "https://github.com/donvito/codex-astra-luna-orchestrator"
-  },
-  {
-    "id": 1365202470,
-    "name": "bank-sampah",
-    "full_name": "Faizpi/bank-sampah",
-    "description": null,
-    "stars": 917,
-    "language": "PHP",
-    "html_url": "https://github.com/Faizpi/bank-sampah"
-  },
-  {
-    "id": 1357892406,
-    "name": "crypto-rag",
-    "full_name": "iamzulx/crypto-rag",
-    "description": "Asisten crypto berbahasa Indonesia: RAG pengetahuan 267 topik + data pasar realtime (6 bursa, WebSocket, derivatif, on-chain, TVL, DeFi) + tool-calling agent + LLM synthesis",
-    "stars": 899,
-    "language": "Python",
-    "html_url": "https://github.com/iamzulx/crypto-rag"
-  },
-  {
-    "id": 1360317501,
-    "name": "dream-loop",
-    "full_name": "achimala/dream-loop",
-    "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
-    "stars": 745,
-    "language": "JavaScript",
-    "html_url": "https://github.com/achimala/dream-loop"
   },
   {
     "id": 1361693766,
     "name": "anything2explainer",
     "full_name": "Vincentwei1021/anything2explainer",
     "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
-    "stars": 741,
+    "stars": 955,
     "language": "TypeScript",
     "html_url": "https://github.com/Vincentwei1021/anything2explainer"
   },
   {
-    "id": 1358633852,
-    "name": "macos-sysdata",
-    "full_name": "Jarvis322/macos-sysdata",
-    "description": "See what is really inside macOS System Data and delete it, item by item, from the menu bar.",
-    "stars": 623,
-    "language": "Swift",
-    "html_url": "https://github.com/Jarvis322/macos-sysdata"
+    "id": 1365202470,
+    "name": "bank-sampah",
+    "full_name": "Faizpi/bank-sampah",
+    "description": null,
+    "stars": 919,
+    "language": "PHP",
+    "html_url": "https://github.com/Faizpi/bank-sampah"
+  },
+  {
+    "id": 1360317501,
+    "name": "dream-loop",
+    "full_name": "achimala/dream-loop",
+    "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+    "stars": 857,
+    "language": "JavaScript",
+    "html_url": "https://github.com/achimala/dream-loop"
   },
   {
     "id": 1359120685,
     "name": "screenwriting-skills",
     "full_name": "jtydhr88/screenwriting-skills",
     "description": null,
-    "stars": 616,
+    "stars": 751,
     "language": null,
     "html_url": "https://github.com/jtydhr88/screenwriting-skills"
   },
@@ -130,53 +76,107 @@
     "name": "itsgiving",
     "full_name": "gazijarin/itsgiving",
     "description": "Express yourself in meetings (with memes, of course).",
-    "stars": 601,
+    "stars": 719,
     "language": "Python",
     "html_url": "https://github.com/gazijarin/itsgiving"
-  },
-  {
-    "id": 1358571386,
-    "name": "okf-agent-memory",
-    "full_name": "okf-memory/okf-agent-memory",
-    "description": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
-    "stars": 549,
-    "language": "Go",
-    "html_url": "https://github.com/okf-memory/okf-agent-memory"
   },
   {
     "id": 1361140226,
     "name": "truanayangi",
     "full_name": "truanayangi-com/truanayangi",
     "description": "Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, backend or cloud services required.",
-    "stars": 542,
+    "stars": 569,
     "language": "TypeScript",
     "html_url": "https://github.com/truanayangi-com/truanayangi"
+  },
+  {
+    "id": 1364767317,
+    "name": "Mac-Duo",
+    "full_name": "sumimakito/Mac-Duo",
+    "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+    "stars": 558,
+    "language": "Swift",
+    "html_url": "https://github.com/sumimakito/Mac-Duo"
   },
   {
     "id": 1358848972,
     "name": "OpenWAM",
     "full_name": "OpenWAM-Official/OpenWAM",
     "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
-    "stars": 502,
+    "stars": 539,
     "language": "Python",
     "html_url": "https://github.com/OpenWAM-Official/OpenWAM"
   },
   {
-    "id": 1360492425,
-    "name": "turnstile-bypass",
-    "full_name": "Sophomoresty/turnstile-bypass",
-    "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
-    "stars": 429,
+    "id": 1363844653,
+    "name": "IDM_Pro_Tool",
+    "full_name": "angusdevgo/IDM_Pro_Tool",
+    "description": "IDM激活与状态维护工具",
+    "stars": 525,
+    "language": "C#",
+    "html_url": "https://github.com/angusdevgo/IDM_Pro_Tool"
+  },
+  {
+    "id": 1361565387,
+    "name": "text-humanizer",
+    "full_name": "SpaceDudem/text-humanizer",
+    "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+    "stars": 503,
     "language": "Python",
-    "html_url": "https://github.com/Sophomoresty/turnstile-bypass"
+    "html_url": "https://github.com/SpaceDudem/text-humanizer"
+  },
+  {
+    "id": 1362509712,
+    "name": "gongwen-gbt9704-skill",
+    "full_name": "mizzlelover/gongwen-gbt9704-skill",
+    "description": "跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX",
+    "stars": 494,
+    "language": "JavaScript",
+    "html_url": "https://github.com/mizzlelover/gongwen-gbt9704-skill"
   },
   {
     "id": 1360063226,
     "name": "fanzha-ai-proxy",
     "full_name": "lfzk550/fanzha-ai-proxy",
     "description": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
-    "stars": 426,
+    "stars": 476,
     "language": null,
     "html_url": "https://github.com/lfzk550/fanzha-ai-proxy"
+  },
+  {
+    "id": 1361525882,
+    "name": "short-video-generator-AI",
+    "full_name": "Colafornia/short-video-generator-AI",
+    "description": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+    "stars": 474,
+    "language": "Python",
+    "html_url": "https://github.com/Colafornia/short-video-generator-AI"
+  },
+  {
+    "id": 1360492425,
+    "name": "turnstile-bypass",
+    "full_name": "Sophomoresty/turnstile-bypass",
+    "description": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
+    "stars": 442,
+    "language": "Python",
+    "html_url": "https://github.com/Sophomoresty/turnstile-bypass"
+  },
+  {
+    "id": 1360488682,
+    "name": "tokentab",
+    "full_name": "crwdla/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "stars": 441,
+    "language": "Python",
+    "html_url": "https://github.com/crwdla/tokentab"
+  },
+  {
+    "id": 1359580787,
+    "name": "Stuxnet",
+    "full_name": "Sadpainy/Stuxnet",
+    "description": "Stuxnet, Here reproduced by me, Only researchs for educations purposes. It set work on Windows XP and Windows 7 only.",
+    "stars": 429,
+    "language": "C",
+    "html_url": "https://github.com/Sadpainy/Stuxnet"
   }
 ]
