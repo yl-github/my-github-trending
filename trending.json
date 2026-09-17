@@ -1,37 +1,28 @@
 [
   {
-    "id": 1367251447,
-    "name": "mural",
-    "full_name": "Chuloo/mural",
-    "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-    "stars": 1062,
-    "language": "Kotlin",
-    "html_url": "https://github.com/Chuloo/mural"
-  },
-  {
-    "id": 1364767317,
-    "name": "Mac-Duo",
-    "full_name": "sumimakito/Mac-Duo",
-    "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
-    "stars": 917,
-    "language": "Swift",
-    "html_url": "https://github.com/sumimakito/Mac-Duo"
-  },
-  {
     "id": 1369254248,
     "name": "ai-sucks-butt",
     "full_name": "ai-sucks-butt/ai-sucks-butt",
     "description": "If you think AI sucks, star the repo.",
-    "stars": 864,
-    "language": null,
+    "stars": 1927,
+    "language": "Python",
     "html_url": "https://github.com/ai-sucks-butt/ai-sucks-butt"
+  },
+  {
+    "id": 1367251447,
+    "name": "mural",
+    "full_name": "Chuloo/mural",
+    "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+    "stars": 1266,
+    "language": "Kotlin",
+    "html_url": "https://github.com/Chuloo/mural"
   },
   {
     "id": 1367606050,
     "name": "recurrent-looped-tranformer",
     "full_name": "yifanzhang-pro/recurrent-looped-tranformer",
     "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
-    "stars": 835,
+    "stars": 862,
     "language": "HTML",
     "html_url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
   },
@@ -40,52 +31,43 @@
     "name": "ai-data-extractor",
     "full_name": "kruzovic7/ai-data-extractor",
     "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
-    "stars": 823,
+    "stars": 827,
     "language": "Python",
     "html_url": "https://github.com/kruzovic7/ai-data-extractor"
-  },
-  {
-    "id": 1363844653,
-    "name": "IDM_Pro_Tool",
-    "full_name": "angusdevgo/IDM_Pro_Tool",
-    "description": "IDM激活与状态维护工具",
-    "stars": 714,
-    "language": "C#",
-    "html_url": "https://github.com/angusdevgo/IDM_Pro_Tool"
-  },
-  {
-    "id": 1365350772,
-    "name": "reelbench-skills",
-    "full_name": "eternityspring/reelbench-skills",
-    "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
-    "stars": 698,
-    "language": "HTML",
-    "html_url": "https://github.com/eternityspring/reelbench-skills"
   },
   {
     "id": 1367271141,
     "name": "Awesome-Astra-Embodied-AI",
     "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
     "description": "GPT-6 Astra for embodied AI and robotics.",
-    "stars": 695,
+    "stars": 783,
     "language": null,
     "html_url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
   },
   {
-    "id": 1363438862,
-    "name": "stonkfly",
-    "full_name": "nftechie/stonkfly",
-    "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit trading actions.",
-    "stars": 693,
-    "language": "Python",
-    "html_url": "https://github.com/nftechie/stonkfly"
+    "id": 1365350772,
+    "name": "reelbench-skills",
+    "full_name": "eternityspring/reelbench-skills",
+    "description": "Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill",
+    "stars": 709,
+    "language": "HTML",
+    "html_url": "https://github.com/eternityspring/reelbench-skills"
+  },
+  {
+    "id": 1367577373,
+    "name": "AgentVerse-OS",
+    "full_name": "agentverse-os/AgentVerse-OS",
+    "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+    "stars": 688,
+    "language": "Rust",
+    "html_url": "https://github.com/agentverse-os/AgentVerse-OS"
   },
   {
     "id": 1367501425,
     "name": "viserys-agent",
     "full_name": "rizqinrr/viserys-agent",
     "description": null,
-    "stars": 652,
+    "stars": 660,
     "language": "JavaScript",
     "html_url": "https://github.com/rizqinrr/viserys-agent"
   },
@@ -99,84 +81,102 @@
     "html_url": "https://github.com/Faizpi/bank-sampah"
   },
   {
-    "id": 1363950922,
-    "name": "rune",
-    "full_name": "unstablebuild/rune",
-    "description": "the development environment for pros",
-    "stars": 639,
-    "language": "Go",
-    "html_url": "https://github.com/unstablebuild/rune"
-  },
-  {
-    "id": 1367577373,
-    "name": "AgentVerse-OS",
-    "full_name": "agentverse-os/AgentVerse-OS",
-    "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-    "stars": 604,
-    "language": "Rust",
-    "html_url": "https://github.com/agentverse-os/AgentVerse-OS"
-  },
-  {
     "id": 1369428487,
     "name": "page-mascot",
     "full_name": "nilbuild/page-mascot",
     "description": "A mascot that watches the cursor and blinks when you poke it",
-    "stars": 545,
+    "stars": 639,
     "language": "Python",
     "html_url": "https://github.com/nilbuild/page-mascot"
-  },
-  {
-    "id": 1363423951,
-    "name": "mjbatch",
-    "full_name": "kevinzakka/mjbatch",
-    "description": "A Python library for running thousands of MuJoCo simulations in parallel on CPU",
-    "stars": 502,
-    "language": "Python",
-    "html_url": "https://github.com/kevinzakka/mjbatch"
   },
   {
     "id": 1367068508,
     "name": "llm-master",
     "full_name": "youngyangyang04/llm-master",
     "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-    "stars": 490,
+    "stars": 622,
     "language": null,
     "html_url": "https://github.com/youngyangyang04/llm-master"
-  },
-  {
-    "id": 1363417187,
-    "name": "printfilm",
-    "full_name": "yi1108/printfilm",
-    "description": "PRINTFILM：AI 科普视频与漫剧创作平台",
-    "stars": 481,
-    "language": "Python",
-    "html_url": "https://github.com/yi1108/printfilm"
   },
   {
     "id": 1370331779,
     "name": "video-generator-client",
     "full_name": "letorig/video-generator-client",
     "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-    "stars": 452,
+    "stars": 520,
     "language": "Python",
     "html_url": "https://github.com/letorig/video-generator-client"
   },
   {
-    "id": 1363399964,
-    "name": "3dviz-pro-max",
-    "full_name": "viettranx/3dviz-pro-max",
-    "description": "Agent skill for creative 3D visualization: turn an idea into a Three.js/Blender scene worth exploring. Claude Code + Codex plugin, 223 recipes, 440 knowledge records, 22 proved kits, 37 runnable studies.",
+    "id": 1370747786,
+    "name": "window-sweaters",
+    "full_name": "saragordic/window-sweaters",
+    "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
+    "stars": 433,
+    "language": "C",
+    "html_url": "https://github.com/saragordic/window-sweaters"
+  },
+  {
+    "id": 1367193650,
+    "name": "Atria-Dawn-Preview",
+    "full_name": "atria-asi/Atria-Dawn-Preview",
+    "description": null,
+    "stars": 422,
+    "language": null,
+    "html_url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+  },
+  {
+    "id": 1367091450,
+    "name": "awesome-fly",
+    "full_name": "cobanov/awesome-fly",
+    "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
+    "stars": 408,
+    "language": null,
+    "html_url": "https://github.com/cobanov/awesome-fly"
+  },
+  {
+    "id": 1368770307,
+    "name": "GPT-as-Policy",
+    "full_name": "anonymous-report-421/GPT-as-Policy",
+    "description": "GPT as Policy",
     "stars": 405,
-    "language": "JavaScript",
-    "html_url": "https://github.com/viettranx/3dviz-pro-max"
+    "language": "HTML",
+    "html_url": "https://github.com/anonymous-report-421/GPT-as-Policy"
   },
   {
     "id": 1365900752,
     "name": "YOINK",
     "full_name": "DefiLeoo/YOINK",
     "description": null,
-    "stars": 377,
+    "stars": 379,
     "language": "Python",
     "html_url": "https://github.com/DefiLeoo/YOINK"
+  },
+  {
+    "id": 1366032081,
+    "name": "meme-radar",
+    "full_name": "nhovongoc0-max/meme-radar",
+    "description": "Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具",
+    "stars": 350,
+    "language": "JavaScript",
+    "html_url": "https://github.com/nhovongoc0-max/meme-radar"
+  },
+  {
+    "id": 1366969284,
+    "name": "workbuddy2api-panel",
+    "full_name": "linguo2625469/workbuddy2api-panel",
+    "description": "把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 / 配置热更新）。基于 Sliverkiss/workbuddy2api 的增强分支",
+    "stars": 343,
+    "language": "Go",
+    "html_url": "https://github.com/linguo2625469/workbuddy2api-panel"
+  },
+  {
+    "id": 1370720584,
+    "name": "Threat-Intelligence-Hackers-Forums",
+    "full_name": "FSECDEV/Threat-Intelligence-Hackers-Forums",
+    "description": "A directory of hacker forums",
+    "stars": 336,
+    "language": null,
+    "html_url": "https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums"
   }
 ]
