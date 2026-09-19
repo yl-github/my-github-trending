@@ -3,143 +3,107 @@
     "id": 1373655162,
     "name": "jev-ultrafast",
     "full_name": "browser-use/jev-ultrafast",
-    "description": null,
-    "stars": 2589,
+    "description": "i. am. speed.",
+    "stars": 5764,
     "language": "Python",
     "html_url": "https://github.com/browser-use/jev-ultrafast"
-  },
-  {
-    "id": 1367251447,
-    "name": "mural",
-    "full_name": "Chuloo/mural",
-    "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
-    "stars": 1322,
-    "language": "Kotlin",
-    "html_url": "https://github.com/Chuloo/mural"
-  },
-  {
-    "id": 1372482979,
-    "name": "openjev",
-    "full_name": "TheoLeeCJ/openjev",
-    "description": "Can we run something like Jev on a 3090 at home?",
-    "stars": 893,
-    "language": "Python",
-    "html_url": "https://github.com/TheoLeeCJ/openjev"
-  },
-  {
-    "id": 1367606050,
-    "name": "recurrent-looped-tranformer",
-    "full_name": "yifanzhang-pro/recurrent-looped-tranformer",
-    "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
-    "stars": 873,
-    "language": "HTML",
-    "html_url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer"
-  },
-  {
-    "id": 1367271141,
-    "name": "Awesome-Astra-Embodied-AI",
-    "full_name": "zjwzcx/Awesome-Astra-Embodied-AI",
-    "description": "GPT-6 Astra for embodied AI and robotics.",
-    "stars": 835,
-    "language": null,
-    "html_url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI"
-  },
-  {
-    "id": 1367577373,
-    "name": "AgentVerse-OS",
-    "full_name": "agentverse-os/AgentVerse-OS",
-    "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-    "stars": 754,
-    "language": "Rust",
-    "html_url": "https://github.com/agentverse-os/AgentVerse-OS"
   },
   {
     "id": 1374005005,
     "name": "fast-jev-compaction",
     "full_name": "tamaratran/fast-jev-compaction",
     "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-    "stars": 726,
+    "stars": 3373,
     "language": "TypeScript",
     "html_url": "https://github.com/tamaratran/fast-jev-compaction"
+  },
+  {
+    "id": 1372482979,
+    "name": "SemIf",
+    "full_name": "TheoLeeCJ/SemIf",
+    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "stars": 1622,
+    "language": "Python",
+    "html_url": "https://github.com/TheoLeeCJ/SemIf"
+  },
+  {
+    "id": 1371378654,
+    "name": "jianying-headless",
+    "full_name": "mcncarl/jianying-headless",
+    "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+    "stars": 1101,
+    "language": "Python",
+    "html_url": "https://github.com/mcncarl/jianying-headless"
   },
   {
     "id": 1372867305,
     "name": "jevlike",
     "full_name": "vinnylarouge/jevlike",
     "description": null,
-    "stars": 708,
+    "stars": 900,
     "language": "Python",
     "html_url": "https://github.com/vinnylarouge/jevlike"
-  },
-  {
-    "id": 1367068508,
-    "name": "llm-master",
-    "full_name": "youngyangyang04/llm-master",
-    "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
-    "stars": 693,
-    "language": null,
-    "html_url": "https://github.com/youngyangyang04/llm-master"
-  },
-  {
-    "id": 1369428487,
-    "name": "page-mascot",
-    "full_name": "nilbuild/page-mascot",
-    "description": "A mascot that watches the cursor and blinks when you poke it",
-    "stars": 687,
-    "language": "Python",
-    "html_url": "https://github.com/nilbuild/page-mascot"
-  },
-  {
-    "id": 1367501425,
-    "name": "viserys-agent",
-    "full_name": "rizqinrr/viserys-agent",
-    "description": null,
-    "stars": 662,
-    "language": "JavaScript",
-    "html_url": "https://github.com/rizqinrr/viserys-agent"
-  },
-  {
-    "id": 1367266329,
-    "name": "blitzstrike",
-    "full_name": "shinthink/blitzstrike",
-    "description": "⚡ Blitz Strike — a universal MCP penetration-testing toolbelt. Structured methodology: reconnaissance & attack-surface mapping, source-to-sink analysis, and live validation. 57 escalation chains, 130-tool catalog, intelligence data layer. One server, every agent.",
-    "stars": 634,
-    "language": "TypeScript",
-    "html_url": "https://github.com/shinthink/blitzstrike"
-  },
-  {
-    "id": 1368866379,
-    "name": "Dream-RSI",
-    "full_name": "zhengkid/Dream-RSI",
-    "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
-    "stars": 579,
-    "language": null,
-    "html_url": "https://github.com/zhengkid/Dream-RSI"
-  },
-  {
-    "id": 1371217350,
-    "name": "awesome-cloudflare-selfhosted",
-    "full_name": "theoephraim/awesome-cloudflare-selfhosted",
-    "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
-    "stars": 576,
-    "language": "JavaScript",
-    "html_url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted"
   },
   {
     "id": 1373659194,
     "name": "jev-trader",
     "full_name": "jarrodwatts/jev-trader",
     "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-    "stars": 556,
+    "stars": 899,
     "language": "TypeScript",
     "html_url": "https://github.com/jarrodwatts/jev-trader"
+  },
+  {
+    "id": 1373614120,
+    "name": "Compositor",
+    "full_name": "robbietilton/Compositor",
+    "description": "The Photoshop alternative for Mac",
+    "stars": 804,
+    "language": "Swift",
+    "html_url": "https://github.com/robbietilton/Compositor"
+  },
+  {
+    "id": 1368866379,
+    "name": "Dream-RSI",
+    "full_name": "zhengkid/Dream-RSI",
+    "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+    "stars": 771,
+    "language": null,
+    "html_url": "https://github.com/zhengkid/Dream-RSI"
+  },
+  {
+    "id": 1373071188,
+    "name": "text-humanizer",
+    "full_name": "korcarc/text-humanizer",
+    "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
+    "stars": 725,
+    "language": "Python",
+    "html_url": "https://github.com/korcarc/text-humanizer"
+  },
+  {
+    "id": 1369428487,
+    "name": "page-mascot",
+    "full_name": "nilbuild/page-mascot",
+    "description": "A mascot that watches the cursor and blinks when you poke it",
+    "stars": 712,
+    "language": "Python",
+    "html_url": "https://github.com/nilbuild/page-mascot"
+  },
+  {
+    "id": 1371217350,
+    "name": "awesome-cloudflare-selfhosted",
+    "full_name": "theoephraim/awesome-cloudflare-selfhosted",
+    "description": "🍊☁️ Open-source* apps that replace a SaaS product, running in your own Cloudflare account",
+    "stars": 645,
+    "language": "JavaScript",
+    "html_url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted"
   },
   {
     "id": 1370747786,
     "name": "window-sweaters",
     "full_name": "saragordic/window-sweaters",
     "description": "A macOS menu-bar app that dresses your windows in knitted borders.",
-    "stars": 547,
+    "stars": 577,
     "language": "C",
     "html_url": "https://github.com/saragordic/window-sweaters"
   },
@@ -148,35 +112,71 @@
     "name": "video-generator-client",
     "full_name": "letorig/video-generator-client",
     "description": "Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supports CLI and a local web UI",
-    "stars": 533,
+    "stars": 535,
     "language": "Python",
     "html_url": "https://github.com/letorig/video-generator-client"
   },
   {
-    "id": 1367193650,
-    "name": "Atria-Dawn-Preview",
-    "full_name": "atria-asi/Atria-Dawn-Preview",
-    "description": null,
-    "stars": 471,
-    "language": null,
-    "html_url": "https://github.com/atria-asi/Atria-Dawn-Preview"
+    "id": 1373105418,
+    "name": "cve-2026-41940-PoC",
+    "full_name": "ctdal/cve-2026-41940-PoC",
+    "description": "A cPanel and WHM authentication bypassing tool",
+    "stars": 526,
+    "language": "Python",
+    "html_url": "https://github.com/ctdal/cve-2026-41940-PoC"
   },
   {
-    "id": 1367091450,
-    "name": "awesome-fly",
-    "full_name": "cobanov/awesome-fly",
-    "description": "A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulations, embodied models, games, and research tools.",
-    "stars": 464,
+    "id": 1374503618,
+    "name": "gpt_sub_analysis",
+    "full_name": "yynxxxxx/gpt_sub_analysis",
+    "description": "Security analysis of the ChatGPT iOS subscription / entitlement flow (internal draft, coordinated disclosure WIP)",
+    "stars": 517,
     "language": null,
-    "html_url": "https://github.com/cobanov/awesome-fly"
+    "html_url": "https://github.com/yynxxxxx/gpt_sub_analysis"
   },
   {
     "id": 1368770307,
     "name": "GPT-as-Policy",
     "full_name": "anonymous-report-421/GPT-as-Policy",
     "description": "GPT as Policy",
-    "stars": 442,
+    "stars": 461,
     "language": "HTML",
     "html_url": "https://github.com/anonymous-report-421/GPT-as-Policy"
+  },
+  {
+    "id": 1374702542,
+    "name": "NanoJev",
+    "full_name": "TianyuCodings/NanoJev",
+    "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+    "stars": 409,
+    "language": "Python",
+    "html_url": "https://github.com/TianyuCodings/NanoJev"
+  },
+  {
+    "id": 1375487141,
+    "name": "OrcaBonsai-27B-Uncensored",
+    "full_name": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+    "description": "Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2 27B — no weight modification or re-quantization. by OrcaRouter team",
+    "stars": 389,
+    "language": "Python",
+    "html_url": "https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored"
+  },
+  {
+    "id": 1370720584,
+    "name": "Threat-Intelligence-Hackers-Forums",
+    "full_name": "FSECDEV/Threat-Intelligence-Hackers-Forums",
+    "description": "A directory of hacker forums",
+    "stars": 370,
+    "language": null,
+    "html_url": "https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums"
+  },
+  {
+    "id": 1371919263,
+    "name": "xcode-project-format",
+    "full_name": "apple/xcode-project-format",
+    "description": "A Swift library for reading, writing, and manipulating Xcode's JSON-based project.xcproj format. ",
+    "stars": 363,
+    "language": "Swift",
+    "html_url": "https://github.com/apple/xcode-project-format"
   }
 ]
