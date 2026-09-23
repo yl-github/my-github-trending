@@ -1,136 +1,82 @@
 [
   {
-    "id": 1373655162,
-    "name": "jev-ultrafast",
-    "full_name": "browser-use/jev-ultrafast",
-    "description": "Fastest and cheapest web agent",
-    "stars": 16187,
-    "language": "Python",
-    "html_url": "https://github.com/browser-use/jev-ultrafast"
-  },
-  {
     "id": 1375382253,
     "name": "laya",
     "full_name": "NandhaKishorM/laya",
     "description": null,
-    "stars": 11251,
+    "stars": 17203,
     "language": "Python",
     "html_url": "https://github.com/NandhaKishorM/laya"
-  },
-  {
-    "id": 1374005005,
-    "name": "fast-jev-compaction",
-    "full_name": "tamaratran/fast-jev-compaction",
-    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-    "stars": 6025,
-    "language": "TypeScript",
-    "html_url": "https://github.com/tamaratran/fast-jev-compaction"
   },
   {
     "id": 1378288598,
     "name": "ZCode",
     "full_name": "zai-org/ZCode",
     "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
-    "stars": 5822,
+    "stars": 6353,
     "language": "TypeScript",
     "html_url": "https://github.com/zai-org/ZCode"
   },
   {
-    "id": 1373614120,
-    "name": "Compositor",
-    "full_name": "robbietilton/Compositor",
-    "description": "The Photoshop alternative for Mac",
-    "stars": 4465,
-    "language": "Swift",
-    "html_url": "https://github.com/robbietilton/Compositor"
+    "id": 1374005005,
+    "name": "fast-jev-compaction",
+    "full_name": "tamaratran/fast-jev-compaction",
+    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+    "stars": 6350,
+    "language": "TypeScript",
+    "html_url": "https://github.com/tamaratran/fast-jev-compaction"
   },
   {
     "id": 1377211520,
     "name": "laya-mlx",
     "full_name": "mizorewww/laya-mlx",
     "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-    "stars": 4111,
+    "stars": 5540,
     "language": "Python",
     "html_url": "https://github.com/mizorewww/laya-mlx"
-  },
-  {
-    "id": 1372482979,
-    "name": "SemIf",
-    "full_name": "TheoLeeCJ/SemIf",
-    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
-    "stars": 3333,
-    "language": "Python",
-    "html_url": "https://github.com/TheoLeeCJ/SemIf"
   },
   {
     "id": 1375069862,
     "name": "kev",
     "full_name": "jaredpalmer/kev",
     "description": "tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own",
-    "stars": 2588,
+    "stars": 4495,
     "language": "Python",
     "html_url": "https://github.com/jaredpalmer/kev"
-  },
-  {
-    "id": 1373659194,
-    "name": "jev-trader",
-    "full_name": "jarrodwatts/jev-trader",
-    "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
-    "stars": 1873,
-    "language": "TypeScript",
-    "html_url": "https://github.com/jarrodwatts/jev-trader"
-  },
-  {
-    "id": 1374702542,
-    "name": "NanoJev",
-    "full_name": "TianyuCodings/NanoJev",
-    "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
-    "stars": 1844,
-    "language": "Python",
-    "html_url": "https://github.com/TianyuCodings/NanoJev"
-  },
-  {
-    "id": 1373687654,
-    "name": "AirCard",
-    "full_name": "Mak5er/AirCard",
-    "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
-    "stars": 1612,
-    "language": "Swift",
-    "html_url": "https://github.com/Mak5er/AirCard"
   },
   {
     "id": 1379574728,
     "name": "jev-chat-jarvis",
     "full_name": "jev-chat/jev-chat-jarvis",
     "description": "装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
-    "stars": 1510,
+    "stars": 4196,
     "language": "Kotlin",
     "html_url": "https://github.com/jev-chat/jev-chat-jarvis"
+  },
+  {
+    "id": 1374702542,
+    "name": "NanoJev",
+    "full_name": "TianyuCodings/NanoJev",
+    "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+    "stars": 2018,
+    "language": "Python",
+    "html_url": "https://github.com/TianyuCodings/NanoJev"
   },
   {
     "id": 1375631360,
     "name": "nimble",
     "full_name": "bespokelabsai/nimble",
     "description": "Local typed decisions, contrastive data curation, and model evaluation.",
-    "stars": 1506,
+    "stars": 1638,
     "language": "Python",
     "html_url": "https://github.com/bespokelabsai/nimble"
-  },
-  {
-    "id": 1372867305,
-    "name": "jevlike",
-    "full_name": "vinnylarouge/jevlike",
-    "description": null,
-    "stars": 1170,
-    "language": "Python",
-    "html_url": "https://github.com/vinnylarouge/jevlike"
   },
   {
     "id": 1374561793,
     "name": "awesome-jev",
     "full_name": "yibie/awesome-jev",
     "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
-    "stars": 1016,
+    "stars": 1334,
     "language": "Python",
     "html_url": "https://github.com/yibie/awesome-jev"
   },
@@ -139,44 +85,98 @@
     "name": "laya-coreml",
     "full_name": "mizorewww/laya-coreml",
     "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
-    "stars": 909,
+    "stars": 1308,
     "language": "Python",
     "html_url": "https://github.com/mizorewww/laya-coreml"
   },
   {
-    "id": 1373440611,
-    "name": "typesafe-computer-use",
-    "full_name": "awlevin/typesafe-computer-use",
-    "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-    "stars": 761,
-    "language": "Python",
-    "html_url": "https://github.com/awlevin/typesafe-computer-use"
-  },
-  {
-    "id": 1373071188,
-    "name": "text-humanizer",
-    "full_name": "korcarc/text-humanizer",
-    "description": "text-humanizer is an open-source project designed to convert text generated by AI to its \"humanized\" version. Bypasses the most of AI detectors such as Turnitin or GPTZero",
-    "stars": 740,
-    "language": "Python",
-    "html_url": "https://github.com/korcarc/text-humanizer"
-  },
-  {
-    "id": 1376174149,
-    "name": "localjev",
-    "full_name": "githubnext/localjev",
-    "description": null,
-    "stars": 703,
-    "language": "TypeScript",
-    "html_url": "https://github.com/githubnext/localjev"
+    "id": 1380635125,
+    "name": "unreal-agent",
+    "full_name": "unreallabsai/unreal-agent",
+    "description": "Async-first agent harness",
+    "stars": 1073,
+    "language": "Go",
+    "html_url": "https://github.com/unreallabsai/unreal-agent"
   },
   {
     "id": 1377172300,
     "name": "apk-reverse",
     "full_name": "newliver666/apk-reverse",
     "description": "Suitable for Android APK reverse engineering analysis",
-    "stars": 687,
+    "stars": 1008,
     "language": "Python",
     "html_url": "https://github.com/newliver666/apk-reverse"
+  },
+  {
+    "id": 1373976608,
+    "name": "open-glean",
+    "full_name": "hydra-db/open-glean",
+    "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+    "stars": 845,
+    "language": "TypeScript",
+    "html_url": "https://github.com/hydra-db/open-glean"
+  },
+  {
+    "id": 1376174149,
+    "name": "localjev",
+    "full_name": "githubnext/localjev",
+    "description": null,
+    "stars": 731,
+    "language": "TypeScript",
+    "html_url": "https://github.com/githubnext/localjev"
+  },
+  {
+    "id": 1375987946,
+    "name": "AirCard-Windows",
+    "full_name": "Lumid-Off/AirCard-Windows",
+    "description": null,
+    "stars": 669,
+    "language": "Rust",
+    "html_url": "https://github.com/Lumid-Off/AirCard-Windows"
+  },
+  {
+    "id": 1377399471,
+    "name": "awesome-jev-tools",
+    "full_name": "v-modal/awesome-jev-tools",
+    "description": "A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions.",
+    "stars": 659,
+    "language": null,
+    "html_url": "https://github.com/v-modal/awesome-jev-tools"
+  },
+  {
+    "id": 1376380844,
+    "name": "splash",
+    "full_name": "incoai/splash",
+    "description": "A local inference engine for Apple silicon, built around the model.",
+    "stars": 638,
+    "language": "Python",
+    "html_url": "https://github.com/incoai/splash"
+  },
+  {
+    "id": 1376713674,
+    "name": "ai-engineering-interview-questions-company-wise",
+    "full_name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+    "stars": 626,
+    "language": "Markdown",
+    "html_url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise"
+  },
+  {
+    "id": 1376562698,
+    "name": "mini-AGI",
+    "full_name": "volotat/mini-AGI",
+    "description": "Continual learning model trained from scratch on 8GB VRAM laptop with batch-1 stream of data.",
+    "stars": 620,
+    "language": "Python",
+    "html_url": "https://github.com/volotat/mini-AGI"
+  },
+  {
+    "id": 1376380583,
+    "name": "hermes-jev-skills",
+    "full_name": "kerpopule/hermes-jev-skills",
+    "description": "Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex)",
+    "stars": 604,
+    "language": "Python",
+    "html_url": "https://github.com/kerpopule/hermes-jev-skills"
   }
 ]
