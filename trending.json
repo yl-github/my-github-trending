@@ -1,182 +1,182 @@
 [
   {
-    "id": 1384094559,
-    "name": "CLM",
-    "full_name": "Contrastive-LM/CLM",
-    "description": null,
-    "stars": 2318,
-    "language": "Python",
-    "html_url": "https://github.com/Contrastive-LM/CLM"
-  },
-  {
-    "id": 1386355153,
-    "name": "disktree",
-    "full_name": "tobi/disktree",
-    "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
-    "stars": 1835,
-    "language": "Rust",
-    "html_url": "https://github.com/tobi/disktree"
+    "id": 1393965829,
+    "name": "AIHOT",
+    "full_name": "KKKKhazix/AIHOT",
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "stars": 3449,
+    "language": "TypeScript",
+    "html_url": "https://github.com/KKKKhazix/AIHOT"
   },
   {
     "id": 1386391454,
     "name": "pdoom-video",
     "full_name": "mexicat/pdoom-video",
     "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
-    "stars": 1806,
+    "stars": 2000,
     "language": "TypeScript",
     "html_url": "https://github.com/mexicat/pdoom-video"
   },
   {
-    "id": 1383809012,
-    "name": "magpie",
-    "full_name": "yetone/magpie",
-    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
-    "stars": 1682,
-    "language": "Go",
-    "html_url": "https://github.com/yetone/magpie"
-  },
-  {
-    "id": 1388482474,
-    "name": "jevgrep",
-    "full_name": "dzhng/jevgrep",
-    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-    "stars": 1489,
-    "language": "TypeScript",
-    "html_url": "https://github.com/dzhng/jevgrep"
-  },
-  {
-    "id": 1393965829,
-    "name": "AIHOT",
-    "full_name": "KKKKhazix/AIHOT",
-    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "stars": 1288,
-    "language": "TypeScript",
-    "html_url": "https://github.com/KKKKhazix/AIHOT"
+    "id": 1386355153,
+    "name": "disktree",
+    "full_name": "tobi/disktree",
+    "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+    "stars": 1924,
+    "language": "Rust",
+    "html_url": "https://github.com/tobi/disktree"
   },
   {
     "id": 1385946301,
     "name": "Strata",
     "full_name": "Niko1221/Strata",
     "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-    "stars": 1158,
+    "stars": 1892,
     "language": "C++",
     "html_url": "https://github.com/Niko1221/Strata"
   },
   {
-    "id": 1383518430,
-    "name": "golive-skill",
-    "full_name": "mikehasa/golive-skill",
-    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
-    "stars": 1054,
+    "id": 1388482474,
+    "name": "jevgrep",
+    "full_name": "dzhng/jevgrep",
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "stars": 1794,
     "language": "TypeScript",
-    "html_url": "https://github.com/mikehasa/golive-skill"
+    "html_url": "https://github.com/dzhng/jevgrep"
   },
   {
-    "id": 1382717255,
-    "name": "JIZURA",
-    "full_name": "852wa/JIZURA",
-    "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
-    "stars": 987,
-    "language": "HTML",
-    "html_url": "https://github.com/852wa/JIZURA"
+    "id": 1393229560,
+    "name": "jeff",
+    "full_name": "firelex/jeff",
+    "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+    "stars": 1078,
+    "language": "Python",
+    "html_url": "https://github.com/firelex/jeff"
   },
   {
-    "id": 1384232861,
-    "name": "tidewater",
-    "full_name": "dgreenheck/tidewater",
-    "description": "Coastal town built with Opus 5.5",
-    "stars": 924,
-    "language": "JavaScript",
-    "html_url": "https://github.com/dgreenheck/tidewater"
-  },
-  {
-    "id": 1384260430,
-    "name": "ollaya",
-    "full_name": "ollaya-dev/ollaya",
-    "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
-    "stars": 895,
-    "language": "Rust",
-    "html_url": "https://github.com/ollaya-dev/ollaya"
-  },
-  {
-    "id": 1382888848,
-    "name": "claude-opus-5-5-demo",
-    "full_name": "riba2534/claude-opus-5-5-demo",
-    "description": "claude-opus-5-5-demo",
-    "stars": 886,
-    "language": "JavaScript",
-    "html_url": "https://github.com/riba2534/claude-opus-5-5-demo"
+    "id": 1385817306,
+    "name": "DiPlay",
+    "full_name": "shihabal3amri/DiPlay",
+    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+    "stars": 1065,
+    "language": "Kotlin",
+    "html_url": "https://github.com/shihabal3amri/DiPlay"
   },
   {
     "id": 1388594776,
     "name": "onetake",
     "full_name": "feitangyuan/onetake",
     "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-    "stars": 872,
+    "stars": 988,
     "language": "Python",
     "html_url": "https://github.com/feitangyuan/onetake"
-  },
-  {
-    "id": 1388261262,
-    "name": "company-brain",
-    "full_name": "supermemoryai/company-brain",
-    "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-    "stars": 807,
-    "language": "TypeScript",
-    "html_url": "https://github.com/supermemoryai/company-brain"
   },
   {
     "id": 1390273274,
     "name": "awesome-opus5-5-videos",
     "full_name": "yihui-dev/awesome-opus5-5-videos",
     "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-    "stars": 752,
+    "stars": 944,
     "language": null,
     "html_url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
   },
   {
-    "id": 1383988294,
-    "name": "short-video-generator-AI",
-    "full_name": "yukitorido/short-video-generator-AI",
-    "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
-    "stars": 732,
-    "language": "Python",
-    "html_url": "https://github.com/yukitorido/short-video-generator-AI"
+    "id": 1388867993,
+    "name": "logo-design-skill",
+    "full_name": "kaankiziltug/logo-design-skill",
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "stars": 870,
+    "language": "HTML",
+    "html_url": "https://github.com/kaankiziltug/logo-design-skill"
   },
   {
-    "id": 1384159311,
-    "name": "ClaudeAnimationBase",
-    "full_name": "JohnHeibel/ClaudeAnimationBase",
-    "description": "A starter kit for animating hand-painted cartoons with Claude: p5.js + p5.brush, the Clawd character, 31 acted emotions and a guide for the model",
-    "stars": 560,
-    "language": "JavaScript",
-    "html_url": "https://github.com/JohnHeibel/ClaudeAnimationBase"
+    "id": 1388261262,
+    "name": "company-brain",
+    "full_name": "supermemoryai/company-brain",
+    "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
+    "stars": 852,
+    "language": "TypeScript",
+    "html_url": "https://github.com/supermemoryai/company-brain"
   },
   {
     "id": 1389011744,
     "name": "lemo-opuscar",
     "full_name": "lemomo-ai/lemo-opuscar",
-    "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-    "stars": 548,
+    "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+    "stars": 621,
     "language": "JavaScript",
     "html_url": "https://github.com/lemomo-ai/lemo-opuscar"
   },
   {
-    "id": 1383979298,
-    "name": "Seep-Reverse-Lab",
-    "full_name": "angusdevgo/Seep-Reverse-Lab",
-    "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
-    "stars": 508,
-    "language": "Python",
-    "html_url": "https://github.com/angusdevgo/Seep-Reverse-Lab"
+    "id": 1394134758,
+    "name": "floorplan-3d",
+    "full_name": "wy51ai/floorplan-3d",
+    "description": null,
+    "stars": 594,
+    "language": "HTML",
+    "html_url": "https://github.com/wy51ai/floorplan-3d"
   },
   {
-    "id": 1383977800,
-    "name": "3dicon",
-    "full_name": "samyost1/3dicon",
-    "description": "One prompt in, a looping animated 3D icon out — with real transparency. A Claude Code skill.",
-    "stars": 505,
-    "language": "Python",
-    "html_url": "https://github.com/samyost1/3dicon"
+    "id": 1384734543,
+    "name": "BeefTV",
+    "full_name": "glanderness/BeefTV",
+    "description": "Local-first, lightweight, AI-native video workspace.",
+    "stars": 556,
+    "language": "TypeScript",
+    "html_url": "https://github.com/glanderness/BeefTV"
+  },
+  {
+    "id": 1386778170,
+    "name": "ai-system-design",
+    "full_name": "amitshekhariitbhu/ai-system-design",
+    "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+    "stars": 470,
+    "language": "Markdown",
+    "html_url": "https://github.com/amitshekhariitbhu/ai-system-design"
+  },
+  {
+    "id": 1387374666,
+    "name": "CapCut-Pro-macOS-Windows",
+    "full_name": "SpecterLouse/CapCut-Pro-macOS-Windows",
+    "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
+    "stars": 454,
+    "language": null,
+    "html_url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows"
+  },
+  {
+    "id": 1390232691,
+    "name": "spiderbench",
+    "full_name": "xikhar/spiderbench",
+    "description": null,
+    "stars": 438,
+    "language": "JavaScript",
+    "html_url": "https://github.com/xikhar/spiderbench"
+  },
+  {
+    "id": 1385896447,
+    "name": "dsh-our-free-model",
+    "full_name": "zouyuxuan122/dsh-our-free-model",
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+    "stars": 431,
+    "language": "JavaScript",
+    "html_url": "https://github.com/zouyuxuan122/dsh-our-free-model"
+  },
+  {
+    "id": 1384858191,
+    "name": "Tiersense",
+    "full_name": "wangmingxuan666/Tiersense",
+    "description": null,
+    "stars": 431,
+    "language": null,
+    "html_url": "https://github.com/wangmingxuan666/Tiersense"
+  },
+  {
+    "id": 1391384546,
+    "name": "Offensive-Security-AI-Models",
+    "full_name": "JoasASantos/Offensive-Security-AI-Models",
+    "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+    "stars": 417,
+    "language": null,
+    "html_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
   }
 ]
