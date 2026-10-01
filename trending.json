@@ -4,97 +4,97 @@
     "name": "AIHOT",
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "stars": 3449,
+    "stars": 4166,
     "language": "TypeScript",
     "html_url": "https://github.com/KKKKhazix/AIHOT"
   },
   {
-    "id": 1386391454,
-    "name": "pdoom-video",
-    "full_name": "mexicat/pdoom-video",
-    "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
-    "stars": 2000,
-    "language": "TypeScript",
-    "html_url": "https://github.com/mexicat/pdoom-video"
-  },
-  {
-    "id": 1386355153,
-    "name": "disktree",
-    "full_name": "tobi/disktree",
-    "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
-    "stars": 1924,
-    "language": "Rust",
-    "html_url": "https://github.com/tobi/disktree"
-  },
-  {
-    "id": 1385946301,
-    "name": "Strata",
-    "full_name": "Niko1221/Strata",
-    "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
-    "stars": 1892,
-    "language": "C++",
-    "html_url": "https://github.com/Niko1221/Strata"
+    "id": 1396688303,
+    "name": "dots",
+    "full_name": "feder-cr/dots",
+    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "stars": 1941,
+    "language": "Python",
+    "html_url": "https://github.com/feder-cr/dots"
   },
   {
     "id": 1388482474,
     "name": "jevgrep",
     "full_name": "dzhng/jevgrep",
     "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-    "stars": 1794,
+    "stars": 1914,
     "language": "TypeScript",
     "html_url": "https://github.com/dzhng/jevgrep"
+  },
+  {
+    "id": 1391438314,
+    "name": "coucou",
+    "full_name": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+    "stars": 1549,
+    "language": "Swift",
+    "html_url": "https://github.com/Louis-CFM/coucou"
   },
   {
     "id": 1393229560,
     "name": "jeff",
     "full_name": "firelex/jeff",
     "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
-    "stars": 1078,
+    "stars": 1203,
     "language": "Python",
     "html_url": "https://github.com/firelex/jeff"
-  },
-  {
-    "id": 1385817306,
-    "name": "DiPlay",
-    "full_name": "shihabal3amri/DiPlay",
-    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
-    "stars": 1065,
-    "language": "Kotlin",
-    "html_url": "https://github.com/shihabal3amri/DiPlay"
-  },
-  {
-    "id": 1388594776,
-    "name": "onetake",
-    "full_name": "feitangyuan/onetake",
-    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-    "stars": 988,
-    "language": "Python",
-    "html_url": "https://github.com/feitangyuan/onetake"
-  },
-  {
-    "id": 1390273274,
-    "name": "awesome-opus5-5-videos",
-    "full_name": "yihui-dev/awesome-opus5-5-videos",
-    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-    "stars": 944,
-    "language": null,
-    "html_url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
   },
   {
     "id": 1388867993,
     "name": "logo-design-skill",
     "full_name": "kaankiziltug/logo-design-skill",
     "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-    "stars": 870,
+    "stars": 1155,
     "language": "HTML",
     "html_url": "https://github.com/kaankiziltug/logo-design-skill"
+  },
+  {
+    "id": 1390273274,
+    "name": "awesome-opus5-5-videos",
+    "full_name": "yihui-dev/awesome-opus5-5-videos",
+    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+    "stars": 1123,
+    "language": null,
+    "html_url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
+  },
+  {
+    "id": 1388594776,
+    "name": "onetake",
+    "full_name": "feitangyuan/onetake",
+    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+    "stars": 1071,
+    "language": "Python",
+    "html_url": "https://github.com/feitangyuan/onetake"
+  },
+  {
+    "id": 1394134758,
+    "name": "floorplan-3d",
+    "full_name": "wy51ai/floorplan-3d",
+    "description": null,
+    "stars": 1011,
+    "language": "HTML",
+    "html_url": "https://github.com/wy51ai/floorplan-3d"
+  },
+  {
+    "id": 1397016507,
+    "name": "universal-modder",
+    "full_name": "rehan-remade/universal-modder",
+    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "stars": 933,
+    "language": "Python",
+    "html_url": "https://github.com/rehan-remade/universal-modder"
   },
   {
     "id": 1388261262,
     "name": "company-brain",
     "full_name": "supermemoryai/company-brain",
     "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-    "stars": 852,
+    "stars": 874,
     "language": "TypeScript",
     "html_url": "https://github.com/supermemoryai/company-brain"
   },
@@ -103,34 +103,61 @@
     "name": "lemo-opuscar",
     "full_name": "lemomo-ai/lemo-opuscar",
     "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-    "stars": 621,
+    "stars": 695,
     "language": "JavaScript",
     "html_url": "https://github.com/lemomo-ai/lemo-opuscar"
   },
   {
-    "id": 1394134758,
-    "name": "floorplan-3d",
-    "full_name": "wy51ai/floorplan-3d",
-    "description": null,
-    "stars": 594,
-    "language": "HTML",
-    "html_url": "https://github.com/wy51ai/floorplan-3d"
+    "id": 1390938824,
+    "name": "motion-video-kit",
+    "full_name": "echris6/motion-video-kit",
+    "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
+    "stars": 631,
+    "language": "Python",
+    "html_url": "https://github.com/echris6/motion-video-kit"
   },
   {
-    "id": 1384734543,
-    "name": "BeefTV",
-    "full_name": "glanderness/BeefTV",
-    "description": "Local-first, lightweight, AI-native video workspace.",
-    "stars": 556,
+    "id": 1396918266,
+    "name": "hypoarena",
+    "full_name": "OpSafari/hypoarena",
+    "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+    "stars": 545,
+    "language": "Python",
+    "html_url": "https://github.com/OpSafari/hypoarena"
+  },
+  {
+    "id": 1397771878,
+    "name": "yomiyasu",
+    "full_name": "nanaism/yomiyasu",
+    "description": "AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
+    "stars": 501,
+    "language": "Python",
+    "html_url": "https://github.com/nanaism/yomiyasu"
+  },
+  {
+    "id": 1394011672,
+    "name": "mcp-extensions",
+    "full_name": "openai/mcp-extensions",
+    "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+    "stars": 488,
     "language": "TypeScript",
-    "html_url": "https://github.com/glanderness/BeefTV"
+    "html_url": "https://github.com/openai/mcp-extensions"
+  },
+  {
+    "id": 1391384546,
+    "name": "Offensive-Security-AI-Models",
+    "full_name": "JoasASantos/Offensive-Security-AI-Models",
+    "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+    "stars": 488,
+    "language": null,
+    "html_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
   },
   {
     "id": 1386778170,
     "name": "ai-system-design",
     "full_name": "amitshekhariitbhu/ai-system-design",
     "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-    "stars": 470,
+    "stars": 477,
     "language": "Markdown",
     "html_url": "https://github.com/amitshekhariitbhu/ai-system-design"
   },
@@ -139,7 +166,7 @@
     "name": "CapCut-Pro-macOS-Windows",
     "full_name": "SpecterLouse/CapCut-Pro-macOS-Windows",
     "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
-    "stars": 454,
+    "stars": 459,
     "language": null,
     "html_url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows"
   },
@@ -148,35 +175,8 @@
     "name": "spiderbench",
     "full_name": "xikhar/spiderbench",
     "description": null,
-    "stars": 438,
+    "stars": 451,
     "language": "JavaScript",
     "html_url": "https://github.com/xikhar/spiderbench"
-  },
-  {
-    "id": 1385896447,
-    "name": "dsh-our-free-model",
-    "full_name": "zouyuxuan122/dsh-our-free-model",
-    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
-    "stars": 431,
-    "language": "JavaScript",
-    "html_url": "https://github.com/zouyuxuan122/dsh-our-free-model"
-  },
-  {
-    "id": 1384858191,
-    "name": "Tiersense",
-    "full_name": "wangmingxuan666/Tiersense",
-    "description": null,
-    "stars": 431,
-    "language": null,
-    "html_url": "https://github.com/wangmingxuan666/Tiersense"
-  },
-  {
-    "id": 1391384546,
-    "name": "Offensive-Security-AI-Models",
-    "full_name": "JoasASantos/Offensive-Security-AI-Models",
-    "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-    "stars": 417,
-    "language": null,
-    "html_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
   }
 ]
