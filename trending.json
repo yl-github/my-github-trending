@@ -4,16 +4,25 @@
     "name": "AIHOT",
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "stars": 4166,
+    "stars": 4717,
     "language": "TypeScript",
     "html_url": "https://github.com/KKKKhazix/AIHOT"
+  },
+  {
+    "id": 1391438314,
+    "name": "coucou",
+    "full_name": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Gemini CLI, Antigravity and more.",
+    "stars": 2527,
+    "language": "Swift",
+    "html_url": "https://github.com/Louis-CFM/coucou"
   },
   {
     "id": 1396688303,
     "name": "dots",
     "full_name": "feder-cr/dots",
     "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-    "stars": 1941,
+    "stars": 2399,
     "language": "Python",
     "html_url": "https://github.com/feder-cr/dots"
   },
@@ -22,34 +31,25 @@
     "name": "jevgrep",
     "full_name": "dzhng/jevgrep",
     "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
-    "stars": 1914,
+    "stars": 2006,
     "language": "TypeScript",
     "html_url": "https://github.com/dzhng/jevgrep"
   },
   {
-    "id": 1391438314,
-    "name": "coucou",
-    "full_name": "Louis-CFM/coucou",
-    "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
-    "stars": 1549,
-    "language": "Swift",
-    "html_url": "https://github.com/Louis-CFM/coucou"
-  },
-  {
-    "id": 1393229560,
-    "name": "jeff",
-    "full_name": "firelex/jeff",
-    "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
-    "stars": 1203,
+    "id": 1397016507,
+    "name": "universal-modder",
+    "full_name": "rehan-remade/universal-modder",
+    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "stars": 1621,
     "language": "Python",
-    "html_url": "https://github.com/firelex/jeff"
+    "html_url": "https://github.com/rehan-remade/universal-modder"
   },
   {
     "id": 1388867993,
     "name": "logo-design-skill",
     "full_name": "kaankiziltug/logo-design-skill",
     "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
-    "stars": 1155,
+    "stars": 1370,
     "language": "HTML",
     "html_url": "https://github.com/kaankiziltug/logo-design-skill"
   },
@@ -58,125 +58,125 @@
     "name": "awesome-opus5-5-videos",
     "full_name": "yihui-dev/awesome-opus5-5-videos",
     "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-    "stars": 1123,
+    "stars": 1278,
     "language": null,
     "html_url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
   },
   {
-    "id": 1388594776,
-    "name": "onetake",
-    "full_name": "feitangyuan/onetake",
-    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
-    "stars": 1071,
+    "id": 1393229560,
+    "name": "jeff",
+    "full_name": "firelex/jeff",
+    "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+    "stars": 1274,
     "language": "Python",
-    "html_url": "https://github.com/feitangyuan/onetake"
+    "html_url": "https://github.com/firelex/jeff"
   },
   {
     "id": 1394134758,
     "name": "floorplan-3d",
     "full_name": "wy51ai/floorplan-3d",
     "description": null,
-    "stars": 1011,
+    "stars": 1183,
     "language": "HTML",
     "html_url": "https://github.com/wy51ai/floorplan-3d"
   },
   {
-    "id": 1397016507,
-    "name": "universal-modder",
-    "full_name": "rehan-remade/universal-modder",
-    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-    "stars": 933,
+    "id": 1388594776,
+    "name": "onetake",
+    "full_name": "feitangyuan/onetake",
+    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+    "stars": 1156,
     "language": "Python",
-    "html_url": "https://github.com/rehan-remade/universal-modder"
+    "html_url": "https://github.com/feitangyuan/onetake"
   },
   {
-    "id": 1388261262,
-    "name": "company-brain",
-    "full_name": "supermemoryai/company-brain",
-    "description": "Open-sourcing our company brain - A teammate in your Slack that remembers everything your team says, and can go do the work.",
-    "stars": 874,
-    "language": "TypeScript",
-    "html_url": "https://github.com/supermemoryai/company-brain"
-  },
-  {
-    "id": 1389011744,
-    "name": "lemo-opuscar",
-    "full_name": "lemomo-ai/lemo-opuscar",
-    "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
-    "stars": 695,
-    "language": "JavaScript",
-    "html_url": "https://github.com/lemomo-ai/lemo-opuscar"
+    "id": 1397771878,
+    "name": "yomiyasu",
+    "full_name": "nanaism/yomiyasu",
+    "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "stars": 1020,
+    "language": "Python",
+    "html_url": "https://github.com/nanaism/yomiyasu"
   },
   {
     "id": 1390938824,
     "name": "motion-video-kit",
     "full_name": "echris6/motion-video-kit",
     "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-    "stars": 631,
+    "stars": 908,
     "language": "Python",
     "html_url": "https://github.com/echris6/motion-video-kit"
   },
   {
-    "id": 1396918266,
-    "name": "hypoarena",
-    "full_name": "OpSafari/hypoarena",
-    "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-    "stars": 545,
-    "language": "Python",
-    "html_url": "https://github.com/OpSafari/hypoarena"
+    "id": 1389011744,
+    "name": "lemo-opuscar",
+    "full_name": "lemomo-ai/lemo-opuscar",
+    "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+    "stars": 778,
+    "language": "JavaScript",
+    "html_url": "https://github.com/lemomo-ai/lemo-opuscar"
   },
   {
-    "id": 1397771878,
-    "name": "yomiyasu",
-    "full_name": "nanaism/yomiyasu",
-    "description": "AI生成された文章の不自然さを取り除き、人間にとって自然な日本語へ書き直すためのAgent Skill",
-    "stars": 501,
-    "language": "Python",
-    "html_url": "https://github.com/nanaism/yomiyasu"
+    "id": 1393689296,
+    "name": "reelmimic",
+    "full_name": "edenfunf/reelmimic",
+    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+    "stars": 694,
+    "language": "JavaScript",
+    "html_url": "https://github.com/edenfunf/reelmimic"
   },
   {
     "id": 1394011672,
     "name": "mcp-extensions",
     "full_name": "openai/mcp-extensions",
     "description": "Build plugins that feel like native, first-class features of ChatGPT.",
-    "stars": 488,
+    "stars": 640,
     "language": "TypeScript",
     "html_url": "https://github.com/openai/mcp-extensions"
+  },
+  {
+    "id": 1396918266,
+    "name": "hypoarena",
+    "full_name": "OpSafari/hypoarena",
+    "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+    "stars": 554,
+    "language": "Python",
+    "html_url": "https://github.com/OpSafari/hypoarena"
+  },
+  {
+    "id": 1391506818,
+    "name": "2010-rust-rewrite-mashup",
+    "full_name": "chasmlol/2010-rust-rewrite-mashup",
+    "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
+    "stars": 534,
+    "language": "Rust",
+    "html_url": "https://github.com/chasmlol/2010-rust-rewrite-mashup"
   },
   {
     "id": 1391384546,
     "name": "Offensive-Security-AI-Models",
     "full_name": "JoasASantos/Offensive-Security-AI-Models",
     "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-    "stars": 488,
+    "stars": 528,
     "language": null,
     "html_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
   },
   {
-    "id": 1386778170,
-    "name": "ai-system-design",
-    "full_name": "amitshekhariitbhu/ai-system-design",
-    "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
-    "stars": 477,
-    "language": "Markdown",
-    "html_url": "https://github.com/amitshekhariitbhu/ai-system-design"
+    "id": 1396117711,
+    "name": "OpenDots",
+    "full_name": "CopilotKit/OpenDots",
+    "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+    "stars": 527,
+    "language": "TypeScript",
+    "html_url": "https://github.com/CopilotKit/OpenDots"
   },
   {
-    "id": 1387374666,
-    "name": "CapCut-Pro-macOS-Windows",
-    "full_name": "SpecterLouse/CapCut-Pro-macOS-Windows",
-    "description": "Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS)",
-    "stars": 459,
-    "language": null,
-    "html_url": "https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows"
-  },
-  {
-    "id": 1390232691,
-    "name": "spiderbench",
-    "full_name": "xikhar/spiderbench",
-    "description": null,
-    "stars": 451,
+    "id": 1397939439,
+    "name": "easyread",
+    "full_name": "Edwardxlai/easyread",
+    "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+    "stars": 521,
     "language": "JavaScript",
-    "html_url": "https://github.com/xikhar/spiderbench"
+    "html_url": "https://github.com/Edwardxlai/easyread"
   }
 ]
