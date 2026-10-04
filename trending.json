@@ -4,34 +4,16 @@
     "name": "AIHOT",
     "full_name": "KKKKhazix/AIHOT",
     "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "stars": 4997,
+    "stars": 5489,
     "language": "TypeScript",
     "html_url": "https://github.com/KKKKhazix/AIHOT"
-  },
-  {
-    "id": 1391438314,
-    "name": "coucou",
-    "full_name": "Louis-CFM/coucou",
-    "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
-    "stars": 3018,
-    "language": "Swift",
-    "html_url": "https://github.com/Louis-CFM/coucou"
-  },
-  {
-    "id": 1396688303,
-    "name": "dots",
-    "full_name": "feder-cr/dots",
-    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-    "stars": 2521,
-    "language": "Python",
-    "html_url": "https://github.com/feder-cr/dots"
   },
   {
     "id": 1397016507,
     "name": "universal-modder",
     "full_name": "rehan-remade/universal-modder",
     "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-    "stars": 2193,
+    "stars": 2674,
     "language": "Python",
     "html_url": "https://github.com/rehan-remade/universal-modder"
   },
@@ -40,43 +22,43 @@
     "name": "OpenDots",
     "full_name": "CopilotKit/OpenDots",
     "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-    "stars": 1566,
+    "stars": 2631,
     "language": "TypeScript",
     "html_url": "https://github.com/CopilotKit/OpenDots"
   },
   {
-    "id": 1390273274,
-    "name": "awesome-opus5-5-videos",
-    "full_name": "yihui-dev/awesome-opus5-5-videos",
-    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
-    "stars": 1443,
-    "language": null,
-    "html_url": "https://github.com/yihui-dev/awesome-opus5-5-videos"
-  },
-  {
-    "id": 1393229560,
-    "name": "jeff",
-    "full_name": "firelex/jeff",
-    "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-    "stars": 1326,
+    "id": 1396688303,
+    "name": "dots",
+    "full_name": "feder-cr/dots",
+    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "stars": 2576,
     "language": "Python",
-    "html_url": "https://github.com/firelex/jeff"
+    "html_url": "https://github.com/feder-cr/dots"
   },
   {
     "id": 1394134758,
     "name": "floorplan-3d",
     "full_name": "wy51ai/floorplan-3d",
     "description": null,
-    "stars": 1325,
+    "stars": 1365,
     "language": "HTML",
     "html_url": "https://github.com/wy51ai/floorplan-3d"
+  },
+  {
+    "id": 1393229560,
+    "name": "jeff",
+    "full_name": "firelex/jeff",
+    "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+    "stars": 1351,
+    "language": "Python",
+    "html_url": "https://github.com/firelex/jeff"
   },
   {
     "id": 1397771878,
     "name": "yomiyasu",
     "full_name": "nanaism/yomiyasu",
     "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-    "stars": 1204,
+    "stars": 1334,
     "language": "Python",
     "html_url": "https://github.com/nanaism/yomiyasu"
   },
@@ -85,98 +67,116 @@
     "name": "reelmimic",
     "full_name": "edenfunf/reelmimic",
     "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-    "stars": 969,
+    "stars": 1135,
     "language": "JavaScript",
     "html_url": "https://github.com/edenfunf/reelmimic"
-  },
-  {
-    "id": 1390938824,
-    "name": "motion-video-kit",
-    "full_name": "echris6/motion-video-kit",
-    "description": "Claude Code skill kit for premium AI-assisted business videos: independent critic loop, motion principles from 28 launch films, quality bar, sound design, business offers, Three.js patterns, scripts",
-    "stars": 965,
-    "language": "Python",
-    "html_url": "https://github.com/echris6/motion-video-kit"
   },
   {
     "id": 1397588814,
     "name": "REDox",
     "full_name": "CAPCOM-TD-OSS/REDox",
     "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
-    "stars": 873,
+    "stars": 991,
     "language": "C#",
     "html_url": "https://github.com/CAPCOM-TD-OSS/REDox"
   },
   {
-    "id": 1394011672,
-    "name": "mcp-extensions",
-    "full_name": "openai/mcp-extensions",
-    "description": "Build plugins that feel like native, first-class features of ChatGPT.",
-    "stars": 705,
-    "language": "TypeScript",
-    "html_url": "https://github.com/openai/mcp-extensions"
-  },
-  {
-    "id": 1391506818,
-    "name": "2010-rust-rewrite-mashup",
-    "full_name": "chasmlol/2010-rust-rewrite-mashup",
-    "description": "MW2, Skate 3 and Minecraft in one Rust game: IW4L's MW2 rewrite with Skate 3 mode and a real Minecraft world map",
-    "stars": 631,
-    "language": "Rust",
-    "html_url": "https://github.com/chasmlol/2010-rust-rewrite-mashup"
-  },
-  {
-    "id": 1397939439,
-    "name": "easyread",
-    "full_name": "Edwardxlai/easyread",
-    "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-    "stars": 620,
-    "language": "Python",
-    "html_url": "https://github.com/Edwardxlai/easyread"
+    "id": 1402193143,
+    "name": "muse-gadget-sdk",
+    "full_name": "facebookincubator/muse-gadget-sdk",
+    "description": "Open source SDK to build Muse gadgets",
+    "stars": 921,
+    "language": "C",
+    "html_url": "https://github.com/facebookincubator/muse-gadget-sdk"
   },
   {
     "id": 1398473163,
     "name": "SkyCraft",
     "full_name": "chasmlol/SkyCraft",
     "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
-    "stars": 567,
+    "stars": 776,
     "language": "C++",
     "html_url": "https://github.com/chasmlol/SkyCraft"
+  },
+  {
+    "id": 1394045721,
+    "name": "vibe-wise",
+    "full_name": "nykooi1/vibe-wise",
+    "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+    "stars": 748,
+    "language": "Python",
+    "html_url": "https://github.com/nykooi1/vibe-wise"
+  },
+  {
+    "id": 1394011672,
+    "name": "mcp-extensions",
+    "full_name": "openai/mcp-extensions",
+    "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+    "stars": 729,
+    "language": "TypeScript",
+    "html_url": "https://github.com/openai/mcp-extensions"
+  },
+  {
+    "id": 1397939439,
+    "name": "easyread",
+    "full_name": "Edwardxlai/easyread",
+    "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
+    "stars": 681,
+    "language": "Python",
+    "html_url": "https://github.com/Edwardxlai/easyread"
   },
   {
     "id": 1396918266,
     "name": "hypoarena",
     "full_name": "OpSafari/hypoarena",
     "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-    "stars": 556,
+    "stars": 560,
     "language": "Python",
     "html_url": "https://github.com/OpSafari/hypoarena"
-  },
-  {
-    "id": 1391384546,
-    "name": "Offensive-Security-AI-Models",
-    "full_name": "JoasASantos/Offensive-Security-AI-Models",
-    "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
-    "stars": 550,
-    "language": null,
-    "html_url": "https://github.com/JoasASantos/Offensive-Security-AI-Models"
   },
   {
     "id": 1394090575,
     "name": "elpis",
     "full_name": "fsiaonma/elpis",
     "description": "elpis",
-    "stars": 500,
+    "stars": 544,
     "language": "TypeScript",
     "html_url": "https://github.com/fsiaonma/elpis"
   },
   {
-    "id": 1390232691,
-    "name": "spiderbench",
-    "full_name": "xikhar/spiderbench",
-    "description": null,
-    "stars": 474,
+    "id": 1395987291,
+    "name": "open-dot",
+    "full_name": "composio-community/open-dot",
+    "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+    "stars": 527,
+    "language": "TypeScript",
+    "html_url": "https://github.com/composio-community/open-dot"
+  },
+  {
+    "id": 1395835665,
+    "name": "DeepGEMM-Ascend",
+    "full_name": "deepseek-ai/DeepGEMM-Ascend",
+    "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
+    "stars": 493,
+    "language": "C++",
+    "html_url": "https://github.com/deepseek-ai/DeepGEMM-Ascend"
+  },
+  {
+    "id": 1392255587,
+    "name": "esp-sdr",
+    "full_name": "ESPARGOS/esp-sdr",
+    "description": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios",
+    "stars": 471,
+    "language": "C",
+    "html_url": "https://github.com/ESPARGOS/esp-sdr"
+  },
+  {
+    "id": 1401476500,
+    "name": "answer-me-with-html",
+    "full_name": "QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "stars": 470,
     "language": "JavaScript",
-    "html_url": "https://github.com/xikhar/spiderbench"
+    "html_url": "https://github.com/QingYunA/answer-me-with-html"
   }
 ]
