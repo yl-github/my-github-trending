@@ -1,19 +1,10 @@
 [
   {
-    "id": 1393965829,
-    "name": "AIHOT",
-    "full_name": "KKKKhazix/AIHOT",
-    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
-    "stars": 5489,
-    "language": "TypeScript",
-    "html_url": "https://github.com/KKKKhazix/AIHOT"
-  },
-  {
     "id": 1397016507,
     "name": "universal-modder",
     "full_name": "rehan-remade/universal-modder",
     "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-    "stars": 2674,
+    "stars": 3279,
     "language": "Python",
     "html_url": "https://github.com/rehan-remade/universal-modder"
   },
@@ -22,7 +13,7 @@
     "name": "OpenDots",
     "full_name": "CopilotKit/OpenDots",
     "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-    "stars": 2631,
+    "stars": 3250,
     "language": "TypeScript",
     "html_url": "https://github.com/CopilotKit/OpenDots"
   },
@@ -31,106 +22,142 @@
     "name": "dots",
     "full_name": "feder-cr/dots",
     "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-    "stars": 2576,
+    "stars": 2604,
     "language": "Python",
     "html_url": "https://github.com/feder-cr/dots"
-  },
-  {
-    "id": 1394134758,
-    "name": "floorplan-3d",
-    "full_name": "wy51ai/floorplan-3d",
-    "description": null,
-    "stars": 1365,
-    "language": "HTML",
-    "html_url": "https://github.com/wy51ai/floorplan-3d"
-  },
-  {
-    "id": 1393229560,
-    "name": "jeff",
-    "full_name": "firelex/jeff",
-    "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
-    "stars": 1351,
-    "language": "Python",
-    "html_url": "https://github.com/firelex/jeff"
   },
   {
     "id": 1397771878,
     "name": "yomiyasu",
     "full_name": "nanaism/yomiyasu",
     "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-    "stars": 1334,
+    "stars": 1417,
     "language": "Python",
     "html_url": "https://github.com/nanaism/yomiyasu"
   },
   {
-    "id": 1393689296,
-    "name": "reelmimic",
-    "full_name": "edenfunf/reelmimic",
-    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
-    "stars": 1135,
-    "language": "JavaScript",
-    "html_url": "https://github.com/edenfunf/reelmimic"
-  },
-  {
-    "id": 1397588814,
-    "name": "REDox",
-    "full_name": "CAPCOM-TD-OSS/REDox",
-    "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
-    "stars": 991,
-    "language": "C#",
-    "html_url": "https://github.com/CAPCOM-TD-OSS/REDox"
+    "id": 1394134758,
+    "name": "floorplan-3d",
+    "full_name": "wy51ai/floorplan-3d",
+    "description": null,
+    "stars": 1395,
+    "language": "HTML",
+    "html_url": "https://github.com/wy51ai/floorplan-3d"
   },
   {
     "id": 1402193143,
     "name": "muse-gadget-sdk",
     "full_name": "facebookincubator/muse-gadget-sdk",
     "description": "Open source SDK to build Muse gadgets",
-    "stars": 921,
+    "stars": 1237,
     "language": "C",
     "html_url": "https://github.com/facebookincubator/muse-gadget-sdk"
   },
   {
-    "id": 1398473163,
-    "name": "SkyCraft",
-    "full_name": "chasmlol/SkyCraft",
-    "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
-    "stars": 776,
-    "language": "C++",
-    "html_url": "https://github.com/chasmlol/SkyCraft"
+    "id": 1401476500,
+    "name": "answer-me-with-html",
+    "full_name": "QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "stars": 1126,
+    "language": "JavaScript",
+    "html_url": "https://github.com/QingYunA/answer-me-with-html"
   },
   {
     "id": 1394045721,
     "name": "vibe-wise",
     "full_name": "nykooi1/vibe-wise",
     "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-    "stars": 748,
+    "stars": 1103,
     "language": "Python",
     "html_url": "https://github.com/nykooi1/vibe-wise"
   },
   {
-    "id": 1394011672,
-    "name": "mcp-extensions",
-    "full_name": "openai/mcp-extensions",
-    "description": "Build plugins that feel like native, first-class features of ChatGPT.",
-    "stars": 729,
+    "id": 1397588814,
+    "name": "REDox",
+    "full_name": "CAPCOM-TD-OSS/REDox",
+    "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+    "stars": 1035,
+    "language": "C#",
+    "html_url": "https://github.com/CAPCOM-TD-OSS/REDox"
+  },
+  {
+    "id": 1398080271,
+    "name": "photocraft",
+    "full_name": "storytold/photocraft",
+    "description": null,
+    "stars": 983,
+    "language": "Rust",
+    "html_url": "https://github.com/storytold/photocraft"
+  },
+  {
+    "id": 1404266247,
+    "name": "sales-crm",
+    "full_name": "kargulstudio/sales-crm",
+    "description": null,
+    "stars": 947,
     "language": "TypeScript",
-    "html_url": "https://github.com/openai/mcp-extensions"
+    "html_url": "https://github.com/kargulstudio/sales-crm"
+  },
+  {
+    "id": 1398473163,
+    "name": "SkyCraft",
+    "full_name": "chasmlol/SkyCraft",
+    "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
+    "stars": 887,
+    "language": "C++",
+    "html_url": "https://github.com/chasmlol/SkyCraft"
   },
   {
     "id": 1397939439,
     "name": "easyread",
     "full_name": "Edwardxlai/easyread",
     "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-    "stars": 681,
+    "stars": 786,
     "language": "Python",
     "html_url": "https://github.com/Edwardxlai/easyread"
+  },
+  {
+    "id": 1394011672,
+    "name": "mcp-extensions",
+    "full_name": "openai/mcp-extensions",
+    "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+    "stars": 752,
+    "language": "TypeScript",
+    "html_url": "https://github.com/openai/mcp-extensions"
+  },
+  {
+    "id": 1394989252,
+    "name": "RemoveMacAI",
+    "full_name": "omlahore/RemoveMacAI",
+    "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+    "stars": 588,
+    "language": "Swift",
+    "html_url": "https://github.com/omlahore/RemoveMacAI"
+  },
+  {
+    "id": 1401457273,
+    "name": "Stronghold-Protocol",
+    "full_name": "sganggs/Stronghold-Protocol",
+    "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+    "stars": 569,
+    "language": "JavaScript",
+    "html_url": "https://github.com/sganggs/Stronghold-Protocol"
+  },
+  {
+    "id": 1395987291,
+    "name": "open-dot",
+    "full_name": "composio-community/open-dot",
+    "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
+    "stars": 562,
+    "language": "TypeScript",
+    "html_url": "https://github.com/composio-community/open-dot"
   },
   {
     "id": 1396918266,
     "name": "hypoarena",
     "full_name": "OpSafari/hypoarena",
     "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-    "stars": 560,
+    "stars": 561,
     "language": "Python",
     "html_url": "https://github.com/OpSafari/hypoarena"
   },
@@ -139,44 +166,17 @@
     "name": "elpis",
     "full_name": "fsiaonma/elpis",
     "description": "elpis",
-    "stars": 544,
+    "stars": 549,
     "language": "TypeScript",
     "html_url": "https://github.com/fsiaonma/elpis"
   },
   {
-    "id": 1395987291,
-    "name": "open-dot",
-    "full_name": "composio-community/open-dot",
-    "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-    "stars": 527,
-    "language": "TypeScript",
-    "html_url": "https://github.com/composio-community/open-dot"
-  },
-  {
-    "id": 1395835665,
-    "name": "DeepGEMM-Ascend",
-    "full_name": "deepseek-ai/DeepGEMM-Ascend",
-    "description": "DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Huawei Ascend NPUs",
-    "stars": 493,
-    "language": "C++",
-    "html_url": "https://github.com/deepseek-ai/DeepGEMM-Ascend"
-  },
-  {
-    "id": 1392255587,
-    "name": "esp-sdr",
-    "full_name": "ESPARGOS/esp-sdr",
-    "description": "ESP-SDR uses the undocumented raw I/Q capture functionality of ESP32 family chips to turn them into (low-duty-cycle) Software Defined Radios",
-    "stars": 471,
-    "language": "C",
-    "html_url": "https://github.com/ESPARGOS/esp-sdr"
-  },
-  {
-    "id": 1401476500,
-    "name": "answer-me-with-html",
-    "full_name": "QingYunA/answer-me-with-html",
-    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-    "stars": 470,
-    "language": "JavaScript",
-    "html_url": "https://github.com/QingYunA/answer-me-with-html"
+    "id": 1396939768,
+    "name": "oil-ui",
+    "full_name": "oil-oil/oil-ui",
+    "description": "把 AI 的 UI 设计能力推到极限。",
+    "stars": 529,
+    "language": "Python",
+    "html_url": "https://github.com/oil-oil/oil-ui"
   }
 ]
