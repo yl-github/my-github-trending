@@ -4,106 +4,70 @@
     "name": "universal-modder",
     "full_name": "rehan-remade/universal-modder",
     "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
-    "stars": 3279,
+    "stars": 3916,
     "language": "Python",
     "html_url": "https://github.com/rehan-remade/universal-modder"
   },
   {
-    "id": 1396117711,
-    "name": "OpenDots",
-    "full_name": "CopilotKit/OpenDots",
-    "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
-    "stars": 3250,
-    "language": "TypeScript",
-    "html_url": "https://github.com/CopilotKit/OpenDots"
-  },
-  {
-    "id": 1396688303,
-    "name": "dots",
-    "full_name": "feder-cr/dots",
-    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
-    "stars": 2604,
-    "language": "Python",
-    "html_url": "https://github.com/feder-cr/dots"
+    "id": 1398080271,
+    "name": "photocraft",
+    "full_name": "storytold/photocraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+    "stars": 2240,
+    "language": "Rust",
+    "html_url": "https://github.com/storytold/photocraft"
   },
   {
     "id": 1397771878,
     "name": "yomiyasu",
     "full_name": "nanaism/yomiyasu",
     "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
-    "stars": 1417,
+    "stars": 1540,
     "language": "Python",
     "html_url": "https://github.com/nanaism/yomiyasu"
-  },
-  {
-    "id": 1394134758,
-    "name": "floorplan-3d",
-    "full_name": "wy51ai/floorplan-3d",
-    "description": null,
-    "stars": 1395,
-    "language": "HTML",
-    "html_url": "https://github.com/wy51ai/floorplan-3d"
-  },
-  {
-    "id": 1402193143,
-    "name": "muse-gadget-sdk",
-    "full_name": "facebookincubator/muse-gadget-sdk",
-    "description": "Open source SDK to build Muse gadgets",
-    "stars": 1237,
-    "language": "C",
-    "html_url": "https://github.com/facebookincubator/muse-gadget-sdk"
   },
   {
     "id": 1401476500,
     "name": "answer-me-with-html",
     "full_name": "QingYunA/answer-me-with-html",
     "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-    "stars": 1126,
+    "stars": 1520,
     "language": "JavaScript",
     "html_url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
-    "id": 1394045721,
-    "name": "vibe-wise",
-    "full_name": "nykooi1/vibe-wise",
-    "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
-    "stars": 1103,
-    "language": "Python",
-    "html_url": "https://github.com/nykooi1/vibe-wise"
-  },
-  {
-    "id": 1397588814,
-    "name": "REDox",
-    "full_name": "CAPCOM-TD-OSS/REDox",
-    "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
-    "stars": 1035,
-    "language": "C#",
-    "html_url": "https://github.com/CAPCOM-TD-OSS/REDox"
-  },
-  {
-    "id": 1398080271,
-    "name": "photocraft",
-    "full_name": "storytold/photocraft",
-    "description": null,
-    "stars": 983,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/photocraft"
   },
   {
     "id": 1404266247,
     "name": "sales-crm",
     "full_name": "kargulstudio/sales-crm",
     "description": null,
-    "stars": 947,
+    "stars": 1490,
     "language": "TypeScript",
     "html_url": "https://github.com/kargulstudio/sales-crm"
+  },
+  {
+    "id": 1402193143,
+    "name": "muse-gadget-sdk",
+    "full_name": "facebookincubator/muse-gadget-sdk",
+    "description": "Open source SDK to build Muse gadgets",
+    "stars": 1456,
+    "language": "C",
+    "html_url": "https://github.com/facebookincubator/muse-gadget-sdk"
+  },
+  {
+    "id": 1397588814,
+    "name": "REDox",
+    "full_name": "CAPCOM-TD-OSS/REDox",
+    "description": "High-performance, token-based structured data engine for .NET. A core component of REX, the technology behind CAPCOM's next-generation game engine.",
+    "stars": 1087,
+    "language": "C#",
+    "html_url": "https://github.com/CAPCOM-TD-OSS/REDox"
   },
   {
     "id": 1398473163,
     "name": "SkyCraft",
     "full_name": "chasmlol/SkyCraft",
     "description": "Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and combat inside Skyrim's world (SKSE plugin + Fabric mod).",
-    "stars": 887,
+    "stars": 985,
     "language": "C++",
     "html_url": "https://github.com/chasmlol/SkyCraft"
   },
@@ -112,71 +76,107 @@
     "name": "easyread",
     "full_name": "Edwardxlai/easyread",
     "description": "把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Chinese.",
-    "stars": 786,
+    "stars": 809,
     "language": "Python",
     "html_url": "https://github.com/Edwardxlai/easyread"
   },
   {
-    "id": 1394011672,
-    "name": "mcp-extensions",
-    "full_name": "openai/mcp-extensions",
-    "description": "Build plugins that feel like native, first-class features of ChatGPT.",
-    "stars": 752,
-    "language": "TypeScript",
-    "html_url": "https://github.com/openai/mcp-extensions"
-  },
-  {
-    "id": 1394989252,
-    "name": "RemoveMacAI",
-    "full_name": "omlahore/RemoveMacAI",
-    "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
-    "stars": 588,
-    "language": "Swift",
-    "html_url": "https://github.com/omlahore/RemoveMacAI"
+    "id": 1399236672,
+    "name": "bloodborne_pc",
+    "full_name": "deadinside28/bloodborne_pc",
+    "description": null,
+    "stars": 776,
+    "language": "C++",
+    "html_url": "https://github.com/deadinside28/bloodborne_pc"
   },
   {
     "id": 1401457273,
     "name": "Stronghold-Protocol",
     "full_name": "sganggs/Stronghold-Protocol",
     "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-    "stars": 569,
+    "stars": 734,
     "language": "JavaScript",
     "html_url": "https://github.com/sganggs/Stronghold-Protocol"
   },
   {
-    "id": 1395987291,
-    "name": "open-dot",
-    "full_name": "composio-community/open-dot",
-    "description": "Open-source personal AI agents that work on their own, on their own computers. Mac app, OpenAI + Composio.",
-    "stars": 562,
-    "language": "TypeScript",
-    "html_url": "https://github.com/composio-community/open-dot"
-  },
-  {
-    "id": 1396918266,
-    "name": "hypoarena",
-    "full_name": "OpSafari/hypoarena",
-    "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
-    "stars": 561,
+    "id": 1400714777,
+    "name": "backburner",
+    "full_name": "StayLameBro/backburner",
+    "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
+    "stars": 689,
     "language": "Python",
-    "html_url": "https://github.com/OpSafari/hypoarena"
+    "html_url": "https://github.com/StayLameBro/backburner"
   },
   {
-    "id": 1394090575,
-    "name": "elpis",
-    "full_name": "fsiaonma/elpis",
-    "description": "elpis",
-    "stars": 549,
-    "language": "TypeScript",
-    "html_url": "https://github.com/fsiaonma/elpis"
+    "id": 1398091865,
+    "name": "filmcraft",
+    "full_name": "storytold/filmcraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+    "stars": 661,
+    "language": "Rust",
+    "html_url": "https://github.com/storytold/filmcraft"
   },
   {
     "id": 1396939768,
     "name": "oil-ui",
     "full_name": "oil-oil/oil-ui",
     "description": "把 AI 的 UI 设计能力推到极限。",
-    "stars": 529,
+    "stars": 647,
     "language": "Python",
     "html_url": "https://github.com/oil-oil/oil-ui"
+  },
+  {
+    "id": 1403431984,
+    "name": "live-panel-skill",
+    "full_name": "ythx-101/live-panel-skill",
+    "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
+    "stars": 596,
+    "language": "HTML",
+    "html_url": "https://github.com/ythx-101/live-panel-skill"
+  },
+  {
+    "id": 1400080206,
+    "name": "hairline",
+    "full_name": "lucasmarkes/hairline",
+    "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
+    "stars": 595,
+    "language": "TypeScript",
+    "html_url": "https://github.com/lucasmarkes/hairline"
+  },
+  {
+    "id": 1396918266,
+    "name": "hypoarena",
+    "full_name": "OpSafari/hypoarena",
+    "description": "Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs, synthetic literature with planted causal chains, generate-debate-evolve loops over pluggable offline adapters, Elo tournaments recovering planted skill order, paraphrase dedup, Bayesian evidence accumulation, reproducible reports. NumPy core, CPU-only torch extra.",
+    "stars": 557,
+    "language": "Python",
+    "html_url": "https://github.com/OpSafari/hypoarena"
+  },
+  {
+    "id": 1404743796,
+    "name": "gdp-ts",
+    "full_name": "rauchg/gdp-ts",
+    "description": null,
+    "stars": 556,
+    "language": "TypeScript",
+    "html_url": "https://github.com/rauchg/gdp-ts"
+  },
+  {
+    "id": 1403115747,
+    "name": "replica-skill",
+    "full_name": "Jakeschincariol/replica-skill",
+    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "stars": 546,
+    "language": "Python",
+    "html_url": "https://github.com/Jakeschincariol/replica-skill"
+  },
+  {
+    "id": 1396948593,
+    "name": "Ely-GPUI-Components",
+    "full_name": "ZacharyZhang-NY/Ely-GPUI-Components",
+    "description": "A component library for GPUI, in light and dark. Every component runs live in the browser.",
+    "stars": 535,
+    "language": "Rust",
+    "html_url": "https://github.com/ZacharyZhang-NY/Ely-GPUI-Components"
   }
 ]
