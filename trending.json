@@ -4,7 +4,7 @@
     "name": "math",
     "full_name": "openai/math",
     "description": null,
-    "stars": 3817,
+    "stars": 10192,
     "language": "Lean",
     "html_url": "https://github.com/openai/math"
   },
@@ -13,88 +13,61 @@
     "name": "answer-me-with-html",
     "full_name": "QingYunA/answer-me-with-html",
     "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
-    "stars": 1825,
+    "stars": 2137,
     "language": "JavaScript",
     "html_url": "https://github.com/QingYunA/answer-me-with-html"
-  },
-  {
-    "id": 1404266247,
-    "name": "sales-crm",
-    "full_name": "kargulstudio/sales-crm",
-    "description": null,
-    "stars": 1592,
-    "language": "TypeScript",
-    "html_url": "https://github.com/kargulstudio/sales-crm"
-  },
-  {
-    "id": 1402193143,
-    "name": "muse-gadget-sdk",
-    "full_name": "facebookincubator/muse-gadget-sdk",
-    "description": "Open source SDK to build Muse gadgets",
-    "stars": 1574,
-    "language": "C",
-    "html_url": "https://github.com/facebookincubator/muse-gadget-sdk"
-  },
-  {
-    "id": 1399236672,
-    "name": "bloodborne_pc",
-    "full_name": "deadinside28/bloodborne_pc",
-    "description": null,
-    "stars": 1315,
-    "language": "C++",
-    "html_url": "https://github.com/deadinside28/bloodborne_pc"
-  },
-  {
-    "id": 1400136506,
-    "name": "effectcraft",
-    "full_name": "storytold/effectcraft",
-    "description": null,
-    "stars": 913,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/effectcraft"
-  },
-  {
-    "id": 1400080206,
-    "name": "hairline",
-    "full_name": "lucasmarkes/hairline",
-    "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
-    "stars": 848,
-    "language": "TypeScript",
-    "html_url": "https://github.com/lucasmarkes/hairline"
-  },
-  {
-    "id": 1401457273,
-    "name": "Stronghold-Protocol",
-    "full_name": "sganggs/Stronghold-Protocol",
-    "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
-    "stars": 841,
-    "language": "JavaScript",
-    "html_url": "https://github.com/sganggs/Stronghold-Protocol"
   },
   {
     "id": 1406706284,
     "name": "huashu-art-motion",
     "full_name": "alchaincyf/huashu-art-motion",
     "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-    "stars": 808,
+    "stars": 1855,
     "language": "JavaScript",
     "html_url": "https://github.com/alchaincyf/huashu-art-motion"
   },
   {
-    "id": 1400714777,
-    "name": "backburner",
-    "full_name": "StayLameBro/backburner",
-    "description": "Your iPhone helps your Mac run a 27B model: faster prompt reading and more context over a USB-C cable",
-    "stars": 783,
-    "language": "Python",
-    "html_url": "https://github.com/StayLameBro/backburner"
+    "id": 1402193143,
+    "name": "muse-gadget-sdk",
+    "full_name": "facebookincubator/muse-gadget-sdk",
+    "description": "Open source SDK to build Muse gadgets",
+    "stars": 1681,
+    "language": "C",
+    "html_url": "https://github.com/facebookincubator/muse-gadget-sdk"
+  },
+  {
+    "id": 1404266247,
+    "name": "sales-crm",
+    "full_name": "kargulstudio/sales-crm",
+    "description": null,
+    "stars": 1641,
+    "language": "TypeScript",
+    "html_url": "https://github.com/kargulstudio/sales-crm"
+  },
+  {
+    "id": 1401506630,
+    "name": "x_gift_bot",
+    "full_name": "mizorewww/x_gift_bot",
+    "description": "X Premium gift CLI and redemption site",
+    "stars": 981,
+    "language": "Go",
+    "html_url": "https://github.com/mizorewww/x_gift_bot"
+  },
+  {
+    "id": 1401457273,
+    "name": "Stronghold-Protocol",
+    "full_name": "sganggs/Stronghold-Protocol",
+    "description": "明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业）",
+    "stars": 936,
+    "language": "JavaScript",
+    "html_url": "https://github.com/sganggs/Stronghold-Protocol"
   },
   {
     "id": 1403115747,
     "name": "replica-skill",
     "full_name": "Jakeschincariol/replica-skill",
     "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
-    "stars": 715,
+    "stars": 909,
     "language": "Python",
     "html_url": "https://github.com/Jakeschincariol/replica-skill"
   },
@@ -103,25 +76,16 @@
     "name": "gdp-ts",
     "full_name": "rauchg/gdp-ts",
     "description": null,
-    "stars": 711,
+    "stars": 741,
     "language": "TypeScript",
     "html_url": "https://github.com/rauchg/gdp-ts"
-  },
-  {
-    "id": 1401506630,
-    "name": "x_gift_bot",
-    "full_name": "mizorewww/x_gift_bot",
-    "description": "X Premium gift CLI and redemption site",
-    "stars": 704,
-    "language": "Go",
-    "html_url": "https://github.com/mizorewww/x_gift_bot"
   },
   {
     "id": 1405454424,
     "name": "leviathan",
     "full_name": "elstongun/leviathan",
     "description": "**Deep memory for agents over large datasets.**   Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-    "stars": 646,
+    "stars": 672,
     "language": "Rust",
     "html_url": "https://github.com/elstongun/leviathan"
   },
@@ -130,27 +94,63 @@
     "name": "live-panel-skill",
     "full_name": "ythx-101/live-panel-skill",
     "description": "Config-driven animated architecture diagrams: turn one JSON file into a terminal-style, always-running diagram or a light-theme infographic that moves. Outputs H.264 mp4 or a live web page; also a Claude Code style skill (SKILL.md).",
-    "stars": 630,
+    "stars": 650,
     "language": "HTML",
     "html_url": "https://github.com/ythx-101/live-panel-skill"
-  },
-  {
-    "id": 1400018213,
-    "name": "designcraft",
-    "full_name": "storytold/designcraft",
-    "description": null,
-    "stars": 590,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/designcraft"
   },
   {
     "id": 1404874984,
     "name": "agentmemoryrepo",
     "full_name": "AgentMemoryRepo/agentmemoryrepo",
     "description": "Spec for Agent Memory Repo",
-    "stars": 576,
+    "stars": 615,
     "language": null,
     "html_url": "https://github.com/AgentMemoryRepo/agentmemoryrepo"
+  },
+  {
+    "id": 1408557215,
+    "name": "pt-pc",
+    "full_name": "LoreanXavier/pt-pc",
+    "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+    "stars": 583,
+    "language": "C++",
+    "html_url": "https://github.com/LoreanXavier/pt-pc"
+  },
+  {
+    "id": 1408099862,
+    "name": "tendedero",
+    "full_name": "alejandrobujan/tendedero",
+    "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+    "stars": 581,
+    "language": "Swift",
+    "html_url": "https://github.com/alejandrobujan/tendedero"
+  },
+  {
+    "id": 1402525166,
+    "name": "Papermorph",
+    "full_name": "DozenTwelve/Papermorph",
+    "description": "An AI skill that turns books into animated, narrated, interactive web experiences",
+    "stars": 540,
+    "language": "HTML",
+    "html_url": "https://github.com/DozenTwelve/Papermorph"
+  },
+  {
+    "id": 1401970070,
+    "name": "ReSkate",
+    "full_name": "Dingo-Shenanigans/ReSkate",
+    "description": null,
+    "stars": 520,
+    "language": "C++",
+    "html_url": "https://github.com/Dingo-Shenanigans/ReSkate"
+  },
+  {
+    "id": 1408284340,
+    "name": "ts-rust",
+    "full_name": "pingdotgg/ts-rust",
+    "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+    "stars": 510,
+    "language": "Rust",
+    "html_url": "https://github.com/pingdotgg/ts-rust"
   },
   {
     "id": 1400880490,
@@ -162,21 +162,21 @@
     "html_url": "https://github.com/zzzz7788990213-ops/EvoVLM"
   },
   {
+    "id": 1402504227,
+    "name": "agentcraft",
+    "full_name": "blendi-remade/agentcraft",
+    "description": null,
+    "stars": 502,
+    "language": "Java",
+    "html_url": "https://github.com/blendi-remade/agentcraft"
+  },
+  {
     "id": 1401821001,
     "name": "whirl",
     "full_name": "whirlchat/whirl",
     "description": "The AI chat app that sweats the details. Every top model, real memory, living documents, and your own tools.",
-    "stars": 490,
+    "stars": 497,
     "language": "TypeScript",
     "html_url": "https://github.com/whirlchat/whirl"
-  },
-  {
-    "id": 1401970070,
-    "name": "ReSkate",
-    "full_name": "Dingo-Shenanigans/ReSkate",
-    "description": null,
-    "stars": 469,
-    "language": "C++",
-    "html_url": "https://github.com/Dingo-Shenanigans/ReSkate"
   }
 ]
