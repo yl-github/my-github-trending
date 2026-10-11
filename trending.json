@@ -4,16 +4,25 @@
     "name": "math",
     "full_name": "openai/math",
     "description": null,
-    "stars": 13201,
+    "stars": 13733,
     "language": "Lean",
     "html_url": "https://github.com/openai/math"
+  },
+  {
+    "id": 1408489772,
+    "name": "wordcraft",
+    "full_name": "storytold/wordcraft",
+    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "stars": 3301,
+    "language": "Rust",
+    "html_url": "https://github.com/storytold/wordcraft"
   },
   {
     "id": 1406706284,
     "name": "huashu-art-motion",
     "full_name": "alchaincyf/huashu-art-motion",
     "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-    "stars": 2959,
+    "stars": 3243,
     "language": "JavaScript",
     "html_url": "https://github.com/alchaincyf/huashu-art-motion"
   },
@@ -22,25 +31,16 @@
     "name": "ARTEX",
     "full_name": "mhtsec/ARTEX",
     "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-    "stars": 2404,
+    "stars": 2960,
     "language": "Go",
     "html_url": "https://github.com/mhtsec/ARTEX"
-  },
-  {
-    "id": 1408489772,
-    "name": "wordcraft",
-    "full_name": "storytold/wordcraft",
-    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-    "stars": 2043,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/wordcraft"
   },
   {
     "id": 1407504032,
     "name": "iPhone-use",
     "full_name": "zhongerxin/iPhone-use",
     "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-    "stars": 2016,
+    "stars": 2626,
     "language": "Python",
     "html_url": "https://github.com/zhongerxin/iPhone-use"
   },
@@ -49,25 +49,16 @@
     "name": "nvidia-macos-driver",
     "full_name": "nullmoth/nvidia-macos-driver",
     "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-    "stars": 1976,
+    "stars": 2332,
     "language": "Rust",
     "html_url": "https://github.com/nullmoth/nvidia-macos-driver"
-  },
-  {
-    "id": 1404266247,
-    "name": "sales-crm",
-    "full_name": "kargulstudio/sales-crm",
-    "description": null,
-    "stars": 1677,
-    "language": "TypeScript",
-    "html_url": "https://github.com/kargulstudio/sales-crm"
   },
   {
     "id": 1407873347,
     "name": "aurelio-finance",
     "full_name": "LosaLosSantos/aurelio-finance",
     "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-    "stars": 1556,
+    "stars": 2094,
     "language": "Python",
     "html_url": "https://github.com/LosaLosSantos/aurelio-finance"
   },
@@ -76,7 +67,7 @@
     "name": "cadcraft",
     "full_name": "storytold/cadcraft",
     "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-    "stars": 1431,
+    "stars": 1934,
     "language": "Rust",
     "html_url": "https://github.com/storytold/cadcraft"
   },
@@ -85,7 +76,7 @@
     "name": "gridcraft",
     "full_name": "storytold/gridcraft",
     "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-    "stars": 1280,
+    "stars": 1911,
     "language": "Rust",
     "html_url": "https://github.com/storytold/gridcraft"
   },
@@ -94,79 +85,88 @@
     "name": "fsearch",
     "full_name": "noahdunnagan/fsearch",
     "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-    "stars": 1247,
+    "stars": 1658,
     "language": "Rust",
     "html_url": "https://github.com/noahdunnagan/fsearch"
-  },
-  {
-    "id": 1408557215,
-    "name": "pt-pc",
-    "full_name": "LoreanXavier/pt-pc",
-    "description": "Native PC port of P.T. (runs from your own PS4 game files)",
-    "stars": 1224,
-    "language": "C++",
-    "html_url": "https://github.com/LoreanXavier/pt-pc"
   },
   {
     "id": 1408099862,
     "name": "tendedero",
     "full_name": "alejandrobujan/tendedero",
     "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
-    "stars": 1220,
+    "stars": 1620,
     "language": "Swift",
     "html_url": "https://github.com/alejandrobujan/tendedero"
   },
   {
-    "id": 1408493106,
-    "name": "playgta5",
-    "full_name": "shadany7824/playgta5",
-    "description": "A source code for playgta5.com.",
-    "stars": 1037,
-    "language": "JavaScript",
-    "html_url": "https://github.com/shadany7824/playgta5"
-  },
-  {
-    "id": 1408486424,
-    "name": "soundcraft",
-    "full_name": "storytold/soundcraft",
-    "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
-    "stars": 1018,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/soundcraft"
+    "id": 1409860044,
+    "name": "omdrop-owl",
+    "full_name": "t4t5/omdrop-owl",
+    "description": "airdrop for non-apple devices",
+    "stars": 1564,
+    "language": "Shell",
+    "html_url": "https://github.com/t4t5/omdrop-owl"
   },
   {
     "id": 1408294296,
     "name": "deckcraft",
     "full_name": "storytold/deckcraft",
     "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
-    "stars": 1017,
+    "stars": 1457,
     "language": "Rust",
     "html_url": "https://github.com/storytold/deckcraft"
+  },
+  {
+    "id": 1408486424,
+    "name": "soundcraft",
+    "full_name": "storytold/soundcraft",
+    "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+    "stars": 1363,
+    "language": "Rust",
+    "html_url": "https://github.com/storytold/soundcraft"
+  },
+  {
+    "id": 1408557215,
+    "name": "pt-pc",
+    "full_name": "LoreanXavier/pt-pc",
+    "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+    "stars": 1341,
+    "language": "C++",
+    "html_url": "https://github.com/LoreanXavier/pt-pc"
+  },
+  {
+    "id": 1408493106,
+    "name": "playgta5",
+    "full_name": "shadany7824/playgta5",
+    "description": "A source code for playgta5.com.",
+    "stars": 1223,
+    "language": "JavaScript",
+    "html_url": "https://github.com/shadany7824/playgta5"
+  },
+  {
+    "id": 1408277479,
+    "name": "helix-foundry",
+    "full_name": "HelixDB/helix-foundry",
+    "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
+    "stars": 1032,
+    "language": "TypeScript",
+    "html_url": "https://github.com/HelixDB/helix-foundry"
   },
   {
     "id": 1408284340,
     "name": "ts-rust",
     "full_name": "pingdotgg/ts-rust",
     "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
-    "stars": 824,
+    "stars": 991,
     "language": "Rust",
     "html_url": "https://github.com/pingdotgg/ts-rust"
-  },
-  {
-    "id": 1404743796,
-    "name": "gdp-ts",
-    "full_name": "rauchg/gdp-ts",
-    "description": null,
-    "stars": 771,
-    "language": "TypeScript",
-    "html_url": "https://github.com/rauchg/gdp-ts"
   },
   {
     "id": 1405454424,
     "name": "leviathan",
     "full_name": "elstongun/leviathan",
     "description": "Deep memory for agents over large datasets. Leviathan is a single static binary that turns your records (JSONL, JSON, CSV/TSV, SQLite, or anything a database CLI can export) into a ranked full-text index.",
-    "stars": 713,
+    "stars": 732,
     "language": "Rust",
     "html_url": "https://github.com/elstongun/leviathan"
   },
@@ -175,7 +175,7 @@
     "name": "ascii",
     "full_name": "bas3line/ascii",
     "description": "Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one HTML tag",
-    "stars": 675,
+    "stars": 717,
     "language": "TypeScript",
     "html_url": "https://github.com/bas3line/ascii"
   }
