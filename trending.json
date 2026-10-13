@@ -1,19 +1,10 @@
 [
   {
-    "id": 1407950271,
-    "name": "math",
-    "full_name": "openai/math",
-    "description": null,
-    "stars": 14147,
-    "language": "Lean",
-    "html_url": "https://github.com/openai/math"
-  },
-  {
     "id": 1408489772,
     "name": "wordcraft",
     "full_name": "storytold/wordcraft",
     "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-    "stars": 6468,
+    "stars": 9558,
     "language": "Rust",
     "html_url": "https://github.com/storytold/wordcraft"
   },
@@ -22,52 +13,34 @@
     "name": "anatomy",
     "full_name": "wheresryan22/anatomy",
     "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-    "stars": 3784,
+    "stars": 6684,
     "language": "JavaScript",
     "html_url": "https://github.com/wheresryan22/anatomy"
-  },
-  {
-    "id": 1406706284,
-    "name": "huashu-art-motion",
-    "full_name": "alchaincyf/huashu-art-motion",
-    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
-    "stars": 3422,
-    "language": "JavaScript",
-    "html_url": "https://github.com/alchaincyf/huashu-art-motion"
-  },
-  {
-    "id": 1409787646,
-    "name": "ARTEX",
-    "full_name": "mhtsec/ARTEX",
-    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-    "stars": 3294,
-    "language": "Go",
-    "html_url": "https://github.com/mhtsec/ARTEX"
-  },
-  {
-    "id": 1407504032,
-    "name": "iPhone-use",
-    "full_name": "zhongerxin/iPhone-use",
-    "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-    "stars": 3155,
-    "language": "Python",
-    "html_url": "https://github.com/zhongerxin/iPhone-use"
   },
   {
     "id": 1408285582,
     "name": "gridcraft",
     "full_name": "storytold/gridcraft",
     "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-    "stars": 3075,
+    "stars": 3966,
     "language": "Rust",
     "html_url": "https://github.com/storytold/gridcraft"
+  },
+  {
+    "id": 1409787646,
+    "name": "ARTEX",
+    "full_name": "mhtsec/ARTEX",
+    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+    "stars": 3672,
+    "language": "Go",
+    "html_url": "https://github.com/mhtsec/ARTEX"
   },
   {
     "id": 1408289866,
     "name": "cadcraft",
     "full_name": "storytold/cadcraft",
     "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-    "stars": 2803,
+    "stars": 3620,
     "language": "Rust",
     "html_url": "https://github.com/storytold/cadcraft"
   },
@@ -76,52 +49,34 @@
     "name": "nvidia-macos-driver",
     "full_name": "nullmoth/nvidia-macos-driver",
     "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-    "stars": 2580,
+    "stars": 2789,
     "language": "Rust",
     "html_url": "https://github.com/nullmoth/nvidia-macos-driver"
-  },
-  {
-    "id": 1407873347,
-    "name": "aurelio-finance",
-    "full_name": "LosaLosSantos/aurelio-finance",
-    "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
-    "stars": 2359,
-    "language": "Python",
-    "html_url": "https://github.com/LosaLosSantos/aurelio-finance"
-  },
-  {
-    "id": 1409860044,
-    "name": "omdrop-owl",
-    "full_name": "t4t5/omdrop-owl",
-    "description": "airdrop for non-apple devices",
-    "stars": 2161,
-    "language": "Shell",
-    "html_url": "https://github.com/t4t5/omdrop-owl"
   },
   {
     "id": 1408294296,
     "name": "deckcraft",
     "full_name": "storytold/deckcraft",
     "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
-    "stars": 2087,
+    "stars": 2668,
     "language": "Rust",
     "html_url": "https://github.com/storytold/deckcraft"
   },
   {
-    "id": 1410750399,
-    "name": "fsearch",
-    "full_name": "noahdunnagan/fsearch",
-    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-    "stars": 1889,
-    "language": "Rust",
-    "html_url": "https://github.com/noahdunnagan/fsearch"
+    "id": 1409860044,
+    "name": "omdrop-owl",
+    "full_name": "t4t5/omdrop-owl",
+    "description": "airdrop for non-apple devices",
+    "stars": 2473,
+    "language": "Shell",
+    "html_url": "https://github.com/t4t5/omdrop-owl"
   },
   {
     "id": 1408486424,
     "name": "soundcraft",
     "full_name": "storytold/soundcraft",
     "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
-    "stars": 1880,
+    "stars": 2314,
     "language": "Rust",
     "html_url": "https://github.com/storytold/soundcraft"
   },
@@ -130,16 +85,52 @@
     "name": "tendedero",
     "full_name": "alejandrobujan/tendedero",
     "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
-    "stars": 1867,
+    "stars": 2031,
     "language": "Swift",
     "html_url": "https://github.com/alejandrobujan/tendedero"
+  },
+  {
+    "id": 1410750399,
+    "name": "fsearch",
+    "full_name": "noahdunnagan/fsearch",
+    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+    "stars": 1989,
+    "language": "Rust",
+    "html_url": "https://github.com/noahdunnagan/fsearch"
+  },
+  {
+    "id": 1410929004,
+    "name": "DigUp",
+    "full_name": "ARahim3/DigUp",
+    "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+    "stars": 1984,
+    "language": "Swift",
+    "html_url": "https://github.com/ARahim3/DigUp"
+  },
+  {
+    "id": 1412548284,
+    "name": "craft-launcher",
+    "full_name": "storytold/craft-launcher",
+    "description": "The Craft App Launcher",
+    "stars": 1868,
+    "language": "Rust",
+    "html_url": "https://github.com/storytold/craft-launcher"
+  },
+  {
+    "id": 1413898431,
+    "name": "CCBaga",
+    "full_name": "liseami/CCBaga",
+    "description": null,
+    "stars": 1773,
+    "language": "Rust",
+    "html_url": "https://github.com/liseami/CCBaga"
   },
   {
     "id": 1408557215,
     "name": "pt-pc",
     "full_name": "LoreanXavier/pt-pc",
     "description": "Native PC port of P.T. (runs from your own PS4 game files)",
-    "stars": 1453,
+    "stars": 1580,
     "language": "C++",
     "html_url": "https://github.com/LoreanXavier/pt-pc"
   },
@@ -148,35 +139,44 @@
     "name": "playgta5",
     "full_name": "shadany7824/playgta5",
     "description": "A source code for playgta5.com.",
-    "stars": 1401,
+    "stars": 1505,
     "language": "JavaScript",
     "html_url": "https://github.com/shadany7824/playgta5"
   },
   {
-    "id": 1412548284,
-    "name": "craft-launcher",
-    "full_name": "storytold/craft-launcher",
-    "description": "The Craft App Launcher",
-    "stars": 1287,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/craft-launcher"
+    "id": 1409013846,
+    "name": "DeepSeek-Bot",
+    "full_name": "Fei2411/DeepSeek-Bot",
+    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+    "stars": 1461,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Fei2411/DeepSeek-Bot"
   },
   {
     "id": 1408277479,
     "name": "helix-foundry",
     "full_name": "HelixDB/helix-foundry",
     "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
-    "stars": 1232,
+    "stars": 1345,
     "language": "TypeScript",
     "html_url": "https://github.com/HelixDB/helix-foundry"
   },
   {
-    "id": 1410929004,
-    "name": "DigUp",
-    "full_name": "ARahim3/DigUp",
-    "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-    "stars": 1225,
-    "language": "Swift",
-    "html_url": "https://github.com/ARahim3/DigUp"
+    "id": 1409246014,
+    "name": "solidcraft",
+    "full_name": "bherbruck/solidcraft",
+    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+    "stars": 1175,
+    "language": "Rust",
+    "html_url": "https://github.com/bherbruck/solidcraft"
+  },
+  {
+    "id": 1408284340,
+    "name": "ts-rust",
+    "full_name": "pingdotgg/ts-rust",
+    "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
+    "stars": 1128,
+    "language": "Rust",
+    "html_url": "https://github.com/pingdotgg/ts-rust"
   }
 ]
