@@ -1,109 +1,37 @@
 [
   {
-    "id": 1408489772,
-    "name": "wordcraft",
-    "full_name": "storytold/wordcraft",
-    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-    "stars": 9558,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/wordcraft"
-  },
-  {
     "id": 1410124849,
     "name": "anatomy",
     "full_name": "wheresryan22/anatomy",
     "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-    "stars": 6684,
+    "stars": 8446,
     "language": "JavaScript",
     "html_url": "https://github.com/wheresryan22/anatomy"
-  },
-  {
-    "id": 1408285582,
-    "name": "gridcraft",
-    "full_name": "storytold/gridcraft",
-    "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-    "stars": 3966,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/gridcraft"
   },
   {
     "id": 1409787646,
     "name": "ARTEX",
     "full_name": "mhtsec/ARTEX",
     "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-    "stars": 3672,
+    "stars": 3919,
     "language": "Go",
     "html_url": "https://github.com/mhtsec/ARTEX"
-  },
-  {
-    "id": 1408289866,
-    "name": "cadcraft",
-    "full_name": "storytold/cadcraft",
-    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-    "stars": 3620,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/cadcraft"
-  },
-  {
-    "id": 1408465463,
-    "name": "nvidia-macos-driver",
-    "full_name": "nullmoth/nvidia-macos-driver",
-    "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
-    "stars": 2789,
-    "language": "Rust",
-    "html_url": "https://github.com/nullmoth/nvidia-macos-driver"
-  },
-  {
-    "id": 1408294296,
-    "name": "deckcraft",
-    "full_name": "storytold/deckcraft",
-    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
-    "stars": 2668,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/deckcraft"
   },
   {
     "id": 1409860044,
     "name": "omdrop-owl",
     "full_name": "t4t5/omdrop-owl",
     "description": "airdrop for non-apple devices",
-    "stars": 2473,
+    "stars": 2597,
     "language": "Shell",
     "html_url": "https://github.com/t4t5/omdrop-owl"
-  },
-  {
-    "id": 1408486424,
-    "name": "soundcraft",
-    "full_name": "storytold/soundcraft",
-    "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
-    "stars": 2314,
-    "language": "Rust",
-    "html_url": "https://github.com/storytold/soundcraft"
-  },
-  {
-    "id": 1408099862,
-    "name": "tendedero",
-    "full_name": "alejandrobujan/tendedero",
-    "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
-    "stars": 2031,
-    "language": "Swift",
-    "html_url": "https://github.com/alejandrobujan/tendedero"
-  },
-  {
-    "id": 1410750399,
-    "name": "fsearch",
-    "full_name": "noahdunnagan/fsearch",
-    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-    "stars": 1989,
-    "language": "Rust",
-    "html_url": "https://github.com/noahdunnagan/fsearch"
   },
   {
     "id": 1410929004,
     "name": "DigUp",
     "full_name": "ARahim3/DigUp",
     "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-    "stars": 1984,
+    "stars": 2581,
     "language": "Swift",
     "html_url": "https://github.com/ARahim3/DigUp"
   },
@@ -112,7 +40,7 @@
     "name": "craft-launcher",
     "full_name": "storytold/craft-launcher",
     "description": "The Craft App Launcher",
-    "stars": 1868,
+    "stars": 2359,
     "language": "Rust",
     "html_url": "https://github.com/storytold/craft-launcher"
   },
@@ -121,62 +49,134 @@
     "name": "CCBaga",
     "full_name": "liseami/CCBaga",
     "description": null,
-    "stars": 1773,
+    "stars": 2093,
     "language": "Rust",
     "html_url": "https://github.com/liseami/CCBaga"
   },
   {
-    "id": 1408557215,
-    "name": "pt-pc",
-    "full_name": "LoreanXavier/pt-pc",
-    "description": "Native PC port of P.T. (runs from your own PS4 game files)",
-    "stars": 1580,
+    "id": 1410750399,
+    "name": "fsearch",
+    "full_name": "noahdunnagan/fsearch",
+    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+    "stars": 2032,
+    "language": "Rust",
+    "html_url": "https://github.com/noahdunnagan/fsearch"
+  },
+  {
+    "id": 1414685342,
+    "name": "esp32-iphone-agent",
+    "full_name": "onehumanbeing/esp32-iphone-agent",
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "stars": 1631,
+    "language": "Python",
+    "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent"
+  },
+  {
+    "id": 1415313946,
+    "name": "d2r-mobile",
+    "full_name": "jhaizhou-ops/d2r-mobile",
+    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+    "stars": 1214,
+    "language": "C",
+    "html_url": "https://github.com/jhaizhou-ops/d2r-mobile"
+  },
+  {
+    "id": 1410926671,
+    "name": "ARTEXX",
+    "full_name": "trhhubsd/ARTEXX",
+    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+    "stars": 1207,
+    "language": "Go",
+    "html_url": "https://github.com/trhhubsd/ARTEXX"
+  },
+  {
+    "id": 1410721941,
+    "name": "usd-brep",
+    "full_name": "NVIDIA-Omniverse/usd-brep",
+    "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+    "stars": 1207,
     "language": "C++",
-    "html_url": "https://github.com/LoreanXavier/pt-pc"
+    "html_url": "https://github.com/NVIDIA-Omniverse/usd-brep"
   },
   {
-    "id": 1408493106,
-    "name": "playgta5",
-    "full_name": "shadany7824/playgta5",
-    "description": "A source code for playgta5.com.",
-    "stars": 1505,
-    "language": "JavaScript",
-    "html_url": "https://github.com/shadany7824/playgta5"
+    "id": 1410787228,
+    "name": "photo-frame-dashboard",
+    "full_name": "wesbos/photo-frame-dashboard",
+    "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
+    "stars": 1083,
+    "language": "Python",
+    "html_url": "https://github.com/wesbos/photo-frame-dashboard"
   },
   {
-    "id": 1409013846,
-    "name": "DeepSeek-Bot",
-    "full_name": "Fei2411/DeepSeek-Bot",
-    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
-    "stars": 1461,
-    "language": "JavaScript",
-    "html_url": "https://github.com/Fei2411/DeepSeek-Bot"
-  },
-  {
-    "id": 1408277479,
-    "name": "helix-foundry",
-    "full_name": "HelixDB/helix-foundry",
-    "description": "Your company's data, connected into one ontology, on your own computer. A local-first data workspace built on HelixDB and DuckDB.",
-    "stars": 1345,
+    "id": 1412573009,
+    "name": "doory",
+    "full_name": "shaongitbd/doory",
+    "description": "Open source canva alternative",
+    "stars": 1065,
     "language": "TypeScript",
-    "html_url": "https://github.com/HelixDB/helix-foundry"
+    "html_url": "https://github.com/shaongitbd/doory"
   },
   {
-    "id": 1409246014,
-    "name": "solidcraft",
-    "full_name": "bherbruck/solidcraft",
-    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-    "stars": 1175,
-    "language": "Rust",
-    "html_url": "https://github.com/bherbruck/solidcraft"
+    "id": 1410719150,
+    "name": "oss-scanner",
+    "full_name": "anthropics/oss-scanner",
+    "description": null,
+    "stars": 968,
+    "language": "Dockerfile",
+    "html_url": "https://github.com/anthropics/oss-scanner"
   },
   {
-    "id": 1408284340,
-    "name": "ts-rust",
-    "full_name": "pingdotgg/ts-rust",
-    "description": "An experimental Rust port of the TypeScript 7 compiler (tsc)",
-    "stars": 1128,
+    "id": 1413021530,
+    "name": "talorys",
+    "full_name": "rociiu/talorys",
+    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+    "stars": 964,
+    "language": "TypeScript",
+    "html_url": "https://github.com/rociiu/talorys"
+  },
+  {
+    "id": 1416386910,
+    "name": "qwen21-nsfw-pose-skill",
+    "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "stars": 927,
+    "language": "Python",
+    "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
+  },
+  {
+    "id": 1413187188,
+    "name": "mailcheap",
+    "full_name": "marclou/mailcheap",
+    "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
+    "stars": 900,
+    "language": "JavaScript",
+    "html_url": "https://github.com/marclou/mailcheap"
+  },
+  {
+    "id": 1415214046,
+    "name": "new-term-radar",
+    "full_name": "zhuyansen/new-term-radar",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "stars": 884,
+    "language": "Python",
+    "html_url": "https://github.com/zhuyansen/new-term-radar"
+  },
+  {
+    "id": 1409893258,
+    "name": "dsh-ops",
+    "full_name": "T-Auto/dsh-ops",
+    "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+    "stars": 873,
+    "language": "JavaScript",
+    "html_url": "https://github.com/T-Auto/dsh-ops"
+  },
+  {
+    "id": 1413549354,
+    "name": "RustGIS",
+    "full_name": "opengeos/RustGIS",
+    "description": "A fast, free and open-source GIS in pure Rust.",
+    "stars": 830,
     "language": "Rust",
-    "html_url": "https://github.com/pingdotgg/ts-rust"
+    "html_url": "https://github.com/opengeos/RustGIS"
   }
 ]
