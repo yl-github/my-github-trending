@@ -1,182 +1,182 @@
 [
   {
-    "id": 1410124849,
-    "name": "anatomy",
-    "full_name": "wheresryan22/anatomy",
-    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
-    "stars": 8446,
-    "language": "JavaScript",
-    "html_url": "https://github.com/wheresryan22/anatomy"
-  },
-  {
-    "id": 1409787646,
-    "name": "ARTEX",
-    "full_name": "mhtsec/ARTEX",
-    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
-    "stars": 3919,
-    "language": "Go",
-    "html_url": "https://github.com/mhtsec/ARTEX"
-  },
-  {
-    "id": 1409860044,
-    "name": "omdrop-owl",
-    "full_name": "t4t5/omdrop-owl",
-    "description": "airdrop for non-apple devices",
-    "stars": 2597,
-    "language": "Shell",
-    "html_url": "https://github.com/t4t5/omdrop-owl"
-  },
-  {
-    "id": 1410929004,
-    "name": "DigUp",
-    "full_name": "ARahim3/DigUp",
-    "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
-    "stars": 2581,
-    "language": "Swift",
-    "html_url": "https://github.com/ARahim3/DigUp"
-  },
-  {
     "id": 1412548284,
     "name": "craft-launcher",
     "full_name": "storytold/craft-launcher",
     "description": "The Craft App Launcher",
-    "stars": 2359,
+    "stars": 2679,
     "language": "Rust",
     "html_url": "https://github.com/storytold/craft-launcher"
-  },
-  {
-    "id": 1413898431,
-    "name": "CCBaga",
-    "full_name": "liseami/CCBaga",
-    "description": null,
-    "stars": 2093,
-    "language": "Rust",
-    "html_url": "https://github.com/liseami/CCBaga"
-  },
-  {
-    "id": 1410750399,
-    "name": "fsearch",
-    "full_name": "noahdunnagan/fsearch",
-    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
-    "stars": 2032,
-    "language": "Rust",
-    "html_url": "https://github.com/noahdunnagan/fsearch"
-  },
-  {
-    "id": 1414685342,
-    "name": "esp32-iphone-agent",
-    "full_name": "onehumanbeing/esp32-iphone-agent",
-    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-    "stars": 1631,
-    "language": "Python",
-    "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent"
   },
   {
     "id": 1415313946,
     "name": "d2r-mobile",
     "full_name": "jhaizhou-ops/d2r-mobile",
     "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
-    "stars": 1214,
+    "stars": 2276,
     "language": "C",
     "html_url": "https://github.com/jhaizhou-ops/d2r-mobile"
   },
   {
-    "id": 1410926671,
-    "name": "ARTEXX",
-    "full_name": "trhhubsd/ARTEXX",
-    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
-    "stars": 1207,
-    "language": "Go",
-    "html_url": "https://github.com/trhhubsd/ARTEXX"
-  },
-  {
-    "id": 1410721941,
-    "name": "usd-brep",
-    "full_name": "NVIDIA-Omniverse/usd-brep",
-    "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
-    "stars": 1207,
-    "language": "C++",
-    "html_url": "https://github.com/NVIDIA-Omniverse/usd-brep"
-  },
-  {
-    "id": 1410787228,
-    "name": "photo-frame-dashboard",
-    "full_name": "wesbos/photo-frame-dashboard",
-    "description": "Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)",
-    "stars": 1083,
-    "language": "Python",
-    "html_url": "https://github.com/wesbos/photo-frame-dashboard"
-  },
-  {
-    "id": 1412573009,
-    "name": "doory",
-    "full_name": "shaongitbd/doory",
-    "description": "Open source canva alternative",
-    "stars": 1065,
-    "language": "TypeScript",
-    "html_url": "https://github.com/shaongitbd/doory"
-  },
-  {
-    "id": 1410719150,
-    "name": "oss-scanner",
-    "full_name": "anthropics/oss-scanner",
+    "id": 1413898431,
+    "name": "CCBaga",
+    "full_name": "liseami/CCBaga",
     "description": null,
-    "stars": 968,
-    "language": "Dockerfile",
-    "html_url": "https://github.com/anthropics/oss-scanner"
+    "stars": 2262,
+    "language": "Rust",
+    "html_url": "https://github.com/liseami/CCBaga"
   },
   {
-    "id": 1413021530,
-    "name": "talorys",
-    "full_name": "rociiu/talorys",
-    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
-    "stars": 964,
-    "language": "TypeScript",
-    "html_url": "https://github.com/rociiu/talorys"
+    "id": 1414685342,
+    "name": "esp32-iphone-agent",
+    "full_name": "onehumanbeing/esp32-iphone-agent",
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "stars": 2129,
+    "language": "C",
+    "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent"
   },
   {
     "id": 1416386910,
     "name": "qwen21-nsfw-pose-skill",
     "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
     "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-    "stars": 927,
+    "stars": 1323,
     "language": "Python",
     "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
   },
   {
-    "id": 1413187188,
-    "name": "mailcheap",
-    "full_name": "marclou/mailcheap",
-    "description": "Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails.",
-    "stars": 900,
-    "language": "JavaScript",
-    "html_url": "https://github.com/marclou/mailcheap"
-  },
-  {
-    "id": 1415214046,
-    "name": "new-term-radar",
-    "full_name": "zhuyansen/new-term-radar",
-    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-    "stars": 884,
-    "language": "Python",
-    "html_url": "https://github.com/zhuyansen/new-term-radar"
-  },
-  {
-    "id": 1409893258,
-    "name": "dsh-ops",
-    "full_name": "T-Auto/dsh-ops",
-    "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-    "stars": 873,
-    "language": "JavaScript",
-    "html_url": "https://github.com/T-Auto/dsh-ops"
+    "id": 1412573009,
+    "name": "doory",
+    "full_name": "shaongitbd/doory",
+    "description": "Open source canva alternative",
+    "stars": 1212,
+    "language": "TypeScript",
+    "html_url": "https://github.com/shaongitbd/doory"
   },
   {
     "id": 1413549354,
     "name": "RustGIS",
     "full_name": "opengeos/RustGIS",
     "description": "A fast, free and open-source GIS in pure Rust.",
-    "stars": 830,
+    "stars": 1079,
     "language": "Rust",
     "html_url": "https://github.com/opengeos/RustGIS"
+  },
+  {
+    "id": 1413021530,
+    "name": "talorys",
+    "full_name": "rociiu/talorys",
+    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+    "stars": 1004,
+    "language": "TypeScript",
+    "html_url": "https://github.com/rociiu/talorys"
+  },
+  {
+    "id": 1412112308,
+    "name": "figcraft",
+    "full_name": "storytold/figcraft",
+    "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+    "stars": 990,
+    "language": "Rust",
+    "html_url": "https://github.com/storytold/figcraft"
+  },
+  {
+    "id": 1415214046,
+    "name": "new-term-radar",
+    "full_name": "zhuyansen/new-term-radar",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "stars": 970,
+    "language": "Python",
+    "html_url": "https://github.com/zhuyansen/new-term-radar"
+  },
+  {
+    "id": 1413187188,
+    "name": "mailcheap",
+    "full_name": "marclou/mailcheap",
+    "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+    "stars": 933,
+    "language": "JavaScript",
+    "html_url": "https://github.com/marclou/mailcheap"
+  },
+  {
+    "id": 1414493071,
+    "name": "Tracely-ai",
+    "full_name": "jwuthri-cloud/Tracely-ai",
+    "description": null,
+    "stars": 817,
+    "language": "Python",
+    "html_url": "https://github.com/jwuthri-cloud/Tracely-ai"
+  },
+  {
+    "id": 1417456983,
+    "name": "everything",
+    "full_name": "HeyPuter/everything",
+    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+    "stars": 788,
+    "language": "JavaScript",
+    "html_url": "https://github.com/HeyPuter/everything"
+  },
+  {
+    "id": 1411867277,
+    "name": "my-claude-code-mods",
+    "full_name": "YeonwooSung/my-claude-code-mods",
+    "description": "Custom Claude Code Mods that I need",
+    "stars": 779,
+    "language": "TypeScript",
+    "html_url": "https://github.com/YeonwooSung/my-claude-code-mods"
+  },
+  {
+    "id": 1417411861,
+    "name": "gptibo",
+    "full_name": "CoolkHz/gptibo",
+    "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+    "stars": 764,
+    "language": "TypeScript",
+    "html_url": "https://github.com/CoolkHz/gptibo"
+  },
+  {
+    "id": 1414851145,
+    "name": "w1700k-sdr",
+    "full_name": "h0m3us3r/w1700k-sdr",
+    "description": null,
+    "stars": 754,
+    "language": "C",
+    "html_url": "https://github.com/h0m3us3r/w1700k-sdr"
+  },
+  {
+    "id": 1412360690,
+    "name": "tiktok-web-signature",
+    "full_name": "n1tr00-10/tiktok-web-signature",
+    "description": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+    "stars": 710,
+    "language": "Python",
+    "html_url": "https://github.com/n1tr00-10/tiktok-web-signature"
+  },
+  {
+    "id": 1415358670,
+    "name": "solid-glass",
+    "full_name": "deeplethe/solid-glass",
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "stars": 700,
+    "language": "TypeScript",
+    "html_url": "https://github.com/deeplethe/solid-glass"
+  },
+  {
+    "id": 1416766144,
+    "name": "scout",
+    "full_name": "outcrawlai/scout",
+    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+    "stars": 675,
+    "language": "TypeScript",
+    "html_url": "https://github.com/outcrawlai/scout"
+  },
+  {
+    "id": 1412045987,
+    "name": "awesome-decomp-games",
+    "full_name": "SubmitGame/awesome-decomp-games",
+    "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+    "stars": 668,
+    "language": "Python",
+    "html_url": "https://github.com/SubmitGame/awesome-decomp-games"
   }
 ]
