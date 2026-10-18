@@ -4,43 +4,25 @@
     "name": "d2r-mobile",
     "full_name": "jhaizhou-ops/d2r-mobile",
     "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
-    "stars": 3548,
+    "stars": 3723,
     "language": "C",
     "html_url": "https://github.com/jhaizhou-ops/d2r-mobile"
-  },
-  {
-    "id": 1414685342,
-    "name": "esp32-iphone-agent",
-    "full_name": "onehumanbeing/esp32-iphone-agent",
-    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-    "stars": 2879,
-    "language": "C",
-    "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent"
   },
   {
     "id": 1416386910,
     "name": "qwen21-nsfw-pose-skill",
     "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
     "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-    "stars": 2538,
+    "stars": 2650,
     "language": "Python",
     "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill"
-  },
-  {
-    "id": 1413898431,
-    "name": "CCBaga",
-    "full_name": "liseami/CCBaga",
-    "description": null,
-    "stars": 2408,
-    "language": "Rust",
-    "html_url": "https://github.com/liseami/CCBaga"
   },
   {
     "id": 1417456983,
     "name": "everything",
     "full_name": "HeyPuter/everything",
     "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
-    "stars": 1763,
+    "stars": 2067,
     "language": "JavaScript",
     "html_url": "https://github.com/HeyPuter/everything"
   },
@@ -49,134 +31,152 @@
     "name": "BRUTAL",
     "full_name": "ahwootech/BRUTAL",
     "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-    "stars": 1586,
+    "stars": 1800,
     "language": "C#",
     "html_url": "https://github.com/ahwootech/BRUTAL"
-  },
-  {
-    "id": 1420063501,
-    "name": "handwired",
-    "full_name": "chenglou/handwired",
-    "description": "Turn your regular JavaScript code into a neural net.",
-    "stars": 1577,
-    "language": "TypeScript",
-    "html_url": "https://github.com/chenglou/handwired"
   },
   {
     "id": 1415358670,
     "name": "solid-glass",
     "full_name": "deeplethe/solid-glass",
     "description": "A design system for AI applications. Material, physical, tactile, technical.",
-    "stars": 1443,
+    "stars": 1772,
     "language": "TypeScript",
     "html_url": "https://github.com/deeplethe/solid-glass"
   },
   {
-    "id": 1420751050,
-    "name": "git-ai",
-    "full_name": "feder-cr/git-ai",
-    "description": "Git designed for AI agents.",
-    "stars": 1067,
-    "language": "Go",
-    "html_url": "https://github.com/feder-cr/git-ai"
-  },
-  {
-    "id": 1415214046,
-    "name": "new-term-radar",
-    "full_name": "zhuyansen/new-term-radar",
-    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-    "stars": 1067,
-    "language": "Python",
-    "html_url": "https://github.com/zhuyansen/new-term-radar"
-  },
-  {
-    "id": 1419078245,
-    "name": "open-claude-ui",
-    "full_name": "Caho1/open-claude-ui",
-    "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-    "stars": 1038,
+    "id": 1420063501,
+    "name": "handwired",
+    "full_name": "chenglou/handwired",
+    "description": "Turn your regular JavaScript code into a neural net.",
+    "stars": 1681,
     "language": "TypeScript",
-    "html_url": "https://github.com/Caho1/open-claude-ui"
+    "html_url": "https://github.com/chenglou/handwired"
   },
   {
     "id": 1419982962,
     "name": "uncharted_pc",
     "full_name": "Supermedo/uncharted_pc",
     "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-    "stars": 1036,
+    "stars": 1274,
     "language": "C++",
     "html_url": "https://github.com/Supermedo/uncharted_pc"
   },
   {
-    "id": 1413838499,
-    "name": "Semiconductor_Manufacturing_Introduction",
-    "full_name": "chenwei810/Semiconductor_Manufacturing_Introduction",
-    "description": "Introduction to Semiconductor Manufacturing",
-    "stars": 1005,
-    "language": "Python",
-    "html_url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction"
+    "id": 1420751050,
+    "name": "git-ai",
+    "full_name": "feder-cr/git-ai",
+    "description": "Git designed for AI agents.",
+    "stars": 1140,
+    "language": "Go",
+    "html_url": "https://github.com/feder-cr/git-ai"
   },
   {
-    "id": 1416766144,
-    "name": "scout",
-    "full_name": "outcrawlai/scout",
-    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-    "stars": 896,
+    "id": 1419078245,
+    "name": "open-claude-ui",
+    "full_name": "Caho1/open-claude-ui",
+    "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+    "stars": 1140,
     "language": "TypeScript",
-    "html_url": "https://github.com/outcrawlai/scout"
+    "html_url": "https://github.com/Caho1/open-claude-ui"
+  },
+  {
+    "id": 1415214046,
+    "name": "new-term-radar",
+    "full_name": "zhuyansen/new-term-radar",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "stars": 1084,
+    "language": "Python",
+    "html_url": "https://github.com/zhuyansen/new-term-radar"
   },
   {
     "id": 1415622546,
     "name": "ShadowOfTheColossus-PC",
     "full_name": "AjncSystem/ShadowOfTheColossus-PC",
     "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
-    "stars": 886,
+    "stars": 992,
     "language": "C++",
     "html_url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC"
   },
   {
-    "id": 1414493071,
-    "name": "Tracely-ai",
-    "full_name": "jwuthri-cloud/Tracely-ai",
-    "description": null,
-    "stars": 829,
-    "language": "Python",
-    "html_url": "https://github.com/jwuthri-cloud/Tracely-ai"
-  },
-  {
-    "id": 1414851145,
-    "name": "w1700k-sdr",
-    "full_name": "h0m3us3r/w1700k-sdr",
-    "description": null,
-    "stars": 815,
-    "language": "C",
-    "html_url": "https://github.com/h0m3us3r/w1700k-sdr"
+    "id": 1416766144,
+    "name": "scout",
+    "full_name": "outcrawlai/scout",
+    "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+    "stars": 941,
+    "language": "TypeScript",
+    "html_url": "https://github.com/outcrawlai/scout"
   },
   {
     "id": 1417411861,
     "name": "gptibo",
     "full_name": "CoolkHz/gptibo",
     "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
-    "stars": 811,
+    "stars": 821,
     "language": "TypeScript",
     "html_url": "https://github.com/CoolkHz/gptibo"
   },
   {
-    "id": 1415556604,
-    "name": "sweety-handdraw-video",
-    "full_name": "threerocks/sweety-handdraw-video",
-    "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
-    "stars": 648,
-    "language": "JavaScript",
-    "html_url": "https://github.com/threerocks/sweety-handdraw-video"
+    "id": 1416044960,
+    "name": "net-merge",
+    "full_name": "rohit267/net-merge",
+    "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+    "stars": 811,
+    "language": "Go",
+    "html_url": "https://github.com/rohit267/net-merge"
+  },
+  {
+    "id": 1422399929,
+    "name": "xscreensaver",
+    "full_name": "xscreensaver-official/xscreensaver",
+    "description": "There is no official XScreenSaver GitHub repository.",
+    "stars": 725,
+    "language": null,
+    "html_url": "https://github.com/xscreensaver-official/xscreensaver"
+  },
+  {
+    "id": 1420305104,
+    "name": "earshot",
+    "full_name": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "stars": 691,
+    "language": "Python",
+    "html_url": "https://github.com/Leonxlnx/earshot"
   },
   {
     "id": 1417155242,
     "name": "eleven",
     "full_name": "Zfinix/eleven",
     "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
-    "stars": 623,
+    "stars": 677,
     "language": "TypeScript",
     "html_url": "https://github.com/Zfinix/eleven"
+  },
+  {
+    "id": 1415556604,
+    "name": "sweety-handdraw-video",
+    "full_name": "threerocks/sweety-handdraw-video",
+    "description": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+    "stars": 670,
+    "language": "JavaScript",
+    "html_url": "https://github.com/threerocks/sweety-handdraw-video"
+  },
+  {
+    "id": 1418155445,
+    "name": "overdrive",
+    "full_name": "MyLuxy/overdrive",
+    "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+    "stars": 665,
+    "language": "C++",
+    "html_url": "https://github.com/MyLuxy/overdrive"
+  },
+  {
+    "id": 1421389432,
+    "name": "blender-ai-mcp-addon",
+    "full_name": "anujasid/blender-ai-mcp-addon",
+    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
+    "stars": 638,
+    "language": "Python",
+    "html_url": "https://github.com/anujasid/blender-ai-mcp-addon"
   }
 ]
