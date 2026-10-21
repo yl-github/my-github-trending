@@ -1,46 +1,55 @@
 [
   {
+    "id": 1421825221,
+    "name": "DeepInfer",
+    "full_name": "deepseek-ai/DeepInfer",
+    "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "stars": 13963,
+    "language": "Python",
+    "html_url": "https://github.com/deepseek-ai/DeepInfer"
+  },
+  {
     "id": 1423101235,
     "name": "cleanyourtv",
     "full_name": "Gathin23/cleanyourtv",
     "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
-    "stars": 6061,
+    "stars": 12793,
     "language": "Java",
     "html_url": "https://github.com/Gathin23/cleanyourtv"
-  },
-  {
-    "id": 1420751050,
-    "name": "git-ai",
-    "full_name": "feder-cr/git-ai",
-    "description": "Git designed for AI agents.",
-    "stars": 2465,
-    "language": "Go",
-    "html_url": "https://github.com/feder-cr/git-ai"
-  },
-  {
-    "id": 1419746236,
-    "name": "BRUTAL",
-    "full_name": "ahwootech/BRUTAL",
-    "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-    "stars": 1999,
-    "language": "C#",
-    "html_url": "https://github.com/ahwootech/BRUTAL"
   },
   {
     "id": 1423689866,
     "name": "MacNativeGames",
     "full_name": "ly05010419/MacNativeGames",
     "description": null,
-    "stars": 1906,
+    "stars": 2952,
     "language": "C",
     "html_url": "https://github.com/ly05010419/MacNativeGames"
+  },
+  {
+    "id": 1420305104,
+    "name": "earshot",
+    "full_name": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "stars": 1972,
+    "language": "Python",
+    "html_url": "https://github.com/Leonxlnx/earshot"
+  },
+  {
+    "id": 1426080579,
+    "name": "free-my-tv",
+    "full_name": "simbasjungles/free-my-tv",
+    "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+    "stars": 1914,
+    "language": "Java",
+    "html_url": "https://github.com/simbasjungles/free-my-tv"
   },
   {
     "id": 1420063501,
     "name": "handwired",
     "full_name": "chenglou/handwired",
     "description": "Turn your regular JavaScript code into a neural net.",
-    "stars": 1818,
+    "stars": 1853,
     "language": "TypeScript",
     "html_url": "https://github.com/chenglou/handwired"
   },
@@ -49,52 +58,61 @@
     "name": "uncharted_pc",
     "full_name": "Supermedo/uncharted_pc",
     "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-    "stars": 1601,
+    "stars": 1730,
     "language": "C++",
     "html_url": "https://github.com/Supermedo/uncharted_pc"
-  },
-  {
-    "id": 1420305104,
-    "name": "earshot",
-    "full_name": "Leonxlnx/earshot",
-    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-    "stars": 1593,
-    "language": "Python",
-    "html_url": "https://github.com/Leonxlnx/earshot"
-  },
-  {
-    "id": 1419078245,
-    "name": "open-claude-ui",
-    "full_name": "Caho1/open-claude-ui",
-    "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-    "stars": 1258,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Caho1/open-claude-ui"
   },
   {
     "id": 1424183124,
     "name": "cn-math-taxonomy",
     "full_name": "xiaoyang111222/cn-math-taxonomy",
-    "description": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
-    "stars": 1047,
+    "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+    "stars": 1648,
     "language": "Python",
     "html_url": "https://github.com/xiaoyang111222/cn-math-taxonomy"
+  },
+  {
+    "id": 1420751050,
+    "name": "git-ai",
+    "full_name": "feder-cr/git-ai",
+    "description": "Git designed for AI agents.",
+    "stars": 1282,
+    "language": "Go",
+    "html_url": "https://github.com/feder-cr/git-ai"
   },
   {
     "id": 1422883896,
     "name": "leanrea",
     "full_name": "aicodeking/leanrea",
     "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-    "stars": 1005,
+    "stars": 1188,
     "language": "Python",
     "html_url": "https://github.com/aicodeking/leanrea"
+  },
+  {
+    "id": 1421497958,
+    "name": "MOSS-Image",
+    "full_name": "OpenMOSS/MOSS-Image",
+    "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+    "stars": 1179,
+    "language": "Python",
+    "html_url": "https://github.com/OpenMOSS/MOSS-Image"
+  },
+  {
+    "id": 1424340323,
+    "name": "huashu-motion",
+    "full_name": "alchaincyf/huashu-motion",
+    "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+    "stars": 1169,
+    "language": "JavaScript",
+    "html_url": "https://github.com/alchaincyf/huashu-motion"
   },
   {
     "id": 1422399929,
     "name": "xscreensaver",
     "full_name": "xscreensaver-official/xscreensaver",
     "description": "There is no official XScreenSaver GitHub repository.",
-    "stars": 1001,
+    "stars": 1097,
     "language": null,
     "html_url": "https://github.com/xscreensaver-official/xscreensaver"
   },
@@ -103,43 +121,52 @@
     "name": "Hy-Memory",
     "full_name": "Tencent-Hunyuan/Hy-Memory",
     "description": null,
-    "stars": 988,
+    "stars": 1080,
     "language": "Python",
     "html_url": "https://github.com/Tencent-Hunyuan/Hy-Memory"
   },
   {
-    "id": 1424340323,
-    "name": "huashu-motion",
-    "full_name": "alchaincyf/huashu-motion",
-    "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-    "stars": 976,
+    "id": 1426240325,
+    "name": "REA-Prompts",
+    "full_name": "JoasASantos/REA-Prompts",
+    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+    "stars": 1052,
+    "language": null,
+    "html_url": "https://github.com/JoasASantos/REA-Prompts"
+  },
+  {
+    "id": 1424613188,
+    "name": "dumbtv",
+    "full_name": "humblemuzzu/dumbtv",
+    "description": null,
+    "stars": 1010,
     "language": "JavaScript",
-    "html_url": "https://github.com/alchaincyf/huashu-motion"
+    "html_url": "https://github.com/humblemuzzu/dumbtv"
   },
   {
-    "id": 1421497958,
-    "name": "MOSS-Image",
-    "full_name": "OpenMOSS/MOSS-Image",
-    "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-    "stars": 970,
-    "language": "Python",
-    "html_url": "https://github.com/OpenMOSS/MOSS-Image"
+    "id": 1424070461,
+    "name": "tv-detox",
+    "full_name": "Ansub/tv-detox",
+    "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+    "stars": 979,
+    "language": "Java",
+    "html_url": "https://github.com/Ansub/tv-detox"
   },
   {
-    "id": 1418155445,
-    "name": "overdrive",
-    "full_name": "MyLuxy/overdrive",
-    "description": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
-    "stars": 921,
-    "language": "C++",
-    "html_url": "https://github.com/MyLuxy/overdrive"
+    "id": 1426780056,
+    "name": "aerial-tv",
+    "full_name": "pengchujin/aerial-tv",
+    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "stars": 938,
+    "language": "Kotlin",
+    "html_url": "https://github.com/pengchujin/aerial-tv"
   },
   {
     "id": 1421389432,
     "name": "blender-ai-mcp-addon",
     "full_name": "LiCinCan/blender-ai-mcp-addon",
     "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-    "stars": 920,
+    "stars": 937,
     "language": "Python",
     "html_url": "https://github.com/LiCinCan/blender-ai-mcp-addon"
   },
@@ -148,35 +175,8 @@
     "name": "web-ocean",
     "full_name": "Noniv/web-ocean",
     "description": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from a single 61 KB HTML file in Chrome.",
-    "stars": 775,
+    "stars": 809,
     "language": "HTML",
     "html_url": "https://github.com/Noniv/web-ocean"
-  },
-  {
-    "id": 1418878693,
-    "name": "house-control",
-    "full_name": "0xProbabillity/house-control",
-    "description": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
-    "stars": 665,
-    "language": "Swift",
-    "html_url": "https://github.com/0xProbabillity/house-control"
-  },
-  {
-    "id": 1424613188,
-    "name": "dumbtv",
-    "full_name": "humblemuzzu/dumbtv",
-    "description": null,
-    "stars": 630,
-    "language": "JavaScript",
-    "html_url": "https://github.com/humblemuzzu/dumbtv"
-  },
-  {
-    "id": 1422053844,
-    "name": "coop-anything",
-    "full_name": "cranebeaker/coop-anything",
-    "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-    "stars": 594,
-    "language": "C",
-    "html_url": "https://github.com/cranebeaker/coop-anything"
   }
 ]
