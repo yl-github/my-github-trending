@@ -1,73 +1,82 @@
 [
   {
-    "id": 1426780056,
-    "name": "aerial-tv",
-    "full_name": "pengchujin/aerial-tv",
-    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
-    "stars": 4425,
-    "language": "Kotlin",
-    "html_url": "https://github.com/pengchujin/aerial-tv"
-  },
-  {
-    "id": 1426080579,
-    "name": "free-my-tv",
-    "full_name": "simbasjungles/free-my-tv",
-    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-    "stars": 4324,
-    "language": "Java",
-    "html_url": "https://github.com/simbasjungles/free-my-tv"
-  },
-  {
-    "id": 1426240325,
-    "name": "REA-Prompts",
-    "full_name": "JoasASantos/REA-Prompts",
-    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-    "stars": 2141,
-    "language": null,
-    "html_url": "https://github.com/JoasASantos/REA-Prompts"
-  },
-  {
-    "id": 1425429552,
-    "name": "fairplay-decrypt",
-    "full_name": "EthanArbuckle/fairplay-decrypt",
-    "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
-    "stars": 1987,
+    "id": 1431545439,
+    "name": "gpu-unlock-ada",
+    "full_name": "JustAResearcher/gpu-unlock-ada",
+    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "stars": 3922,
     "language": "C",
-    "html_url": "https://github.com/EthanArbuckle/fairplay-decrypt"
+    "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada"
   },
   {
-    "id": 1428058681,
-    "name": "php2shell-poc",
-    "full_name": "ikow/php2shell-poc",
-    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-    "stars": 1759,
+    "id": 1431851693,
+    "name": "android-ad-cleaner",
+    "full_name": "rddmwmddr/android-ad-cleaner",
+    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "stars": 2128,
     "language": "Python",
-    "html_url": "https://github.com/ikow/php2shell-poc"
-  },
-  {
-    "id": 1428714039,
-    "name": "hatchzip",
-    "full_name": "xevrion/hatchzip",
-    "description": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
-    "stars": 1726,
-    "language": "Rust",
-    "html_url": "https://github.com/xevrion/hatchzip"
+    "html_url": "https://github.com/rddmwmddr/android-ad-cleaner"
   },
   {
     "id": 1428848843,
     "name": "3d-model-anything",
     "full_name": "wesbos/3d-model-anything",
     "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-    "stars": 1698,
+    "stars": 2091,
     "language": "Swift",
     "html_url": "https://github.com/wesbos/3d-model-anything"
+  },
+  {
+    "id": 1428714039,
+    "name": "hatchzip",
+    "full_name": "xevrion/hatchzip",
+    "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+    "stars": 2066,
+    "language": "Rust",
+    "html_url": "https://github.com/xevrion/hatchzip"
+  },
+  {
+    "id": 1432980411,
+    "name": "word-atlas",
+    "full_name": "designfuchen/word-atlas",
+    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+    "stars": 1843,
+    "language": "TypeScript",
+    "html_url": "https://github.com/designfuchen/word-atlas"
+  },
+  {
+    "id": 1428058681,
+    "name": "php2shell-poc",
+    "full_name": "ikow/php2shell-poc",
+    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "stars": 1841,
+    "language": "Python",
+    "html_url": "https://github.com/ikow/php2shell-poc"
+  },
+  {
+    "id": 1429328794,
+    "name": "hackios-xnu-kernel",
+    "full_name": "oosexgang/hackios-xnu-kernel",
+    "description": null,
+    "stars": 1703,
+    "language": "C",
+    "html_url": "https://github.com/oosexgang/hackios-xnu-kernel"
+  },
+  {
+    "id": 1431830406,
+    "name": "tstack",
+    "full_name": "t3dotgg/tstack",
+    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+    "stars": 1635,
+    "language": "Python",
+    "html_url": "https://github.com/t3dotgg/tstack"
   },
   {
     "id": 1428268121,
     "name": "php2shell-bypass-aslr-exp",
     "full_name": "9bie/php2shell-bypass-aslr-exp",
     "description": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-    "stars": 1403,
+    "stars": 1481,
     "language": "Python",
     "html_url": "https://github.com/9bie/php2shell-bypass-aslr-exp"
   },
@@ -76,107 +85,98 @@
     "name": "php2shell-checker",
     "full_name": "openai/php2shell-checker",
     "description": null,
-    "stars": 1385,
+    "stars": 1427,
     "language": "JavaScript",
     "html_url": "https://github.com/openai/php2shell-checker"
-  },
-  {
-    "id": 1429328794,
-    "name": "hackios-xnu-kernel",
-    "full_name": "oosexgang/hackios-xnu-kernel",
-    "description": null,
-    "stars": 1305,
-    "language": "C",
-    "html_url": "https://github.com/oosexgang/hackios-xnu-kernel"
   },
   {
     "id": 1427696883,
     "name": "reylo",
     "full_name": "colinhacks/reylo",
     "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
-    "stars": 1217,
+    "stars": 1318,
     "language": "Rust",
     "html_url": "https://github.com/colinhacks/reylo"
   },
   {
-    "id": 1427126014,
-    "name": "day-trader-skill",
-    "full_name": "Jakeschincariol/day-trader-skill",
-    "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-    "stars": 1139,
+    "id": 1427861485,
+    "name": "neuron-explorer",
+    "full_name": "lyramakesmusic/neuron-explorer",
+    "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+    "stars": 1291,
     "language": "Python",
-    "html_url": "https://github.com/Jakeschincariol/day-trader-skill"
+    "html_url": "https://github.com/lyramakesmusic/neuron-explorer"
+  },
+  {
+    "id": 1430513158,
+    "name": "BeautifulRust",
+    "full_name": "morganlinton/BeautifulRust",
+    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+    "stars": 1229,
+    "language": "Python",
+    "html_url": "https://github.com/morganlinton/BeautifulRust"
+  },
+  {
+    "id": 1431010194,
+    "name": "dimensional-drawing",
+    "full_name": "enesozturk/dimensional-drawing",
+    "description": null,
+    "stars": 1035,
+    "language": "HTML",
+    "html_url": "https://github.com/enesozturk/dimensional-drawing"
   },
   {
     "id": 1428098303,
     "name": "php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
     "full_name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
     "description": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
-    "stars": 984,
+    "stars": 1023,
     "language": "Shell",
     "html_url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC"
-  },
-  {
-    "id": 1426270002,
-    "name": "ElyOffice",
-    "full_name": "ELY-Open-Source/ElyOffice",
-    "description": "Ely Office: offline-first desktop apps in Rust and GPUI",
-    "stars": 974,
-    "language": "Rust",
-    "html_url": "https://github.com/ELY-Open-Source/ElyOffice"
-  },
-  {
-    "id": 1427107663,
-    "name": "EAGLE-4",
-    "full_name": "eagle-hq/EAGLE-4",
-    "description": "Official Inference Code of EAGLE-4",
-    "stars": 970,
-    "language": "Python",
-    "html_url": "https://github.com/eagle-hq/EAGLE-4"
-  },
-  {
-    "id": 1431545439,
-    "name": "gpu-unlock-ada",
-    "full_name": "JustAResearcher/gpu-unlock-ada",
-    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-    "stars": 953,
-    "language": "C",
-    "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada"
-  },
-  {
-    "id": 1425469723,
-    "name": "UniXNU",
-    "full_name": "UniXNU/UniXNU",
-    "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
-    "stars": 900,
-    "language": "Python",
-    "html_url": "https://github.com/UniXNU/UniXNU"
   },
   {
     "id": 1429116361,
     "name": "Snapintosh",
     "full_name": "Snapintosh/Snapintosh",
     "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-    "stars": 885,
+    "stars": 986,
     "language": "Python",
     "html_url": "https://github.com/Snapintosh/Snapintosh"
-  },
-  {
-    "id": 1426220635,
-    "name": "ascii-sharks",
-    "full_name": "stackedlol/ascii-sharks",
-    "description": "ascii shark components in typescript",
-    "stars": 809,
-    "language": "TypeScript",
-    "html_url": "https://github.com/stackedlol/ascii-sharks"
   },
   {
     "id": 1429213407,
     "name": "php2shell-scanner",
     "full_name": "assetnote/php2shell-scanner",
     "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-    "stars": 776,
+    "stars": 934,
     "language": "Python",
     "html_url": "https://github.com/assetnote/php2shell-scanner"
+  },
+  {
+    "id": 1433653089,
+    "name": "StealMyBitcoin-PoC",
+    "full_name": "KillaBoi/StealMyBitcoin-PoC",
+    "description": "A public release of the Steal My Bitcoin challenge",
+    "stars": 863,
+    "language": "Python",
+    "html_url": "https://github.com/KillaBoi/StealMyBitcoin-PoC"
+  },
+  {
+    "id": 1433057196,
+    "name": "ex-ussr-kinship-research",
+    "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
+    "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+    "stars": 804,
+    "language": "Python",
+    "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
+  },
+  {
+    "id": 1433904617,
+    "name": "digital-human-koubo",
+    "full_name": "andyhuo520/digital-human-koubo",
+    "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+    "stars": 793,
+    "language": "TypeScript",
+    "html_url": "https://github.com/andyhuo520/digital-human-koubo"
   }
 ]
