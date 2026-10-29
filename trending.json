@@ -4,7 +4,7 @@
     "name": "gpu-unlock-ada",
     "full_name": "JustAResearcher/gpu-unlock-ada",
     "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-    "stars": 4313,
+    "stars": 4436,
     "language": "C",
     "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada"
   },
@@ -13,79 +13,79 @@
     "name": "android-ad-cleaner",
     "full_name": "rddmwmddr/android-ad-cleaner",
     "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
-    "stars": 3576,
+    "stars": 4417,
     "language": "Python",
     "html_url": "https://github.com/rddmwmddr/android-ad-cleaner"
-  },
-  {
-    "id": 1432980411,
-    "name": "word-atlas",
-    "full_name": "designfuchen/word-atlas",
-    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-    "stars": 2699,
-    "language": "TypeScript",
-    "html_url": "https://github.com/designfuchen/word-atlas"
   },
   {
     "id": 1433377156,
     "name": "ub-mode",
     "full_name": "unclebob/ub-mode",
     "description": null,
-    "stars": 2564,
+    "stars": 3926,
     "language": null,
     "html_url": "https://github.com/unclebob/ub-mode"
+  },
+  {
+    "id": 1432980411,
+    "name": "word-atlas",
+    "full_name": "designfuchen/word-atlas",
+    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+    "stars": 3095,
+    "language": "TypeScript",
+    "html_url": "https://github.com/designfuchen/word-atlas"
+  },
+  {
+    "id": 1433297111,
+    "name": "Zero-Breach-Toolkit",
+    "full_name": "interplains/Zero-Breach-Toolkit",
+    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+    "stars": 2897,
+    "language": "Python",
+    "html_url": "https://github.com/interplains/Zero-Breach-Toolkit"
   },
   {
     "id": 1431830406,
     "name": "tstack",
     "full_name": "t3dotgg/tstack",
     "description": "The agent skills I use every day. Works with Claude Code and Codex.",
-    "stars": 2037,
+    "stars": 2283,
     "language": "Python",
     "html_url": "https://github.com/t3dotgg/tstack"
   },
   {
-    "id": 1429328794,
-    "name": "hackios-xnu-kernel",
-    "full_name": "oosexgang/hackios-xnu-kernel",
-    "description": null,
-    "stars": 1832,
-    "language": "C",
-    "html_url": "https://github.com/oosexgang/hackios-xnu-kernel"
-  },
-  {
-    "id": 1436185485,
-    "name": ".github",
-    "full_name": "DLSS-5-Swaper-New/.github",
-    "description": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing compatible graphics components and exploring rendering configurations.",
-    "stars": 1333,
-    "language": null,
-    "html_url": "https://github.com/DLSS-5-Swaper-New/.github"
-  },
-  {
-    "id": 1430513158,
-    "name": "BeautifulRust",
-    "full_name": "morganlinton/BeautifulRust",
-    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-    "stars": 1326,
-    "language": "Python",
-    "html_url": "https://github.com/morganlinton/BeautifulRust"
+    "id": 1435695423,
+    "name": "ai-pose-gallery-zh",
+    "full_name": "anhao/ai-pose-gallery-zh",
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "stars": 2122,
+    "language": "HTML",
+    "html_url": "https://github.com/anhao/ai-pose-gallery-zh"
   },
   {
     "id": 1431010194,
     "name": "dimensional-drawing",
     "full_name": "enesozturk/dimensional-drawing",
     "description": "Create Apple style dimensional drawings of UI components.",
-    "stars": 1272,
+    "stars": 1431,
     "language": "HTML",
     "html_url": "https://github.com/enesozturk/dimensional-drawing"
+  },
+  {
+    "id": 1430513158,
+    "name": "BeautifulRust",
+    "full_name": "morganlinton/BeautifulRust",
+    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+    "stars": 1371,
+    "language": "Python",
+    "html_url": "https://github.com/morganlinton/BeautifulRust"
   },
   {
     "id": 1433904617,
     "name": "digital-human-koubo",
     "full_name": "andyhuo520/digital-human-koubo",
     "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-    "stars": 1136,
+    "stars": 1340,
     "language": "TypeScript",
     "html_url": "https://github.com/andyhuo520/digital-human-koubo"
   },
@@ -94,89 +94,89 @@
     "name": "ex-ussr-kinship-research",
     "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
     "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-    "stars": 1066,
+    "stars": 1186,
     "language": "Python",
     "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research"
-  },
-  {
-    "id": 1429116361,
-    "name": "Snapintosh",
-    "full_name": "Snapintosh/Snapintosh",
-    "description": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
-    "stars": 1016,
-    "language": "Python",
-    "html_url": "https://github.com/Snapintosh/Snapintosh"
-  },
-  {
-    "id": 1433297111,
-    "name": "Zero-Breach-Toolkit",
-    "full_name": "interplains/Zero-Breach-Toolkit",
-    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-    "stars": 1017,
-    "language": "Python",
-    "html_url": "https://github.com/interplains/Zero-Breach-Toolkit"
   },
   {
     "id": 1433653089,
     "name": "StealMyBitcoin-PoC",
     "full_name": "KillaBoi/StealMyBitcoin-PoC",
     "description": "A public release of the Steal My Bitcoin challenge",
-    "stars": 961,
+    "stars": 987,
     "language": "Python",
     "html_url": "https://github.com/KillaBoi/StealMyBitcoin-PoC"
   },
   {
-    "id": 1429213407,
-    "name": "php2shell-scanner",
-    "full_name": "assetnote/php2shell-scanner",
-    "description": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-    "stars": 950,
+    "id": 1434017230,
+    "name": "claude-skill",
+    "full_name": "Motionsites-AI/claude-skill",
+    "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+    "stars": 933,
     "language": "Python",
-    "html_url": "https://github.com/assetnote/php2shell-scanner"
-  },
-  {
-    "id": 1432875224,
-    "name": "gdirect",
-    "full_name": "mizorewww/gdirect",
-    "description": "Rust Google Drive direct downloader using pinned libaria2",
-    "stars": 751,
-    "language": "Rust",
-    "html_url": "https://github.com/mizorewww/gdirect"
-  },
-  {
-    "id": 1435695423,
-    "name": "ai-pose-gallery-zh",
-    "full_name": "anhao/ai-pose-gallery-zh",
-    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-    "stars": 732,
-    "language": "HTML",
-    "html_url": "https://github.com/anhao/ai-pose-gallery-zh"
-  },
-  {
-    "id": 1431464445,
-    "name": "minilytics",
-    "full_name": "surendrapandar/minilytics",
-    "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
-    "stars": 722,
-    "language": "TypeScript",
-    "html_url": "https://github.com/surendrapandar/minilytics"
-  },
-  {
-    "id": 1433636611,
-    "name": "unfairplay",
-    "full_name": "DrWhax/unfairplay",
-    "description": "Decrypt IPA's on MacOS",
-    "stars": 665,
-    "language": "Go",
-    "html_url": "https://github.com/DrWhax/unfairplay"
+    "html_url": "https://github.com/Motionsites-AI/claude-skill"
   },
   {
     "id": 1432883796,
     "name": "agent-purge",
     "full_name": "ZiChuanLan/agent-purge",
     "description": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-    "stars": 665,
+    "stars": 826,
     "language": "JavaScript",
     "html_url": "https://github.com/ZiChuanLan/agent-purge"
+  },
+  {
+    "id": 1434789878,
+    "name": "calender-app-design",
+    "full_name": "kargulstudio/calender-app-design",
+    "description": null,
+    "stars": 788,
+    "language": "TypeScript",
+    "html_url": "https://github.com/kargulstudio/calender-app-design"
+  },
+  {
+    "id": 1431464445,
+    "name": "minilytics",
+    "full_name": "surendrapandar/minilytics",
+    "description": "Opensource Revenue-first analytics for indie hackers & solo founders ",
+    "stars": 762,
+    "language": "TypeScript",
+    "html_url": "https://github.com/surendrapandar/minilytics"
+  },
+  {
+    "id": 1432875224,
+    "name": "gdirect",
+    "full_name": "mizorewww/gdirect",
+    "description": "Rust Google Drive direct downloader using pinned libaria2",
+    "stars": 757,
+    "language": "Rust",
+    "html_url": "https://github.com/mizorewww/gdirect"
+  },
+  {
+    "id": 1433636611,
+    "name": "unfairplay",
+    "full_name": "DrWhax/unfairplay",
+    "description": "Decrypt IPA's on MacOS",
+    "stars": 727,
+    "language": "Go",
+    "html_url": "https://github.com/DrWhax/unfairplay"
+  },
+  {
+    "id": 1433846971,
+    "name": "GEOInflow",
+    "full_name": "yaojingang/GEOInflow",
+    "description": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社智源GEO. MIT licensed.",
+    "stars": 695,
+    "language": "TypeScript",
+    "html_url": "https://github.com/yaojingang/GEOInflow"
+  },
+  {
+    "id": 1431986839,
+    "name": "bama",
+    "full_name": "daveebbelaar/bama",
+    "description": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+    "stars": 617,
+    "language": "Swift",
+    "html_url": "https://github.com/daveebbelaar/bama"
   }
 ]
