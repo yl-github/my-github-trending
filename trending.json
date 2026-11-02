@@ -1,10 +1,19 @@
 [
   {
+    "id": 1440705679,
+    "name": "dsh-superagent-prototype",
+    "full_name": "deepseek-ai/dsh-superagent-prototype",
+    "description": "Towards a More Autonomous Agent System",
+    "stars": 9099,
+    "language": "TypeScript",
+    "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
+  },
+  {
     "id": 1435695423,
     "name": "ai-pose-gallery-zh",
     "full_name": "anhao/ai-pose-gallery-zh",
     "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
-    "stars": 4786,
+    "stars": 5231,
     "language": "TypeScript",
     "html_url": "https://github.com/anhao/ai-pose-gallery-zh"
   },
@@ -13,25 +22,16 @@
     "name": "unslop",
     "full_name": "heydamir/unslop",
     "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "stars": 3695,
+    "stars": 5047,
     "language": "JavaScript",
     "html_url": "https://github.com/heydamir/unslop"
-  },
-  {
-    "id": 1440705679,
-    "name": "dsh-superagent-prototype",
-    "full_name": "deepseek-ai/dsh-superagent-prototype",
-    "description": "Towards a More Autonomous Agent System",
-    "stars": 3500,
-    "language": "TypeScript",
-    "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
   },
   {
     "id": 1438540053,
     "name": "Mika",
     "full_name": "wangzan101/Mika",
     "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "stars": 2918,
+    "stars": 4212,
     "language": "Kotlin",
     "html_url": "https://github.com/wangzan101/Mika"
   },
@@ -40,79 +40,79 @@
     "name": "totk-pc-recomp",
     "full_name": "valentderah/totk-pc-recomp",
     "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
-    "stars": 2705,
+    "stars": 3312,
     "language": "C",
     "html_url": "https://github.com/valentderah/totk-pc-recomp"
-  },
-  {
-    "id": 1438018242,
-    "name": "nvzhuang",
-    "full_name": "paipiange/nvzhuang",
-    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-    "stars": 1761,
-    "language": "Go",
-    "html_url": "https://github.com/paipiange/nvzhuang"
-  },
-  {
-    "id": 1436254894,
-    "name": "print-my-profile-pic",
-    "full_name": "aschmelyun/print-my-profile-pic",
-    "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
-    "stars": 1653,
-    "language": null,
-    "html_url": "https://github.com/aschmelyun/print-my-profile-pic"
   },
   {
     "id": 1439372976,
     "name": "pixelfx",
     "full_name": "patch-gg/pixelfx",
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "stars": 1608,
+    "stars": 2828,
     "language": "JavaScript",
     "html_url": "https://github.com/patch-gg/pixelfx"
-  },
-  {
-    "id": 1433904617,
-    "name": "digital-human-koubo",
-    "full_name": "andyhuo520/digital-human-koubo",
-    "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-    "stars": 1596,
-    "language": "TypeScript",
-    "html_url": "https://github.com/andyhuo520/digital-human-koubo"
-  },
-  {
-    "id": 1437131455,
-    "name": "global-law",
-    "full_name": "lexifina/global-law",
-    "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
-    "stars": 1439,
-    "language": "HTML",
-    "html_url": "https://github.com/lexifina/global-law"
   },
   {
     "id": 1437774066,
     "name": "Eglantine",
     "full_name": "Djihads80/Eglantine",
     "description": "VERY experimental Nintendo Switch 2 emulator",
-    "stars": 1382,
+    "stars": 2076,
     "language": "C++",
     "html_url": "https://github.com/Djihads80/Eglantine"
   },
   {
-    "id": 1434017230,
-    "name": "claude-skill",
-    "full_name": "Motionsites-AI/claude-skill",
-    "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-    "stars": 1308,
-    "language": "Python",
-    "html_url": "https://github.com/Motionsites-AI/claude-skill"
+    "id": 1438018242,
+    "name": "nvzhuang",
+    "full_name": "paipiange/nvzhuang",
+    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "stars": 1925,
+    "language": "Go",
+    "html_url": "https://github.com/paipiange/nvzhuang"
+  },
+  {
+    "id": 1435672472,
+    "name": "floorplan",
+    "full_name": "haydenschmitty/floorplan",
+    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+    "stars": 1871,
+    "language": "JavaScript",
+    "html_url": "https://github.com/haydenschmitty/floorplan"
+  },
+  {
+    "id": 1436254894,
+    "name": "print-my-profile-pic",
+    "full_name": "aschmelyun/print-my-profile-pic",
+    "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+    "stars": 1704,
+    "language": null,
+    "html_url": "https://github.com/aschmelyun/print-my-profile-pic"
+  },
+  {
+    "id": 1437131455,
+    "name": "global-law",
+    "full_name": "lexifina/global-law",
+    "description": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
+    "stars": 1608,
+    "language": "HTML",
+    "html_url": "https://github.com/lexifina/global-law"
+  },
+  {
+    "id": 1440956372,
+    "name": "craft-anything",
+    "full_name": "storytold/craft-anything",
+    "description": "Craft Anything: understand how any software works, and craft your own.",
+    "stars": 1488,
+    "language": "Rust",
+    "html_url": "https://github.com/storytold/craft-anything"
   },
   {
     "id": 1436598075,
     "name": "tongjiang-lab",
     "full_name": "smithjohn78390/tongjiang-lab",
     "description": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-    "stars": 1206,
+    "stars": 1320,
     "language": "HTML",
     "html_url": "https://github.com/smithjohn78390/tongjiang-lab"
   },
@@ -121,62 +121,62 @@
     "name": "florilegium",
     "full_name": "kevinraymond/florilegium",
     "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-    "stars": 1169,
+    "stars": 1306,
     "language": "Lua",
     "html_url": "https://github.com/kevinraymond/florilegium"
-  },
-  {
-    "id": 1434335249,
-    "name": "deepopen-3d-webs",
-    "full_name": "deepopen-com/deepopen-3d-webs",
-    "description": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-    "stars": 1131,
-    "language": "Python",
-    "html_url": "https://github.com/deepopen-com/deepopen-3d-webs"
   },
   {
     "id": 1438326535,
     "name": "RUN",
     "full_name": "BryceYuuu/RUN",
     "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-    "stars": 968,
+    "stars": 1292,
     "language": "Python",
     "html_url": "https://github.com/BryceYuuu/RUN"
   },
   {
-    "id": 1435672472,
-    "name": "floorplan",
-    "full_name": "haydenschmitty/floorplan",
-    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-    "stars": 944,
-    "language": "JavaScript",
-    "html_url": "https://github.com/haydenschmitty/floorplan"
+    "id": 1440160468,
+    "name": "hop",
+    "full_name": "Arjun-Ingole/hop",
+    "description": "Install Linux next to Windows without a USB stick",
+    "stars": 1244,
+    "language": "PowerShell",
+    "html_url": "https://github.com/Arjun-Ingole/hop"
   },
   {
     "id": 1436721854,
     "name": "RuiC-PoseAtlas",
     "full_name": "HRuiCcc/RuiC-PoseAtlas",
     "description": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-    "stars": 876,
+    "stars": 992,
     "language": "JavaScript",
     "html_url": "https://github.com/HRuiCcc/RuiC-PoseAtlas"
   },
   {
-    "id": 1434445560,
-    "name": "openjutsu",
-    "full_name": "D3voz/openjutsu",
-    "description": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
-    "stars": 850,
-    "language": "TypeScript",
-    "html_url": "https://github.com/D3voz/openjutsu"
+    "id": 1439522537,
+    "name": "teardown",
+    "full_name": "elvarofficial/teardown",
+    "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+    "stars": 989,
+    "language": "JavaScript",
+    "html_url": "https://github.com/elvarofficial/teardown"
   },
   {
-    "id": 1434789878,
-    "name": "calender-app-design",
-    "full_name": "kargulstudio/calender-app-design",
-    "description": null,
-    "stars": 835,
-    "language": "TypeScript",
-    "html_url": "https://github.com/kargulstudio/calender-app-design"
+    "id": 1436834115,
+    "name": "open-yoki",
+    "full_name": "jacke-pp/open-yoki",
+    "description": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
+    "stars": 828,
+    "language": "JavaScript",
+    "html_url": "https://github.com/jacke-pp/open-yoki"
+  },
+  {
+    "id": 1438029127,
+    "name": "reanimate",
+    "full_name": "NiazMorshed2007/reanimate",
+    "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
+    "stars": 751,
+    "language": "JavaScript",
+    "html_url": "https://github.com/NiazMorshed2007/reanimate"
   }
 ]
