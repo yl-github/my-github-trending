@@ -4,7 +4,7 @@
     "name": "dsh-superagent-prototype",
     "full_name": "deepseek-ai/dsh-superagent-prototype",
     "description": "Towards a More Autonomous Agent System",
-    "stars": 17326,
+    "stars": 18801,
     "language": "TypeScript",
     "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
   },
@@ -13,79 +13,34 @@
     "name": "craft-anything",
     "full_name": "storytold/craft-anything",
     "description": "Craft Anything: understand how any software works, and craft your own.",
-    "stars": 8987,
+    "stars": 12672,
     "language": "Rust",
     "html_url": "https://github.com/storytold/craft-anything"
-  },
-  {
-    "id": 1438623288,
-    "name": "unslop",
-    "full_name": "heydamir/unslop",
-    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-    "stars": 7680,
-    "language": "JavaScript",
-    "html_url": "https://github.com/heydamir/unslop"
-  },
-  {
-    "id": 1438540053,
-    "name": "Mika",
-    "full_name": "wangzan101/Mika",
-    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-    "stars": 6173,
-    "language": "Kotlin",
-    "html_url": "https://github.com/wangzan101/Mika"
-  },
-  {
-    "id": 1438394948,
-    "name": "totk-pc-recomp",
-    "full_name": "valentderah/totk-pc-recomp",
-    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-    "stars": 4578,
-    "language": "C",
-    "html_url": "https://github.com/valentderah/totk-pc-recomp"
   },
   {
     "id": 1439372976,
     "name": "pixelfx",
     "full_name": "patch-gg/pixelfx",
     "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "stars": 4235,
+    "stars": 4838,
     "language": "JavaScript",
     "html_url": "https://github.com/patch-gg/pixelfx"
   },
   {
-    "id": 1438326535,
-    "name": "RUN",
-    "full_name": "BryceYuuu/RUN",
-    "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-    "stars": 3232,
-    "language": "Python",
-    "html_url": "https://github.com/BryceYuuu/RUN"
-  },
-  {
-    "id": 1437774066,
-    "name": "Eglantine",
-    "full_name": "Djihads80/Eglantine",
-    "description": "VERY experimental Nintendo Switch 2 emulator",
-    "stars": 3131,
-    "language": "C++",
-    "html_url": "https://github.com/Djihads80/Eglantine"
-  },
-  {
-    "id": 1438018242,
-    "name": "nvzhuang",
-    "full_name": "paipiange/nvzhuang",
-    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-    "stars": 2139,
-    "language": "Go",
-    "html_url": "https://github.com/paipiange/nvzhuang"
+    "id": 1443985070,
+    "name": "agent-autoloop",
+    "full_name": "KKKKhazix/agent-autoloop",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "stars": 2758,
+    "language": "TypeScript",
+    "html_url": "https://github.com/KKKKhazix/agent-autoloop"
   },
   {
     "id": 1441272552,
     "name": "NOIR",
     "full_name": "Verlintas/NOIR",
     "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-    "stars": 1820,
+    "stars": 2159,
     "language": "Kotlin",
     "html_url": "https://github.com/Verlintas/NOIR"
   },
@@ -94,7 +49,7 @@
     "name": "teardown",
     "full_name": "elvarofficial/teardown",
     "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-    "stars": 1705,
+    "stars": 1955,
     "language": "JavaScript",
     "html_url": "https://github.com/elvarofficial/teardown"
   },
@@ -103,16 +58,34 @@
     "name": "stack-diagram",
     "full_name": "caru-ini/stack-diagram",
     "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-    "stars": 1607,
+    "stars": 1778,
     "language": "TypeScript",
     "html_url": "https://github.com/caru-ini/stack-diagram"
+  },
+  {
+    "id": 1443759946,
+    "name": "terminal-mac",
+    "full_name": "govijr/terminal-mac",
+    "description": "Entire MacOS running in your terminal.",
+    "stars": 1653,
+    "language": "Swift",
+    "html_url": "https://github.com/govijr/terminal-mac"
+  },
+  {
+    "id": 1441526188,
+    "name": "claude-animated-shorts",
+    "full_name": "mromidev/claude-animated-shorts",
+    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+    "stars": 1560,
+    "language": "TypeScript",
+    "html_url": "https://github.com/mromidev/claude-animated-shorts"
   },
   {
     "id": 1440160468,
     "name": "hop",
     "full_name": "Arjun-Ingole/hop",
     "description": "Install Linux next to Windows without a USB stick",
-    "stars": 1462,
+    "stars": 1515,
     "language": "PowerShell",
     "html_url": "https://github.com/Arjun-Ingole/hop"
   },
@@ -121,62 +94,89 @@
     "name": "florilegium",
     "full_name": "kevinraymond/florilegium",
     "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-    "stars": 1414,
-    "language": "Lua",
+    "stars": 1427,
+    "language": "TeX",
     "html_url": "https://github.com/kevinraymond/florilegium"
   },
   {
-    "id": 1438724252,
-    "name": "Pika-H3-Flex",
-    "full_name": "Pika-Labs/Pika-H3-Flex",
-    "description": "Pika H3 Flex: video and audio generation inference",
-    "stars": 1380,
-    "language": "Python",
-    "html_url": "https://github.com/Pika-Labs/Pika-H3-Flex"
+    "id": 1441521221,
+    "name": "cicada",
+    "full_name": "wquguru/cicada",
+    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+    "stars": 1256,
+    "language": "Swift",
+    "html_url": "https://github.com/wquguru/cicada"
   },
   {
-    "id": 1441526188,
-    "name": "claude-animated-shorts",
-    "full_name": "mromidev/claude-animated-shorts",
-    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-    "stars": 1282,
+    "id": 1440927503,
+    "name": "Lichii",
+    "full_name": "zortos293/Lichii",
+    "description": "VERY experimental Nintendo Switch 2 emulator",
+    "stars": 1003,
+    "language": "C++",
+    "html_url": "https://github.com/zortos293/Lichii"
+  },
+  {
+    "id": 1445802355,
+    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "stars": 952,
+    "language": "Python",
+    "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+  },
+  {
+    "id": 1439885901,
+    "name": "sapper-v2",
+    "full_name": "N1nEmAn/sapper-v2",
+    "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+    "stars": 938,
+    "language": "Python",
+    "html_url": "https://github.com/N1nEmAn/sapper-v2"
+  },
+  {
+    "id": 1444372497,
+    "name": "HGhub",
+    "full_name": "Minireel/HGhub",
+    "description": "YellowFruit third-party client",
+    "stars": 875,
     "language": "TypeScript",
-    "html_url": "https://github.com/mromidev/claude-animated-shorts"
+    "html_url": "https://github.com/Minireel/HGhub"
   },
   {
-    "id": 1438029127,
-    "name": "reanimate",
-    "full_name": "NiazMorshed2007/reanimate",
-    "description": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
-    "stars": 1115,
-    "language": "JavaScript",
-    "html_url": "https://github.com/NiazMorshed2007/reanimate"
+    "id": 1440151033,
+    "name": "FlashProve",
+    "full_name": "anthropics/FlashProve",
+    "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+    "stars": 842,
+    "language": "Lean",
+    "html_url": "https://github.com/anthropics/FlashProve"
   },
   {
-    "id": 1443985070,
-    "name": "agent-autoloop",
-    "full_name": "KKKKhazix/agent-autoloop",
-    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "stars": 1017,
-    "language": "TypeScript",
-    "html_url": "https://github.com/KKKKhazix/agent-autoloop"
-  },
-  {
-    "id": 1438732649,
-    "name": "HairDeck",
-    "full_name": "hyz317/HairDeck",
-    "description": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-    "stars": 786,
+    "id": 1442356805,
+    "name": "steam-stash-value-report-card",
+    "full_name": "AssassinCreator/steam-stash-value-report-card",
+    "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+    "stars": 763,
     "language": "Python",
-    "html_url": "https://github.com/hyz317/HairDeck"
+    "html_url": "https://github.com/AssassinCreator/steam-stash-value-report-card"
   },
   {
-    "id": 1437936317,
-    "name": "lm_understand-logs",
-    "full_name": "RikiyaT/lm_understand-logs",
-    "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-    "stars": 779,
-    "language": "Python",
-    "html_url": "https://github.com/RikiyaT/lm_understand-logs"
+    "id": 1441897000,
+    "name": "quiet-md",
+    "full_name": "s1dashu/quiet-md",
+    "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
+    "stars": 742,
+    "language": "Rust",
+    "html_url": "https://github.com/s1dashu/quiet-md"
+  },
+  {
+    "id": 1440406663,
+    "name": "subvox",
+    "full_name": "joeblau/subvox",
+    "description": null,
+    "stars": 732,
+    "language": "Swift",
+    "html_url": "https://github.com/joeblau/subvox"
   }
 ]
