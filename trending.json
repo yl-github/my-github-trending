@@ -4,7 +4,7 @@
     "name": "dsh-superagent-prototype",
     "full_name": "deepseek-ai/dsh-superagent-prototype",
     "description": "Towards a More Autonomous Agent System",
-    "stars": 18801,
+    "stars": 19710,
     "language": "TypeScript",
     "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype"
   },
@@ -13,170 +13,170 @@
     "name": "craft-anything",
     "full_name": "storytold/craft-anything",
     "description": "Craft Anything: understand how any software works, and craft your own.",
-    "stars": 12672,
+    "stars": 15717,
     "language": "Rust",
     "html_url": "https://github.com/storytold/craft-anything"
-  },
-  {
-    "id": 1439372976,
-    "name": "pixelfx",
-    "full_name": "patch-gg/pixelfx",
-    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-    "stars": 4838,
-    "language": "JavaScript",
-    "html_url": "https://github.com/patch-gg/pixelfx"
   },
   {
     "id": 1443985070,
     "name": "agent-autoloop",
     "full_name": "KKKKhazix/agent-autoloop",
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "stars": 2758,
+    "stars": 3358,
     "language": "TypeScript",
     "html_url": "https://github.com/KKKKhazix/agent-autoloop"
-  },
-  {
-    "id": 1441272552,
-    "name": "NOIR",
-    "full_name": "Verlintas/NOIR",
-    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-    "stars": 2159,
-    "language": "Kotlin",
-    "html_url": "https://github.com/Verlintas/NOIR"
-  },
-  {
-    "id": 1439522537,
-    "name": "teardown",
-    "full_name": "elvarofficial/teardown",
-    "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-    "stars": 1955,
-    "language": "JavaScript",
-    "html_url": "https://github.com/elvarofficial/teardown"
-  },
-  {
-    "id": 1441517767,
-    "name": "stack-diagram",
-    "full_name": "caru-ini/stack-diagram",
-    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-    "stars": 1778,
-    "language": "TypeScript",
-    "html_url": "https://github.com/caru-ini/stack-diagram"
-  },
-  {
-    "id": 1443759946,
-    "name": "terminal-mac",
-    "full_name": "govijr/terminal-mac",
-    "description": "Entire MacOS running in your terminal.",
-    "stars": 1653,
-    "language": "Swift",
-    "html_url": "https://github.com/govijr/terminal-mac"
-  },
-  {
-    "id": 1441526188,
-    "name": "claude-animated-shorts",
-    "full_name": "mromidev/claude-animated-shorts",
-    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-    "stars": 1560,
-    "language": "TypeScript",
-    "html_url": "https://github.com/mromidev/claude-animated-shorts"
-  },
-  {
-    "id": 1440160468,
-    "name": "hop",
-    "full_name": "Arjun-Ingole/hop",
-    "description": "Install Linux next to Windows without a USB stick",
-    "stars": 1515,
-    "language": "PowerShell",
-    "html_url": "https://github.com/Arjun-Ingole/hop"
-  },
-  {
-    "id": 1439430391,
-    "name": "florilegium",
-    "full_name": "kevinraymond/florilegium",
-    "description": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-    "stars": 1427,
-    "language": "TeX",
-    "html_url": "https://github.com/kevinraymond/florilegium"
-  },
-  {
-    "id": 1441521221,
-    "name": "cicada",
-    "full_name": "wquguru/cicada",
-    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-    "stars": 1256,
-    "language": "Swift",
-    "html_url": "https://github.com/wquguru/cicada"
   },
   {
     "id": 1440927503,
     "name": "Lichii",
     "full_name": "zortos293/Lichii",
     "description": "VERY experimental Nintendo Switch 2 emulator",
-    "stars": 1003,
+    "stars": 2586,
     "language": "C++",
     "html_url": "https://github.com/zortos293/Lichii"
+  },
+  {
+    "id": 1441272552,
+    "name": "NOIR",
+    "full_name": "Verlintas/NOIR",
+    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+    "stars": 2572,
+    "language": "Kotlin",
+    "html_url": "https://github.com/Verlintas/NOIR"
   },
   {
     "id": 1445802355,
     "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 952,
+    "stars": 2546,
     "language": "Python",
     "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
   },
   {
-    "id": 1439885901,
-    "name": "sapper-v2",
-    "full_name": "N1nEmAn/sapper-v2",
-    "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
-    "stars": 938,
-    "language": "Python",
-    "html_url": "https://github.com/N1nEmAn/sapper-v2"
+    "id": 1443759946,
+    "name": "terminal-mac",
+    "full_name": "govijr/terminal-mac",
+    "description": "Entire MacOS running in your terminal.",
+    "stars": 1990,
+    "language": "Swift",
+    "html_url": "https://github.com/govijr/terminal-mac"
+  },
+  {
+    "id": 1441517767,
+    "name": "stack-diagram",
+    "full_name": "caru-ini/stack-diagram",
+    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "stars": 1880,
+    "language": "TypeScript",
+    "html_url": "https://github.com/caru-ini/stack-diagram"
+  },
+  {
+    "id": 1441526188,
+    "name": "claude-animated-shorts",
+    "full_name": "mromidev/claude-animated-shorts",
+    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+    "stars": 1826,
+    "language": "TypeScript",
+    "html_url": "https://github.com/mromidev/claude-animated-shorts"
+  },
+  {
+    "id": 1441521221,
+    "name": "cicada",
+    "full_name": "wquguru/cicada",
+    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+    "stars": 1510,
+    "language": "Swift",
+    "html_url": "https://github.com/wquguru/cicada"
   },
   {
     "id": 1444372497,
     "name": "HGhub",
     "full_name": "Minireel/HGhub",
     "description": "YellowFruit third-party client",
-    "stars": 875,
+    "stars": 1255,
     "language": "TypeScript",
     "html_url": "https://github.com/Minireel/HGhub"
   },
   {
-    "id": 1440151033,
-    "name": "FlashProve",
-    "full_name": "anthropics/FlashProve",
-    "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
-    "stars": 842,
-    "language": "Lean",
-    "html_url": "https://github.com/anthropics/FlashProve"
+    "id": 1441897000,
+    "name": "quiet-md",
+    "full_name": "s1dashu/quiet-md",
+    "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
+    "stars": 1103,
+    "language": "Rust",
+    "html_url": "https://github.com/s1dashu/quiet-md"
+  },
+  {
+    "id": 1442223451,
+    "name": "uncensored-ai-api",
+    "full_name": "UncensoredLabs/uncensored-ai-api",
+    "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+    "stars": 888,
+    "language": "JavaScript",
+    "html_url": "https://github.com/UncensoredLabs/uncensored-ai-api"
+  },
+  {
+    "id": 1444635695,
+    "name": "muse4ai",
+    "full_name": "andrew-babo/muse4ai",
+    "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+    "stars": 849,
+    "language": "TypeScript",
+    "html_url": "https://github.com/andrew-babo/muse4ai"
   },
   {
     "id": 1442356805,
     "name": "steam-stash-value-report-card",
     "full_name": "AssassinCreator/steam-stash-value-report-card",
     "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-    "stars": 763,
+    "stars": 819,
     "language": "Python",
     "html_url": "https://github.com/AssassinCreator/steam-stash-value-report-card"
-  },
-  {
-    "id": 1441897000,
-    "name": "quiet-md",
-    "full_name": "s1dashu/quiet-md",
-    "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML. 高性能本地笔记，兼容飞书文档格式。",
-    "stars": 742,
-    "language": "Rust",
-    "html_url": "https://github.com/s1dashu/quiet-md"
   },
   {
     "id": 1440406663,
     "name": "subvox",
     "full_name": "joeblau/subvox",
     "description": null,
-    "stars": 732,
+    "stars": 750,
     "language": "Swift",
     "html_url": "https://github.com/joeblau/subvox"
+  },
+  {
+    "id": 1441494479,
+    "name": "dsh-jailbreak-workflow",
+    "full_name": "Minglink/dsh-jailbreak-workflow",
+    "description": "DSH 破甲词制作作工作流 ",
+    "stars": 690,
+    "language": "TypeScript",
+    "html_url": "https://github.com/Minglink/dsh-jailbreak-workflow"
+  },
+  {
+    "id": 1444569395,
+    "name": "personal-data-deletor-osint",
+    "full_name": "brightsongwrath/personal-data-deletor-osint",
+    "description": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
+    "stars": 650,
+    "language": "JavaScript",
+    "html_url": "https://github.com/brightsongwrath/personal-data-deletor-osint"
+  },
+  {
+    "id": 1441817527,
+    "name": "jianxunyun",
+    "full_name": "jxy333967/jianxunyun",
+    "description": "简讯云  最好的vpn服务",
+    "stars": 619,
+    "language": null,
+    "html_url": "https://github.com/jxy333967/jianxunyun"
+  },
+  {
+    "id": 1441849727,
+    "name": "CivSwitch",
+    "full_name": "Gezine/CivSwitch",
+    "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+    "stars": 618,
+    "language": "JavaScript",
+    "html_url": "https://github.com/Gezine/CivSwitch"
   }
 ]
