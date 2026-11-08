@@ -4,7 +4,7 @@
     "name": "agent-autoloop",
     "full_name": "KKKKhazix/agent-autoloop",
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "stars": 3741,
+    "stars": 3988,
     "language": "TypeScript",
     "html_url": "https://github.com/KKKKhazix/agent-autoloop"
   },
@@ -13,70 +13,43 @@
     "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
     "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
     "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 2922,
+    "stars": 3074,
     "language": "Python",
     "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
-  },
-  {
-    "id": 1443759946,
-    "name": "terminal-mac",
-    "full_name": "govijr/terminal-mac",
-    "description": "Entire MacOS running in your terminal.",
-    "stars": 2171,
-    "language": "Swift",
-    "html_url": "https://github.com/govijr/terminal-mac"
-  },
-  {
-    "id": 1441526188,
-    "name": "claude-animated-shorts",
-    "full_name": "mromidev/claude-animated-shorts",
-    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-    "stars": 2050,
-    "language": "TypeScript",
-    "html_url": "https://github.com/mromidev/claude-animated-shorts"
-  },
-  {
-    "id": 1441517767,
-    "name": "stack-diagram",
-    "full_name": "caru-ini/stack-diagram",
-    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
-    "stars": 1980,
-    "language": "TypeScript",
-    "html_url": "https://github.com/caru-ini/stack-diagram"
   },
   {
     "id": 1444372497,
     "name": "HGhub",
     "full_name": "Minireel/HGhub",
     "description": "YellowFruit third-party client",
-    "stars": 1789,
+    "stars": 2438,
     "language": "TypeScript",
     "html_url": "https://github.com/Minireel/HGhub"
   },
   {
-    "id": 1441521221,
-    "name": "cicada",
-    "full_name": "wquguru/cicada",
-    "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-    "stars": 1568,
+    "id": 1443759946,
+    "name": "terminal-mac",
+    "full_name": "govijr/terminal-mac",
+    "description": "Entire MacOS running in your terminal.",
+    "stars": 2272,
     "language": "Swift",
-    "html_url": "https://github.com/wquguru/cicada"
+    "html_url": "https://github.com/govijr/terminal-mac"
   },
   {
-    "id": 1441897000,
-    "name": "quiet-md",
-    "full_name": "s1dashu/quiet-md",
-    "description": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
-    "stars": 1194,
-    "language": "Rust",
-    "html_url": "https://github.com/s1dashu/quiet-md"
+    "id": 1446962520,
+    "name": "Hookshot",
+    "full_name": "NotRexed/Hookshot",
+    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+    "stars": 2024,
+    "language": "C++",
+    "html_url": "https://github.com/NotRexed/Hookshot"
   },
   {
     "id": 1448068371,
     "name": "sheeridVerify",
     "full_name": "JenkinWoo/sheeridVerify",
     "description": null,
-    "stars": 1013,
+    "stars": 1734,
     "language": "JavaScript",
     "html_url": "https://github.com/JenkinWoo/sheeridVerify"
   },
@@ -85,7 +58,7 @@
     "name": "player",
     "full_name": "livliv-dev/player",
     "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-    "stars": 986,
+    "stars": 1240,
     "language": "TypeScript",
     "html_url": "https://github.com/livliv-dev/player"
   },
@@ -94,7 +67,7 @@
     "name": "google-pro-helper",
     "full_name": "mmdoctor/google-pro-helper",
     "description": null,
-    "stars": 943,
+    "stars": 1157,
     "language": "Python",
     "html_url": "https://github.com/mmdoctor/google-pro-helper"
   },
@@ -103,80 +76,107 @@
     "name": "sand3d",
     "full_name": "Sandflow-ai/sand3d",
     "description": "3D modeling in Python, built for LLMs.",
-    "stars": 832,
+    "stars": 1085,
     "language": "HTML",
     "html_url": "https://github.com/Sandflow-ai/sand3d"
-  },
-  {
-    "id": 1442356805,
-    "name": "steam-stash-value-report-card",
-    "full_name": "AssassinCreator/steam-stash-value-report-card",
-    "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-    "stars": 786,
-    "language": "Python",
-    "html_url": "https://github.com/AssassinCreator/steam-stash-value-report-card"
-  },
-  {
-    "id": 1441959881,
-    "name": "StudyOnTV",
-    "full_name": "chadyi/StudyOnTV",
-    "description": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions from the LAN. Learn first. Watch later.",
-    "stars": 734,
-    "language": "Kotlin",
-    "html_url": "https://github.com/chadyi/StudyOnTV"
-  },
-  {
-    "id": 1441494479,
-    "name": "dsh-jailbreak-workflow",
-    "full_name": "Minglink/dsh-jailbreak-workflow",
-    "description": "DSH 破甲词制作作工作流 ",
-    "stars": 719,
-    "language": "TypeScript",
-    "html_url": "https://github.com/Minglink/dsh-jailbreak-workflow"
-  },
-  {
-    "id": 1441849727,
-    "name": "CivSwitch",
-    "full_name": "Gezine/CivSwitch",
-    "description": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
-    "stars": 635,
-    "language": "JavaScript",
-    "html_url": "https://github.com/Gezine/CivSwitch"
-  },
-  {
-    "id": 1443186633,
-    "name": "kiri",
-    "full_name": "libracoder/kiri",
-    "description": "A small, fast container runtime for macOS, Windows and Linux",
-    "stars": 579,
-    "language": "Rust",
-    "html_url": "https://github.com/libracoder/kiri"
-  },
-  {
-    "id": 1446515117,
-    "name": "pixel-gif-sticker-pack",
-    "full_name": "WoYun520/pixel-gif-sticker-pack",
-    "description": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
-    "stars": 568,
-    "language": "Python",
-    "html_url": "https://github.com/WoYun520/pixel-gif-sticker-pack"
-  },
-  {
-    "id": 1441507782,
-    "name": "looseleaf",
-    "full_name": "kevintngo/looseleaf",
-    "description": "shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry.",
-    "stars": 521,
-    "language": "TypeScript",
-    "html_url": "https://github.com/kevintngo/looseleaf"
   },
   {
     "id": 1444112593,
     "name": "cinecode",
     "full_name": "sarpstar/cinecode",
     "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-    "stars": 493,
+    "stars": 972,
     "language": "Python",
     "html_url": "https://github.com/sarpstar/cinecode"
+  },
+  {
+    "id": 1443186633,
+    "name": "kiri",
+    "full_name": "libracoder/kiri",
+    "description": "A small, fast container runtime for macOS, Windows and Linux",
+    "stars": 927,
+    "language": "Rust",
+    "html_url": "https://github.com/libracoder/kiri"
+  },
+  {
+    "id": 1447586025,
+    "name": "vork",
+    "full_name": "voyager-so/vork",
+    "description": "Headless 3D and VFX engine for agents. Research preview.",
+    "stars": 925,
+    "language": "Rust",
+    "html_url": "https://github.com/voyager-so/vork"
+  },
+  {
+    "id": 1443699236,
+    "name": "gjgjxweb",
+    "full_name": "CzJam/gjgjxweb",
+    "description": "《搞机工具箱》Web移植版",
+    "stars": 843,
+    "language": "HTML",
+    "html_url": "https://github.com/CzJam/gjgjxweb"
+  },
+  {
+    "id": 1448807268,
+    "name": "ocarina-recomp",
+    "full_name": "sostenesfreitas/ocarina-recomp",
+    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+    "stars": 830,
+    "language": "C",
+    "html_url": "https://github.com/sostenesfreitas/ocarina-recomp"
+  },
+  {
+    "id": 1445695976,
+    "name": "mygo-music",
+    "full_name": "egoist/mygo-music",
+    "description": "A native music player you extend with plugins",
+    "stars": 828,
+    "language": "Go",
+    "html_url": "https://github.com/egoist/mygo-music"
+  },
+  {
+    "id": 1442375804,
+    "name": "Henge",
+    "full_name": "Leviidev/Henge",
+    "description": "Emulate macOS on iOS and iPadOS",
+    "stars": 826,
+    "language": "C",
+    "html_url": "https://github.com/Leviidev/Henge"
+  },
+  {
+    "id": 1442356805,
+    "name": "steam-stash-value-report-card",
+    "full_name": "AssassinCreator/steam-stash-value-report-card",
+    "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+    "stars": 791,
+    "language": "Python",
+    "html_url": "https://github.com/AssassinCreator/steam-stash-value-report-card"
+  },
+  {
+    "id": 1446515117,
+    "name": "gif-factory",
+    "full_name": "WoYun520/gif-factory",
+    "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+    "stars": 631,
+    "language": "Python",
+    "html_url": "https://github.com/WoYun520/gif-factory"
+  },
+  {
+    "id": 1443650212,
+    "name": "gputaskman",
+    "full_name": "shanselman/gputaskman",
+    "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+    "stars": 558,
+    "language": "Python",
+    "html_url": "https://github.com/shanselman/gputaskman"
+  },
+  {
+    "id": 1449518822,
+    "name": "satmux",
+    "full_name": "Th0rgal/satmux",
+    "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+    "stars": 549,
+    "language": "Python",
+    "html_url": "https://github.com/Th0rgal/satmux"
   }
 ]
