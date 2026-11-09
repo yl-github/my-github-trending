@@ -4,179 +4,179 @@
     "name": "agent-autoloop",
     "full_name": "KKKKhazix/agent-autoloop",
     "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-    "stars": 3988,
+    "stars": 4158,
     "language": "TypeScript",
     "html_url": "https://github.com/KKKKhazix/agent-autoloop"
-  },
-  {
-    "id": 1445802355,
-    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
-    "stars": 3074,
-    "language": "Python",
-    "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
   },
   {
     "id": 1444372497,
     "name": "HGhub",
     "full_name": "Minireel/HGhub",
     "description": "YellowFruit third-party client",
-    "stars": 2438,
+    "stars": 3773,
     "language": "TypeScript",
     "html_url": "https://github.com/Minireel/HGhub"
-  },
-  {
-    "id": 1443759946,
-    "name": "terminal-mac",
-    "full_name": "govijr/terminal-mac",
-    "description": "Entire MacOS running in your terminal.",
-    "stars": 2272,
-    "language": "Swift",
-    "html_url": "https://github.com/govijr/terminal-mac"
   },
   {
     "id": 1446962520,
     "name": "Hookshot",
     "full_name": "NotRexed/Hookshot",
     "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-    "stars": 2024,
+    "stars": 3321,
     "language": "C++",
     "html_url": "https://github.com/NotRexed/Hookshot"
+  },
+  {
+    "id": 1445802355,
+    "name": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "full_name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "stars": 3284,
+    "language": "Python",
+    "html_url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto"
+  },
+  {
+    "id": 1443759946,
+    "name": "terminal-mac",
+    "full_name": "govijr/terminal-mac",
+    "description": "Entire MacOS running in your terminal.",
+    "stars": 2417,
+    "language": "Swift",
+    "html_url": "https://github.com/govijr/terminal-mac"
   },
   {
     "id": 1448068371,
     "name": "sheeridVerify",
     "full_name": "JenkinWoo/sheeridVerify",
     "description": null,
-    "stars": 1734,
+    "stars": 1880,
     "language": "JavaScript",
     "html_url": "https://github.com/JenkinWoo/sheeridVerify"
-  },
-  {
-    "id": 1445112696,
-    "name": "player",
-    "full_name": "livliv-dev/player",
-    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-    "stars": 1240,
-    "language": "TypeScript",
-    "html_url": "https://github.com/livliv-dev/player"
-  },
-  {
-    "id": 1446548114,
-    "name": "google-pro-helper",
-    "full_name": "mmdoctor/google-pro-helper",
-    "description": null,
-    "stars": 1157,
-    "language": "Python",
-    "html_url": "https://github.com/mmdoctor/google-pro-helper"
-  },
-  {
-    "id": 1444005452,
-    "name": "sand3d",
-    "full_name": "Sandflow-ai/sand3d",
-    "description": "3D modeling in Python, built for LLMs.",
-    "stars": 1085,
-    "language": "HTML",
-    "html_url": "https://github.com/Sandflow-ai/sand3d"
   },
   {
     "id": 1444112593,
     "name": "cinecode",
     "full_name": "sarpstar/cinecode",
     "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-    "stars": 972,
+    "stars": 1645,
     "language": "Python",
     "html_url": "https://github.com/sarpstar/cinecode"
   },
   {
-    "id": 1443186633,
-    "name": "kiri",
-    "full_name": "libracoder/kiri",
-    "description": "A small, fast container runtime for macOS, Windows and Linux",
-    "stars": 927,
-    "language": "Rust",
-    "html_url": "https://github.com/libracoder/kiri"
+    "id": 1449231124,
+    "name": "NX2navi",
+    "full_name": "tangerineturtle1/NX2navi",
+    "description": null,
+    "stars": 1479,
+    "language": "C",
+    "html_url": "https://github.com/tangerineturtle1/NX2navi"
   },
   {
-    "id": 1447586025,
-    "name": "vork",
-    "full_name": "voyager-so/vork",
-    "description": "Headless 3D and VFX engine for agents. Research preview.",
-    "stars": 925,
-    "language": "Rust",
-    "html_url": "https://github.com/voyager-so/vork"
+    "id": 1444005452,
+    "name": "sand3d",
+    "full_name": "Sandflow-ai/sand3d",
+    "description": "3D modeling in Python, built for LLMs.",
+    "stars": 1460,
+    "language": "HTML",
+    "html_url": "https://github.com/Sandflow-ai/sand3d"
+  },
+  {
+    "id": 1445112696,
+    "name": "player",
+    "full_name": "livliv-dev/player",
+    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+    "stars": 1348,
+    "language": "TypeScript",
+    "html_url": "https://github.com/livliv-dev/player"
   },
   {
     "id": 1443699236,
     "name": "gjgjxweb",
     "full_name": "CzJam/gjgjxweb",
     "description": "《搞机工具箱》Web移植版",
-    "stars": 843,
+    "stars": 1287,
     "language": "HTML",
     "html_url": "https://github.com/CzJam/gjgjxweb"
   },
   {
-    "id": 1448807268,
-    "name": "ocarina-recomp",
-    "full_name": "sostenesfreitas/ocarina-recomp",
-    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
-    "stars": 830,
-    "language": "C",
-    "html_url": "https://github.com/sostenesfreitas/ocarina-recomp"
-  },
-  {
-    "id": 1445695976,
-    "name": "mygo-music",
-    "full_name": "egoist/mygo-music",
-    "description": "A native music player you extend with plugins",
-    "stars": 828,
-    "language": "Go",
-    "html_url": "https://github.com/egoist/mygo-music"
-  },
-  {
-    "id": 1442375804,
-    "name": "Henge",
-    "full_name": "Leviidev/Henge",
-    "description": "Emulate macOS on iOS and iPadOS",
-    "stars": 826,
-    "language": "C",
-    "html_url": "https://github.com/Leviidev/Henge"
-  },
-  {
-    "id": 1442356805,
-    "name": "steam-stash-value-report-card",
-    "full_name": "AssassinCreator/steam-stash-value-report-card",
-    "description": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-    "stars": 791,
+    "id": 1446548114,
+    "name": "google-pro-helper",
+    "full_name": "mmdoctor/google-pro-helper",
+    "description": null,
+    "stars": 1262,
     "language": "Python",
-    "html_url": "https://github.com/AssassinCreator/steam-stash-value-report-card"
+    "html_url": "https://github.com/mmdoctor/google-pro-helper"
   },
   {
-    "id": 1446515117,
-    "name": "gif-factory",
-    "full_name": "WoYun520/gif-factory",
-    "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-    "stars": 631,
-    "language": "Python",
-    "html_url": "https://github.com/WoYun520/gif-factory"
+    "id": 1447586025,
+    "name": "vork",
+    "full_name": "voyager-so/vork",
+    "description": "Headless 3D and VFX engine for agents. Research preview.",
+    "stars": 1166,
+    "language": "Rust",
+    "html_url": "https://github.com/voyager-so/vork"
   },
   {
     "id": 1443650212,
     "name": "gputaskman",
     "full_name": "shanselman/gputaskman",
     "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-    "stars": 558,
+    "stars": 1135,
     "language": "Python",
     "html_url": "https://github.com/shanselman/gputaskman"
+  },
+  {
+    "id": 1445695976,
+    "name": "mygo-music",
+    "full_name": "egoist/mygo-music",
+    "description": "A native music player you extend with plugins",
+    "stars": 1021,
+    "language": "Go",
+    "html_url": "https://github.com/egoist/mygo-music"
+  },
+  {
+    "id": 1448515937,
+    "name": "pinky",
+    "full_name": "DIYgod/pinky",
+    "description": "Let AI agents use your phone, with you in the loop.",
+    "stars": 1004,
+    "language": "Go",
+    "html_url": "https://github.com/DIYgod/pinky"
+  },
+  {
+    "id": 1448807268,
+    "name": "ocarina-recomp",
+    "full_name": "sostenesfreitas/ocarina-recomp",
+    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+    "stars": 990,
+    "language": "C",
+    "html_url": "https://github.com/sostenesfreitas/ocarina-recomp"
   },
   {
     "id": 1449518822,
     "name": "satmux",
     "full_name": "Th0rgal/satmux",
     "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-    "stars": 549,
+    "stars": 962,
     "language": "Python",
     "html_url": "https://github.com/Th0rgal/satmux"
+  },
+  {
+    "id": 1446515117,
+    "name": "gif-factory",
+    "full_name": "WoYun520/gif-factory",
+    "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+    "stars": 908,
+    "language": "Python",
+    "html_url": "https://github.com/WoYun520/gif-factory"
+  },
+  {
+    "id": 1447227957,
+    "name": "ram-altman",
+    "full_name": "IainKay/ram-altman",
+    "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+    "stars": 835,
+    "language": "Shell",
+    "html_url": "https://github.com/IainKay/ram-altman"
   }
 ]
