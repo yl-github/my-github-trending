@@ -4,7 +4,7 @@
     "name": "Hookshot",
     "full_name": "NotRexed/Hookshot",
     "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-    "stars": 5406,
+    "stars": 6766,
     "language": "C++",
     "html_url": "https://github.com/NotRexed/Hookshot"
   },
@@ -13,7 +13,7 @@
     "name": "GestaltX",
     "full_name": "huamidev/GestaltX",
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-    "stars": 2855,
+    "stars": 5252,
     "language": "Swift",
     "html_url": "https://github.com/huamidev/GestaltX"
   },
@@ -22,7 +22,7 @@
     "name": "NX2navi",
     "full_name": "tangerineturtle1/NX2navi",
     "description": null,
-    "stars": 2518,
+    "stars": 2941,
     "language": "C",
     "html_url": "https://github.com/tangerineturtle1/NX2navi"
   },
@@ -31,7 +31,7 @@
     "name": "S2Arm",
     "full_name": "jhaizhou-ops/S2Arm",
     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
-    "stars": 2069,
+    "stars": 2450,
     "language": "C#",
     "html_url": "https://github.com/jhaizhou-ops/S2Arm"
   },
@@ -40,97 +40,88 @@
     "name": "sheeridVerify",
     "full_name": "JenkinWoo/sheeridVerify",
     "description": null,
-    "stars": 1956,
+    "stars": 2013,
     "language": "JavaScript",
     "html_url": "https://github.com/JenkinWoo/sheeridVerify"
-  },
-  {
-    "id": 1448515937,
-    "name": "pinky",
-    "full_name": "DIYgod/pinky",
-    "description": "Let AI agents use your phone, with you in the loop.",
-    "stars": 1518,
-    "language": "Go",
-    "html_url": "https://github.com/DIYgod/pinky"
   },
   {
     "id": 1447227957,
     "name": "ram-altman",
     "full_name": "IainKay/ram-altman",
     "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-    "stars": 1505,
+    "stars": 1833,
     "language": "Shell",
     "html_url": "https://github.com/IainKay/ram-altman"
-  },
-  {
-    "id": 1446548114,
-    "name": "google-pro-helper",
-    "full_name": "mmdoctor/google-pro-helper",
-    "description": null,
-    "stars": 1484,
-    "language": "Python",
-    "html_url": "https://github.com/mmdoctor/google-pro-helper"
-  },
-  {
-    "id": 1445112696,
-    "name": "player",
-    "full_name": "livliv-dev/player",
-    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-    "stars": 1419,
-    "language": "TypeScript",
-    "html_url": "https://github.com/livliv-dev/player"
   },
   {
     "id": 1447408881,
     "name": "chimera-vocal-synth",
     "full_name": "jamesondh/chimera-vocal-synth",
     "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-    "stars": 1311,
+    "stars": 1747,
     "language": "Rust",
     "html_url": "https://github.com/jamesondh/chimera-vocal-synth"
+  },
+  {
+    "id": 1448515937,
+    "name": "pinky",
+    "full_name": "DIYgod/pinky",
+    "description": "Let AI agents use your phone, with you in the loop.",
+    "stars": 1738,
+    "language": "Go",
+    "html_url": "https://github.com/DIYgod/pinky"
+  },
+  {
+    "id": 1446548114,
+    "name": "google-pro-helper",
+    "full_name": "mmdoctor/google-pro-helper",
+    "description": null,
+    "stars": 1664,
+    "language": "Python",
+    "html_url": "https://github.com/mmdoctor/google-pro-helper"
   },
   {
     "id": 1447586025,
     "name": "vork",
     "full_name": "voyager-so/vork",
     "description": "Headless 3D and VFX engine for agents. Research preview.",
-    "stars": 1311,
+    "stars": 1364,
     "language": "Rust",
     "html_url": "https://github.com/voyager-so/vork"
   },
   {
-    "id": 1445695976,
-    "name": "mygo-music",
-    "full_name": "egoist/mygo-music",
-    "description": "A native music player you extend with plugins",
-    "stars": 1141,
-    "language": "Go",
-    "html_url": "https://github.com/egoist/mygo-music"
-  },
-  {
-    "id": 1448807268,
-    "name": "ocarina-recomp",
-    "full_name": "sostenesfreitas/ocarina-recomp",
-    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
-    "stars": 1069,
-    "language": "C",
-    "html_url": "https://github.com/sostenesfreitas/ocarina-recomp"
+    "id": 1452123445,
+    "name": "Erosion-CN",
+    "full_name": "Kianuni/Erosion-CN",
+    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+    "stars": 1191,
+    "language": "Swift",
+    "html_url": "https://github.com/Kianuni/Erosion-CN"
   },
   {
     "id": 1446515117,
     "name": "gif-factory",
     "full_name": "WoYun520/gif-factory",
     "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-    "stars": 1039,
+    "stars": 1102,
     "language": "Python",
     "html_url": "https://github.com/WoYun520/gif-factory"
+  },
+  {
+    "id": 1448807268,
+    "name": "ocarina-recomp",
+    "full_name": "sostenesfreitas/ocarina-recomp",
+    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+    "stars": 1100,
+    "language": "C",
+    "html_url": "https://github.com/sostenesfreitas/ocarina-recomp"
   },
   {
     "id": 1449518822,
     "name": "satmux",
     "full_name": "Th0rgal/satmux",
     "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-    "stars": 1016,
+    "stars": 1035,
     "language": "Python",
     "html_url": "https://github.com/Th0rgal/satmux"
   },
@@ -139,7 +130,7 @@
     "name": "poki",
     "full_name": "JosssphZhou/poki",
     "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-    "stars": 805,
+    "stars": 937,
     "language": "Swift",
     "html_url": "https://github.com/JosssphZhou/poki"
   },
@@ -148,7 +139,7 @@
     "name": "CUI",
     "full_name": "yappologistic/CUI",
     "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
-    "stars": 761,
+    "stars": 886,
     "language": "C",
     "html_url": "https://github.com/yappologistic/CUI"
   },
@@ -157,26 +148,35 @@
     "name": "boxshelf-beta",
     "full_name": "sassiestrhihno/boxshelf-beta",
     "description": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
-    "stars": 745,
+    "stars": 822,
     "language": null,
     "html_url": "https://github.com/sassiestrhihno/boxshelf-beta"
   },
   {
-    "id": 1446569267,
-    "name": "watson-username-footprint-finder",
-    "full_name": "AtomIllusionistDwell/watson-username-footprint-finder",
-    "description": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
-    "stars": 701,
-    "language": "TypeScript",
-    "html_url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder"
+    "id": 1448731208,
+    "name": "chief-architect-premier",
+    "full_name": "thiagoaureliomartins-programador/chief-architect-premier",
+    "description": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+    "stars": 775,
+    "language": "Rust",
+    "html_url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier"
   },
   {
-    "id": 1446575402,
-    "name": "hermes-voice",
-    "full_name": "majorminorlabs/hermes-voice",
-    "description": "Talk to a Hermes Agent profile through Home Assistant Assist",
-    "stars": 627,
-    "language": "Python",
-    "html_url": "https://github.com/majorminorlabs/hermes-voice"
+    "id": 1448746973,
+    "name": "ibm-spss-desktop-suite",
+    "full_name": "leanislizarzado/ibm-spss-desktop-suite",
+    "description": "IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration",
+    "stars": 774,
+    "language": "HTML",
+    "html_url": "https://github.com/leanislizarzado/ibm-spss-desktop-suite"
+  },
+  {
+    "id": 1448751207,
+    "name": "metatrader-5-bot",
+    "full_name": "RolandoV3/metatrader-5-bot",
+    "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+    "stars": 774,
+    "language": "TypeScript",
+    "html_url": "https://github.com/RolandoV3/metatrader-5-bot"
   }
 ]
