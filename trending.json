@@ -1,19 +1,10 @@
 [
   {
-    "id": 1446962520,
-    "name": "Hookshot",
-    "full_name": "NotRexed/Hookshot",
-    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-    "stars": 6766,
-    "language": "C++",
-    "html_url": "https://github.com/NotRexed/Hookshot"
-  },
-  {
     "id": 1450963843,
     "name": "GestaltX",
     "full_name": "huamidev/GestaltX",
     "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-    "stars": 5252,
+    "stars": 6494,
     "language": "Swift",
     "html_url": "https://github.com/huamidev/GestaltX"
   },
@@ -22,7 +13,7 @@
     "name": "NX2navi",
     "full_name": "tangerineturtle1/NX2navi",
     "description": null,
-    "stars": 2941,
+    "stars": 3318,
     "language": "C",
     "html_url": "https://github.com/tangerineturtle1/NX2navi"
   },
@@ -31,7 +22,7 @@
     "name": "S2Arm",
     "full_name": "jhaizhou-ops/S2Arm",
     "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
-    "stars": 2450,
+    "stars": 2642,
     "language": "C#",
     "html_url": "https://github.com/jhaizhou-ops/S2Arm"
   },
@@ -40,143 +31,152 @@
     "name": "sheeridVerify",
     "full_name": "JenkinWoo/sheeridVerify",
     "description": null,
-    "stars": 2013,
+    "stars": 2045,
     "language": "JavaScript",
     "html_url": "https://github.com/JenkinWoo/sheeridVerify"
-  },
-  {
-    "id": 1447227957,
-    "name": "ram-altman",
-    "full_name": "IainKay/ram-altman",
-    "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-    "stars": 1833,
-    "language": "Shell",
-    "html_url": "https://github.com/IainKay/ram-altman"
-  },
-  {
-    "id": 1447408881,
-    "name": "chimera-vocal-synth",
-    "full_name": "jamesondh/chimera-vocal-synth",
-    "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-    "stars": 1747,
-    "language": "Rust",
-    "html_url": "https://github.com/jamesondh/chimera-vocal-synth"
   },
   {
     "id": 1448515937,
     "name": "pinky",
     "full_name": "DIYgod/pinky",
     "description": "Let AI agents use your phone, with you in the loop.",
-    "stars": 1738,
+    "stars": 1902,
     "language": "Go",
     "html_url": "https://github.com/DIYgod/pinky"
-  },
-  {
-    "id": 1446548114,
-    "name": "google-pro-helper",
-    "full_name": "mmdoctor/google-pro-helper",
-    "description": null,
-    "stars": 1664,
-    "language": "Python",
-    "html_url": "https://github.com/mmdoctor/google-pro-helper"
-  },
-  {
-    "id": 1447586025,
-    "name": "vork",
-    "full_name": "voyager-so/vork",
-    "description": "Headless 3D and VFX engine for agents. Research preview.",
-    "stars": 1364,
-    "language": "Rust",
-    "html_url": "https://github.com/voyager-so/vork"
   },
   {
     "id": 1452123445,
     "name": "Erosion-CN",
     "full_name": "Kianuni/Erosion-CN",
     "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-    "stars": 1191,
+    "stars": 1625,
     "language": "Swift",
     "html_url": "https://github.com/Kianuni/Erosion-CN"
   },
   {
-    "id": 1446515117,
-    "name": "gif-factory",
-    "full_name": "WoYun520/gif-factory",
-    "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-    "stars": 1102,
-    "language": "Python",
-    "html_url": "https://github.com/WoYun520/gif-factory"
-  },
-  {
-    "id": 1448807268,
-    "name": "ocarina-recomp",
-    "full_name": "sostenesfreitas/ocarina-recomp",
-    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
-    "stars": 1100,
-    "language": "C",
-    "html_url": "https://github.com/sostenesfreitas/ocarina-recomp"
-  },
-  {
-    "id": 1449518822,
-    "name": "satmux",
-    "full_name": "Th0rgal/satmux",
-    "description": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-    "stars": 1035,
-    "language": "Python",
-    "html_url": "https://github.com/Th0rgal/satmux"
-  },
-  {
-    "id": 1447145240,
-    "name": "poki",
-    "full_name": "JosssphZhou/poki",
-    "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-    "stars": 937,
-    "language": "Swift",
-    "html_url": "https://github.com/JosssphZhou/poki"
-  },
-  {
-    "id": 1446725477,
-    "name": "CUI",
-    "full_name": "yappologistic/CUI",
-    "description": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
-    "stars": 886,
-    "language": "C",
-    "html_url": "https://github.com/yappologistic/CUI"
-  },
-  {
-    "id": 1446546399,
-    "name": "boxshelf-beta",
-    "full_name": "sassiestrhihno/boxshelf-beta",
-    "description": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
-    "stars": 822,
-    "language": null,
-    "html_url": "https://github.com/sassiestrhihno/boxshelf-beta"
-  },
-  {
-    "id": 1448731208,
-    "name": "chief-architect-premier",
-    "full_name": "thiagoaureliomartins-programador/chief-architect-premier",
-    "description": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
-    "stars": 775,
-    "language": "Rust",
-    "html_url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier"
-  },
-  {
-    "id": 1448746973,
-    "name": "ibm-spss-desktop-suite",
-    "full_name": "leanislizarzado/ibm-spss-desktop-suite",
-    "description": "IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration",
-    "stars": 774,
+    "id": 1448761997,
+    "name": "secure-pdf-document-processor",
+    "full_name": "mahmoudtawfik1998/secure-pdf-document-processor",
+    "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+    "stars": 1305,
     "language": "HTML",
-    "html_url": "https://github.com/leanislizarzado/ibm-spss-desktop-suite"
+    "html_url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor"
   },
   {
-    "id": 1448751207,
-    "name": "metatrader-5-bot",
-    "full_name": "RolandoV3/metatrader-5-bot",
-    "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
-    "stars": 774,
+    "id": 1448721877,
+    "name": "aida-64-extreme",
+    "full_name": "hembramneeraj3-create/aida-64-extreme",
+    "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+    "stars": 1304,
+    "language": "HTML",
+    "html_url": "https://github.com/hembramneeraj3-create/aida-64-extreme"
+  },
+  {
+    "id": 1448721315,
+    "name": "adobe-substance-3d-studio",
+    "full_name": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+    "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+    "stars": 1304,
+    "language": "HTML",
+    "html_url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio"
+  },
+  {
+    "id": 1448723952,
+    "name": "archicad-desktop-setup",
+    "full_name": "AleRibeiro44/archicad-desktop-setup",
+    "description": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
+    "stars": 1301,
+    "language": "HTML",
+    "html_url": "https://github.com/AleRibeiro44/archicad-desktop-setup"
+  },
+  {
+    "id": 1448724231,
+    "name": "ashampoo-winoptimizer-desktop",
+    "full_name": "Somenicehispanic/ashampoo-winoptimizer-desktop",
+    "description": "Ashampoo WinOptimizer 2026 Standalone Setup with Full Feature Set Enabled",
+    "stars": 1301,
+    "language": "HTML",
+    "html_url": "https://github.com/Somenicehispanic/ashampoo-winoptimizer-desktop"
+  },
+  {
+    "id": 1448727509,
+    "name": "autodesk-inventor-desktop-config",
+    "full_name": "PHISHER420/autodesk-inventor-desktop-config",
+    "description": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
+    "stars": 1300,
+    "language": "HTML",
+    "html_url": "https://github.com/PHISHER420/autodesk-inventor-desktop-config"
+  },
+  {
+    "id": 1448734199,
+    "name": "clion-standalone-enhancement",
+    "full_name": "CodeSouvik/clion-standalone-enhancement",
+    "description": "CLion full installer: complete standalone setup, all features activated",
+    "stars": 1298,
+    "language": "HTML",
+    "html_url": "https://github.com/CodeSouvik/clion-standalone-enhancement"
+  },
+  {
+    "id": 1448735676,
+    "name": "cubase-studio-desktop",
+    "full_name": "sajawal-12/cubase-studio-desktop",
+    "description": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
+    "stars": 1298,
+    "language": "HTML",
+    "html_url": "https://github.com/sajawal-12/cubase-studio-desktop"
+  },
+  {
+    "id": 1448722374,
+    "name": "aion-2-trainer-tool",
+    "full_name": "Arda313131882/aion-2-trainer-tool",
+    "description": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+    "stars": 1296,
+    "language": "HTML",
+    "html_url": "https://github.com/Arda313131882/aion-2-trainer-tool"
+  },
+  {
+    "id": 1448738290,
+    "name": "desktop-backup-suite",
+    "full_name": "ebtsamalhakmy-sketch/desktop-backup-suite",
+    "description": "Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
+    "stars": 1296,
     "language": "TypeScript",
-    "html_url": "https://github.com/RolandoV3/metatrader-5-bot"
+    "html_url": "https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite"
+  },
+  {
+    "id": 1448735964,
+    "name": "daemon-pro-desktop",
+    "full_name": "IsaiaR09/daemon-pro-desktop",
+    "description": "daemon-pro: Complete Standalone Desktop Setup with Full Feature setup",
+    "stars": 1295,
+    "language": "HTML",
+    "html_url": "https://github.com/IsaiaR09/daemon-pro-desktop"
+  },
+  {
+    "id": 1448736961,
+    "name": "delta-executor-toolkit",
+    "full_name": "tss878/delta-executor-toolkit",
+    "description": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+    "stars": 1295,
+    "language": "TypeScript",
+    "html_url": "https://github.com/tss878/delta-executor-toolkit"
+  },
+  {
+    "id": 1448738845,
+    "name": "directory-opus",
+    "full_name": "JasonCharb/directory-opus",
+    "description": "directory-opus: complete standalone desktop setup with all features pre-enabled, ready to run",
+    "stars": 1294,
+    "language": "HTML",
+    "html_url": "https://github.com/JasonCharb/directory-opus"
+  },
+  {
+    "id": 1448736861,
+    "name": "delta-force-trainer-tool",
+    "full_name": "kcgeekedup-hash/delta-force-trainer-tool",
+    "description": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
+    "stars": 1294,
+    "language": "HTML",
+    "html_url": "https://github.com/kcgeekedup-hash/delta-force-trainer-tool"
   }
 ]
